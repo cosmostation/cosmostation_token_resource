@@ -251,7 +251,7 @@
     "denom": "peggy0x3155ba85d5f96b2d030a4966af206230e46849cb",
     "origin_chain": "ethereum",
     "origin_symbol": "RUNE",
-    "display_symbol": "THORChain  ERC20 ",
+    "display_symbol": "THORChain ERC20",
     "decimal": 18,
     "logo": "rune.png"
   },
