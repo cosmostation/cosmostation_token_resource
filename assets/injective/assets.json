@@ -302,5 +302,69 @@
     "display_symbol": "1inch",
     "decimal": 18,
     "logo": "1inch.png"
+  },
+  {
+    "denom": "peggy0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+    "origin_chain": "ethereum",
+    "origin_symbol": "INJ",
+    "display_symbol": "Injective",
+    "decimal": 18,
+    "logo": "inj.png"
+  },
+  {
+    "denom": "peggy0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+    "origin_chain": "ethereum",
+    "origin_symbol": "BNB",
+    "display_symbol": "Binance Coin",
+    "decimal": 18,
+    "logo": "bnb.png"
+  },
+  {
+    "denom": "peggy0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+    "origin_chain": "ethereum",
+    "origin_symbol": "YFI",
+    "display_symbol": "yearn.finance",
+    "decimal": 18,
+    "logo": "yfi.png"
+  },
+  {
+    "denom": "peggy0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "origin_chain": "ethereum",
+    "origin_symbol": "COMP",
+    "display_symbol": "Compound",
+    "decimal": 18,
+    "logo": "comp.png"
+  },
+  {
+    "denom": "peggy0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+    "origin_chain": "ethereum",
+    "origin_symbol": "CELL",
+    "display_symbol": "Cellframe",
+    "decimal": 18,
+    "logo": "cell.png"
+  },
+  {
+    "denom": "peggy0x8D983cb9388EaC77af0474fA441C4815500Cb7BB",
+    "origin_chain": "ethereum",
+    "origin_symbol": "ATOM",
+    "display_symbol": "Cosmos",
+    "decimal": 6,
+    "logo": "atom.png"
+  },
+  {
+    "denom": "peggy0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",
+    "origin_chain": "ethereum",
+    "origin_symbol": "LUNA",
+    "display_symbol": "Terra",
+    "decimal": 6,
+    "logo": "luna.png"
+  },
+  {
+    "denom": "peggy0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+    "origin_chain": "ethereum",
+    "origin_symbol": "UST",
+    "display_symbol": "TerraUSD",
+    "decimal": 6,
+    "logo": "ust.png"
   }
 ]
