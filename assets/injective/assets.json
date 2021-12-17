@@ -344,7 +344,7 @@
     "logo": "cell.png"
   },
   {
-    "denom": "peggy0x8D983cb9388EaC77af0474fA441C4815500Cb7BB",
+    "denom": "peggy0x8d983cb9388eac77af0474fa441c4815500cb7bb",
     "origin_chain": "ethereum",
     "origin_symbol": "ATOM",
     "display_symbol": "Cosmos",
@@ -360,7 +360,7 @@
     "logo": "luna.png"
   },
   {
-    "denom": "peggy0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+    "denom": "peggy0xa47c8bf37f92abed4a126bda807a7b7498661acd",
     "origin_chain": "ethereum",
     "origin_symbol": "UST",
     "display_symbol": "TerraUSD",
