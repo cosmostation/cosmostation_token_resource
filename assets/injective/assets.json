@@ -1,0 +1,370 @@
+[
+  {
+    "denom": "peggy0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41",
+    "origin_chain": "ethereum",
+    "origin_symbol": "DEFI5",
+    "display_symbol": "DEFI Top 5 Index",
+    "decimal": 18,
+    "logo": "defi5.png"
+  },
+  {
+    "denom": "peggy0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
+    "origin_chain": "ethereum",
+    "origin_symbol": "UTK",
+    "display_symbol": "Utrust",
+    "decimal": 18,
+    "logo": "utk.png"
+  },
+  {
+    "denom": "peggy0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "origin_chain": "ethereum",
+    "origin_symbol": "USDT",
+    "display_symbol": "Tether",
+    "decimal": 6,
+    "logo": "usdt.png"
+  },
+  {
+    "denom": "peggy0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "origin_chain": "ethereum",
+    "origin_symbol": "GRT",
+    "display_symbol": "The Graph",
+    "decimal": 18,
+    "logo": "grt.png"
+  },
+  {
+    "denom": "peggy0xc55c2175e90a46602fd42e931f62b3acc1a013ca",
+    "origin_chain": "ethereum",
+    "origin_symbol": "STARS",
+    "display_symbol": "Mogul Productions",
+    "decimal": 18,
+    "logo": "stars.png"
+  },
+  {
+    "denom": "peggy0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+    "origin_chain": "ethereum",
+    "origin_symbol": "CEL",
+    "display_symbol": "Celsius Network",
+    "decimal": 4,
+    "logo": "cel.png"
+  },
+  {
+    "denom": "peggy0xac9bb427953ac7fddc562adca86cf42d988047fd",
+    "origin_chain": "ethereum",
+    "origin_symbol": "STT",
+    "display_symbol": "Scatter cx",
+    "decimal": 18,
+    "logo": "stt.png"
+  },
+  {
+    "denom": "peggy0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca",
+    "origin_chain": "ethereum",
+    "origin_symbol": "NOIA",
+    "display_symbol": "Syntropy",
+    "decimal": 18,
+    "logo": "noia.png"
+  },
+  {
+    "denom": "peggy0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "origin_chain": "ethereum",
+    "origin_symbol": "ENJ",
+    "display_symbol": "Enjin Coin",
+    "decimal": 18,
+    "logo": "enj.png"
+  },
+  {
+    "denom": "peggy0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "origin_chain": "ethereum",
+    "origin_symbol": "ZRX",
+    "display_symbol": "0x",
+    "decimal": 18,
+    "logo": "zrx.png"
+  },
+  {
+    "denom": "peggy0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+    "origin_chain": "ethereum",
+    "origin_symbol": "SWAP",
+    "display_symbol": "Trustswap",
+    "decimal": 18,
+    "logo": "swap.png"
+  },
+  {
+    "denom": "peggy0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "origin_chain": "ethereum",
+    "origin_symbol": "WETH",
+    "display_symbol": "WETH",
+    "decimal": 18,
+    "logo": "weth.png"
+  },
+  {
+    "denom": "peggy0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "origin_chain": "ethereum",
+    "origin_symbol": "SNX",
+    "display_symbol": "Synthetix Network T",
+    "decimal": 18,
+    "logo": "snx.png"
+  },
+  {
+    "denom": "peggy0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+    "origin_chain": "ethereum",
+    "origin_symbol": "AXS",
+    "display_symbol": "Axie Infinity",
+    "decimal": 18,
+    "logo": "axs.png"
+  },
+  {
+    "denom": "peggy0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "origin_chain": "ethereum",
+    "origin_symbol": "NEXO",
+    "display_symbol": "NEXO",
+    "decimal": 18,
+    "logo": "nexo.png"
+  },
+  {
+    "denom": "peggy0xaaef88cea01475125522e117bfe45cf32044e238",
+    "origin_chain": "ethereum",
+    "origin_symbol": "GF",
+    "display_symbol": "GuildFi",
+    "decimal": 18,
+    "logo": "gf.png"
+  },
+  {
+    "denom": "peggy0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "origin_chain": "ethereum",
+    "origin_symbol": "USDC",
+    "display_symbol": "USD Coin",
+    "decimal": 6,
+    "logo": "usdc.png"
+  },
+  {
+    "denom": "peggy0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+    "origin_chain": "ethereum",
+    "origin_symbol": "OCEAN",
+    "display_symbol": "Ocean Protocol",
+    "decimal": 18,
+    "logo": "ocean.png"
+  },
+  {
+    "denom": "peggy0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "origin_chain": "ethereum",
+    "origin_symbol": "SHIB",
+    "display_symbol": "Shiba Inu",
+    "decimal": 18,
+    "logo": "shib.png"
+  },
+  {
+    "denom": "peggy0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "origin_chain": "ethereum",
+    "origin_symbol": "AAVE",
+    "display_symbol": "Aave",
+    "decimal": 18,
+    "logo": "aave.png"
+  },
+  {
+    "denom": "peggy0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+    "origin_chain": "ethereum",
+    "origin_symbol": "MATIC",
+    "display_symbol": "Polygon",
+    "decimal": 18,
+    "logo": "matic.png"
+  },
+  {
+    "denom": "peggy0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+    "origin_chain": "ethereum",
+    "origin_symbol": "HT",
+    "display_symbol": "Huobi Token",
+    "decimal": 18,
+    "logo": "ht.png"
+  },
+  {
+    "denom": "peggy0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+    "origin_chain": "ethereum",
+    "origin_symbol": "SUSHI",
+    "display_symbol": "Sushi",
+    "decimal": 18,
+    "logo": "sushi.png"
+  },
+  {
+    "denom": "peggy0x6b175474e89094c44da98b954eedeac495271d0f",
+    "origin_chain": "ethereum",
+    "origin_symbol": "DAI",
+    "display_symbol": "Dai",
+    "decimal": 18,
+    "logo": "dai.png"
+  },
+  {
+    "denom": "peggy0x514910771af9ca656af840dff83e8264ecf986ca",
+    "origin_chain": "ethereum",
+    "origin_symbol": "LINK",
+    "display_symbol": "Chainlink",
+    "decimal": 18,
+    "logo": "link.png"
+  },
+  {
+    "denom": "peggy0x50f09629d0afdf40398a3f317cc676ca9132055c",
+    "origin_chain": "ethereum",
+    "origin_symbol": "EVAI",
+    "display_symbol": "Evai",
+    "decimal": 8,
+    "logo": "evai.png"
+  },
+  {
+    "denom": "peggy0x4a220e6096b25eadb88358cb44068a3248254675",
+    "origin_chain": "ethereum",
+    "origin_symbol": "QNT",
+    "display_symbol": "Quant",
+    "decimal": 18,
+    "logo": "qnt.png"
+  },
+  {
+    "denom": "peggy0x4fabb145d64652a948d72533023f6e7a623c7c53",
+    "origin_chain": "ethereum",
+    "origin_symbol": "BUSD",
+    "display_symbol": "Binance USD",
+    "decimal": 18,
+    "logo": "busd.png"
+  },
+  {
+    "denom": "peggy0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+    "origin_chain": "ethereum",
+    "origin_symbol": "FTM",
+    "display_symbol": "Fantom",
+    "decimal": 18,
+    "logo": "ftm.png"
+  },
+  {
+    "denom": "peggy0x45804880de22913dafe09f4980848ece6ecbaf78",
+    "origin_chain": "ethereum",
+    "origin_symbol": "PAXG",
+    "display_symbol": "PAX Gold",
+    "decimal": 18,
+    "logo": "paxg.png"
+  },
+  {
+    "denom": "peggy0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+    "origin_chain": "ethereum",
+    "origin_symbol": "CHZ",
+    "display_symbol": "Chiliz",
+    "decimal": 18,
+    "logo": "chz.png"
+  },
+  {
+    "denom": "peggy0x3155ba85d5f96b2d030a4966af206230e46849cb",
+    "origin_chain": "ethereum",
+    "origin_symbol": "RUNE",
+    "display_symbol": "THORChain ERC20",
+    "decimal": 18,
+    "logo": "rune.png"
+  },
+  {
+    "denom": "peggy0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "origin_chain": "ethereum",
+    "origin_symbol": "WBTC",
+    "display_symbol": "Wrapped Bitcoin",
+    "decimal": 8,
+    "logo": "wbtc.png"
+  },
+  {
+    "denom": "peggy0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "origin_chain": "ethereum",
+    "origin_symbol": "UNI",
+    "display_symbol": "Uniswap",
+    "decimal": 18,
+    "logo": "uni.png"
+  },
+  {
+    "denom": "peggy0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+    "origin_chain": "ethereum",
+    "origin_symbol": "UMA",
+    "display_symbol": "UMA",
+    "decimal": 18,
+    "logo": "uma.png"
+  },
+  {
+    "denom": "peggy0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "origin_chain": "ethereum",
+    "origin_symbol": "BAT",
+    "display_symbol": "Basic Attention Tok",
+    "decimal": 18,
+    "logo": "bat.png"
+  },
+  {
+    "denom": "peggy0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+    "origin_chain": "ethereum",
+    "origin_symbol": "POOL",
+    "display_symbol": "PoolTogether",
+    "decimal": 18,
+    "logo": "pool.png"
+  },
+  {
+    "denom": "peggy0x111111111117dc0aa78b770fa6a738034120c302",
+    "origin_chain": "ethereum",
+    "origin_symbol": "1INCH",
+    "display_symbol": "1inch",
+    "decimal": 18,
+    "logo": "1inch.png"
+  },
+  {
+    "denom": "peggy0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+    "origin_chain": "ethereum",
+    "origin_symbol": "INJ",
+    "display_symbol": "Injective",
+    "decimal": 18,
+    "logo": "inj.png"
+  },
+  {
+    "denom": "peggy0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+    "origin_chain": "ethereum",
+    "origin_symbol": "BNB",
+    "display_symbol": "Binance Coin",
+    "decimal": 18,
+    "logo": "bnb.png"
+  },
+  {
+    "denom": "peggy0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+    "origin_chain": "ethereum",
+    "origin_symbol": "YFI",
+    "display_symbol": "yearn.finance",
+    "decimal": 18,
+    "logo": "yfi.png"
+  },
+  {
+    "denom": "peggy0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "origin_chain": "ethereum",
+    "origin_symbol": "COMP",
+    "display_symbol": "Compound",
+    "decimal": 18,
+    "logo": "comp.png"
+  },
+  {
+    "denom": "peggy0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+    "origin_chain": "ethereum",
+    "origin_symbol": "CELL",
+    "display_symbol": "Cellframe",
+    "decimal": 18,
+    "logo": "cell.png"
+  },
+  {
+    "denom": "peggy0x8d983cb9388eac77af0474fa441c4815500cb7bb",
+    "origin_chain": "ethereum",
+    "origin_symbol": "ATOM",
+    "display_symbol": "Cosmos",
+    "decimal": 6,
+    "logo": "atom.png"
+  },
+  {
+    "denom": "peggy0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",
+    "origin_chain": "ethereum",
+    "origin_symbol": "LUNA",
+    "display_symbol": "Terra",
+    "decimal": 6,
+    "logo": "luna.png"
+  },
+  {
+    "denom": "peggy0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+    "origin_chain": "ethereum",
+    "origin_symbol": "UST",
+    "display_symbol": "TerraUSD",
+    "decimal": 6,
+    "logo": "ust.png"
+  }
+]
