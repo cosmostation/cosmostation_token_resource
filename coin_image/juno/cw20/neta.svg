@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="NETA Logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="431.20365"
+     inkscape:cy="528.82265"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2486"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-32.41665)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path8821"
+       d="M 255.07696,165.4872 A 122.2278,122.49507 0 0 1 132.84915,287.98228 122.2278,122.49507 0 0 1 10.621329,165.4872 122.2278,122.49507 0 0 1 132.84915,42.992116 122.2278,122.49507 0 0 1 255.07696,165.4872 Z"
+       style="opacity:1;fill:#f0827d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.83011627;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.36499977;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 250.26609,165.08628 A 117.55059,117.55059 0 0 1 132.7155,282.63687 117.55059,117.55059 0 0 1 15.164904,165.08628 117.55059,117.55059 0 0 1 132.7155,47.535692 117.55059,117.55059 0 0 1 250.26609,165.08628 Z"
+       id="path817"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4.10900021;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 243.63845,164.84632 A 111.02898,110.869 0 0 1 132.60946,275.71532 111.02898,110.869 0 0 1 21.580475,164.84632 111.02898,110.869 0 0 1 132.60946,53.977337 111.02898,110.869 0 0 1 243.63845,164.84632 Z"
+       id="path819"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.4746666px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f0827d;fill-opacity:1;stroke:none;stroke-width:3.7781198"
+       inkscape:connector-curvature="0"
+       id="path8816"
+       d="m 89.802142,215.7195 v -26.0952 l -11.297395,3.52453 v -13.62374 l 11.297395,-3.59232 v -59.57841 h 21.405908 l 29.21022,43.5146 15.38551,-4.88013 v -38.63447 h 20.43976 v 32.12761 l 12.4123,-3.93124 v 13.96263 l -12.4123,3.93125 v 53.27489 h -22.07493 l -25.93989,-38.22779 -17.98682,5.69349 v 32.5343 z m 20.439758,-46.2258 10.33125,-3.32122 -10.33125,-15.25044 z m 45.56188,13.21706 v -13.82709 l -7.72995,2.37231 z" />
+  </g>
+</svg>
