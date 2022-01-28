@@ -6,5 +6,21 @@
     "display_symbol": "WETH",
     "decimal": 18,
     "logo": "weth.png"
+  },
+  {
+    "denom": "gravity0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "origin_chain": "ethereum",
+    "origin_symbol": "USDC",
+    "display_symbol": "USD Coin",
+    "decimal": 6,
+    "logo": "usdc.png"
+  },
+  {
+    "denom": "gravity0x6b175474e89094c44da98b954eedeac495271d0f",
+    "origin_chain": "ethereum",
+    "origin_symbol": "DAI",
+    "display_symbol": "Dai",
+    "decimal": 18,
+    "logo": "dai.png"
   }
 ]
