@@ -55,5 +55,13 @@
     "display_symbol": "stETH",
     "decimal": 18,
     "logo": "steth.png"
+  },
+  {
+    "denom": "gravity0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
+    "origin_chain": "ethereum",
+    "origin_symbol": "PSTAKE",
+    "display_symbol": "PSTAKE",
+    "decimal": 18,
+    "logo": "pstake.png"
   }
 ]
