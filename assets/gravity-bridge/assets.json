@@ -63,5 +63,13 @@
     "display_symbol": "PSTAKE",
     "decimal": 18,
     "logo": "pstake.png"
+  },
+  {
+    "denom": "gravity0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "origin_chain": "ethereum",
+    "origin_symbol": "USDT",
+    "display_symbol": "Tether",
+    "decimal": 6,
+    "logo": "usdt.png"
   }
 ]
