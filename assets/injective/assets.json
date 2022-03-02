@@ -382,5 +382,13 @@
     "display_symbol": "XACToken",
     "decimal": 8,
     "logo": "xac.png"
+  },
+  {
+    "denom": "peggy0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+    "origin_chain": "ethereum",
+    "origin_symbol": "DYDX",
+    "display_symbol": "dYdX",
+    "decimal": 18,
+    "logo": "dydx.png"
   }
 ]
