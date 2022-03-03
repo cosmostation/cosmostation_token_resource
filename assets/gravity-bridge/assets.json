@@ -6,5 +6,70 @@
     "display_symbol": "WETH",
     "decimal": 18,
     "logo": "weth.png"
+  },
+  {
+    "denom": "gravity0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "origin_chain": "ethereum",
+    "origin_symbol": "USDC",
+    "display_symbol": "USD Coin",
+    "decimal": 6,
+    "logo": "usdc.png"
+  },
+  {
+    "denom": "gravity0x6b175474e89094c44da98b954eedeac495271d0f",
+    "origin_chain": "ethereum",
+    "origin_symbol": "DAI",
+    "display_symbol": "Dai",
+    "decimal": 18,
+    "logo": "dai.png"
+  },
+
+  {
+    "denom": "gravity0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "origin_chain": "ethereum",
+    "origin_symbol": "UNI",
+    "display_symbol": "Uniswap",
+    "decimal": 18,
+    "logo": "uni.png"
+  },
+  {
+    "denom": "gravity0x45804880de22913dafe09f4980848ece6ecbaf78",
+    "origin_chain": "ethereum",
+    "origin_symbol": "PAXG",
+    "display_symbol": "PAX Gold",
+    "decimal": 18,
+    "logo": "paxg.png"
+  },
+  {
+    "denom": "gravity0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
+    "origin_chain": "ethereum",
+    "origin_symbol": "STORJ",
+    "display_symbol": "STORJ",
+    "decimal": 8,
+    "logo": "storj.png"
+  },
+  {
+    "denom": "gravity0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "origin_chain": "ethereum",
+    "origin_symbol": "STETH",
+    "display_symbol": "stETH",
+    "decimal": 18,
+    "logo": "steth.png"
+  },
+  {
+    "denom": "gravity0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
+    "origin_chain": "ethereum",
+    "origin_symbol": "PSTAKE",
+    "display_symbol": "PSTAKE",
+    "decimal": 18,
+    "logo": "pstake.png"
+  },
+  {
+    "denom": "gravity0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "origin_chain": "ethereum",
+    "origin_symbol": "USDT",
+    "display_symbol": "Tether",
+    "decimal": 6,
+    "logo": "usdt.png"
   }
 ]

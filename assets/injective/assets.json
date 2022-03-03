@@ -366,5 +366,29 @@
     "display_symbol": "TerraUSD",
     "decimal": 6,
     "logo": "ust.png"
+  },
+  {
+    "denom": "peggy0x080b12e80c9b45e97c23b6ad10a16b3e2a123949",
+    "origin_chain": "ethereum",
+    "origin_symbol": "XBX",
+    "display_symbol": "BurnX",
+    "decimal": 18,
+    "logo": "xbx.png"
+  },
+  {
+    "denom": "peggy0xde4c5a791913838027a2185709e98c5c6027ea63",
+    "origin_chain": "ethereum",
+    "origin_symbol": "XAC",
+    "display_symbol": "XACToken",
+    "decimal": 8,
+    "logo": "xac.png"
+  },
+  {
+    "denom": "peggy0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+    "origin_chain": "ethereum",
+    "origin_symbol": "DYDX",
+    "display_symbol": "dYdX",
+    "decimal": 18,
+    "logo": "dydx.png"
   }
 ]
