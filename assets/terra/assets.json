@@ -1,0 +1,178 @@
+[
+  {
+    "denom": "uaud",
+    "origin_chain": "terra",
+    "origin_symbol": "AUD",
+    "display_symbol": "AUD",
+    "decimal": 6,
+    "logo": "aud.png"
+  },
+  {
+    "denom": "ucad",
+    "origin_chain": "terra",
+    "origin_symbol": "CAD",
+    "display_symbol": "CAD",
+    "decimal": 6,
+    "logo": "cad.png"
+  },
+  {
+    "denom": "uchf",
+    "origin_chain": "terra",
+    "origin_symbol": "CHF",
+    "display_symbol": "CHF",
+    "decimal": 6,
+    "logo": "chf.png"
+  },
+  {
+    "denom": "ucny",
+    "origin_chain": "terra",
+    "origin_symbol": "CNY",
+    "display_symbol": "CNY",
+    "decimal": 6,
+    "logo": "cny.png"
+  },
+  {
+    "denom": "udkk",
+    "origin_chain": "terra",
+    "origin_symbol": "DKK",
+    "display_symbol": "DKK",
+    "decimal": 6,
+    "logo": "dkk.png"
+  },
+  {
+    "denom": "ueur",
+    "origin_chain": "terra",
+    "origin_symbol": "EUR",
+    "display_symbol": "EUR",
+    "decimal": 6,
+    "logo": "eur.png"
+  },
+  {
+    "denom": "ugbp",
+    "origin_chain": "terra",
+    "origin_symbol": "GBP",
+    "display_symbol": "GBP",
+    "decimal": 6,
+    "logo": "gbp.png"
+  },
+  {
+    "denom": "uhkd",
+    "origin_chain": "terra",
+    "origin_symbol": "HKD",
+    "display_symbol": "HKD",
+    "decimal": 6,
+    "logo": "hkd.png"
+  },
+  {
+    "denom": "uidr",
+    "origin_chain": "terra",
+    "origin_symbol": "IDR",
+    "display_symbol": "IDR",
+    "decimal": 6,
+    "logo": "idr.png"
+  },
+  {
+    "denom": "uinr",
+    "origin_chain": "terra",
+    "origin_symbol": "INR",
+    "display_symbol": "INR",
+    "decimal": 6,
+    "logo": "inr.png"
+  },
+  {
+    "denom": "ujpy",
+    "origin_chain": "terra",
+    "origin_symbol": "JPY",
+    "display_symbol": "JPY",
+    "decimal": 6,
+    "logo": "jpy.png"
+  },
+  {
+    "denom": "umnt",
+    "origin_chain": "terra",
+    "origin_symbol": "MNT",
+    "display_symbol": "MNT",
+    "decimal": 6,
+    "logo": "mnt.png"
+  },
+  {
+    "denom": "umyr",
+    "origin_chain": "terra",
+    "origin_symbol": "MYR",
+    "display_symbol": "MYR",
+    "decimal": 6,
+    "logo": "myr.png"
+  },
+  {
+    "denom": "unok",
+    "origin_chain": "terra",
+    "origin_symbol": "NOK",
+    "display_symbol": "NOK",
+    "decimal": 6,
+    "logo": "nok.png"
+  },
+  {
+    "denom": "uphp",
+    "origin_chain": "terra",
+    "origin_symbol": "PHP",
+    "display_symbol": "PHP",
+    "decimal": 6,
+    "logo": "php.png"
+  },
+  {
+    "denom": "usdr",
+    "origin_chain": "terra",
+    "origin_symbol": "SDR",
+    "display_symbol": "SDR",
+    "decimal": 6,
+    "logo": "sdr.png"
+  },
+  {
+    "denom": "usek",
+    "origin_chain": "terra",
+    "origin_symbol": "SEK",
+    "display_symbol": "SEK",
+    "decimal": 6,
+    "logo": "sek.png"
+  },
+  {
+    "denom": "usgd",
+    "origin_chain": "terra",
+    "origin_symbol": "SGD",
+    "display_symbol": "SGD",
+    "decimal": 6,
+    "logo": "sgd.png"
+  },
+  {
+    "denom": "uthb",
+    "origin_chain": "terra",
+    "origin_symbol": "THB",
+    "display_symbol": "THB",
+    "decimal": 6,
+    "logo": "thb.png"
+  },
+  {
+    "denom": "utwd",
+    "origin_chain": "terra",
+    "origin_symbol": "TWD",
+    "display_symbol": "TWD",
+    "decimal": 6,
+    "logo": "twd.png"
+  },
+  {
+    "denom": "ukrw",
+    "origin_chain": "terra",
+    "origin_symbol": "KRW",
+    "display_symbol": "KRW",
+    "decimal": 6,
+    "logo": "krw.png"
+  },
+  {
+    "denom": "uusd",
+    "origin_chain": "terra",
+    "origin_symbol": "USD",
+    "display_symbol": "USD",
+    "decimal": 6,
+    "logo": "usd.png"
+  }
+]
