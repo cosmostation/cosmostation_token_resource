@@ -3,7 +3,7 @@
     "denom": "uaud",
     "origin_chain": "terra",
     "origin_symbol": "AUT",
-    "display_symbol": "AUD",
+    "display_symbol": "AUT",
     "decimal": 6,
     "logo": "aud.png"
   },
@@ -11,7 +11,7 @@
     "denom": "ucad",
     "origin_chain": "terra",
     "origin_symbol": "CAT",
-    "display_symbol": "CAD",
+    "display_symbol": "CAT",
     "decimal": 6,
     "logo": "cad.png"
   },
@@ -19,7 +19,7 @@
     "denom": "uchf",
     "origin_chain": "terra",
     "origin_symbol": "CHT",
-    "display_symbol": "CHF",
+    "display_symbol": "CHT",
     "decimal": 6,
     "logo": "chf.png"
   },
@@ -27,7 +27,7 @@
     "denom": "ucny",
     "origin_chain": "terra",
     "origin_symbol": "CNT",
-    "display_symbol": "CNY",
+    "display_symbol": "CNT",
     "decimal": 6,
     "logo": "cny.png"
   },
@@ -35,7 +35,7 @@
     "denom": "udkk",
     "origin_chain": "terra",
     "origin_symbol": "DKT",
-    "display_symbol": "DKK",
+    "display_symbol": "DKT",
     "decimal": 6,
     "logo": "dkk.png"
   },
@@ -43,7 +43,7 @@
     "denom": "ueur",
     "origin_chain": "terra",
     "origin_symbol": "EUT",
-    "display_symbol": "EUR",
+    "display_symbol": "EUT",
     "decimal": 6,
     "logo": "eur.png"
   },
@@ -51,7 +51,7 @@
     "denom": "ugbp",
     "origin_chain": "terra",
     "origin_symbol": "GBT",
-    "display_symbol": "GBP",
+    "display_symbol": "GBT",
     "decimal": 6,
     "logo": "gbp.png"
   },
@@ -59,7 +59,7 @@
     "denom": "uhkd",
     "origin_chain": "terra",
     "origin_symbol": "HKT",
-    "display_symbol": "HKD",
+    "display_symbol": "HKT",
     "decimal": 6,
     "logo": "hkd.png"
   },
@@ -67,7 +67,7 @@
     "denom": "uidr",
     "origin_chain": "terra",
     "origin_symbol": "IDT",
-    "display_symbol": "IDR",
+    "display_symbol": "IDT",
     "decimal": 6,
     "logo": "idr.png"
   },
@@ -75,7 +75,7 @@
     "denom": "uinr",
     "origin_chain": "terra",
     "origin_symbol": "INT",
-    "display_symbol": "INR",
+    "display_symbol": "INT",
     "decimal": 6,
     "logo": "inr.png"
   },
@@ -83,7 +83,7 @@
     "denom": "ujpy",
     "origin_chain": "terra",
     "origin_symbol": "JPT",
-    "display_symbol": "JPY",
+    "display_symbol": "JPT",
     "decimal": 6,
     "logo": "jpy.png"
   },
@@ -99,7 +99,7 @@
     "denom": "umyr",
     "origin_chain": "terra",
     "origin_symbol": "MYT",
-    "display_symbol": "MYR",
+    "display_symbol": "MYT",
     "decimal": 6,
     "logo": "myr.png"
   },
@@ -107,7 +107,7 @@
     "denom": "unok",
     "origin_chain": "terra",
     "origin_symbol": "NOT",
-    "display_symbol": "NOK",
+    "display_symbol": "NOT",
     "decimal": 6,
     "logo": "nok.png"
   },
@@ -115,7 +115,7 @@
     "denom": "uphp",
     "origin_chain": "terra",
     "origin_symbol": "PHT",
-    "display_symbol": "PHP",
+    "display_symbol": "PHT",
     "decimal": 6,
     "logo": "php.png"
   },
@@ -123,7 +123,7 @@
     "denom": "usdr",
     "origin_chain": "terra",
     "origin_symbol": "SDT",
-    "display_symbol": "SDR",
+    "display_symbol": "SDT",
     "decimal": 6,
     "logo": "sdr.png"
   },
@@ -131,7 +131,7 @@
     "denom": "usek",
     "origin_chain": "terra",
     "origin_symbol": "SET",
-    "display_symbol": "SEK",
+    "display_symbol": "SET",
     "decimal": 6,
     "logo": "sek.png"
   },
@@ -139,7 +139,7 @@
     "denom": "usgd",
     "origin_chain": "terra",
     "origin_symbol": "SGT",
-    "display_symbol": "SGD",
+    "display_symbol": "SGT",
     "decimal": 6,
     "logo": "sgd.png"
   },
@@ -147,7 +147,7 @@
     "denom": "uthb",
     "origin_chain": "terra",
     "origin_symbol": "THT",
-    "display_symbol": "THB",
+    "display_symbol": "THT",
     "decimal": 6,
     "logo": "thb.png"
   },
@@ -155,7 +155,7 @@
     "denom": "utwd",
     "origin_chain": "terra",
     "origin_symbol": "TWT",
-    "display_symbol": "TWD",
+    "display_symbol": "TWT",
     "decimal": 6,
     "logo": "twd.png"
   },
@@ -163,7 +163,7 @@
     "denom": "ukrw",
     "origin_chain": "terra",
     "origin_symbol": "KRT",
-    "display_symbol": "KRW",
+    "display_symbol": "KRT",
     "decimal": 6,
     "logo": "krw.png"
   },
@@ -171,7 +171,7 @@
     "denom": "uusd",
     "origin_chain": "terra",
     "origin_symbol": "UST",
-    "display_symbol": "USD",
+    "display_symbol": "UST",
     "decimal": 6,
     "logo": "usd.png"
   }
