@@ -1,6 +1,7 @@
 [
   {
     "denom": "uusdc",
+    "origin_denom": "usdc",
     "origin_chain": "axelar",
     "origin_symbol": "USDC",
     "display_symbol": "USDC",
@@ -9,6 +10,7 @@
   },
   {
     "denom": "uusdt",
+    "origin_denom": "usdt",
     "origin_chain": "axelar",
     "origin_symbol": "USDT",
     "display_symbol": "USDT",
@@ -17,6 +19,7 @@
   },
   {
     "denom": "dai-wei",
+    "origin_denom": "dai",
     "origin_chain": "axelar",
     "origin_symbol": "DAI",
     "display_symbol": "DAI",
@@ -25,6 +28,7 @@
   },
   {
     "denom": "frax-wei",
+    "origin_denom": "frax",
     "origin_chain": "axelar",
     "origin_symbol": "FRAX",
     "display_symbol": "FRAX",
