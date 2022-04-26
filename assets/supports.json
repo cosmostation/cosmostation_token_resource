@@ -1,5 +1,7 @@
 [
   "injective",
   "sifchain",
-  "gravity-bridge"
+  "gravity-bridge",
+  "terra",
+  "axelar"
 ]
