@@ -1,6 +1,7 @@
 [
   {
     "denom": "uaud",
+    "origin_denom": "uaud",
     "origin_chain": "terra",
     "origin_symbol": "AUT",
     "display_symbol": "AUT",
@@ -9,6 +10,7 @@
   },
   {
     "denom": "ucad",
+    "origin_denom": "ucad",
     "origin_chain": "terra",
     "origin_symbol": "CAT",
     "display_symbol": "CAT",
@@ -17,6 +19,7 @@
   },
   {
     "denom": "uchf",
+    "origin_denom": "uchf",
     "origin_chain": "terra",
     "origin_symbol": "CHT",
     "display_symbol": "CHT",
@@ -25,6 +28,7 @@
   },
   {
     "denom": "ucny",
+    "origin_denom": "ucny",
     "origin_chain": "terra",
     "origin_symbol": "CNT",
     "display_symbol": "CNT",
@@ -33,6 +37,7 @@
   },
   {
     "denom": "udkk",
+    "origin_denom": "udkk",
     "origin_chain": "terra",
     "origin_symbol": "DKT",
     "display_symbol": "DKT",
@@ -41,6 +46,7 @@
   },
   {
     "denom": "ueur",
+    "origin_denom": "ueur",
     "origin_chain": "terra",
     "origin_symbol": "EUT",
     "display_symbol": "EUT",
@@ -49,6 +55,7 @@
   },
   {
     "denom": "ugbp",
+    "origin_denom": "ugbp",
     "origin_chain": "terra",
     "origin_symbol": "GBT",
     "display_symbol": "GBT",
@@ -57,6 +64,7 @@
   },
   {
     "denom": "uhkd",
+    "origin_denom": "uhkd",
     "origin_chain": "terra",
     "origin_symbol": "HKT",
     "display_symbol": "HKT",
@@ -65,6 +73,7 @@
   },
   {
     "denom": "uidr",
+    "origin_denom": "uidr",
     "origin_chain": "terra",
     "origin_symbol": "IDT",
     "display_symbol": "IDT",
@@ -73,6 +82,7 @@
   },
   {
     "denom": "uinr",
+    "origin_denom": "uinr",
     "origin_chain": "terra",
     "origin_symbol": "INT",
     "display_symbol": "INT",
@@ -81,6 +91,7 @@
   },
   {
     "denom": "ujpy",
+    "origin_denom": "ujpy",
     "origin_chain": "terra",
     "origin_symbol": "JPT",
     "display_symbol": "JPT",
@@ -89,6 +100,7 @@
   },
   {
     "denom": "umnt",
+    "origin_denom": "umnt",
     "origin_chain": "terra",
     "origin_symbol": "MNT",
     "display_symbol": "MNT",
@@ -97,6 +109,7 @@
   },
   {
     "denom": "umyr",
+    "origin_denom": "umyr",
     "origin_chain": "terra",
     "origin_symbol": "MYT",
     "display_symbol": "MYT",
@@ -105,6 +118,7 @@
   },
   {
     "denom": "unok",
+    "origin_denom": "unok",
     "origin_chain": "terra",
     "origin_symbol": "NOT",
     "display_symbol": "NOT",
@@ -113,6 +127,7 @@
   },
   {
     "denom": "uphp",
+    "origin_denom": "uphp",
     "origin_chain": "terra",
     "origin_symbol": "PHT",
     "display_symbol": "PHT",
@@ -121,6 +136,7 @@
   },
   {
     "denom": "usdr",
+    "origin_denom": "usdr",
     "origin_chain": "terra",
     "origin_symbol": "SDT",
     "display_symbol": "SDT",
@@ -129,6 +145,7 @@
   },
   {
     "denom": "usek",
+    "origin_denom": "usek",
     "origin_chain": "terra",
     "origin_symbol": "SET",
     "display_symbol": "SET",
@@ -137,6 +154,7 @@
   },
   {
     "denom": "usgd",
+    "origin_denom": "usgd",
     "origin_chain": "terra",
     "origin_symbol": "SGT",
     "display_symbol": "SGT",
@@ -145,6 +163,7 @@
   },
   {
     "denom": "uthb",
+    "origin_denom": "uthb",
     "origin_chain": "terra",
     "origin_symbol": "THT",
     "display_symbol": "THT",
@@ -153,6 +172,7 @@
   },
   {
     "denom": "utwd",
+    "origin_denom": "utwd",
     "origin_chain": "terra",
     "origin_symbol": "TWT",
     "display_symbol": "TWT",
@@ -161,6 +181,7 @@
   },
   {
     "denom": "ukrw",
+    "origin_denom": "ukrw",
     "origin_chain": "terra",
     "origin_symbol": "KRT",
     "display_symbol": "KRT",
@@ -169,6 +190,7 @@
   },
   {
     "denom": "uusd",
+    "origin_denom": "uusd",
     "origin_chain": "terra",
     "origin_symbol": "UST",
     "display_symbol": "UST",
