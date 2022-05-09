@@ -1,6 +1,7 @@
 [
   {
     "denom": "hard",
+    "origin_denom": "hard",
     "origin_chain": "kava",
     "origin_symbol": "HARD",
     "display_symbol": "HARD",
@@ -9,6 +10,7 @@
   },
   {
     "denom": "swp",
+    "origin_denom": "swp",
     "origin_chain": "kava",
     "origin_symbol": "SWP",
     "display_symbol": "SWP",
@@ -17,6 +19,7 @@
   },
   {
     "denom": "udsx",
+    "origin_denom": "udsx",
     "origin_chain": "kava",
     "origin_symbol": "UDSX",
     "display_symbol": "UDSX",
@@ -26,6 +29,7 @@
 
   {
     "denom": "busd",
+    "origin_denom": "busd",
     "origin_chain": "kava",
     "origin_symbol": "BUSD",
     "display_symbol": "BUSD",
@@ -34,6 +38,7 @@
   },
   {
     "denom": "xrpb",
+    "origin_denom": "xrpb",
     "origin_chain": "kava",
     "origin_symbol": "XRPB",
     "display_symbol": "XRPB",
@@ -42,6 +47,7 @@
   },
   {
     "denom": "btcb",
+    "origin_denom": "btcb",
     "origin_chain": "kava",
     "origin_symbol": "BTCB",
     "display_symbol": "BTCB",
@@ -50,6 +56,7 @@
   },
   {
     "denom": "bnb",
+    "origin_denom": "bnb",
     "origin_chain": "kava",
     "origin_symbol": "BNB",
     "display_symbol": "BNB",
