@@ -1,0 +1,43 @@
+[
+  {
+    "denom": "eeur",
+    "origin_chain": "emoney",
+    "origin_symbol": "EEUR",
+    "display_symbol": "EEUR",
+    "decimal": 6,
+    "logo": "eeur.png"
+  },
+  {
+    "denom": "edkk",
+    "origin_chain": "emoney",
+    "origin_symbol": "EDKK",
+    "display_symbol": "EDKK",
+    "decimal": 6,
+    "logo": "edkk.png"
+  },
+  {
+    "denom": "esek",
+    "origin_chain": "emoney",
+    "origin_symbol": "ESEK",
+    "display_symbol": "ESEK",
+    "decimal": 6,
+    "logo": "esek.png"
+  },
+
+  {
+    "denom": "enok",
+    "origin_chain": "emoney",
+    "origin_symbol": "ENOK",
+    "display_symbol": "ENOK",
+    "decimal": 6,
+    "logo": "enok.png"
+  },
+  {
+    "denom": "echf",
+    "origin_chain": "emoney",
+    "origin_symbol": "ECHF",
+    "display_symbol": "ECHF",
+    "decimal": 6,
+    "logo": "echf.png"
+  }
+]

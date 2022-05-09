@@ -1,0 +1,10 @@
+[
+  {
+    "denom": "ubcre",
+    "origin_chain": "crescent",
+    "origin_symbol": "bCRE",
+    "display_symbol": "bCRE",
+    "decimal": 6,
+    "logo": "bcre.png"
+  }
+]
