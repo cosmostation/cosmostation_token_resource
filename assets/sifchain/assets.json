@@ -1,0 +1,749 @@
+[
+  {
+    "denom": "c1inch",
+    "origin_denom": "1inch",
+    "origin_chain": "ethereum",
+    "origin_symbol": "1INCH",
+    "display_symbol": "1INCH",
+    "decimal": 18,
+    "logo": "1inch.png"
+  },
+  {
+    "denom": "caave",
+    "origin_denom": "aave",
+    "origin_chain": "ethereum",
+    "origin_symbol": "AAVE",
+    "display_symbol": "Aave",
+    "decimal": 18,
+    "logo": "aave.png"
+  },
+  {
+    "denom": "cakro",
+    "origin_denom": "akro",
+    "origin_chain": "ethereum",
+    "origin_symbol": "AKRO",
+    "display_symbol": "AKRO",
+    "decimal": 18,
+    "logo": "akro.png"
+  },
+  {
+    "denom": "cant",
+    "origin_denom": "ant",
+    "origin_chain": "ethereum",
+    "origin_symbol": "ANT",
+    "display_symbol": "ANT",
+    "decimal": 18,
+    "logo": "ant.png"
+  },
+  {
+    "denom": "caxs",
+    "origin_denom": "axs",
+    "origin_chain": "ethereum",
+    "origin_symbol": "AXS",
+    "display_symbol": "AXS",
+    "decimal": 18,
+    "logo": "axs.png"
+  },
+  {
+    "denom": "cb20",
+    "origin_denom": "b20",
+    "origin_chain": "ethereum",
+    "origin_symbol": "B20",
+    "display_symbol": "B20",
+    "decimal": 18,
+    "logo": "b20.png"
+  },
+  {
+    "denom": "cbal",
+    "origin_denom": "bal",
+    "origin_chain": "ethereum",
+    "origin_symbol": "BAL",
+    "display_symbol": "Balancer",
+    "decimal": 18,
+    "logo": "bal.png"
+  },
+  {
+    "denom": "cband",
+    "origin_denom": "uband",
+    "origin_chain": "ethereum",
+    "origin_symbol": "BAND",
+    "display_symbol": "BAND",
+    "decimal": 18,
+    "logo": "band.png"
+  },
+  {
+    "denom": "cbat",
+    "origin_denom": "bat",
+    "origin_chain": "ethereum",
+    "origin_symbol": "BAT",
+    "display_symbol": "Basic Attention Token",
+    "decimal": 18,
+    "logo": "bat.png"
+  },
+  {
+    "denom": "cbnt",
+    "origin_denom": "bnt",
+    "origin_chain": "ethereum",
+    "origin_symbol": "BNT",
+    "display_symbol": "Bancor Network Token",
+    "decimal": 18,
+    "logo": "bnt.png"
+  },
+  {
+    "denom": "cbond",
+    "origin_denom": "bond",
+    "origin_chain": "ethereum",
+    "origin_symbol": "BOND",
+    "display_symbol": "BarnBridge",
+    "decimal": 18,
+    "logo": "bond.png"
+  },
+  {
+    "denom": "cbtsg",
+    "origin_denom": "ubtsg",
+    "origin_chain": "ethereum",
+    "origin_symbol": "BTSG",
+    "display_symbol": "BTSG",
+    "decimal": 18,
+    "logo": "btsg.png"
+  },
+  {
+    "denom": "ccocos",
+    "origin_denom": "cocos",
+    "origin_chain": "ethereum",
+    "origin_symbol": "COCOS",
+    "display_symbol": "COSCOS BCX",
+    "decimal": 18,
+    "logo": "cocos.png"
+  },
+  {
+    "denom": "ccomp",
+    "origin_denom": "comp",
+    "origin_chain": "ethereum",
+    "origin_symbol": "COMP",
+    "display_symbol": "Compound",
+    "decimal": 18,
+    "logo": "comp.png"
+  },
+  {
+    "denom": "cconv",
+    "origin_denom": "conv",
+    "origin_chain": "ethereum",
+    "origin_symbol": "CONV",
+    "display_symbol": "Convergence",
+    "decimal": 18,
+    "logo": "conv.png"
+  },
+  {
+    "denom": "ccream",
+    "origin_denom": "cream",
+    "origin_chain": "ethereum",
+    "origin_symbol": "CREAM",
+    "display_symbol": "CREAM",
+    "decimal": 18,
+    "logo": "cream.png"
+  },
+  {
+    "denom": "ccro",
+    "origin_denom": "basecro",
+    "origin_chain": "ethereum",
+    "origin_symbol": "CRO",
+    "display_symbol": "CRYPTOORG",
+    "decimal": 8,
+    "logo": "cro.png"
+  },
+  {
+    "denom": "cdai",
+    "origin_denom": "dai",
+    "origin_chain": "ethereum",
+    "origin_symbol": "DAI",
+    "display_symbol": "DAI",
+    "decimal": 18,
+    "logo": "dai.png"
+  },
+  {
+    "denom": "cdaofi",
+    "origin_denom": "",
+    "origin_chain": "ethereum",
+    "origin_symbol": "DAOFI",
+    "display_symbol": "DAOFI",
+    "decimal": 18,
+    "logo": "daofi.png"
+  },
+  {
+    "denom": "cdfyn",
+    "origin_denom": "dfyn",
+    "origin_chain": "ethereum",
+    "origin_symbol": "DFYN",
+    "display_symbol": "DFYN",
+    "decimal": 18,
+    "logo": "dfyn.png"
+  },
+  {
+    "denom": "cdino",
+    "origin_denom": "dino",
+    "origin_chain": "ethereum",
+    "origin_symbol": "DINO",
+    "display_symbol": "DINO",
+    "decimal": 18,
+    "logo": "dino.png"
+  },
+  {
+    "denom": "cdnxc",
+    "origin_denom": "dnxc",
+    "origin_chain": "ethereum",
+    "origin_symbol": "DNXC",
+    "display_symbol": "DNXC",
+    "decimal": 18,
+    "logo": "dnxc.png"
+  },
+  {
+    "denom": "cdon",
+    "origin_denom": "don",
+    "origin_chain": "ethereum",
+    "origin_symbol": "DON",
+    "display_symbol": "DON",
+    "decimal": 18,
+    "logo": "don.png"
+  },
+  {
+    "denom": "cenj",
+    "origin_denom": "enj",
+    "origin_chain": "ethereum",
+    "origin_symbol": "ENJ",
+    "display_symbol": "Enjin Coin",
+    "decimal": 18,
+    "logo": "enj.png"
+  },
+  {
+    "denom": "cern",
+    "origin_denom": "ern",
+    "origin_chain": "ethereum",
+    "origin_symbol": "ERN",
+    "display_symbol": "ERN",
+    "decimal": 18,
+    "logo": "ern.png"
+  },
+  {
+    "denom": "cesd",
+    "origin_denom": "esd",
+    "origin_chain": "ethereum",
+    "origin_symbol": "ESD",
+    "display_symbol": "Empty Set Dollar",
+    "decimal": 18,
+    "logo": "esd.png"
+  },
+  {
+    "denom": "ceth",
+    "origin_denom": "eth",
+    "origin_chain": "ethereum",
+    "origin_symbol": "ETH",
+    "display_symbol": "Ethereum",
+    "decimal": 18,
+    "logo": "eth.png"
+  },
+  {
+    "denom": "cfrax",
+    "origin_denom": "frax",
+    "origin_chain": "ethereum",
+    "origin_symbol": "FRAX",
+    "display_symbol": "FRAX",
+    "decimal": 18,
+    "logo": "frax.png"
+  },
+  {
+    "denom": "cftm",
+    "origin_denom": "ftm",
+    "origin_chain": "ethereum",
+    "origin_symbol": "FTM",
+    "display_symbol": "Fantom",
+    "decimal": 18,
+    "logo": "ftm.png"
+  },
+  {
+    "denom": "cfxs",
+    "origin_denom": "fxs",
+    "origin_chain": "ethereum",
+    "origin_symbol": "FXS",
+    "display_symbol": "FXS",
+    "decimal": 18,
+    "logo": "fxs.png"
+  },
+  {
+    "denom": "cgrt",
+    "origin_denom": "grt",
+    "origin_chain": "ethereum",
+    "origin_symbol": "GRT",
+    "display_symbol": "The Graph",
+    "decimal": 18,
+    "logo": "grt.png"
+  },
+  {
+    "denom": "ciotx",
+    "origin_denom": "iotx",
+    "origin_chain": "ethereum",
+    "origin_symbol": "IOTX",
+    "display_symbol": "IoTeX",
+    "decimal": 18,
+    "logo": "iotx.png"
+  },
+  {
+    "denom": "ckeep",
+    "origin_denom": "keep",
+    "origin_chain": "ethereum",
+    "origin_symbol": "KEEP",
+    "display_symbol": "Keep Network",
+    "decimal": 18,
+    "logo": "keep.png"
+  },
+  {
+    "denom": "ckft",
+    "origin_denom": "kft",
+    "origin_chain": "ethereum",
+    "origin_symbol": "KFT",
+    "display_symbol": "KFT",
+    "decimal": 18,
+    "logo": "kft.png"
+  },
+  {
+    "denom": "cldo",
+    "origin_denom": "ldo",
+    "origin_chain": "ethereum",
+    "origin_symbol": "LDO",
+    "display_symbol": "LDO",
+    "decimal": 18,
+    "logo": "ldo.png"
+  },
+  {
+    "denom": "cleash",
+    "origin_denom": "leash",
+    "origin_chain": "ethereum",
+    "origin_symbol": "LEASH",
+    "display_symbol": "Doge Killer",
+    "decimal": 18,
+    "logo": "leash.png"
+  },
+  {
+    "denom": "clgcy",
+    "origin_denom": "lgcy",
+    "origin_chain": "ethereum",
+    "origin_symbol": "LGCY",
+    "display_symbol": "LGCY",
+    "decimal": 18,
+    "logo": "lgcy.png"
+  },
+  {
+    "denom": "clina",
+    "origin_denom": "lina",
+    "origin_chain": "ethereum",
+    "origin_symbol": "LINA",
+    "display_symbol": "Linear",
+    "decimal": 18,
+    "logo": "lina.png"
+  },
+  {
+    "denom": "clink",
+    "origin_denom": "link",
+    "origin_chain": "ethereum",
+    "origin_symbol": "LINK",
+    "display_symbol": "Chainlink",
+    "decimal": 18,
+    "logo": "link.png"
+  },
+  {
+    "denom": "clon",
+    "origin_denom": "lon",
+    "origin_chain": "ethereum",
+    "origin_symbol": "LON",
+    "display_symbol": "Tokenlon",
+    "decimal": 18,
+    "logo": "lon.png"
+  },
+  {
+    "denom": "clrc",
+    "origin_denom": "lrc",
+    "origin_chain": "ethereum",
+    "origin_symbol": "LRC",
+    "display_symbol": "Loopring",
+    "decimal": 18,
+    "logo": "lrc.png"
+  },
+  {
+    "denom": "cmana",
+    "origin_denom": "mana",
+    "origin_chain": "ethereum",
+    "origin_symbol": "MANA",
+    "display_symbol": "Decentraland",
+    "decimal": 18,
+    "logo": "mana.png"
+  },
+  {
+    "denom": "cmatic",
+    "origin_denom": "matic",
+    "origin_chain": "ethereum",
+    "origin_symbol": "MATIC",
+    "display_symbol": "MATIC",
+    "decimal": 18,
+    "logo": "matic.png"
+  },
+  {
+    "denom": "cmetis",
+    "origin_denom": "metis",
+    "origin_chain": "ethereum",
+    "origin_symbol": "METIS",
+    "display_symbol": "METIS",
+    "decimal": 18,
+    "logo": "metis.png"
+  },
+  {
+    "denom": "cocean",
+    "origin_denom": "ocean",
+    "origin_chain": "ethereum",
+    "origin_symbol": "OCEAN",
+    "display_symbol": "Ocean Protocol",
+    "decimal": 18,
+    "logo": "ocean.png"
+  },
+  {
+    "denom": "cogn",
+    "origin_denom": "ogn",
+    "origin_chain": "ethereum",
+    "origin_symbol": "OGN",
+    "display_symbol": "Origin Protocol",
+    "decimal": 18,
+    "logo": "ogn.png"
+  },
+  {
+    "denom": "coh",
+    "origin_denom": "oh",
+    "origin_chain": "ethereum",
+    "origin_symbol": "OH",
+    "display_symbol": "OH",
+    "decimal": 18,
+    "logo": "oh.png"
+  },
+  {
+    "denom": "cpaid",
+    "origin_denom": "paid",
+    "origin_chain": "ethereum",
+    "origin_symbol": "PAID",
+    "display_symbol": "PAID Network",
+    "decimal": 18,
+    "logo": "paid.png"
+  },
+  {
+    "denom": "cpols",
+    "origin_denom": "pols",
+    "origin_chain": "ethereum",
+    "origin_symbol": "POLS",
+    "display_symbol": "POLS",
+    "decimal": 18,
+    "logo": "pols.png"
+  },
+  {
+    "denom": "cpond",
+    "origin_denom": "pond",
+    "origin_chain": "ethereum",
+    "origin_symbol": "POND",
+    "display_symbol": "POND",
+    "decimal": 18,
+    "logo": "pond.png"
+  },
+  {
+    "denom": "cquick",
+    "origin_denom": "quick",
+    "origin_chain": "ethereum",
+    "origin_symbol": "QUICK",
+    "display_symbol": "QUICK",
+    "decimal": 18,
+    "logo": "quick.png"
+  },
+  {
+    "denom": "crail",
+    "origin_denom": "rail",
+    "origin_chain": "ethereum",
+    "origin_symbol": "RAIL",
+    "display_symbol": "RAIL",
+    "decimal": 18,
+    "logo": "rail.png"
+  },
+  {
+    "denom": "cratom",
+    "origin_denom": "ratom",
+    "origin_chain": "ethereum",
+    "origin_symbol": "RATOM",
+    "display_symbol": "RATOM",
+    "decimal": 18,
+    "logo": "ratom.png"
+  },
+  {
+    "denom": "creef",
+    "origin_denom": "reef",
+    "origin_chain": "ethereum",
+    "origin_symbol": "REEF",
+    "display_symbol": "Reef Finance",
+    "decimal": 18,
+    "logo": "reef.png"
+  },
+  {
+    "denom": "crfuel",
+    "origin_denom": "rfuel",
+    "origin_chain": "ethereum",
+    "origin_symbol": "RFUEL",
+    "display_symbol": "RioDeFi",
+    "decimal": 18,
+    "logo": "rfuel.png"
+  },
+  {
+    "denom": "crly",
+    "origin_denom": "rly",
+    "origin_chain": "ethereum",
+    "origin_symbol": "RLY",
+    "display_symbol": "RLY",
+    "decimal": 18,
+    "logo": "rly.png"
+  },
+  {
+    "denom": "crndr",
+    "origin_denom": "rndr",
+    "origin_chain": "ethereum",
+    "origin_symbol": "RNDR",
+    "display_symbol": "Render Token",
+    "decimal": 18,
+    "logo": "rndr.png"
+  },
+  {
+    "denom": "crune",
+    "origin_denom": "rune",
+    "origin_chain": "ethereum",
+    "origin_symbol": "RUNE",
+    "display_symbol": "THORChain",
+    "decimal": 18,
+    "logo": "rune.png"
+  },
+  {
+    "denom": "csaito",
+    "origin_denom": "saito",
+    "origin_chain": "ethereum",
+    "origin_symbol": "SAITO",
+    "display_symbol": "SAITO",
+    "decimal": 18,
+    "logo": "saito.png"
+  },
+  {
+    "denom": "csand",
+    "origin_denom": "sand",
+    "origin_chain": "ethereum",
+    "origin_symbol": "SAND",
+    "display_symbol": "SAND",
+    "decimal": 18,
+    "logo": "sand.png"
+  },
+  {
+    "denom": "cshib",
+    "origin_denom": "shib",
+    "origin_chain": "ethereum",
+    "origin_symbol": "SHIB",
+    "display_symbol": "Shiba Inu",
+    "decimal": 18,
+    "logo": "shib.png"
+  },
+  {
+    "denom": "csnx",
+    "origin_denom": "snx",
+    "origin_chain": "ethereum",
+    "origin_symbol": "SNX",
+    "display_symbol": "Synthetix Network Token",
+    "decimal": 18,
+    "logo": "snx.png"
+  },
+  {
+    "denom": "csrm",
+    "origin_denom": "srm",
+    "origin_chain": "ethereum",
+    "origin_symbol": "SRM",
+    "display_symbol": "Serum",
+    "decimal": 6,
+    "logo": "srm.png"
+  },
+  {
+    "denom": "csusd",
+    "origin_denom": "susd",
+    "origin_chain": "ethereum",
+    "origin_symbol": "SUSD",
+    "display_symbol": "Synth sUSD",
+    "decimal": 18,
+    "logo": "susd.png"
+  },
+  {
+    "denom": "csushi",
+    "origin_denom": "sushi",
+    "origin_chain": "ethereum",
+    "origin_symbol": "SUSHI",
+    "display_symbol": "Sushi Swap",
+    "decimal": 18,
+    "logo": "sushi.png"
+  },
+  {
+    "denom": "csxp",
+    "origin_denom": "sxp",
+    "origin_chain": "ethereum",
+    "origin_symbol": "SXP",
+    "display_symbol": "Swipe",
+    "decimal": 18,
+    "logo": "sxp.png"
+  },
+  {
+    "denom": "ctidal",
+    "origin_denom": "tidal",
+    "origin_chain": "ethereum",
+    "origin_symbol": "TIDAL",
+    "display_symbol": "Tidal Finance",
+    "decimal": 18,
+    "logo": "tidal.png"
+  },
+  {
+    "denom": "ctoke",
+    "origin_denom": "toke",
+    "origin_chain": "ethereum",
+    "origin_symbol": "TOKE",
+    "display_symbol": "TOKE",
+    "decimal": 18,
+    "logo": "toke.png"
+  },
+  {
+    "denom": "ctshp",
+    "origin_denom": "tshp",
+    "origin_chain": "ethereum",
+    "origin_symbol": "TSHP",
+    "display_symbol": "12Ships",
+    "decimal": 18,
+    "logo": "tshp.png"
+  },
+  {
+    "denom": "ctusd",
+    "origin_denom": "tusd",
+    "origin_chain": "ethereum",
+    "origin_symbol": "TUSD",
+    "display_symbol": "TrueUSD",
+    "decimal": 18,
+    "logo": "tusd.png"
+  },
+  {
+    "denom": "cufo",
+    "origin_denom": "ufo",
+    "origin_chain": "ethereum",
+    "origin_symbol": "UFO",
+    "display_symbol": "UFO",
+    "decimal": 18,
+    "logo": "ufo.png"
+  },
+  {
+    "denom": "cuma",
+    "origin_denom": "uma",
+    "origin_chain": "ethereum",
+    "origin_symbol": "UMA",
+    "display_symbol": "UMA",
+    "decimal": 18,
+    "logo": "uma.png"
+  },
+  {
+    "denom": "cuni",
+    "origin_denom": "uni",
+    "origin_chain": "ethereum",
+    "origin_symbol": "UNI",
+    "display_symbol": "Uniswap",
+    "decimal": 18,
+    "logo": "uni.png"
+  },
+  {
+    "denom": "cusdc",
+    "origin_denom": "usdc",
+    "origin_chain": "ethereum",
+    "origin_symbol": "USDC",
+    "display_symbol": "USD Coin",
+    "decimal": 6,
+    "logo": "usdc.png"
+  },
+  {
+    "denom": "cusdt",
+    "origin_denom": "usdt",
+    "origin_chain": "ethereum",
+    "origin_symbol": "USDT",
+    "display_symbol": "Tether",
+    "decimal": 6,
+    "logo": "usdt.png"
+  },
+  {
+    "denom": "cust",
+    "origin_denom": "uusd",
+    "origin_chain": "ethereum",
+    "origin_symbol": "UST",
+    "display_symbol": "UST",
+    "decimal": 18,
+    "logo": "ust.png"
+  },
+  {
+    "denom": "cwbtc",
+    "origin_denom": "wbtc",
+    "origin_chain": "ethereum",
+    "origin_symbol": "WBTC",
+    "display_symbol": "Wrapped Bitcoin",
+    "decimal": 8,
+    "logo": "wbtc.png"
+  },
+  {
+    "denom": "cwfil",
+    "origin_denom": "wfil",
+    "origin_chain": "ethereum",
+    "origin_symbol": "WFIL",
+    "display_symbol": "Wrapped Filecoin",
+    "decimal": 18,
+    "logo": "wfil.png"
+  },
+  {
+    "denom": "cwscrt",
+    "origin_denom": "wscrt",
+    "origin_chain": "ethereum",
+    "origin_symbol": "WSCRT",
+    "display_symbol": "Secret",
+    "decimal": 6,
+    "logo": "wscrt.png"
+  },
+  {
+    "denom": "cyfi",
+    "origin_denom": "yfi",
+    "origin_chain": "ethereum",
+    "origin_symbol": "YFI",
+    "display_symbol": "yearn.finance",
+    "decimal": 18,
+    "logo": "yfi.png"
+  },
+  {
+    "denom": "czcn",
+    "origin_denom": "zcn",
+    "origin_chain": "ethereum",
+    "origin_symbol": "ZCN",
+    "display_symbol": "ZCN",
+    "decimal": 10,
+    "logo": "zcn.png"
+  },
+  {
+    "denom": "czcx",
+    "origin_denom": "zcx",
+    "origin_chain": "ethereum",
+    "origin_symbol": "ZCX",
+    "display_symbol": "ZCX",
+    "decimal": 18,
+    "logo": "zcx.png"
+  },
+  {
+    "denom": "czrx",
+    "origin_denom": "zrx",
+    "origin_chain": "ethereum",
+    "origin_symbol": "ZRX",
+    "display_symbol": "0x",
+    "decimal": 18,
+    "logo": "zrx.png"
+  }
+]
