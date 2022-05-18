@@ -1,6 +1,7 @@
 [
   {
     "denom": "c1inch",
+    "origin_denom": "1inch",
     "origin_chain": "ethereum",
     "origin_symbol": "1INCH",
     "display_symbol": "1INCH",
@@ -9,6 +10,7 @@
   },
   {
     "denom": "caave",
+    "origin_denom": "aave",
     "origin_chain": "ethereum",
     "origin_symbol": "AAVE",
     "display_symbol": "Aave",
@@ -17,6 +19,7 @@
   },
   {
     "denom": "cakro",
+    "origin_denom": "akro",
     "origin_chain": "ethereum",
     "origin_symbol": "AKRO",
     "display_symbol": "AKRO",
@@ -25,6 +28,7 @@
   },
   {
     "denom": "cant",
+    "origin_denom": "ant",
     "origin_chain": "ethereum",
     "origin_symbol": "ANT",
     "display_symbol": "ANT",
@@ -33,6 +37,7 @@
   },
   {
     "denom": "caxs",
+    "origin_denom": "axs",
     "origin_chain": "ethereum",
     "origin_symbol": "AXS",
     "display_symbol": "AXS",
@@ -41,6 +46,7 @@
   },
   {
     "denom": "cb20",
+    "origin_denom": "b20",
     "origin_chain": "ethereum",
     "origin_symbol": "B20",
     "display_symbol": "B20",
@@ -49,6 +55,7 @@
   },
   {
     "denom": "cbal",
+    "origin_denom": "bal",
     "origin_chain": "ethereum",
     "origin_symbol": "BAL",
     "display_symbol": "Balancer",
@@ -57,6 +64,7 @@
   },
   {
     "denom": "cband",
+    "origin_denom": "uband",
     "origin_chain": "ethereum",
     "origin_symbol": "BAND",
     "display_symbol": "BAND",
@@ -65,6 +73,7 @@
   },
   {
     "denom": "cbat",
+    "origin_denom": "bat",
     "origin_chain": "ethereum",
     "origin_symbol": "BAT",
     "display_symbol": "Basic Attention Token",
@@ -73,6 +82,7 @@
   },
   {
     "denom": "cbnt",
+    "origin_denom": "bnt",
     "origin_chain": "ethereum",
     "origin_symbol": "BNT",
     "display_symbol": "Bancor Network Token",
@@ -81,6 +91,7 @@
   },
   {
     "denom": "cbond",
+    "origin_denom": "bond",
     "origin_chain": "ethereum",
     "origin_symbol": "BOND",
     "display_symbol": "BarnBridge",
@@ -89,6 +100,7 @@
   },
   {
     "denom": "cbtsg",
+    "origin_denom": "ubtsg",
     "origin_chain": "ethereum",
     "origin_symbol": "BTSG",
     "display_symbol": "BTSG",
@@ -97,6 +109,7 @@
   },
   {
     "denom": "ccocos",
+    "origin_denom": "cocos",
     "origin_chain": "ethereum",
     "origin_symbol": "COCOS",
     "display_symbol": "COSCOS BCX",
@@ -105,6 +118,7 @@
   },
   {
     "denom": "ccomp",
+    "origin_denom": "comp",
     "origin_chain": "ethereum",
     "origin_symbol": "COMP",
     "display_symbol": "Compound",
@@ -113,6 +127,7 @@
   },
   {
     "denom": "cconv",
+    "origin_denom": "conv",
     "origin_chain": "ethereum",
     "origin_symbol": "CONV",
     "display_symbol": "Convergence",
@@ -121,6 +136,7 @@
   },
   {
     "denom": "ccream",
+    "origin_denom": "cream",
     "origin_chain": "ethereum",
     "origin_symbol": "CREAM",
     "display_symbol": "CREAM",
@@ -129,6 +145,7 @@
   },
   {
     "denom": "ccro",
+    "origin_denom": "basecro",
     "origin_chain": "ethereum",
     "origin_symbol": "CRO",
     "display_symbol": "CRYPTOORG",
@@ -137,6 +154,7 @@
   },
   {
     "denom": "cdai",
+    "origin_denom": "dai",
     "origin_chain": "ethereum",
     "origin_symbol": "DAI",
     "display_symbol": "DAI",
@@ -145,6 +163,7 @@
   },
   {
     "denom": "cdaofi",
+    "origin_denom": "",
     "origin_chain": "ethereum",
     "origin_symbol": "DAOFI",
     "display_symbol": "DAOFI",
@@ -153,6 +172,7 @@
   },
   {
     "denom": "cdfyn",
+    "origin_denom": "dfyn",
     "origin_chain": "ethereum",
     "origin_symbol": "DFYN",
     "display_symbol": "DFYN",
@@ -161,6 +181,7 @@
   },
   {
     "denom": "cdino",
+    "origin_denom": "dino",
     "origin_chain": "ethereum",
     "origin_symbol": "DINO",
     "display_symbol": "DINO",
@@ -169,6 +190,7 @@
   },
   {
     "denom": "cdnxc",
+    "origin_denom": "dnxc",
     "origin_chain": "ethereum",
     "origin_symbol": "DNXC",
     "display_symbol": "DNXC",
@@ -177,6 +199,7 @@
   },
   {
     "denom": "cdon",
+    "origin_denom": "don",
     "origin_chain": "ethereum",
     "origin_symbol": "DON",
     "display_symbol": "DON",
@@ -185,6 +208,7 @@
   },
   {
     "denom": "cenj",
+    "origin_denom": "enj",
     "origin_chain": "ethereum",
     "origin_symbol": "ENJ",
     "display_symbol": "Enjin Coin",
@@ -193,6 +217,7 @@
   },
   {
     "denom": "cern",
+    "origin_denom": "ern",
     "origin_chain": "ethereum",
     "origin_symbol": "ERN",
     "display_symbol": "ERN",
@@ -201,6 +226,7 @@
   },
   {
     "denom": "cesd",
+    "origin_denom": "esd",
     "origin_chain": "ethereum",
     "origin_symbol": "ESD",
     "display_symbol": "Empty Set Dollar",
@@ -209,6 +235,7 @@
   },
   {
     "denom": "ceth",
+    "origin_denom": "eth",
     "origin_chain": "ethereum",
     "origin_symbol": "ETH",
     "display_symbol": "Ethereum",
@@ -217,6 +244,7 @@
   },
   {
     "denom": "cfrax",
+    "origin_denom": "frax",
     "origin_chain": "ethereum",
     "origin_symbol": "FRAX",
     "display_symbol": "FRAX",
@@ -225,6 +253,7 @@
   },
   {
     "denom": "cftm",
+    "origin_denom": "ftm",
     "origin_chain": "ethereum",
     "origin_symbol": "FTM",
     "display_symbol": "Fantom",
@@ -233,6 +262,7 @@
   },
   {
     "denom": "cfxs",
+    "origin_denom": "fxs",
     "origin_chain": "ethereum",
     "origin_symbol": "FXS",
     "display_symbol": "FXS",
@@ -241,6 +271,7 @@
   },
   {
     "denom": "cgrt",
+    "origin_denom": "grt",
     "origin_chain": "ethereum",
     "origin_symbol": "GRT",
     "display_symbol": "The Graph",
@@ -249,6 +280,7 @@
   },
   {
     "denom": "ciotx",
+    "origin_denom": "iotx",
     "origin_chain": "ethereum",
     "origin_symbol": "IOTX",
     "display_symbol": "IoTeX",
@@ -257,6 +289,7 @@
   },
   {
     "denom": "ckeep",
+    "origin_denom": "keep",
     "origin_chain": "ethereum",
     "origin_symbol": "KEEP",
     "display_symbol": "Keep Network",
@@ -265,6 +298,7 @@
   },
   {
     "denom": "ckft",
+    "origin_denom": "kft",
     "origin_chain": "ethereum",
     "origin_symbol": "KFT",
     "display_symbol": "KFT",
@@ -273,6 +307,7 @@
   },
   {
     "denom": "cldo",
+    "origin_denom": "ldo",
     "origin_chain": "ethereum",
     "origin_symbol": "LDO",
     "display_symbol": "LDO",
@@ -281,6 +316,7 @@
   },
   {
     "denom": "cleash",
+    "origin_denom": "leash",
     "origin_chain": "ethereum",
     "origin_symbol": "LEASH",
     "display_symbol": "Doge Killer",
@@ -289,6 +325,7 @@
   },
   {
     "denom": "clgcy",
+    "origin_denom": "lgcy",
     "origin_chain": "ethereum",
     "origin_symbol": "LGCY",
     "display_symbol": "LGCY",
@@ -297,6 +334,7 @@
   },
   {
     "denom": "clina",
+    "origin_denom": "lina",
     "origin_chain": "ethereum",
     "origin_symbol": "LINA",
     "display_symbol": "Linear",
@@ -305,6 +343,7 @@
   },
   {
     "denom": "clink",
+    "origin_denom": "link",
     "origin_chain": "ethereum",
     "origin_symbol": "LINK",
     "display_symbol": "Chainlink",
@@ -313,6 +352,7 @@
   },
   {
     "denom": "clon",
+    "origin_denom": "lon",
     "origin_chain": "ethereum",
     "origin_symbol": "LON",
     "display_symbol": "Tokenlon",
@@ -321,6 +361,7 @@
   },
   {
     "denom": "clrc",
+    "origin_denom": "lrc",
     "origin_chain": "ethereum",
     "origin_symbol": "LRC",
     "display_symbol": "Loopring",
@@ -329,6 +370,7 @@
   },
   {
     "denom": "cmana",
+    "origin_denom": "mana",
     "origin_chain": "ethereum",
     "origin_symbol": "MANA",
     "display_symbol": "Decentraland",
@@ -337,6 +379,7 @@
   },
   {
     "denom": "cmatic",
+    "origin_denom": "matic",
     "origin_chain": "ethereum",
     "origin_symbol": "MATIC",
     "display_symbol": "MATIC",
@@ -345,6 +388,7 @@
   },
   {
     "denom": "cmetis",
+    "origin_denom": "metis",
     "origin_chain": "ethereum",
     "origin_symbol": "METIS",
     "display_symbol": "METIS",
@@ -353,6 +397,7 @@
   },
   {
     "denom": "cocean",
+    "origin_denom": "ocean",
     "origin_chain": "ethereum",
     "origin_symbol": "OCEAN",
     "display_symbol": "Ocean Protocol",
@@ -361,6 +406,7 @@
   },
   {
     "denom": "cogn",
+    "origin_denom": "ogn",
     "origin_chain": "ethereum",
     "origin_symbol": "OGN",
     "display_symbol": "Origin Protocol",
@@ -369,6 +415,7 @@
   },
   {
     "denom": "coh",
+    "origin_denom": "oh",
     "origin_chain": "ethereum",
     "origin_symbol": "OH",
     "display_symbol": "OH",
@@ -377,6 +424,7 @@
   },
   {
     "denom": "cpaid",
+    "origin_denom": "paid",
     "origin_chain": "ethereum",
     "origin_symbol": "PAID",
     "display_symbol": "PAID Network",
@@ -385,6 +433,7 @@
   },
   {
     "denom": "cpols",
+    "origin_denom": "pols",
     "origin_chain": "ethereum",
     "origin_symbol": "POLS",
     "display_symbol": "POLS",
@@ -393,6 +442,7 @@
   },
   {
     "denom": "cpond",
+    "origin_denom": "pond",
     "origin_chain": "ethereum",
     "origin_symbol": "POND",
     "display_symbol": "POND",
@@ -401,6 +451,7 @@
   },
   {
     "denom": "cquick",
+    "origin_denom": "quick",
     "origin_chain": "ethereum",
     "origin_symbol": "QUICK",
     "display_symbol": "QUICK",
@@ -409,6 +460,7 @@
   },
   {
     "denom": "crail",
+    "origin_denom": "rail",
     "origin_chain": "ethereum",
     "origin_symbol": "RAIL",
     "display_symbol": "RAIL",
@@ -417,6 +469,7 @@
   },
   {
     "denom": "cratom",
+    "origin_denom": "ratom",
     "origin_chain": "ethereum",
     "origin_symbol": "RATOM",
     "display_symbol": "RATOM",
@@ -425,6 +478,7 @@
   },
   {
     "denom": "creef",
+    "origin_denom": "reef",
     "origin_chain": "ethereum",
     "origin_symbol": "REEF",
     "display_symbol": "Reef Finance",
@@ -433,6 +487,7 @@
   },
   {
     "denom": "crfuel",
+    "origin_denom": "rfuel",
     "origin_chain": "ethereum",
     "origin_symbol": "RFUEL",
     "display_symbol": "RioDeFi",
@@ -441,6 +496,7 @@
   },
   {
     "denom": "crly",
+    "origin_denom": "rly",
     "origin_chain": "ethereum",
     "origin_symbol": "RLY",
     "display_symbol": "RLY",
@@ -449,6 +505,7 @@
   },
   {
     "denom": "crndr",
+    "origin_denom": "rndr",
     "origin_chain": "ethereum",
     "origin_symbol": "RNDR",
     "display_symbol": "Render Token",
@@ -457,6 +514,7 @@
   },
   {
     "denom": "crune",
+    "origin_denom": "rune",
     "origin_chain": "ethereum",
     "origin_symbol": "RUNE",
     "display_symbol": "THORChain",
@@ -465,6 +523,7 @@
   },
   {
     "denom": "csaito",
+    "origin_denom": "saito",
     "origin_chain": "ethereum",
     "origin_symbol": "SAITO",
     "display_symbol": "SAITO",
@@ -473,6 +532,7 @@
   },
   {
     "denom": "csand",
+    "origin_denom": "sand",
     "origin_chain": "ethereum",
     "origin_symbol": "SAND",
     "display_symbol": "SAND",
@@ -481,6 +541,7 @@
   },
   {
     "denom": "cshib",
+    "origin_denom": "shib",
     "origin_chain": "ethereum",
     "origin_symbol": "SHIB",
     "display_symbol": "Shiba Inu",
@@ -489,6 +550,7 @@
   },
   {
     "denom": "csnx",
+    "origin_denom": "snx",
     "origin_chain": "ethereum",
     "origin_symbol": "SNX",
     "display_symbol": "Synthetix Network Token",
@@ -497,6 +559,7 @@
   },
   {
     "denom": "csrm",
+    "origin_denom": "srm",
     "origin_chain": "ethereum",
     "origin_symbol": "SRM",
     "display_symbol": "Serum",
@@ -505,6 +568,7 @@
   },
   {
     "denom": "csusd",
+    "origin_denom": "susd",
     "origin_chain": "ethereum",
     "origin_symbol": "SUSD",
     "display_symbol": "Synth sUSD",
@@ -513,6 +577,7 @@
   },
   {
     "denom": "csushi",
+    "origin_denom": "sushi",
     "origin_chain": "ethereum",
     "origin_symbol": "SUSHI",
     "display_symbol": "Sushi Swap",
@@ -521,6 +586,7 @@
   },
   {
     "denom": "csxp",
+    "origin_denom": "sxp",
     "origin_chain": "ethereum",
     "origin_symbol": "SXP",
     "display_symbol": "Swipe",
@@ -529,6 +595,7 @@
   },
   {
     "denom": "ctidal",
+    "origin_denom": "tidal",
     "origin_chain": "ethereum",
     "origin_symbol": "TIDAL",
     "display_symbol": "Tidal Finance",
@@ -537,6 +604,7 @@
   },
   {
     "denom": "ctoke",
+    "origin_denom": "toke",
     "origin_chain": "ethereum",
     "origin_symbol": "TOKE",
     "display_symbol": "TOKE",
@@ -545,6 +613,7 @@
   },
   {
     "denom": "ctshp",
+    "origin_denom": "tshp",
     "origin_chain": "ethereum",
     "origin_symbol": "TSHP",
     "display_symbol": "12Ships",
@@ -553,6 +622,7 @@
   },
   {
     "denom": "ctusd",
+    "origin_denom": "tusd",
     "origin_chain": "ethereum",
     "origin_symbol": "TUSD",
     "display_symbol": "TrueUSD",
@@ -561,6 +631,7 @@
   },
   {
     "denom": "cufo",
+    "origin_denom": "ufo",
     "origin_chain": "ethereum",
     "origin_symbol": "UFO",
     "display_symbol": "UFO",
@@ -569,6 +640,7 @@
   },
   {
     "denom": "cuma",
+    "origin_denom": "uma",
     "origin_chain": "ethereum",
     "origin_symbol": "UMA",
     "display_symbol": "UMA",
@@ -577,6 +649,7 @@
   },
   {
     "denom": "cuni",
+    "origin_denom": "uni",
     "origin_chain": "ethereum",
     "origin_symbol": "UNI",
     "display_symbol": "Uniswap",
@@ -585,6 +658,7 @@
   },
   {
     "denom": "cusdc",
+    "origin_denom": "usdc",
     "origin_chain": "ethereum",
     "origin_symbol": "USDC",
     "display_symbol": "USD Coin",
@@ -593,6 +667,7 @@
   },
   {
     "denom": "cusdt",
+    "origin_denom": "usdt",
     "origin_chain": "ethereum",
     "origin_symbol": "USDT",
     "display_symbol": "Tether",
@@ -601,6 +676,7 @@
   },
   {
     "denom": "cust",
+    "origin_denom": "uusd",
     "origin_chain": "ethereum",
     "origin_symbol": "UST",
     "display_symbol": "UST",
@@ -609,6 +685,7 @@
   },
   {
     "denom": "cwbtc",
+    "origin_denom": "wbtc",
     "origin_chain": "ethereum",
     "origin_symbol": "WBTC",
     "display_symbol": "Wrapped Bitcoin",
@@ -617,6 +694,7 @@
   },
   {
     "denom": "cwfil",
+    "origin_denom": "wfil",
     "origin_chain": "ethereum",
     "origin_symbol": "WFIL",
     "display_symbol": "Wrapped Filecoin",
@@ -625,6 +703,7 @@
   },
   {
     "denom": "cwscrt",
+    "origin_denom": "wscrt",
     "origin_chain": "ethereum",
     "origin_symbol": "WSCRT",
     "display_symbol": "Secret",
@@ -633,6 +712,7 @@
   },
   {
     "denom": "cyfi",
+    "origin_denom": "yfi",
     "origin_chain": "ethereum",
     "origin_symbol": "YFI",
     "display_symbol": "yearn.finance",
@@ -641,6 +721,7 @@
   },
   {
     "denom": "czcn",
+    "origin_denom": "zcn",
     "origin_chain": "ethereum",
     "origin_symbol": "ZCN",
     "display_symbol": "ZCN",
@@ -649,6 +730,7 @@
   },
   {
     "denom": "czcx",
+    "origin_denom": "zcx",
     "origin_chain": "ethereum",
     "origin_symbol": "ZCX",
     "display_symbol": "ZCX",
@@ -657,6 +739,7 @@
   },
   {
     "denom": "czrx",
+    "origin_denom": "zrx",
     "origin_chain": "ethereum",
     "origin_symbol": "ZRX",
     "display_symbol": "0x",
