@@ -18,7 +18,8 @@
     "dp_denom": "osmo",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis/channel-10/gravity-bridge",
+    "description": "osmosis>gravity-bridge",
+    "channel": "channel-10",
     "image": "common/osmo.svg"
   },
   {
@@ -29,7 +30,8 @@
     "dp_denom": "ion",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis/channel-10/gravity-bridge",
+    "description": "osmosis>gravity-bridge",
+    "channel": "channel-10",
     "image": "common/ion.svg"
   },
   {
@@ -40,7 +42,8 @@
     "dp_denom": "atom",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos/channel-17/gravity-bridge",
+    "description": "cosmos>gravity-bridge",
+    "channel": "channel-17",
     "image": "common/atom.svg"
   },
   {
@@ -51,7 +54,8 @@
     "dp_denom": "nym",
     "origin_chain": "nyx",
     "decimal": 6,
-    "description": "nyx/channel-18/gravity-bridge",
+    "description": "nyx>gravity-bridge",
+    "channel": "channel-18",
     "image": "common/nyx.svg"
   },
   {
@@ -62,7 +66,8 @@
     "dp_denom": "xprt",
     "origin_chain": "persistence",
     "decimal": 6,
-    "description": "persistence/channel-24/gravity-bridge",
+    "description": "persistence>gravity-bridge",
+    "channel": "channel-24",
     "image": "common/xprt.svg"
   },
   {
@@ -73,7 +78,8 @@
     "dp_denom": "huahua",
     "origin_chain": "chihuahua",
     "decimal": 6,
-    "description": "chihuahua/channel-34/gravity-bridge",
+    "description": "chihuahua>gravity-bridge",
+    "channel": "channel-34",
     "image": "common/huahua.svg"
   },
   {
@@ -84,7 +90,8 @@
     "dp_denom": "cheq",
     "origin_chain": "cheqd",
     "decimal": 8,
-    "description": "cheqd/channel-43/gravity-bridge",
+    "description": "cheqd>gravity-bridge",
+    "channel": "channel-43",
     "image": "common/cheq.svg"
   },
   {
@@ -95,7 +102,8 @@
     "dp_denom": "iris",
     "origin_chain": "iris",
     "decimal": 6,
-    "description": "iris/channel-47/gravity-bridge",
+    "description": "iris>gravity-bridge",
+    "channel": "channel-47",
     "image": "common/iris.svg"
   },
   {
@@ -106,7 +114,8 @@
     "dp_denom": "stars",
     "origin_chain": "stargaze",
     "decimal": 6,
-    "description": "stargaze/channel-7/gravity-bridge",
+    "description": "stargaze>gravity-bridge",
+    "channel": "channel-7",
     "image": "common/stars.svg"
   },
   {
@@ -117,7 +126,8 @@
     "dp_denom": "stars",
     "origin_chain": "stargaze",
     "decimal": 6,
-    "description": "stargaze/channel-7/gravity-bridge",
+    "description": "stargaze>gravity-bridge",
+    "channel": "channel-7",
     "image": "common/stars.svg"
   },
   {
@@ -125,7 +135,7 @@
     "type": "bridge",
     "base_denom": "weth",
     "base_type": "erc20",
-    "dp_denom": "WETH",
+    "dp_denom": "weth",
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>gravity-bridge",
@@ -137,7 +147,7 @@
     "type": "bridge",
     "base_denom": "usdc",
     "base_type": "erc20",
-    "dp_denom": "USDC",
+    "dp_denom": "usdc",
     "origin_chain": "ethereum",
     "decimal": 6,
     "description": "ethereum>gravity-bridge",
@@ -149,7 +159,7 @@
     "type": "bridge",
     "base_denom": "dai",
     "base_type": "erc20",
-    "dp_denom": "DAI",
+    "dp_denom": "dai",
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>gravity-bridge",
@@ -162,7 +172,7 @@
     "type": "bridge",
     "base_denom": "uni",
     "base_type": "erc20",
-    "dp_denom": "UNI",
+    "dp_denom": "uni",
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>gravity-bridge",
@@ -174,7 +184,7 @@
     "type": "bridge",
     "base_denom": "paxg",
     "base_type": "erc20",
-    "dp_denom": "PAXG",
+    "dp_denom": "paxg",
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>gravity-bridge",
@@ -186,7 +196,7 @@
     "type": "bridge",
     "base_denom": "storj",
     "base_type": "erc20",
-    "dp_denom": "STORJ",
+    "dp_denom": "storj",
     "origin_chain": "ethereum",
     "decimal": 8,
     "description": "ethereum>gravity-bridge",
@@ -198,7 +208,7 @@
     "type": "bridge",
     "base_denom": "steth",
     "base_type": "erc20",
-    "dp_denom": "STETH",
+    "dp_denom": "steth",
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>gravity-bridge",
@@ -210,7 +220,7 @@
     "type": "bridge",
     "base_denom": "pstake",
     "base_type": "erc20",
-    "dp_denom": "PSTAKE",
+    "dp_denom": "pstake",
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>gravity-bridge",
@@ -222,7 +232,7 @@
     "type": "bridge",
     "base_denom": "usdt",
     "base_type": "erc20",
-    "dp_denom": "USDT",
+    "dp_denom": "usdt",
     "origin_chain": "ethereum",
     "decimal": 6,
     "description": "ethereum>gravity-bridge",

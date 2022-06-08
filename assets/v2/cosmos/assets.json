@@ -183,7 +183,8 @@
     "dp_denom": "osmo",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis/channel-141/cosmos",
+    "description": "osmosis>cosmos",
+    "channel": "channel-141",
     "image": "common/osmo.svg"
   },
   {
@@ -194,7 +195,8 @@
     "dp_denom": "ion",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis/channel-141/cosmos",
+    "description": "osmosis>cosmos",
+    "channel": "channel-141",
     "image": "common/ion.svg"
   },
   {
@@ -205,7 +207,8 @@
     "dp_denom": "iov",
     "origin_chain": "starname",
     "decimal": 6,
-    "description": "starname/channel-158/cosmos",
+    "description": "starname>cosmos",
+    "channel": "channel-158",
     "image": "common/iov.svg"
   },
   {
@@ -216,7 +219,8 @@
     "dp_denom": "iris",
     "origin_chain": "iris",
     "decimal": 6,
-    "description": "iris/channel-182/cosmos",
+    "description": "iris>cosmos",
+    "channel": "channel-182",
     "image": "common/iris.svg"
   },
   {
@@ -227,7 +231,8 @@
     "dp_denom": "akt",
     "origin_chain": "akash",
     "decimal": 6,
-    "description": "akash/channel-184/cosmos",
+    "description": "akash>cosmos",
+    "channel": "channel-184",
     "image": "common/akt.svg"
   },
   {
@@ -238,7 +243,8 @@
     "dp_denom": "regen",
     "origin_chain": "regen",
     "decimal": 6,
-    "description": "regen/channel-185/cosmos",
+    "description": "regen>cosmos",
+    "channel": "channel-185",
     "image": "common/regen.svg"
   },
   {
@@ -249,7 +255,8 @@
     "dp_denom": "dvpn",
     "origin_chain": "sentinel",
     "decimal": 6,
-    "description": "sentinel/channel-186/cosmos",
+    "description": "sentinel>cosmos",
+    "channel": "channel-186",
     "image": "common/dvpn.svg"
   },
   {
@@ -260,7 +267,8 @@
     "dp_denom": "cro",
     "origin_chain": "cryptoorg",
     "decimal": 8,
-    "description": "cryptoorg/channel-187/cosmos",
+    "description": "cryptoorg>cosmos",
+    "channel": "channel-187",
     "image": "common/cro.svg"
   },
   {
@@ -271,7 +279,8 @@
     "dp_denom": "xprt",
     "origin_chain": "persistence",
     "decimal": 6,
-    "description": "persistence/channel-190/cosmos",
+    "description": "persistence>cosmos",
+    "channel": "channel-190",
     "image": "common/xprt.svg"
   },
   {
@@ -282,7 +291,8 @@
     "dp_denom": "rowan",
     "origin_chain": "sifchain",
     "decimal": 10,
-    "description": "sifchain/channel-192/cosmos",
+    "description": "sifchain>cosmos",
+    "channel": "channel-192",
     "image": "common/rowan.svg"
   },
   {
@@ -293,7 +303,8 @@
     "dp_denom": "eeur",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney/channel-202/cosmos",
+    "description": "emoney>cosmos",
+    "channel": "channel-202",
     "image": "emoney/eeur.png"
   },
   {
@@ -304,7 +315,8 @@
     "dp_denom": "ngm",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney/channel-202/cosmos",
+    "description": "emoney>cosmos",
+    "channel": "channel-202",
     "image": "common/ngm.svg"
   },
   {
@@ -315,7 +327,8 @@
     "dp_denom": "ixo",
     "origin_chain": "ixo",
     "decimal": 6,
-    "description": "ixo/channel-204/cosmos",
+    "description": "ixo>cosmos",
+    "channel": "channel-204",
     "image": "common/ibc-ixo.png"
   },
   {
@@ -326,7 +339,8 @@
     "dp_denom": "juno",
     "origin_chain": "juno",
     "decimal": 6,
-    "description": "juno/channel-207/cosmos",
+    "description": "juno>cosmos",
+    "channel": "channel-207",
     "image": "common/juno.svg"
   },
   {
@@ -337,7 +351,8 @@
     "dp_denom": "like",
     "origin_chain": "like",
     "decimal": 9,
-    "description": "like/channel-217/cosmos",
+    "description": "like>cosmos",
+    "channel": "channel-217",
     "image": "common/ibc-like.png"
   },
   {
@@ -348,7 +363,8 @@
     "dp_denom": "inj",
     "origin_chain": "injective",
     "decimal": 18,
-    "description": "injective/channel-220/cosmos",
+    "description": "injective>cosmos",
+    "channel": "channel-220",
     "image": "common/inj.svg"
   },
   {
@@ -359,7 +375,8 @@
     "dp_denom": "xki",
     "origin_chain": "kichain",
     "decimal": 6,
-    "description": "kichain/channel-223/cosmos",
+    "description": "kichain>cosmos",
+    "channel": "channel-223",
     "image": "common/xki.svg"
   },
   {
@@ -370,7 +387,8 @@
     "dp_denom": "btsg",
     "origin_chain": "bitsong",
     "decimal": 6,
-    "description": "bitsong/channel-229/cosmos",
+    "description": "bitsong>cosmos",
+    "channel": "channel-229",
     "image": "common/btsg.svg"
   },
   {
@@ -381,7 +399,8 @@
     "dp_denom": "bcna",
     "origin_chain": "bitcanna",
     "decimal": 6,
-    "description": "bitcanna/channel-232/cosmos",
+    "description": "bitcanna>cosmos",
+    "channel": "channel-232",
     "image": "common/bcna.svg"
   },
   {
@@ -392,7 +411,8 @@
     "dp_denom": "kava",
     "origin_chain": "kava",
     "decimal": 6,
-    "description": "kava/channel-277/cosmos",
+    "description": "kava>cosmos",
+    "channel": "channel-277",
     "image": "common/kava.svg"
   },
   {
@@ -403,7 +423,8 @@
     "dp_denom": "atolo",
     "origin_chain": "rizon",
     "decimal": 6,
-    "description": "rizon/channel-313/cosmos",
+    "description": "rizon>cosmos",
+    "channel": "channel-313",
     "image": "common/atolo.svg"
   },
   {
@@ -414,7 +435,8 @@
     "dp_denom": "cre",
     "origin_chain": "crescent",
     "decimal": 6,
-    "description": "crescent/channel-326/cosmos",
+    "description": "crescent>cosmos",
+    "channel": "channel-326",
     "image": "common/cre.svg"
   }
 ]
