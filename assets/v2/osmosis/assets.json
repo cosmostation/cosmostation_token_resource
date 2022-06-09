@@ -627,17 +627,5 @@
     "description": "bostrom>osmosis",
     "channel": "channel-95",
     "image": "common/ibc-boot.png"
-  },
-  {
-    "denom": "ibc/FE2CD1E6828EC0FAB8AF39BAC45BC25B965BA67CCBC50C13A14BD610B0D1E2C4",
-    "type": "ibc",
-    "base_denom": "boot",
-    "base_type": "staking",
-    "dp_denom": "boot",
-    "origin_chain": "bostrom",
-    "decimal": 6,
-    "description": "bostrom>osmosis",
-    "channel": "channel-95",
-    "image": "common/ibc-boot.png"
   }
 ]
