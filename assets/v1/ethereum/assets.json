@@ -5,7 +5,8 @@
     "name": "WETH",
     "displayDenom": "WETH",
     "decimals": 18,
-    "image": "weth.png"
+    "image": "weth.png",
+    "coinGeckoId": "weth"
   },
   {
     "tokenType": "ERC20",
@@ -13,7 +14,8 @@
     "name": "TrueUSD",
     "displayDenom": "TUSD",
     "decimals": 18,
-    "image": "tusd.png"
+    "image": "tusd.png",
+    "coinGeckoId": "true-usd"
   },
   {
     "tokenType": "ERC20",
@@ -1445,7 +1447,8 @@
     "name": "USD Coin",
     "displayDenom": "USDC",
     "decimals": 6,
-    "image": "usdc.png"
+    "image": "usdc.png",
+    "coinGeckoId": "usd-coin"
   },
   {
     "tokenType": "ERC20",
