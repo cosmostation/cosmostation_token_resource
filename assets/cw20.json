@@ -64,6 +64,13 @@
   },
   {
     "chain": "juno",
+    "contract_address": "juno1y9rf7ql6ffwkv02hsgd4yruz23pn4w97p75e2slsnkm0mnamhzysvqnxaq",
+    "symbol": "block",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/block.png"
+  },
+  {
+    "chain": "juno",
     "contract_address": "juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z",
     "symbol": "hope",
     "decimal": 6,
