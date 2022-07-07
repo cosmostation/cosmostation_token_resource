@@ -86,7 +86,7 @@
     "denom": "ibc/B9F7C1E4CE9219B5AF06C47B18661DBD49CCD7A6C18FF789E2FB62BB365CFF9C",
     "type": "ibc",
     "base_denom": "eeur",
-    "base_type": "staking",
+    "base_type": "native",
     "dp_denom": "eeur",
     "origin_chain": "emoney",
     "decimal": 6,
