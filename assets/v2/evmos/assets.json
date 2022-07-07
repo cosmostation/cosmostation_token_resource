@@ -1,0 +1,49 @@
+[
+  {
+    "denom": "aevmos",
+    "type": "staking",
+    "base_denom": "aevmos",
+    "base_type": "staking",
+    "dp_denom": "evmos",
+    "origin_chain": "evmos",
+    "decimal": 6,
+    "description": "Evmos Staking Coin",
+    "image": "common/evmos.png"
+  },
+  {
+    "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ion",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "description": "osmosis>evmos",
+    "channel": "channel-0",
+    "image": "osmosis/ion.png"
+  },
+  {
+    "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "osmo",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "description": "osmosis>evmos",
+    "channel": "channel-0",
+    "image": "common/osmo.png"
+  },
+  {
+    "denom": "ibc/A4DB47A9D3CF9A068D454513891B526702455D3EF08FB9EB558C561F9DC2B701",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "atom",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "description": "cosmos>evmos",
+    "channel": "channel-3",
+    "image": "common/atom.png"
+  }
+]
