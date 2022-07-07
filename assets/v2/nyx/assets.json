@@ -1,0 +1,36 @@
+[
+  {
+    "denom": "unyx",
+    "type": "staking",
+    "base_denom": "unyx",
+    "base_type": "staking",
+    "dp_denom": "nyx",
+    "origin_chain": "nyx",
+    "decimal": 6,
+    "description": "Nyx Staking Coin",
+    "image": "common/nyx.png"
+  },
+  {
+    "denom": "unym",
+    "type": "native",
+    "base_denom": "unym",
+    "base_type": "native",
+    "dp_denom": "nym",
+    "origin_chain": "nyx",
+    "decimal": 6,
+    "description": "Native Coin",
+    "image": "nyx/nym.png"
+  },
+  {
+    "denom": "ibc/FC9D92EC12BC974E8B6179D411351524CD5C2EBC3CE29D5BA856414FEFA47093",
+    "type": "ibc",
+    "base_denom": "ugraviton",
+    "base_type": "staking",
+    "dp_denom": "grav",
+    "origin_chain": "gravity-bridge",
+    "decimal": 6,
+    "description": "gravity-bridge>nyx",
+    "channel": "channel-0",
+    "image": "common/grav.png"
+  }
+]
