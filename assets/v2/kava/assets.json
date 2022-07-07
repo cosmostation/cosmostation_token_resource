@@ -1,0 +1,57 @@
+[
+  {
+    "denom": "ukava",
+    "type": "staking",
+    "base_denom": "ukava",
+    "base_type": "staking",
+    "dp_denom": "kava",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "Kava Staking Coin",
+    "image": "common/kava.png"
+  },
+  {
+    "denom": "swp",
+    "type": "native",
+    "base_denom": "swp",
+    "base_type": "native",
+    "dp_denom": "swp",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "Kava Swap Coin",
+    "image": "kava/swp.png"
+  },
+  {
+    "denom": "usdx",
+    "type": "native",
+    "base_denom": "usdx",
+    "base_type": "native",
+    "dp_denom": "usdx",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "USD Stable Asset",
+    "image": "kava/usdx.png"
+  },
+  {
+    "denom": "hard",
+    "type": "native",
+    "base_denom": "hard",
+    "base_type": "native",
+    "dp_denom": "hard",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "HardPool Gov. Coin",
+    "image": "kava/hard.png"
+  },
+  {
+    "denom": "debt",
+    "type": "native",
+    "base_denom": "debt",
+    "base_type": "native",
+    "dp_denom": "debt",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "System Total Debt",
+    "image": "kava/debt.png"
+  }
+]
