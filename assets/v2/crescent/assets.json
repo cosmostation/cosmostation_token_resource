@@ -1,0 +1,96 @@
+[
+  {
+    "denom": "ucre",
+    "type": "staking",
+    "base_denom": "ucre",
+    "base_type": "staking",
+    "dp_denom": "cre",
+    "origin_chain": "crescent",
+    "decimal": 6,
+    "description": "Crescent Staking Coin",
+    "image": "common/cre.png"
+  },
+  {
+    "denom": "ubcre",
+    "type": "native",
+    "base_denom": "ubcre",
+    "base_type": "native",
+    "dp_denom": "bcre",
+    "origin_chain": "crescent",
+    "decimal": 6,
+    "description": "Crescent Liquidated CRE",
+    "image": "crescent/bcre.png"
+  },
+  {
+    "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "atom",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "description": "cosmos>crescent",
+    "channel": "channel-1",
+    "image": "common/atom.png"
+  },
+  {
+    "denom": "ibc/C950356239AD2A205DE09FDF066B1F9FF19A7CA7145EA48A5B19B76EE47E52F7",
+    "type": "ibc",
+    "base_denom": "ugraviton",
+    "base_type": "staking",
+    "dp_denom": "grav",
+    "origin_chain": "gravity-bridge",
+    "decimal": 6,
+    "description": "gravity-bridge>crescent",
+    "channel": "channel-2",
+    "image": "common/grav.png"
+  },
+  {
+    "denom": "ibc/DBF5FA602C46392DE9F4796A0FC7D02F3A8A3D32CA3FAA50B761D4AA6F619E95",
+    "type": "ibc",
+    "base_denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "base_type": "bridge",
+    "dp_denom": "weth",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "description": "ethereum>gravity-bridge>crescent",
+    "channel": "channel-2",
+    "image": "ethereum/weth.png"
+  },
+  {
+    "denom": "ibc/CD01034D6749F20AAC5330EF4FD8B8CA7C40F7527AB8C4A302FBD2A070852EE1",
+    "type": "ibc",
+    "base_denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "base_type": "bridge",
+    "dp_denom": "udsc",
+    "origin_chain": "ethereum",
+    "decimal": 6,
+    "description": "ethereum>gravity-bridge>crescent",
+    "channel": "channel-2",
+    "image": "ethereum/udsc.png"
+  },
+  {
+    "denom": "ibc/F1806958CA98757B91C3FA1573ECECD24F6FA3804F074A6977658914A49E65A3",
+    "type": "ibc",
+    "base_denom": "weth-wei",
+    "base_type": "bridge",
+    "dp_denom": "weth",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "description": "ethereum>axelar>crescent",
+    "channel": "channel-4",
+    "image": "ethereum/weth.png"
+  },
+  {
+    "denom": "ibc/BFF0D3805B50D93E2FA5C0B2DDF7E0B30A631076CD80BC12A48C0E95404B4A41",
+    "type": "ibc",
+    "base_denom": "uusdc",
+    "base_type": "bridge",
+    "dp_denom": "udsc",
+    "origin_chain": "ethereum",
+    "decimal": 6,
+    "description": "ethereum>axelar>crescent",
+    "channel": "channel-4",
+    "image": "ethereum/udsc.png"
+  }
+]
