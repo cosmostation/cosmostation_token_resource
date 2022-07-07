@@ -82,5 +82,12 @@
     "symbol": "raw",
     "decimal": 6,
     "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/Raw.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1cltgm8v842gu54srmejewghnd6uqa26lzkpa635wzra9m9xuudkqa2gtcz",
+    "symbol": "fury",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/assets/images/juno/fanfury.png"
   }
 ]
