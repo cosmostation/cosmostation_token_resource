@@ -1,0 +1,24 @@
+[
+  {
+    "denom": "afet",
+    "type": "staking",
+    "base_denom": "afet",
+    "base_type": "staking",
+    "dp_denom": "fet",
+    "origin_chain": "fetchai",
+    "decimal": 6,
+    "description": "Fetch.ai Staking Coin",
+    "image": "common/fet.png"
+  },
+  {
+    "denom": "mobx",
+    "type": "native",
+    "base_denom": "mobx",
+    "base_type": "native",
+    "dp_denom": "mobx",
+    "origin_chain": "fetchai",
+    "decimal": 6,
+    "description": "Native Coin",
+    "image": "fetchai/mobx.png"
+  }
+]
