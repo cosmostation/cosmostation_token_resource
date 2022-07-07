@@ -92,7 +92,7 @@
     "decimal": 6,
     "description": "emoney>juno",
     "channel": "channel-9",
-    "image": "common/osmo.png"
+    "image": "emoney/eeur.png"
   },
   {
     "denom": "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898",
