@@ -23,18 +23,6 @@
     "image": "common/osmo.png"
   },
   {
-    "denom": "ibc/",
-    "type": "ibc",
-    "base_denom": "uosmo",
-    "base_type": "staking",
-    "dp_denom": "osmo",
-    "origin_chain": "osmosis",
-    "decimal": 6,
-    "description": "osmosis>juno",
-    "channel": "channel-0",
-    "image": "common/osmo.png"
-  },
-  {
     "denom": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B",
     "type": "ibc",
     "base_denom": "ubtsg",
