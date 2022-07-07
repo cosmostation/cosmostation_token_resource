@@ -5,7 +5,7 @@
     "base_denom": "umntl",
     "base_type": "staking",
     "dp_denom": "mntl",
-    "origin_chain": "mntl",
+    "origin_chain": "asset-mantle",
     "decimal": 6,
     "description": "AssetMantle Staking Coin",
     "image": "common/mntl.png"
