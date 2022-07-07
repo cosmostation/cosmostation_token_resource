@@ -1,0 +1,25 @@
+[
+  {
+    "denom": "umntl",
+    "type": "staking",
+    "base_denom": "umntl",
+    "base_type": "staking",
+    "dp_denom": "mntl",
+    "origin_chain": "mntl",
+    "decimal": 6,
+    "description": "AssetMantle Staking Coin",
+    "image": "common/mntl.png"
+  },
+  {
+    "denom": "ibc/B4F8297D4C270E82BDF11D51FD51A9FD23B0958B98B1E08346477452119E7D70",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "osmo",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "description": "osmosis>akash",
+    "channel": "channel-9",
+    "image": "commom/osmo.png"
+  }
+]
