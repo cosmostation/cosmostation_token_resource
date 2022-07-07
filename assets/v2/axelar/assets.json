@@ -1,0 +1,85 @@
+[
+  {
+    "denom": "uaxl",
+    "type": "staking",
+    "base_denom": "uaxl",
+    "base_type": "staking",
+    "dp_denom": "axl",
+    "origin_chain": "axelar",
+    "decimal": 6,
+    "description": "Axelar Staking Coin",
+    "image": "common/axl.png"
+  },
+  {
+    "denom": "ibc/ACD9A665DB6C19EC1D057A43D468E324CA9FB9C5ABF82235815F7B7745A15B80",
+    "type": "ibc",
+    "base_denom": "ungm",
+    "base_type": "staking",
+    "dp_denom": "ngm",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "description": "emoney>axelar",
+    "channel": "channel-6",
+    "image": "commom/ngm.png"
+  },
+  {
+    "denom": "ibc/373EF14936B38AC8F8A7E7024C0FB7099369FDDFDA3CDA9EFA73684B16249B64",
+    "type": "ibc",
+    "base_denom": "eeur",
+    "base_type": "native",
+    "dp_denom": "eeur",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "description": "emoney>axelar",
+    "channel": "channel-6",
+    "image": "emoney/eeur.png"
+  },
+  {
+    "denom": "ibc/2ED9C8628F4F8E7B9308E9536E6A6683AC309668278BE15A9A0834305D05FEB8",
+    "type": "ibc",
+    "base_denom": "enok",
+    "base_type": "native",
+    "dp_denom": "enok",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "description": "emoney>axelar",
+    "channel": "channel-6",
+    "image": "emoney/enok.png"
+  },
+  {
+    "denom": "ibc/8AB63045FD5AC383AB262B303B80EE05564DEE775CE0F800560864358A565AC7",
+    "type": "ibc",
+    "base_denom": "esek",
+    "base_type": "native",
+    "dp_denom": "esek",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "description": "emoney>axelar",
+    "channel": "channel-6",
+    "image": "emoney/esek.png"
+  },
+  {
+    "denom": "ibc/070BC757491B68B55BE06136B5EE317B15C3D16F71CC4F4AB45AD2E2CB1BEF16",
+    "type": "ibc",
+    "base_denom": "echf",
+    "base_type": "native",
+    "dp_denom": "echf",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "description": "emoney>axelar",
+    "channel": "channel-6",
+    "image": "emoney/echf.png"
+  },
+  {
+    "denom": "ibc/FF8354E18037DB52CD6DE68E28F880A7764ED214A877F528F8C6E81D6BD5C8B3",
+    "type": "ibc",
+    "base_denom": "edkk",
+    "base_type": "native",
+    "dp_denom": "edkk",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "description": "emoney>axelar",
+    "channel": "channel-6",
+    "image": "emoney/edkk.png"
+  }
+]

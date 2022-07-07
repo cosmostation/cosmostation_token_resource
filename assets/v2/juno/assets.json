@@ -23,18 +23,6 @@
     "image": "common/osmo.png"
   },
   {
-    "denom": "ibc/",
-    "type": "ibc",
-    "base_denom": "uosmo",
-    "base_type": "staking",
-    "dp_denom": "osmo",
-    "origin_chain": "osmosis",
-    "decimal": 6,
-    "description": "osmosis>juno",
-    "channel": "channel-0",
-    "image": "common/osmo.png"
-  },
-  {
     "denom": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B",
     "type": "ibc",
     "base_denom": "ubtsg",
@@ -98,13 +86,13 @@
     "denom": "ibc/B9F7C1E4CE9219B5AF06C47B18661DBD49CCD7A6C18FF789E2FB62BB365CFF9C",
     "type": "ibc",
     "base_denom": "eeur",
-    "base_type": "staking",
+    "base_type": "native",
     "dp_denom": "eeur",
     "origin_chain": "emoney",
     "decimal": 6,
     "description": "emoney>juno",
     "channel": "channel-9",
-    "image": "common/osmo.png"
+    "image": "emoney/eeur.png"
   },
   {
     "denom": "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898",
