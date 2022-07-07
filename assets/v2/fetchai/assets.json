@@ -6,7 +6,7 @@
     "base_type": "staking",
     "dp_denom": "fet",
     "origin_chain": "fetchai",
-    "decimal": 6,
+    "decimal": 18,
     "description": "Fetch.ai Staking Coin",
     "image": "common/fet.png"
   },
@@ -17,7 +17,7 @@
     "base_type": "native",
     "dp_denom": "mobx",
     "origin_chain": "fetchai",
-    "decimal": 6,
+    "decimal": 9,
     "description": "Native Coin",
     "image": "fetchai/mobx.png"
   }
