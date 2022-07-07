@@ -1,0 +1,13 @@
+[
+  {
+    "denom": "udarc",
+    "type": "staking",
+    "base_denom": "udarc",
+    "base_type": "staking",
+    "dp_denom": "darc",
+    "origin_chain": "konstellation",
+    "decimal": 6,
+    "description": "Konstellation Staking Coin",
+    "image": "common/darc.png"
+  }
+]
