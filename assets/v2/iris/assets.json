@@ -8,7 +8,7 @@
     "origin_chain": "iris",
     "decimal": 6,
     "description": "Iris Staking Coin",
-    "image": "common/iris.svg"
+    "image": "common/iris.png"
   },
   {
     "denom": "uwdt",
@@ -19,7 +19,7 @@
     "origin_chain": "iris",
     "decimal": 6,
     "description": "Native Coin",
-    "image": "iris/wdt.svg"
+    "image": "iris/wdt.png"
   },
   {
     "denom": "htltbcbnb",
@@ -30,7 +30,7 @@
     "origin_chain": "iris",
     "decimal": 6,
     "description": "HTLT Coin",
-    "image": "iris/bnb.png"
+    "image": "bnb-beacon-chain/bnb.png"
   },
   {
     "denom": "htltbcbusd",
@@ -41,7 +41,7 @@
     "origin_chain": "iris",
     "decimal": 6,
     "description": "HTLT Coin",
-    "image": "iris/busd.png"
+    "image": "bnb-beacon-chain/busd.png"
   },
   {
     "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
@@ -53,7 +53,7 @@
     "decimal": 6,
     "description": "cosmos>iris",
     "channel": "channel-12",
-    "image": "commom/atom.svg"
+    "image": "commom/atom.png"
   },
   {
     "denom": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
@@ -65,7 +65,7 @@
     "decimal": 6,
     "description": "osmosis>iris",
     "channel": "channel-3",
-    "image": "commom/osmo.svg"
+    "image": "commom/osmo.png"
   },
   {
     "denom": "ibc/6CDA7F7E4DDB86FD275A986E78F13DF2FC500E3FEC2149E2215061FA51BB8C5D",
@@ -77,7 +77,7 @@
     "decimal": 6,
     "description": "osmosis>iris",
     "channel": "channel-3",
-    "image": "commom/ion.svg"
+    "image": "osmosis/ion.png"
   },
   {
     "denom": "ibc/A5A5EBF3B7A180FBA2A3CE133153F5B904AA8B085691F66A15BE8156B6722652",
