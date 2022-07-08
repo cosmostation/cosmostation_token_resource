@@ -8,7 +8,7 @@
     "origin_chain": "gravity-bridge",
     "decimal": 6,
     "description": "Gravity-bridge Staking Coin",
-    "image": "common/graviton.svg"
+    "image": "common/grav.png"
   },
   {
     "denom": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
@@ -20,7 +20,7 @@
     "decimal": 6,
     "description": "osmosis>gravity-bridge",
     "channel": "channel-10",
-    "image": "common/osmo.svg"
+    "image": "common/osmo.png"
   },
   {
     "denom": "ibc/0433997003A2CFE10E483B93743BEC37F2F13B89854FD69599482E6DB8E6CE22",
@@ -32,7 +32,7 @@
     "decimal": 6,
     "description": "osmosis>gravity-bridge",
     "channel": "channel-10",
-    "image": "common/ion.svg"
+    "image": "osmosis/ion.png"
   },
   {
     "denom": "ibc/2E5D0AC026AC1AFA65A23023BA4F24BB8DDF94F118EDC0BAD6F625BFC557CDED",
@@ -44,7 +44,7 @@
     "decimal": 6,
     "description": "cosmos>gravity-bridge",
     "channel": "channel-17",
-    "image": "common/atom.svg"
+    "image": "common/atom.png"
   },
   {
     "denom": "ibc/0C273962C274B2C05B22D9474BFE5B84D6A6FCAD198CB9B0ACD35EA521A36606",
@@ -56,7 +56,7 @@
     "decimal": 6,
     "description": "nyx>gravity-bridge",
     "channel": "channel-18",
-    "image": "common/nyx.svg"
+    "image": "common/nym.png"
   },
   {
     "denom": "ibc/74A48437840E981DD7789856D97EE5E3751DF474D22EDCD66DB046AF0B725A64",
@@ -68,7 +68,7 @@
     "decimal": 6,
     "description": "persistence>gravity-bridge",
     "channel": "channel-24",
-    "image": "common/xprt.svg"
+    "image": "common/xprt.png"
   },
   {
     "denom": "ibc/048BE20AE2E6BFD4142C547E04F17E5F94363003A12B7B6C084E08101BFCF7D1",
@@ -80,7 +80,7 @@
     "decimal": 6,
     "description": "chihuahua>gravity-bridge",
     "channel": "channel-34",
-    "image": "common/huahua.svg"
+    "image": "common/huahua.png"
   },
   {
     "denom": "ibc/5012B1C96F286E8A6604A87037CE51241C6F1CA195B71D1E261FCACB69FB6BC2",
@@ -92,7 +92,7 @@
     "decimal": 8,
     "description": "cheqd>gravity-bridge",
     "channel": "channel-43",
-    "image": "common/cheq.svg"
+    "image": "common/cheq.png"
   },
   {
     "denom": "ibc/3D5109BC236E6BD75F90CC03A5B7AA360FF3CB3F535B662227CEE78E83477AD9",
@@ -104,7 +104,7 @@
     "decimal": 6,
     "description": "iris>gravity-bridge",
     "channel": "channel-47",
-    "image": "common/iris.svg"
+    "image": "common/iris.png"
   },
   {
     "denom": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
@@ -116,19 +116,7 @@
     "decimal": 6,
     "description": "stargaze>gravity-bridge",
     "channel": "channel-7",
-    "image": "common/stars.svg"
-  },
-  {
-    "denom": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
-    "type": "ibc",
-    "base_denom": "ustars",
-    "base_type": "staking",
-    "dp_denom": "stars",
-    "origin_chain": "stargaze",
-    "decimal": 6,
-    "description": "stargaze>gravity-bridge",
-    "channel": "channel-7",
-    "image": "common/stars.svg"
+    "image": "common/stars.png"
   },
   {
     "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -166,7 +154,6 @@
     "image": "ethereum/dai.png",
     "contract": "0x6b175474e89094c44da98b954eedeac495271d0f"
   },
-
   {
     "denom": "gravity0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
     "type": "bridge",
