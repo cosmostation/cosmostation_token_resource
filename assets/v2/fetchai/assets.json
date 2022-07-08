@@ -11,9 +11,9 @@
     "image": "common/fet.png"
   },
   {
-    "denom": "mobx",
+    "denom": "nanomobx",
     "type": "native",
-    "base_denom": "mobx",
+    "base_denom": "nanomobx",
     "base_type": "native",
     "dp_denom": "mobx",
     "origin_chain": "fetchai",
