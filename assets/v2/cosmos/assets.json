@@ -8,7 +8,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "Cosmos Staking Coin",
-    "image": "common/atom.svg"
+    "image": "common/atom.png"
   },
   {
     "denom": "poolDFB8434D5A80B4EAFA94B6878BD5B85265AC6C5D37204AB899B1C3C52543DA7E",
@@ -19,7 +19,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/1",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "poolE71FE13681A283B7015E4E4C4852B0EDA72CC97A5CDE2ECA2A6C8C06C86AC775",
@@ -30,7 +30,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/2",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "poolD639A99414646D7136C65C6845D0EB3456EDD3D6C2C43050D3FA3A24995B0E75",
@@ -41,7 +41,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/3",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "pool2B9C24833CAA268C9081EC251693A724E8D343FC25A841FF00FD37B047BA4DEA",
@@ -52,7 +52,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/4",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "pool32DD066BE949E5FDCC7DC09EBB67C7301D0CA957C2EF56A39B37430165447DAC",
@@ -63,7 +63,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/5",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "pool4BFAFC499776D30A4FA0D6033135F00CC4EFC770D19A74CAD37433B579F77FC0",
@@ -74,7 +74,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/6",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "pool7AE391C099D1D88CC85A9FA8A0DC5650BF8DDE0DCE7D0824C073802C020A7747",
@@ -85,7 +85,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/7",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "poolF2805980C54E1474BDCCF70EF5FE881F3B8EFCF8BA3198765C01D91904521788",
@@ -96,7 +96,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/8",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "poolBD5F1AF7A8B1F068C178F1D637DF126968EC10AB204A10116E320B2B8AF4FAC2",
@@ -107,7 +107,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/9",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "poolB457CE9240C221C0F76952FED6506F74375EDD38B32A6020B7DDDFD5A4867D5C",
@@ -118,7 +118,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/10",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "poolD1121E78E731AFD35FEA13CF9FA0044A1472F73A0EE784160CCAAAAE5C7AAD7E",
@@ -129,7 +129,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/11",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "pool60EFB07817D6B193A9FADA611404B8E11D82D6B7F0D10D57D3134C93E2BF7414",
@@ -140,7 +140,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/12",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "poolCF8B847997F5EB92B9C8DBAE41656F61D6BE708B1B42D31063291813014AD63F",
@@ -151,7 +151,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/13",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "poolAC9AF7B48E4497A0A9AF109E4286464A0EF06E7C35AD79198F03AB17A6A4CCA7",
@@ -162,7 +162,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/14",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "poolFD005C5AB01714A4B62E87F5213F5D5CDE357773D70712916A93664BCE5A6931",
@@ -173,7 +173,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "description": "pool/15",
-    "image": "common/gravitydex.png"
+    "image": "cosmos/pool.png"
   },
   {
     "denom": "ibc/14F9BC3E44B8A9C1BE1FB08980FAB87034C9905EF17CF2F5008FC085218811CC",
@@ -185,7 +185,7 @@
     "decimal": 6,
     "description": "osmosis>cosmos",
     "channel": "channel-141",
-    "image": "common/osmo.svg"
+    "image": "common/osmo.png"
   },
   {
     "denom": "ibc/5BB694D466CCF099EF73F165F88472AF51D9C4991EAA42BD1168C5304712CC0D",
@@ -197,7 +197,7 @@
     "decimal": 6,
     "description": "osmosis>cosmos",
     "channel": "channel-141",
-    "image": "common/ion.svg"
+    "image": "osmosis/ion.png"
   },
   {
     "denom": "ibc/68A333688E5B07451F95555F8FE510E43EF9D3D44DF0909964F92081EF9BE5A7",
@@ -209,7 +209,7 @@
     "decimal": 6,
     "description": "starname>cosmos",
     "channel": "channel-158",
-    "image": "common/iov.svg"
+    "image": "common/iov.png"
   },
   {
     "denom": "ibc/12DA42304EE1CE96071F712AA4D58186AD11C3165C0DCDA71E017A54F3935E66",
@@ -221,7 +221,7 @@
     "decimal": 6,
     "description": "iris>cosmos",
     "channel": "channel-182",
-    "image": "common/iris.svg"
+    "image": "common/iris.png"
   },
   {
     "denom": "ibc/2181AAB0218EAC24BC9F86BD1364FBBFA3E6E3FCC25E88E3E68C15DC6E752D86",
@@ -233,7 +233,7 @@
     "decimal": 6,
     "description": "akash>cosmos",
     "channel": "channel-184",
-    "image": "common/akt.svg"
+    "image": "common/akt.png"
   },
   {
     "denom": "ibc/1FBDD58D438B4D04D26CBFB2E722C18984A0F1A52468C4F42F37D102F3D3F399",
@@ -245,7 +245,7 @@
     "decimal": 6,
     "description": "regen>cosmos",
     "channel": "channel-185",
-    "image": "common/regen.svg"
+    "image": "common/regen.png"
   },
   {
     "denom": "ibc/42E47A5BA708EBE6E0C227006254F2784E209F4DBD3C6BB77EDC4B29EF875E8E",
@@ -257,7 +257,7 @@
     "decimal": 6,
     "description": "sentinel>cosmos",
     "channel": "channel-186",
-    "image": "common/dvpn.svg"
+    "image": "common/dvpn.png"
   },
   {
     "denom": "ibc/C932ADFE2B4216397A4F17458B6E4468499B86C3BC8116180F85D799D6F5CC1B",
@@ -269,7 +269,7 @@
     "decimal": 8,
     "description": "cryptoorg>cosmos",
     "channel": "channel-187",
-    "image": "common/cro.svg"
+    "image": "common/cro.png"
   },
   {
     "denom": "ibc/81D08BC39FB520EBD948CF017910DD69702D34BF5AC160F76D3B5CFC444EBCE0",
@@ -281,7 +281,7 @@
     "decimal": 6,
     "description": "persistence>cosmos",
     "channel": "channel-190",
-    "image": "common/xprt.svg"
+    "image": "common/xprt.png"
   },
   {
     "denom": "ibc/DCD1849E20837BC8FB2C252A7AE1D8AA7A1876911EE669E6CE6FDF9FEA54083D",
@@ -293,7 +293,7 @@
     "decimal": 10,
     "description": "sifchain>cosmos",
     "channel": "channel-192",
-    "image": "common/rowan.svg"
+    "image": "common/rowan.png"
   },
   {
     "denom": "ibc/B93F321238F7BB15AB5B882660AAE72286C8E9035DE34E2B30F60E54C623C63C",
@@ -317,7 +317,7 @@
     "decimal": 6,
     "description": "emoney>cosmos",
     "channel": "channel-202",
-    "image": "common/ngm.svg"
+    "image": "common/ngm.png"
   },
   {
     "denom": "ibc/B2B5AEE174062FA7804AC95223D8169852F8F58962C51C66391C272C838258B7",
@@ -329,7 +329,7 @@
     "decimal": 6,
     "description": "ixo>cosmos",
     "channel": "channel-204",
-    "image": "common/ibc-ixo.png"
+    "image": "common/ixo.png"
   },
   {
     "denom": "ibc/CDAB23DA5495290063363BD1C3499E26189036302DC689985A7E23F8DF8D8DB0",
@@ -341,7 +341,7 @@
     "decimal": 6,
     "description": "juno>cosmos",
     "channel": "channel-207",
-    "image": "common/juno.svg"
+    "image": "common/juno.png"
   },
   {
     "denom": "ibc/1D5826F7EDE6E3B13009FEF994DC9CAAF15CC24CA7A9FF436FFB2E56FD72F54F",
@@ -353,7 +353,7 @@
     "decimal": 9,
     "description": "like>cosmos",
     "channel": "channel-217",
-    "image": "common/ibc-like.png"
+    "image": "common/like.png"
   },
   {
     "denom": "ibc/6469BDA6F62C4F4B8F76629FA1E72A02A3D1DD9E2B22DDB3C3B2296DEAD29AB8",
@@ -365,7 +365,7 @@
     "decimal": 18,
     "description": "injective>cosmos",
     "channel": "channel-220",
-    "image": "common/inj.svg"
+    "image": "common/inj.png"
   },
   {
     "denom": "ibc/533E5FFC606FD11B8DCA309C66AFD6A1F046EF784A73F323A332CF6823F0EA87",
@@ -377,7 +377,7 @@
     "decimal": 6,
     "description": "kichain>cosmos",
     "channel": "channel-223",
-    "image": "common/xki.svg"
+    "image": "common/xki.png"
   },
   {
     "denom": "ibc/E7D5E9D0E9BF8B7354929A817DD28D4D017E745F638954764AA88522A7A409EC",
@@ -389,7 +389,7 @@
     "decimal": 6,
     "description": "bitsong>cosmos",
     "channel": "channel-229",
-    "image": "common/btsg.svg"
+    "image": "common/btsg.png"
   },
   {
     "denom": "ibc/ADBEC1A7AC2FEF73E06B066A1C94DAB6C27924EF7EA3F5A43378150009620284",
@@ -401,7 +401,7 @@
     "decimal": 6,
     "description": "bitcanna>cosmos",
     "channel": "channel-232",
-    "image": "common/bcna.svg"
+    "image": "common/bcna.png"
   },
   {
     "denom": "ibc/8870C4203CEBF2279BA065E3DE95FC3F8E05A4A93424E7DC707A21514BE353A0",
@@ -413,7 +413,7 @@
     "decimal": 6,
     "description": "kava>cosmos",
     "channel": "channel-277",
-    "image": "common/kava.svg"
+    "image": "common/kava.png"
   },
   {
     "denom": "ibc/20A7DC8E24709E6F1EE0F4E832C2ED345ADD77425890482A349AE3C43CAC6B2C",
@@ -425,7 +425,7 @@
     "decimal": 6,
     "description": "rizon>cosmos",
     "channel": "channel-313",
-    "image": "common/atolo.svg"
+    "image": "common/atolo.png"
   },
   {
     "denom": "ibc/3F18D520CE791A40357D061FAD657CED6B21D023F229EAF131D7FE7CE6F488BD",
@@ -437,6 +437,6 @@
     "decimal": 6,
     "description": "crescent>cosmos",
     "channel": "channel-326",
-    "image": "common/cre.svg"
+    "image": "common/cre.png"
   }
 ]
