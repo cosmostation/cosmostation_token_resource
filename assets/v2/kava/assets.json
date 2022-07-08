@@ -69,7 +69,7 @@
     "denom": "bnb",
     "type": "bridge",
     "base_denom": "bnb",
-    "base_type": "bep2",
+    "base_type": "native",
     "dp_denom": "bnb",
     "origin_chain": "bnb-beacon-chain",
     "decimal": 8,
