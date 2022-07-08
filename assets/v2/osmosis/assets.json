@@ -101,7 +101,7 @@
     "dp_denom": "dig",
     "origin_chain": "dig",
     "decimal": 6,
-    "description": "dig>osmosis",
+    "description": "digchain>osmosis",
     "channel": "channel-128",
     "image": "common/ibc-dig.png"
   },
