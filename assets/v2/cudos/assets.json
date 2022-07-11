@@ -4,7 +4,7 @@
     "type": "staking",
     "base_denom": "acudos",
     "base_type": "staking",
-    "dp_denom": "cudos",
+    "dp_denom": "CUDOS",
     "origin_chain": "cudos",
     "decimal": 6,
     "description": "Cudos Staking Coin",

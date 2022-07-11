@@ -4,7 +4,7 @@
     "type": "staking",
     "base_denom": "ucrbrus",
     "base_type": "staking",
-    "dp_denom": "crbrus",
+    "dp_denom": "CRBRUS",
     "origin_chain": "cerberus",
     "decimal": 6,
     "description": "Cerberus Staking Coin",
