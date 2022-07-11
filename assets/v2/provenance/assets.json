@@ -4,7 +4,7 @@
     "type": "staking",
     "base_denom": "nhash",
     "base_type": "staking",
-    "dp_denom": "hash",
+    "dp_denom": "HASH",
     "origin_chain": "provenance",
     "decimal": 9,
     "description": "Provenance Staking Coin",
