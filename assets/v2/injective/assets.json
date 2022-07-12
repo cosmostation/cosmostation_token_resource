@@ -43,7 +43,7 @@
     "origin_chain": "ethereum",
     "decimal": 6,
     "description": "cosmos>ethereum>injective",
-    "image": "ethereum/atom.png"
+    "image": "ethereum/atom.png",
     "contract": "0x8d983cb9388eac77af0474fa441c4815500cb7bb"
   },
   {
@@ -55,7 +55,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/inj.png"
+    "image": "ethereum/inj.png",
     "contract": "0xe28b3b32b6c345a34ff64674606124dd5aceca30"
   },
   {
@@ -67,7 +67,7 @@
     "origin_chain": "ethereum",
     "decimal": 6,
     "description": "ethereum>injective",
-    "image": "ethereum/luna.png"
+    "image": "ethereum/luna.png",
     "contract": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9"
   },
   {
@@ -79,7 +79,7 @@
     "origin_chain": "ethereum",
     "decimal": 6,
     "description": "ethereum>injective",
-    "image": "ethereum/ust.png"
+    "image": "ethereum/ust.png",
     "contract": "0xa47c8bf37f92abed4a126bda807a7b7498661acd"
   },
   {
@@ -91,7 +91,7 @@
     "origin_chain": "ethereum",
     "decimal": 4,
     "description": "ethereum>injective",
-    "image": "ethereum/cel.png"
+    "image": "ethereum/cel.png",
     "contract": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"
   },
   {
@@ -103,7 +103,7 @@
     "origin_chain": "ethereum",
     "decimal": 6,
     "description": "ethereum>injective",
-    "image": "ethereum/usdt.png"
+    "image": "ethereum/usdt.png",
     "contract": "0xdac17f958d2ee523a2206206994597c13d831ec7"
   },
   {
@@ -115,7 +115,7 @@
     "origin_chain": "ethereum",
     "decimal": 6,
     "description": "ethereum>injective",
-    "image": "ethereum/usdc.png"
+    "image": "ethereum/usdc.png",
     "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
   {
@@ -127,7 +127,7 @@
     "origin_chain": "bnb-beacon-chain",
     "decimal": 18,
     "description": "bnb-beacon-chain>ethereum>injective",
-    "image": "bnb-beacon-chain/bnb.png"
+    "image": "bnb-beacon-chain/bnb.png",
     "contract": "0xb8c77482e45f1f44de1745f52c74426c631bdd52"
   },
   {
@@ -139,7 +139,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/defi5.png"
+    "image": "ethereum/defi5.png",
     "contract": "0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41"
   },
   {
@@ -151,7 +151,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/utk.png"
+    "image": "ethereum/utk.png",
     "contract": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c"
   },
   {
@@ -163,7 +163,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/grt.png"
+    "image": "ethereum/grt.png",
     "contract": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
   },
   {
@@ -175,7 +175,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/stars.png"
+    "image": "ethereum/stars.png",
     "contract": "0xc55c2175e90a46602fd42e931f62b3acc1a013ca"
   },
   {
@@ -187,7 +187,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/stt.png"
+    "image": "ethereum/stt.png",
     "contract": "0xac9bb427953ac7fddc562adca86cf42d988047fd"
   },
   {
@@ -199,7 +199,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/noia.png"
+    "image": "ethereum/noia.png",
     "contract": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca"
   },
   {
@@ -211,7 +211,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/enj.png"
+    "image": "ethereum/enj.png",
     "contract": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
   },
   {
@@ -223,7 +223,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/zrx.png"
+    "image": "ethereum/zrx.png",
     "contract": "0xe41d2489571d322189246dafa5ebde1f4699f498"
   },
   {
@@ -235,7 +235,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/swap.png"
+    "image": "ethereum/swap.png",
     "contract": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe"
   },
   {
@@ -247,7 +247,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/weth.png"
+    "image": "ethereum/weth.png",
     "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
   },
   {
@@ -259,7 +259,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/snx.png"
+    "image": "ethereum/snx.png",
     "contract": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
   },
   {
@@ -271,7 +271,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/axs.png"
+    "image": "ethereum/axs.png",
     "contract": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b"
   },
   {
@@ -283,7 +283,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/nexo.png"
+    "image": "ethereum/nexo.png",
     "contract": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
   },
   {
@@ -295,7 +295,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/gf.png"
+    "image": "ethereum/gf.png",
     "contract": "0xaaef88cea01475125522e117bfe45cf32044e238"
   },
   {
@@ -307,7 +307,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/ocean.png"
+    "image": "ethereum/ocean.png",
     "contract": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
   },
   {
@@ -319,7 +319,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/shib.png"
+    "image": "ethereum/shib.png",
     "contract": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
   },
   {
@@ -331,7 +331,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/aave.png"
+    "image": "ethereum/aave.png",
     "contract": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
   },
   {
@@ -343,7 +343,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/matic.png"
+    "image": "ethereum/matic.png",
     "contract": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
   },
   {
@@ -355,7 +355,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/ht.png"
+    "image": "ethereum/ht.png",
     "contract": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
   },
   {
@@ -367,7 +367,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/sushi.png"
+    "image": "ethereum/sushi.png",
     "contract": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
   },
   {
@@ -379,7 +379,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/dai.png"
+    "image": "ethereum/dai.png",
     "contract": "0x6b175474e89094c44da98b954eedeac495271d0f"
   },
   {
@@ -391,7 +391,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/link.png"
+    "image": "ethereum/link.png",
     "contract": "0x514910771af9ca656af840dff83e8264ecf986ca"
   },
   {
@@ -403,7 +403,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/evai.png"
+    "image": "ethereum/evai.png",
     "contract": "0x50f09629d0afdf40398a3f317cc676ca9132055c"
   },
   {
@@ -415,7 +415,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/qnt.png"
+    "image": "ethereum/qnt.png",
     "contract": "0x4a220e6096b25eadb88358cb44068a3248254675"
   },
   {
@@ -427,7 +427,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/busd.png"
+    "image": "ethereum/busd.png",
     "contract": "0x4fabb145d64652a948d72533023f6e7a623c7c53"
   },
   {
@@ -439,7 +439,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/ftm.png"
+    "image": "ethereum/ftm.png",
     "contract": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
   },
   {
@@ -451,7 +451,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/paxg.png"
+    "image": "ethereum/paxg.png",
     "contract": "0x45804880de22913dafe09f4980848ece6ecbaf78"
   },
   {
@@ -463,7 +463,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/chz.png"
+    "image": "ethereum/chz.png",
     "contract": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
   },
   {
@@ -475,7 +475,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/rune.png"
+    "image": "ethereum/rune.png",
     "contract": "0x3155ba85d5f96b2d030a4966af206230e46849cb"
   },
   {
@@ -487,7 +487,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/wbtc.png"
+    "image": "ethereum/wbtc.png",
     "contract": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
   },
   {
@@ -499,7 +499,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/uni.png"
+    "image": "ethereum/uni.png",
     "contract": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
   },
   {
@@ -511,7 +511,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/uma.png"
+    "image": "ethereum/uma.png",
     "contract": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828"
   },
   {
@@ -523,7 +523,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/bat.png"
+    "image": "ethereum/bat.png",
     "contract": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
   },
   {
@@ -535,7 +535,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/pool.png"
+    "image": "ethereum/pool.png",
     "contract": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e"
   },
   {
@@ -547,7 +547,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/1inch.png"
+    "image": "ethereum/1inch.png",
     "contract": "0x111111111117dc0aa78b770fa6a738034120c302"
   },
   {
@@ -559,7 +559,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/yfi.png"
+    "image": "ethereum/yfi.png",
     "contract": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
   },
   {
@@ -571,7 +571,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/comp.png"
+    "image": "ethereum/comp.png",
     "contract": "0xc00e94cb662c3520282e6f5717214004a7f26888"
   },
   {
@@ -583,7 +583,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/cell.png"
+    "image": "ethereum/cell.png",
     "contract": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099"
   },
   {
@@ -595,7 +595,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/xbx.png"
+    "image": "ethereum/xbx.png",
     "contract": "0x080b12e80c9b45e97c23b6ad10a16b3e2a123949"
   },
   {
@@ -607,7 +607,7 @@
     "origin_chain": "ethereum",
     "decimal": 8,
     "description": "ethereum>injective",
-    "image": "ethereum/xac.png"
+    "image": "ethereum/xac.png",
     "contract": "0xde4c5a791913838027a2185709e98c5c6027ea63"
   },
   {
@@ -619,7 +619,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>injective",
-    "image": "ethereum/dydx.png"
+    "image": "ethereum/dydx.png",
     "contract": "0x92D6C1e31e14520e676a687F0a93788B716BEff5"
   }
 ]
