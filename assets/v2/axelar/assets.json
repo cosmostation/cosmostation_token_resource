@@ -81,5 +81,71 @@
     "description": "emoney>axelar",
     "channel": "channel-6",
     "image": "emoney/edkk.png"
+  },
+  {
+    "denom": "uusdc",
+    "type": "bridge",
+    "base_denom": "usdc",
+    "base_type": "erc20",
+    "dp_denom": "axlUSDC",
+    "origin_chain": "ethereum",
+    "decimal": 6,
+    "description": "ethereum>axelar",
+    "image": "ethereum/usdc.png"
+  },
+  {
+    "denom": "uusdt",
+    "type": "bridge",
+    "base_denom": "usdt",
+    "base_type": "erc20",
+    "dp_denom": "axlUSDT",
+    "origin_chain": "ethereum",
+    "decimal": 6,
+    "description": "ethereum>axelar",
+    "image": "ethereum/usdt.png"
+  },
+  {
+    "denom": "wbtc-satoshi",
+    "type": "bridge",
+    "base_denom": "wbtc",
+    "base_type": "erc20",
+    "dp_denom": "axlWBTC",
+    "origin_chain": "ethereum",
+    "decimal": 8,
+    "description": "ethereum>axelar",
+    "image": "ethereum/wbtc.png"
+  },
+  {
+    "denom": "dai-wei",
+    "type": "bridge",
+    "base_denom": "dai",
+    "base_type": "erc20",
+    "dp_denom": "axlDAI",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "description": "ethereum>axelar",
+    "image": "ethereum/dai.png"
+  },
+  {
+    "denom": "frax-wei",
+    "type": "bridge",
+    "base_denom": "frax",
+    "base_type": "erc20",
+    "dp_denom": "axlFRAX",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "description": "ethereum>axelar",
+    "image": "ethereum/frax.png"
+  },
+  {
+    "denom": "weth-wei",
+    "type": "bridge",
+    "base_denom": "weth",
+    "base_type": "erc20",
+    "dp_denom": "axlWETH",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "description": "ethereum>axelar",
+    "image": "ethereum/weth.png"
   }
 ]
