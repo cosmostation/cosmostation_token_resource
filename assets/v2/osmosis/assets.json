@@ -8,7 +8,7 @@
     "origin_chain": "osmosis",
     "decimal": 6,
     "description": "Osmosis Staking Coin",
-    "image": "common/osmosis.svg"
+    "image": "common/osmosis.png"
   },
   {
     "denom": "uion",
@@ -19,7 +19,7 @@
     "origin_chain": "osmosis",
     "decimal": 6,
     "description": "Native Coin",
-    "image": "common/ion.svg"
+    "image": "common/ion.png"
   },
   {
     "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
@@ -31,7 +31,7 @@
     "decimal": 6,
     "description": "cosmos>osmosis",
     "channel": "channel-0",
-    "image": "common/atom.svg"
+    "image": "common/atom.png"
   },
   {
     "denom": "ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4",
@@ -43,7 +43,7 @@
     "decimal": 6,
     "description": "akash>osmosis",
     "channel": "channel-1",
-    "image": "common/akt.svg"
+    "image": "common/akt.png"
   },
   {
     "denom": "ibc/7A08C6F11EF0F59EB841B9F788A87EC9F2361C7D9703157EC13D940DC53031FA",
@@ -67,7 +67,7 @@
     "decimal": 6,
     "description": "chihuahua>osmosis",
     "channel": "channel-113",
-    "image": "common/huahua.svg"
+    "image": "common/huahua.png"
   },
   {
     "denom": "ibc/8A34AF0C1943FD0DFCDE9ADBF0B2C9959C45E87E6088EA2FC6ADACD59261B8A2",
@@ -79,7 +79,7 @@
     "decimal": 6,
     "description": "lum>osmosis",
     "channel": "channel-115",
-    "image": "common/lum.svg"
+    "image": "common/lum.png"
   },
   {
     "denom": "ibc/E7B35499CFBEB0FF5778127ABA4FB2C4B79A6B8D3D831D4379C4048C238796BD",
@@ -91,7 +91,7 @@
     "decimal": 6,
     "description": "vidulum>osmosis",
     "channel": "channel-124",
-    "image": "common/ibc-vdl.png"
+    "image": "common/vdl.png"
   },
   {
     "denom": "ibc/307E5C96C8F60D1CBEE269A9A86C0834E1DB06F2B3788AE4F716EDB97A48B97D",
@@ -103,7 +103,7 @@
     "decimal": 6,
     "description": "digchain>osmosis",
     "channel": "channel-128",
-    "image": "common/ibc-dig.png"
+    "image": "common/dig.png"
   },
   {
     "denom": "ibc/EA4C0A9F72E2CEDF10D0E7A9A6A22954DB3444910DB5BE980DF59B05A46DAD1C",
@@ -140,7 +140,7 @@
     "decimal": 6,
     "description": "gravity-bridge>osmosis",
     "channel": "channel-144",
-    "image": "common/gravitybridge.svg"
+    "image": "common/grav.png"
   },
   {
     "denom": "ibc/F292A17CF920E3462C816CBE6B042E779F676CAB59096904C4C1C966413E3DF5",
@@ -178,7 +178,7 @@
     "decimal": 6,
     "description": "certik>osmosis",
     "channel": "channel-146",
-    "image": "common/ctk.svg"
+    "image": "common/ctk.png"
   },
   {
     "denom": "ibc/F867AE2112EFE646EC71A25CD2DFABB8927126AC1E19F1BBF0FF693A4ECA05DE",
@@ -190,7 +190,7 @@
     "decimal": 6,
     "description": "band>osmosis",
     "channel": "channel-148",
-    "image": "common/band.svg"
+    "image": "common/band.png"
   },
   {
     "denom": "ibc/52B1AA623B34EB78FD767CEA69E8D7FA6C9CFE1FBF49C5406268FD325E2CC2AC",
@@ -202,7 +202,7 @@
     "decimal": 6,
     "description": "starname>osmosis",
     "channel": "channel-15",
-    "image": "common/iov.svg"
+    "image": "common/iov.png"
   },
   {
     "denom": "ibc/9BBA9A1C257E971E38C1422780CE6F0B0686F0A3085E2D61118D904BFE0F5F5E",
@@ -214,7 +214,7 @@
     "decimal": 6,
     "description": "sommelier>osmosis",
     "channel": "channel-165",
-    "image": "common/ibc-somm.png"
+    "image": "common/somm.png"
   },
   {
     "denom": "ibc/C2A2E9CA95DDD4828B75124B5E27B8401C7D8493BC48353D418CBFC04565899B",
@@ -226,7 +226,7 @@
     "decimal": 6,
     "description": "juno>osmosis",
     "channel": "channel-169",
-    "image": "juno/ibc-hope.png",
+    "image": "juno/hope.png",
     "contract": "juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z"
   },
   {
@@ -239,7 +239,7 @@
     "decimal": 6,
     "description": "juno>osmosis",
     "channel": "channel-169",
-    "image": "juno/ibc-neta.png",
+    "image": "juno/neta.png",
     "contract": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr"
   },
   {
@@ -252,7 +252,7 @@
     "decimal": 3,
     "description": "juno>osmosis",
     "channel": "channel-169",
-    "image": "juno/ibc-marble.png",
+    "image": "juno/marble.png",
     "contract": "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl"
   },
   {
@@ -265,7 +265,7 @@
     "decimal": 6,
     "description": "darc>osmosis",
     "channel": "channel-171",
-    "image": "common/ibc-darc.png"
+    "image": "common/darc.png"
   },
   {
     "denom": "ibc/9BCB27203424535B6230D594553F1659C77EC173E36D9CF4759E7186EE747E84",
@@ -277,7 +277,7 @@
     "decimal": 6,
     "description": "dec>osmosis",
     "channel": "channel-181",
-    "image": "common/ibc-dec.png"
+    "image": "common/dec.png"
   },
   {
     "denom": "ibc/67795E528DF67C5606FC20F824EA39A6EF55BA133F4DC79C90A8C47A0901E17C",
@@ -289,7 +289,7 @@
     "decimal": 6,
     "description": "umee>osmosis",
     "channel": "channel-184",
-    "image": "common/umee.svg"
+    "image": "common/umee.png"
   },
   {
     "denom": "ibc/8FEFAE6AECF6E2A255585617F781F35A8D5709A545A804482A261C0C9548A9D3",
@@ -301,7 +301,7 @@
     "decimal": 6,
     "description": "swth>osmosis",
     "channel": "channel-188",
-    "image": "common/ibc-swth.png"
+    "image": "common/swth.png"
   },
   {
     "denom": "ibc/CEE970BB3D26F4B907097B6B660489F13F3B0DA765B83CC7D9A0BC0CE220FA6F",
@@ -313,7 +313,7 @@
     "decimal": 6,
     "description": "omniflix>osmosis",
     "channel": "channel-199",
-    "image": "common/ibc-flix.png"
+    "image": "common/flix.png"
   },
   {
     "denom": "ibc/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84",
@@ -325,7 +325,7 @@
     "decimal": 6,
     "description": "sentinel>osmosis",
     "channel": "channel-2",
-    "image": "common/dvpn.svg"
+    "image": "common/dvpn.png"
   },
   {
     "denom": "ibc/6AE98883D4D5D5FF9E50D7130F1305DA2FFA0C652D1DD9C123657C6B4EB2DF8A",
@@ -337,7 +337,7 @@
     "decimal": 18,
     "description": "evmos>osmosis",
     "channel": "channel-204",
-    "image": "common/evmos.svg"
+    "image": "common/evmos.png"
   },
   {
     "denom": "ibc/41999DF04D9441DAC0DF5D8291DF4333FBCBA810FFD63FDCE34FDF41EF37B6F7",
@@ -349,7 +349,7 @@
     "decimal": 6,
     "description": "cerberus>osmosis",
     "channel": "channel-212",
-    "image": "common/cerberus.svg"
+    "image": "common/cerberus.png"
   },
   {
     "denom": "ibc/2716E3F2E146664BEFA9217F1A03BFCEDBCD5178B3C71CACB1A0D7584451D219",
@@ -361,7 +361,7 @@
     "decimal": 6,
     "description": "rizon>osmosis",
     "channel": "channel-221",
-    "image": "common/atolo.svg"
+    "image": "common/atolo.png"
   },
   {
     "denom": "ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447",
@@ -373,7 +373,7 @@
     "decimal": 18,
     "description": "fetchai>osmosis",
     "channel": "channel-229",
-    "image": "common/fet.svg"
+    "image": "common/fet.png"
   },
   {
     "denom": "ibc/CBA34207E969623D95D057D9B11B0C8B32B89A71F170577D982FDDE623813FFC",
@@ -385,7 +385,7 @@
     "decimal": 6,
     "description": "assetmantle>osmosis",
     "channel": "channel-232",
-    "image": "common/mntl.svg"
+    "image": "common/mntl.png"
   },
   {
     "denom": "ibc/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F",
@@ -409,7 +409,7 @@
     "decimal": 6,
     "description": "emoney>osmosis",
     "channel": "channel-37",
-    "image": "common/ngm.svg"
+    "image": "common/ngm.png"
   },
   {
     "denom": "ibc/F3FF7A84A73B62921538642F9797C423D2B4C4ACB3C7FCFFCE7F12AA69909C4B",
@@ -421,7 +421,7 @@
     "decimal": 6,
     "description": "ixo>osmosis",
     "channel": "channel-38",
-    "image": "common/ibc-ixo.png"
+    "image": "common/ixo.png"
   },
   {
     "denom": "ibc/655BCEF3CDEBE32863FF281DBBE3B06160339E9897DC9C9C9821932A5F8BA6F8",
@@ -431,9 +431,9 @@
     "dp_denom": "TICK",
     "origin_chain": "tick",
     "decimal": 6,
-    "description": "tick>osmosis",
+    "description": "microtick>osmosis",
     "channel": "channel-39",
-    "image": "common/ibc-tick.png"
+    "image": "common/tick.png"
   },
   {
     "denom": "ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961",
@@ -458,7 +458,7 @@
     "decimal": 6,
     "description": "persistence>osmosis",
     "channel": "channel-4",
-    "image": "common/xprt.svg"
+    "image": "common/xprt.png"
   },
   {
     "denom": "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED",
@@ -470,7 +470,7 @@
     "decimal": 6,
     "description": "juno>osmosis",
     "channel": "channel-42",
-    "image": "common/juno.svg"
+    "image": "common/juno.png"
   },
   {
     "denom": "ibc/8318FD63C42203D16DDCAF49FE10E8590669B3219A3E87676AC9DA50722687FB",
@@ -482,7 +482,7 @@
     "decimal": 18,
     "description": "sifchain>osmosis",
     "channel": "channel-47",
-    "image": "common/rowan.svg"
+    "image": "common/rowan.png"
   },
   {
     "denom": "ibc/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1",
@@ -494,7 +494,7 @@
     "decimal": 8,
     "description": "cryotoorg>osmosis",
     "channel": "channel-5",
-    "image": "common/cro.svg"
+    "image": "common/cro.png"
   },
   {
     "denom": "ibc/D805F1DA50D31B96E4282C1D4181EDDFB1A44A598BFF5666F4B43E4B8BEA95A5",
@@ -506,7 +506,7 @@
     "decimal": 6,
     "description": "bitcanna>osmosis",
     "channel": "channel-51",
-    "image": "common/bcna.svg"
+    "image": "common/bcna.png"
   },
   {
     "denom": "ibc/9989AD6CCA39D1131523DB0617B50F6442081162294B4795E26746292467B525",
@@ -518,7 +518,7 @@
     "decimal": 9,
     "description": "like>osmosis",
     "channel": "channel-53",
-    "image": "common/like.svg"
+    "image": "common/like.png"
   },
   {
     "denom": "ibc/7C4D60AA95E5A7558B0A364860979CA34B7FF8AAF255B87AF9E879374470CEC0",
@@ -530,7 +530,7 @@
     "decimal": 6,
     "description": "iris>osmosis",
     "channel": "channel-6",
-    "image": "common/iris.svg"
+    "image": "common/iris.png"
   },
   {
     "denom": "ibc/4E5444C35610CC76FC94E7F7886B93121175C28262DDFDDE6F84E82BF2425452",
@@ -542,7 +542,7 @@
     "decimal": 6,
     "description": "bitsong>osmosis",
     "channel": "channel-73",
-    "image": "common/btsg.svg"
+    "image": "common/btsg.png"
   },
   {
     "denom": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
@@ -554,7 +554,7 @@
     "decimal": 6,
     "description": "stargaze>osmosis",
     "channel": "channel-75",
-    "image": "common/stars.svg"
+    "image": "common/stars.png"
   },
   {
     "denom": "ibc/B547DC9B897E7C3AA5B824696110B8E3D2C31E3ED3F02FF363DCBAD82457E07E",
@@ -566,7 +566,7 @@
     "decimal": 6,
     "description": "kichain>osmosis",
     "channel": "channel-77",
-    "image": "common/xki.svg"
+    "image": "common/xki.png"
   },
   {
     "denom": "ibc/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076",
@@ -578,7 +578,7 @@
     "decimal": 6,
     "description": "regen>osmosis",
     "channel": "channel-8",
-    "image": "common/regen.svg"
+    "image": "common/regen.png"
   },
   {
     "denom": "ibc/3BCCC93AD5DF58D11A6F8A05FA8BC801CBA0BA61A981F57E91B8B598BF8061CB",
@@ -590,7 +590,7 @@
     "decimal": 6,
     "description": "medibloc>osmosis",
     "channel": "channel-82",
-    "image": "common/med.svg"
+    "image": "common/med.png"
   },
   {
     "denom": "ibc/EA3E1640F9B1532AB129A571203A0B9F789A7F14BB66E350DCBFA18E1A1931F0",
@@ -602,7 +602,7 @@
     "decimal": 6,
     "description": "comdex>osmosis",
     "channel": "channel-87",
-    "image": "common/cmdx.svg"
+    "image": "common/cmdx.png"
   },
   {
     "denom": "ibc/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A",
@@ -614,7 +614,7 @@
     "decimal": 6,
     "description": "secret>osmosis",
     "channel": "channel-88",
-    "image": "common/scrt.svg"
+    "image": "common/scrt.png"
   },
   {
     "denom": "ibc/FE2CD1E6828EC0FAB8AF39BAC45BC25B965BA67CCBC50C13A14BD610B0D1E2C4",
@@ -626,6 +626,30 @@
     "decimal": 6,
     "description": "bostrom>osmosis",
     "channel": "channel-95",
-    "image": "common/ibc-boot.png"
+    "image": "common/boot.png"
+  },
+  {
+    "denom": "ibc/BB6BCDB515050BAE97516111873CCD7BCF1FD0CCB723CC12F3C4F704D6C646CE",
+    "type": "ibc",
+    "base_denom": "ukuji",
+    "base_type": "staking",
+    "dp_denom": "KUJI",
+    "origin_chain": "kujira",
+    "decimal": 6,
+    "description": "kujira>osmosis",
+    "channel": "channel-259",
+    "image": "common/kuji.png"
+  },
+  {
+    "denom": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
+    "type": "ibc",
+    "base_denom": "inj",
+    "base_type": "staking",
+    "dp_denom": "INJ",
+    "origin_chain": "injective",
+    "decimal": 18,
+    "description": "injective>osmosis",
+    "channel": "channel-122",
+    "image": "common/inj.png"
   }
 ]
