@@ -62,12 +62,12 @@
     "type": "ibc",
     "base_denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "base_type": "bridge",
-    "dp_denom": "UDSC",
+    "dp_denom": "USDC",
     "origin_chain": "ethereum",
     "decimal": 6,
     "description": "ethereum>gravity-bridge>crescent",
     "channel": "channel-2",
-    "image": "ethereum/udsc.png"
+    "image": "ethereum/usdc.png"
   },
   {
     "denom": "ibc/F1806958CA98757B91C3FA1573ECECD24F6FA3804F074A6977658914A49E65A3",
@@ -86,11 +86,11 @@
     "type": "ibc",
     "base_denom": "uusdc",
     "base_type": "bridge",
-    "dp_denom": "UDSC",
+    "dp_denom": "USDC",
     "origin_chain": "ethereum",
     "decimal": 6,
     "description": "ethereum>axelar>crescent",
     "channel": "channel-4",
-    "image": "ethereum/udsc.png"
+    "image": "ethereum/usdc.png"
   }
 ]
