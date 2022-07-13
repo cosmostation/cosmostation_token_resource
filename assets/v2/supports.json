@@ -1,1 +1,15 @@
-["cosmos", "osmosis", "gravity-bridge", "iris", "akash", "juno", "nyx"]
+[
+  "cosmos",
+  "osmosis",
+  "gravity-bridge",
+  "iris",
+  "akash",
+  "juno",
+  "nyx",
+  "axelar",
+  "injective",
+  "sifchain",
+  "crescent",
+  "emoney",
+  "kava"
+]
