@@ -119,6 +119,42 @@
     "image": "common/stars.png"
   },
   {
+    "denom": "ibc/7907EA1A11FD4FC2A815FCAA54948C42F08E3F3C874EE48861386286FEB80160",
+    "type": "ibc",
+    "base_denom": "uscrt",
+    "base_type": "staking",
+    "dp_denom": "SCRT",
+    "origin_chain": "secret",
+    "decimal": 6,
+    "description": "secret>gravity-bridge",
+    "channel": "channel-79",
+    "image": "common/scrt.png"
+  },
+  {
+    "denom": "ibc/4CD51DA94425EB1C8D1983832E46F410528DB2AAFBFC0C646845DAC2DB7D97AE",
+    "type": "ibc",
+    "base_denom": "ucre",
+    "base_type": "staking",
+    "dp_denom": "CRE",
+    "origin_chain": "crescent",
+    "decimal": 6,
+    "description": "crescent>gravity-bridge",
+    "channel": "channel-62",
+    "image": "common/cre.png"
+  },
+  {
+    "denom": "ibc/5AEBA89C7BEEF2C56EE23AC2138661C2EE7AB33C48CDE4C3C1E2E3218C4A2C41",
+    "type": "ibc",
+    "base_denom": "ubcre",
+    "base_type": "native",
+    "dp_denom": "bCRE",
+    "origin_chain": "crescent",
+    "decimal": 6,
+    "description": "crescent>gravity-bridge",
+    "channel": "channel-62",
+    "image": "common/bcre.png"
+  },
+  {
     "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "type": "bridge",
     "base_denom": "weth",
