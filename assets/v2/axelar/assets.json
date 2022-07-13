@@ -91,7 +91,8 @@
     "origin_chain": "ethereum",
     "decimal": 6,
     "description": "ethereum>axelar",
-    "image": "ethereum/usdc.png"
+    "image": "ethereum/usdc.png",
+    "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
   {
     "denom": "uusdt",
@@ -102,7 +103,8 @@
     "origin_chain": "ethereum",
     "decimal": 6,
     "description": "ethereum>axelar",
-    "image": "ethereum/usdt.png"
+    "image": "ethereum/usdt.png",
+    "contract": "0xdac17f958d2ee523a2206206994597c13d831ec7"
   },
   {
     "denom": "wbtc-satoshi",
@@ -113,7 +115,8 @@
     "origin_chain": "ethereum",
     "decimal": 8,
     "description": "ethereum>axelar",
-    "image": "ethereum/wbtc.png"
+    "image": "ethereum/wbtc.png",
+    "contract": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
   },
   {
     "denom": "dai-wei",
@@ -124,7 +127,8 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>axelar",
-    "image": "ethereum/dai.png"
+    "image": "ethereum/dai.png",
+    "contract": "0x6b175474e89094c44da98b954eedeac495271d0f"
   },
   {
     "denom": "frax-wei",
@@ -135,7 +139,8 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>axelar",
-    "image": "ethereum/frax.png"
+    "image": "ethereum/frax.png",
+    "contract": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
   },
   {
     "denom": "weth-wei",
@@ -146,6 +151,7 @@
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>axelar",
-    "image": "ethereum/weth.png"
+    "image": "ethereum/weth.png",
+    "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
   }
 ]
