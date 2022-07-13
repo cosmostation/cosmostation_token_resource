@@ -55,7 +55,8 @@
     "decimal": 18,
     "description": "ethereum>gravity-bridge>crescent",
     "channel": "channel-2",
-    "image": "ethereum/weth.png"
+    "image": "ethereum/weth.png",
+    "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
   },
   {
     "denom": "ibc/CD01034D6749F20AAC5330EF4FD8B8CA7C40F7527AB8C4A302FBD2A070852EE1",
@@ -67,30 +68,33 @@
     "decimal": 6,
     "description": "ethereum>gravity-bridge>crescent",
     "channel": "channel-2",
-    "image": "ethereum/usdc.png"
+    "image": "ethereum/usdc.png",
+    "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
   {
     "denom": "ibc/F1806958CA98757B91C3FA1573ECECD24F6FA3804F074A6977658914A49E65A3",
     "type": "ibc",
     "base_denom": "weth-wei",
     "base_type": "bridge",
-    "dp_denom": "WETH",
+    "dp_denom": "axlWETH",
     "origin_chain": "ethereum",
     "decimal": 18,
     "description": "ethereum>axelar>crescent",
     "channel": "channel-4",
-    "image": "ethereum/weth.png"
+    "image": "ethereum/weth.png",
+    "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
   },
   {
     "denom": "ibc/BFF0D3805B50D93E2FA5C0B2DDF7E0B30A631076CD80BC12A48C0E95404B4A41",
     "type": "ibc",
     "base_denom": "uusdc",
     "base_type": "bridge",
-    "dp_denom": "USDC",
+    "dp_denom": "axlUSDC",
     "origin_chain": "ethereum",
     "decimal": 6,
     "description": "ethereum>axelar>crescent",
     "channel": "channel-4",
-    "image": "ethereum/usdc.png"
+    "image": "ethereum/usdc.png",
+    "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   }
 ]
