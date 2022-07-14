@@ -542,9 +542,9 @@
     "base_denom": "basecro",
     "base_type": "staking",
     "dp_denom": "CRO",
-    "origin_chain": "cryotoorg",
+    "origin_chain": "cryptoorg",
     "decimal": 8,
-    "description": "cryotoorg>osmosis",
+    "description": "cryptoorg>osmosis",
     "channel": "channel-5",
     "image": "common/cro.png"
   },
