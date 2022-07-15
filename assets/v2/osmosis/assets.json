@@ -55,7 +55,7 @@
     "decimal": 9,
     "description": "cheqd>osmosis",
     "channel": "channel-108",
-    "image": "common/ibc-cheq.png"
+    "image": "common/cheq.png"
   },
   {
     "denom": "ibc/B9E0A1A524E98BB407D3CED8720EFEFD186002F90C1B1B7964811DD0CCC12228",
