@@ -90,4 +90,11 @@
     "decimal": 6,
     "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/assets/images/juno/fanfury.png"
   }
+  {
+    "chain": "juno",
+    "contract_address": "juno1sfwye65qxcfsc837gu5qcprcz7w49gkv3wnat04764ld76hy3arqs779tr",
+    "symbol": "dla",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/dla.png"
+  }
 ]
