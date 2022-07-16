@@ -1,0 +1,160 @@
+[
+  {
+    "denom": "ukava",
+    "type": "staking",
+    "base_denom": "ukava",
+    "base_type": "staking",
+    "dp_denom": "KAVA",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "Kava Staking Coin",
+    "image": "common/kava.png"
+  },
+  {
+    "denom": "swp",
+    "type": "native",
+    "base_denom": "swp",
+    "base_type": "native",
+    "dp_denom": "SWP",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "Kava Swap Coin",
+    "image": "kava/swp.png"
+  },
+  {
+    "denom": "usdx",
+    "type": "native",
+    "base_denom": "usdx",
+    "base_type": "native",
+    "dp_denom": "USDX",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "USD Stable Asset",
+    "image": "kava/usdx.png"
+  },
+  {
+    "denom": "hard",
+    "type": "native",
+    "base_denom": "hard",
+    "base_type": "native",
+    "dp_denom": "HARD",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "HardPool Gov. Coin",
+    "image": "kava/hard.png"
+  },
+  {
+    "denom": "debt",
+    "type": "native",
+    "base_denom": "debt",
+    "base_type": "native",
+    "dp_denom": "DEBT",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "System Total Debt",
+    "image": "kava/debt.png"
+  },
+  {
+    "denom": "hbtc",
+    "type": "native",
+    "base_denom": "hbtc",
+    "base_type": "native",
+    "dp_denom": "DEBT",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "HBTC on Kava Chain",
+    "image": "kava/hbtc.png"
+  },
+  {
+    "denom": "bnb",
+    "type": "bridge",
+    "base_denom": "bnb",
+    "base_type": "native",
+    "dp_denom": "BNB",
+    "origin_chain": "bnb-beacon-chain",
+    "decimal": 8,
+    "description": "bnb-beacon-chain>kava",
+    "image": "bnb-beacon-chain/bnb.png"
+  },
+  {
+    "denom": "btcb",
+    "type": "bridge",
+    "base_denom": "btcb",
+    "base_type": "bep2",
+    "dp_denom": "BTCB",
+    "origin_chain": "bnb-beacon-chain",
+    "decimal": 8,
+    "description": "bnb-beacon-chain>kava",
+    "image": "bnb-beacon-chain/btcb.png"
+  },
+  {
+    "denom": "busd",
+    "type": "bridge",
+    "base_denom": "busd",
+    "base_type": "bep2",
+    "dp_denom": "BUSD",
+    "origin_chain": "bnb-beacon-chain",
+    "decimal": 8,
+    "description": "bnb-beacon-chain>kava",
+    "image": "bnb-beacon-chain/busd.png"
+  },
+  {
+    "denom": "xrpb",
+    "type": "bridge",
+    "base_denom": "xrpb",
+    "base_type": "bep2",
+    "dp_denom": "XRPB",
+    "origin_chain": "bnb-beacon-chain",
+    "decimal": 8,
+    "description": "bnb-beacon-chain>kava",
+    "image": "bnb-beacon-chain/xrpb.png"
+  },
+  {
+    "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "description": "osmosis>kava",
+    "channel": "channel-1",
+    "image": "osmosis/ion.png"
+  },
+  {
+    "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "description": "osmosis>kava",
+    "channel": "channel-1",
+    "image": "common/osmo.png"
+  },
+  {
+    "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "description": "cosmos>kava",
+    "channel": "channel-0",
+    "image": "common/atom.png"
+  },
+  {
+    "denom": "ibc/799FDD409719A1122586A629AE8FCA17380351A51C1F47A80A1B8E7F2A491098",
+    "type": "ibc",
+    "base_denom": "uakt",
+    "base_type": "staking",
+    "dp_denom": "AKT",
+    "origin_chain": "akash",
+    "decimal": 6,
+    "description": "akash>kava",
+    "channel": "channel-5",
+    "image": "common/akt.png"
+  }
+]

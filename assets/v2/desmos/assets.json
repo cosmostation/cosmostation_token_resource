@@ -1,0 +1,25 @@
+[
+  {
+    "denom": "udsm",
+    "type": "staking",
+    "base_denom": "udsm",
+    "base_type": "staking",
+    "dp_denom": "DSM",
+    "origin_chain": "desmos",
+    "decimal": 6,
+    "description": "Desmos Staking Coin",
+    "image": "common/dsm.png"
+  },
+  {
+    "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "description": "osmosis>desmos",
+    "channel": "channel-2",
+    "image": "common/osmo.png"
+  }
+]

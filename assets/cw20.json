@@ -1,0 +1,100 @@
+[
+  {
+    "chain": "juno",
+    "contract_address": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
+    "symbol": "neta",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/neta.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno10rktvmllvgctcmhl5vv8kl3mdksukyqf2tdveh8drpn0sppugwwqjzz30z",
+    "symbol": "tcos",
+    "decimal": 0,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/cw20-unknown.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1pshrvuw5ng2q4nwcsuceypjkp48d95gmcgjdxlus2ytm4k5kvz2s7t9ldx",
+    "symbol": "hulc",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/hulcat.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1xmpenz0ykxfy8rxr3yc3d4dtqq4dpas4zz3xl6sh873us3vajlpshzp69d",
+    "symbol": "fot",
+    "decimal": 10,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/FOT.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1dgg3qkqr2e7r2w6ka7l60zfmls6ezxjv6vjrwfvvlajr4graa99srldyss",
+    "symbol": "bfot",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/bFOT.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno19azgt8q09r3hksgg3j293j3s82eupgrqsrnwxvaa4j35u955r69q39zmv5",
+    "symbol": "king",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/king.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1wurfx334prlceydmda3aecldn2xh4axhqtly05n8gptgl69ee7msrewg6y",
+    "symbol": "tuck",
+    "decimal": 3,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/tuckermint.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
+    "symbol": "rac",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/racoon.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl",
+    "symbol": "marble",
+    "decimal": 3,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/marble-logo.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1y9rf7ql6ffwkv02hsgd4yruz23pn4w97p75e2slsnkm0mnamhzysvqnxaq",
+    "symbol": "block",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/block.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z",
+    "symbol": "hope",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/hope.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g",
+    "symbol": "raw",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/Raw.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1cltgm8v842gu54srmejewghnd6uqa26lzkpa635wzra9m9xuudkqa2gtcz",
+    "symbol": "fury",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/assets/images/juno/fanfury.png"
+  }
+  {
+    "chain": "juno",
+    "contract_address": "juno1sfwye65qxcfsc837gu5qcprcz7w49gkv3wnat04764ld76hy3arqs779tr",
+    "symbol": "dla",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/dla.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "denom": "uxprt",
+    "type": "staking",
+    "base_denom": "uxprt",
+    "base_type": "staking",
+    "dp_denom": "XPRT",
+    "origin_chain": "persistence",
+    "decimal": 6,
+    "description": "Persistence Staking Coin",
+    "image": "common/xprt.png"
+  },
+  {
+    "denom": "ibc/A6E3AF63B3C906416A9AF7A556C59EA4BD50E617EFFE6299B99700CCB780E444",
+    "type": "ibc",
+    "base_denom": "pstake",
+    "base_type": "erc20",
+    "dp_denom": "PSTAKE",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "description": "ethereum>gravity-bridge>persistence",
+    "channel": "channel-38",
+    "image": "ethereum/pstake.png",
+    "contract": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
+  }
+]

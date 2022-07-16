@@ -1,0 +1,13 @@
+[
+  {
+    "denom": "uflix",
+    "type": "staking",
+    "base_denom": "uflix",
+    "base_type": "staking",
+    "dp_denom": "FLIX",
+    "origin_chain": "omniflix",
+    "decimal": 6,
+    "description": "Omniflix Staking Coin",
+    "image": "common/flix.png"
+  }
+]

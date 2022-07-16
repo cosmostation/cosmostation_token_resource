@@ -1,0 +1,13 @@
+[
+  {
+    "denom": "umed",
+    "type": "staking",
+    "base_denom": "umed",
+    "base_type": "staking",
+    "dp_denom": "MED",
+    "origin_chain": "medibloc",
+    "decimal": 6,
+    "description": "Medibloc Staking Coin",
+    "image": "common/med.png"
+  }
+]

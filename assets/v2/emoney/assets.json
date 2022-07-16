@@ -1,0 +1,80 @@
+[
+  {
+    "denom": "ungm",
+    "type": "staking",
+    "base_denom": "ungm",
+    "base_type": "staking",
+    "dp_denom": "NGM",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "description": "Emoney Staking Coin",
+    "image": "common/ngm.png"
+  },
+  {
+    "denom": "eeur",
+    "type": "native",
+    "base_denom": "eeur",
+    "base_type": "native",
+    "dp_denom": "EEUR",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "description": "EUR on E-Money Network",
+    "image": "emoney/eeur.png"
+  },
+  {
+    "denom": "echf",
+    "type": "native",
+    "base_denom": "echf",
+    "base_type": "native",
+    "dp_denom": "ECHF",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "description": "CHF on E-Money Network",
+    "image": "emoney/echf.png"
+  },
+  {
+    "denom": "enok",
+    "type": "native",
+    "base_denom": "enok",
+    "base_type": "native",
+    "dp_denom": "ENOK",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "description": "NOK on E-Money Network",
+    "image": "emoney/enok.png"
+  },
+  {
+    "denom": "edkk",
+    "type": "native",
+    "base_denom": "edkk",
+    "base_type": "native",
+    "dp_denom": "EDKK",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "description": "DKK on E-Money Network",
+    "image": "emoney/edkk.png"
+  },
+  {
+    "denom": "esek",
+    "type": "native",
+    "base_denom": "esek",
+    "base_type": "native",
+    "dp_denom": "ESEK",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "description": "SEK on E-Money Network",
+    "image": "emoney/esek.png"
+  },
+  {
+    "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "description": "osmosis>emoney",
+    "channel": "channel-0",
+    "image": "common/osmo.png"
+  }
+]

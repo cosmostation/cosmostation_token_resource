@@ -1,0 +1,37 @@
+[
+  {
+    "denom": "uatolo",
+    "type": "staking",
+    "base_denom": "uatolo",
+    "base_type": "staking",
+    "dp_denom": "ATOLO",
+    "origin_chain": "rizon",
+    "decimal": 6,
+    "description": "Rizon Staking Coin",
+    "image": "common/atolo.png"
+  },
+  {
+    "denom": "ibc/5FEB332D2B121921C792F1A0DBF7C3163FF205337B4AFE6E14F69E8E49545F49",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "description": "cosmos>rizon",
+    "channel": "channel-11",
+    "image": "common/atom.png"
+  },
+  {
+    "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "description": "osmosis>rizon",
+    "channel": "channel-1",
+    "image": "common/osmo.png"
+  }
+]
