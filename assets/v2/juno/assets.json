@@ -191,7 +191,7 @@
     "image": "common/ngm.png"
   },
   {
-    "denom": "dla,
+    "denom": "dla",
     "type": "staking",
     "base_denom": "dla",
     "base_type": "governance,staking",
