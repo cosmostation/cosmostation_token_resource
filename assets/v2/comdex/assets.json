@@ -20,7 +20,7 @@
     "decimal": 6,
     "description": "juno>comdex",
     "channel": "channel-18",
-    "image": "commom/juno.png"
+    "image": "common/juno.png"
   },
   {
     "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
@@ -32,6 +32,6 @@
     "decimal": 6,
     "description": "osmosis>comdex",
     "channel": "channel-1",
-    "image": "commom/osmo.png"
+    "image": "common/osmo.png"
   }
 ]

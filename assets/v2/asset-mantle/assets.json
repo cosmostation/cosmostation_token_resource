@@ -20,6 +20,6 @@
     "decimal": 6,
     "description": "osmosis>asset-mantle",
     "channel": "channel-0",
-    "image": "commom/osmo.png"
+    "image": "common/osmo.png"
   }
 ]

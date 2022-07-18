@@ -20,7 +20,7 @@
     "decimal": 6,
     "description": "cosmos>akash",
     "channel": "channel-17",
-    "image": "commom/atom.png"
+    "image": "common/atom.png"
   },
   {
     "denom": "ibc/1849A429022CBAAB619074CA4412D0016F262218BE6DD828BA8A3DD97D6B52BB",
@@ -32,7 +32,7 @@
     "decimal": 6,
     "description": "juno>akash",
     "channel": "channel-35",
-    "image": "commom/juno.png"
+    "image": "common/juno.png"
   },
   {
     "denom": "ibc/B567D2C79ED9D9D78B5761E8E4D261C7013E349518FD499D42B2BD1B81266DD6",
@@ -44,7 +44,7 @@
     "decimal": 6,
     "description": "kava>akash",
     "channel": "channel-37",
-    "image": "commom/kava.png"
+    "image": "common/kava.png"
   },
   {
     "denom": "ibc/AAFAD8AC1A29CDA9985742B9DE3C32C1163798919C0B3A4C339A70D5F49D1E15",
@@ -68,6 +68,6 @@
     "decimal": 6,
     "description": "osmosis>akash",
     "channel": "channel-9",
-    "image": "commom/osmo.png"
+    "image": "common/osmo.png"
   }
 ]

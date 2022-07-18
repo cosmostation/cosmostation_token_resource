@@ -53,7 +53,7 @@
     "decimal": 6,
     "description": "cosmos>iris",
     "channel": "channel-12",
-    "image": "commom/atom.png"
+    "image": "common/atom.png"
   },
   {
     "denom": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
@@ -65,7 +65,7 @@
     "decimal": 6,
     "description": "osmosis>iris",
     "channel": "channel-3",
-    "image": "commom/osmo.png"
+    "image": "common/osmo.png"
   },
   {
     "denom": "ibc/6CDA7F7E4DDB86FD275A986E78F13DF2FC500E3FEC2149E2215061FA51BB8C5D",

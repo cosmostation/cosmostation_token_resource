@@ -20,7 +20,7 @@
     "decimal": 6,
     "description": "osmosis>chihuahua",
     "channel": "channel-7",
-    "image": "commom/osmo.png"
+    "image": "common/osmo.png"
   },
   {
     "denom": "ibc/6F0955036B92C0A1EE4EB03942A989369DB275CA57454E5F564B581AB5D81CDB",
@@ -32,7 +32,7 @@
     "decimal": 18,
     "description": "injective>chihuahua",
     "channel": "channel-12",
-    "image": "commom/inj.png"
+    "image": "common/inj.png"
   },
   {
     "denom": "ibc/EB2CED20AB0466F18BE49285E56B31306D4C60438A022EA995BA65D5E3CF7E09",
@@ -44,7 +44,7 @@
     "decimal": 6,
     "description": "secret>chihuahua",
     "channel": "channel-16",
-    "image": "commom/scrt.png"
+    "image": "common/scrt.png"
   },
   {
     "denom": "ibc/89C79BD28DCCF300B9EE87740B061011AD870EC480777FAB95D85B3ED36BC06C",
@@ -56,6 +56,6 @@
     "decimal": 6,
     "description": "juno>chihuahua",
     "channel": "channel-11",
-    "image": "commom/juno.png"
+    "image": "common/juno.png"
   }
 ]

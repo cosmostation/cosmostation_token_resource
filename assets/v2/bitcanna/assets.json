@@ -20,7 +20,7 @@
     "decimal": 6,
     "description": "juno>bitcanna",
     "channel": "channel-10",
-    "image": "commom/juno.png"
+    "image": "common/juno.png"
   },
   {
     "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
@@ -32,7 +32,7 @@
     "decimal": 6,
     "description": "osmosis>bitcanna",
     "channel": "channel-1",
-    "image": "commom/osmo.png"
+    "image": "common/osmo.png"
   },
   {
     "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",

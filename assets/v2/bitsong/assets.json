@@ -20,7 +20,7 @@
     "decimal": 6,
     "description": "juno>bitsong",
     "channel": "channel-5",
-    "image": "commom/juno.png"
+    "image": "common/juno.png"
   },
   {
     "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
@@ -32,7 +32,7 @@
     "decimal": 6,
     "description": "cosmos>bitsong",
     "channel": "channel-1",
-    "image": "commom/atom.png"
+    "image": "common/atom.png"
   },
   {
     "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
@@ -44,6 +44,6 @@
     "decimal": 6,
     "description": "osmosis>bitsong",
     "channel": "channel-0",
-    "image": "commom/osmo.png"
+    "image": "common/osmo.png"
   }
 ]
