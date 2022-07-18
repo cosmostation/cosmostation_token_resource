@@ -189,16 +189,5 @@
     "description": "emoney>juno",
     "channel": "channel-9",
     "image": "common/ngm.png"
-  },
-   {
-    "denom": "dla",
-    "type": "staking",
-    "base_denom": "dla",
-    "base_type": "governance,staking",
-    "dp_denom": "DLA",
-    "origin_chain": "juno",
-    "decimal": 6,
-    "description": "DLA DAO Governance and Staking Token",
-    "image": "common/dla.png"
-  },
+  }
 ]
