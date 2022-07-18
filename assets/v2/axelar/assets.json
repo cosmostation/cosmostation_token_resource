@@ -20,7 +20,7 @@
     "decimal": 6,
     "description": "emoney>axelar",
     "channel": "channel-6",
-    "image": "commom/ngm.png"
+    "image": "common/ngm.png"
   },
   {
     "denom": "ibc/373EF14936B38AC8F8A7E7024C0FB7099369FDDFDA3CDA9EFA73684B16249B64",
