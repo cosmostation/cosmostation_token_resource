@@ -19,7 +19,7 @@
     "origin_chain": "osmosis",
     "decimal": 6,
     "description": "Native Coin",
-    "image": "common/ion.png"
+    "image": "osmosis/ion.png"
   },
   {
     "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
