@@ -50,13 +50,13 @@
     "denom": "ibc/0C273962C274B2C05B22D9474BFE5B84D6A6FCAD198CB9B0ACD35EA521A36606",
     "type": "ibc",
     "base_denom": "unym",
-    "base_type": "staking",
+    "base_type": "native",
     "dp_denom": "NYM",
     "origin_chain": "nyx",
     "decimal": 6,
     "description": "nyx>gravity-bridge",
     "channel": "channel-18",
-    "image": "common/nym.png"
+    "image": "nyx/nym.png"
   },
   {
     "denom": "ibc/74A48437840E981DD7789856D97EE5E3751DF474D22EDCD66DB046AF0B725A64",
