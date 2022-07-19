@@ -6,7 +6,7 @@
     "base_type": "staking",
     "dp_denom": "EVMOS",
     "origin_chain": "evmos",
-    "decimal": 6,
+    "decimal": 18,
     "description": "Evmos Staking Coin",
     "image": "common/evmos.png"
   },
