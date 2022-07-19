@@ -1,7 +1,7 @@
 [
   {
     "denom": "uaxl",
-    "type": "staking",
+    "type": "native",
     "base_denom": "uaxl",
     "base_type": "staking",
     "dp_denom": "AXL",
@@ -14,11 +14,11 @@
     "denom": "ibc/ACD9A665DB6C19EC1D057A43D468E324CA9FB9C5ABF82235815F7B7745A15B80",
     "type": "ibc",
     "base_denom": "ungm",
-    "base_type": "staking",
+    "base_type": "native",
     "dp_denom": "NGM",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney>axelar",
+    "path": "emoney>axelar",
     "channel": "channel-6",
     "image": "common/ngm.png"
   },
@@ -30,7 +30,7 @@
     "dp_denom": "EEUR",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney>axelar",
+    "path": "emoney>axelar",
     "channel": "channel-6",
     "image": "emoney/eeur.png"
   },
@@ -42,7 +42,7 @@
     "dp_denom": "ENOK",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney>axelar",
+    "path": "emoney>axelar",
     "channel": "channel-6",
     "image": "emoney/enok.png"
   },
@@ -54,7 +54,7 @@
     "dp_denom": "ESEK",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney>axelar",
+    "path": "emoney>axelar",
     "channel": "channel-6",
     "image": "emoney/esek.png"
   },
@@ -66,7 +66,7 @@
     "dp_denom": "ECHF",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney>axelar",
+    "path": "emoney>axelar",
     "channel": "channel-6",
     "image": "emoney/echf.png"
   },
@@ -78,7 +78,7 @@
     "dp_denom": "EDKK",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney>axelar",
+    "path": "emoney>axelar",
     "channel": "channel-6",
     "image": "emoney/edkk.png"
   },
@@ -90,7 +90,7 @@
     "dp_denom": "axlUSDC",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>axelar",
+    "path": "ethereum>axelar",
     "image": "ethereum/usdc.png",
     "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
@@ -102,7 +102,7 @@
     "dp_denom": "axlUSDT",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>axelar",
+    "path": "ethereum>axelar",
     "image": "ethereum/usdt.png",
     "contract": "0xdac17f958d2ee523a2206206994597c13d831ec7"
   },
@@ -114,7 +114,7 @@
     "dp_denom": "axlWBTC",
     "origin_chain": "ethereum",
     "decimal": 8,
-    "description": "ethereum>axelar",
+    "path": "ethereum>axelar",
     "image": "ethereum/wbtc.png",
     "contract": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
   },
@@ -126,7 +126,7 @@
     "dp_denom": "axlDAI",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>axelar",
+    "path": "ethereum>axelar",
     "image": "ethereum/dai.png",
     "contract": "0x6b175474e89094c44da98b954eedeac495271d0f"
   },
@@ -138,7 +138,7 @@
     "dp_denom": "axlFRAX",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>axelar",
+    "path": "ethereum>axelar",
     "image": "ethereum/frax.png",
     "contract": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
   },
@@ -150,8 +150,80 @@
     "dp_denom": "axlWETH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>axelar",
+    "path": "ethereum>axelar",
     "image": "ethereum/weth.png",
     "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+  },
+  {
+    "denom": "link-wei",
+    "type": "bridge",
+    "base_denom": "link",
+    "base_type": "erc20",
+    "dp_denom": "axlLINK",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>axelar",
+    "image": "ethereum/link.png",
+    "contract": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
+  },
+  {
+    "denom": "mkr-wei",
+    "type": "bridge",
+    "base_denom": "mkr",
+    "base_type": "erc20",
+    "dp_denom": "axlMKR",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>axelar",
+    "image": "ethereum/mkr.png",
+    "contract": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
+  },
+  {
+    "denom": "rai-wei",
+    "type": "bridge",
+    "base_denom": "rai",
+    "base_type": "erc20",
+    "dp_denom": "axlRAI",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>axelar",
+    "image": "ethereum/rai.png",
+    "contract": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
+  },
+  {
+    "denom": "shib-wei",
+    "type": "bridge",
+    "base_denom": "shib",
+    "base_type": "erc20",
+    "dp_denom": "axlSHIB",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>axelar",
+    "image": "ethereum/shib.png",
+    "contract": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE"
+  },
+  {
+    "denom": "steth-wei",
+    "type": "bridge",
+    "base_denom": "steth",
+    "base_type": "erc20",
+    "dp_denom": "axlstETH",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>axelar",
+    "image": "ethereum/steth.png",
+    "contract": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
+  },
+  {
+    "denom": "uni-wei",
+    "type": "bridge",
+    "base_denom": "uni",
+    "base_type": "erc20",
+    "dp_denom": "axlUNI",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>axelar",
+    "image": "ethereum/uni.png",
+    "contract": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
   }
 ]
