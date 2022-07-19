@@ -6,7 +6,7 @@
     "base_type": "staking",
     "dp_denom": "CRO",
     "origin_chain": "cryptoorg",
-    "decimal": 6,
+    "decimal": 8,
     "description": "Cronos",
     "image": "common/cro.png"
   },
