@@ -48,7 +48,7 @@
   {
     "denom": "ibc/DBF5FA602C46392DE9F4796A0FC7D02F3A8A3D32CA3FAA50B761D4AA6F619E95",
     "type": "ibc",
-    "base_denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "base_denom": "weth",
     "base_type": "bridge",
     "dp_denom": "WETH",
     "origin_chain": "ethereum",
@@ -61,7 +61,7 @@
   {
     "denom": "ibc/CD01034D6749F20AAC5330EF4FD8B8CA7C40F7527AB8C4A302FBD2A070852EE1",
     "type": "ibc",
-    "base_denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "base_denom": "usdc",
     "base_type": "bridge",
     "dp_denom": "USDC",
     "origin_chain": "ethereum",
@@ -74,7 +74,7 @@
   {
     "denom": "ibc/F1806958CA98757B91C3FA1573ECECD24F6FA3804F074A6977658914A49E65A3",
     "type": "ibc",
-    "base_denom": "weth-wei",
+    "base_denom": "weth",
     "base_type": "bridge",
     "dp_denom": "axlWETH",
     "origin_chain": "ethereum",
@@ -87,7 +87,7 @@
   {
     "denom": "ibc/BFF0D3805B50D93E2FA5C0B2DDF7E0B30A631076CD80BC12A48C0E95404B4A41",
     "type": "ibc",
-    "base_denom": "uusdc",
+    "base_denom": "usdc",
     "base_type": "bridge",
     "dp_denom": "axlUSDC",
     "origin_chain": "ethereum",
