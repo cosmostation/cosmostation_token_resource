@@ -401,7 +401,7 @@
     "decimal": 6,
     "description": "cerberus>osmosis",
     "channel": "channel-212",
-    "image": "common/cerberus.png"
+    "image": "common/crbrus.png"
   },
   {
     "denom": "ibc/2716E3F2E146664BEFA9217F1A03BFCEDBCD5178B3C71CACB1A0D7584451D219",
