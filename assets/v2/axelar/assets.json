@@ -267,11 +267,11 @@
     "type": "bridge",
     "base_denom": "wavax",
     "base_type": "erc20",
-    "dp_denom": "axlWFTM",
+    "dp_denom": "axlWAVAX",
     "origin_chain": "avalanche",
     "decimal": 18,
     "path": "avalanche>axelar",
-    "image": "fantom/wavax.png",
+    "image": "avalanche/wavax.png",
     "contract": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
   }
 ]
