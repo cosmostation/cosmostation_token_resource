@@ -1,7 +1,7 @@
 [
   {
     "denom": "uaxl",
-    "type": "native",
+    "type": "staking",
     "base_denom": "uaxl",
     "base_type": "staking",
     "dp_denom": "AXL",
