@@ -18,7 +18,7 @@
     "dp_denom": "JUNO",
     "origin_chain": "juno",
     "decimal": 6,
-    "description": "juno>bitcanna",
+    "path": "juno>bitcanna",
     "channel": "channel-10",
     "image": "common/juno.png"
   },
@@ -30,7 +30,7 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmo",
     "decimal": 6,
-    "description": "osmosis>bitcanna",
+    "path": "osmosis>bitcanna",
     "channel": "channel-1",
     "image": "common/osmo.png"
   },
@@ -42,7 +42,7 @@
     "dp_denom": "ION",
     "origin_chain": "ion",
     "decimal": 6,
-    "description": "osmosis>bitcanna",
+    "path": "osmosis>bitcanna",
     "channel": "channel-1",
     "image": "osmosis/ion.png"
   },
@@ -54,7 +54,7 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>bitcanna",
+    "path": "cosmos>bitcanna",
     "channel": "channel-3",
     "image": "common/atom.png"
   }
