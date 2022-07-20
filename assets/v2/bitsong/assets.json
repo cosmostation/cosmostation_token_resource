@@ -45,5 +45,17 @@
     "description": "osmosis>bitsong",
     "channel": "channel-0",
     "image": "common/osmo.png"
+  },
+  {
+    "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmo",
+    "decimal": 6,
+    "description": "osmosis>bitsong",
+    "channel": "channel-0",
+    "image": "osmosis/ion.png"
   }
 ]
