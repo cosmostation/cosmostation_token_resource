@@ -29,7 +29,7 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>crescent",
+    "path": "cosmos>crescent",
     "channel": "channel-1",
     "image": "common/atom.png"
   },
@@ -41,7 +41,7 @@
     "dp_denom": "GRAV",
     "origin_chain": "gravity-bridge",
     "decimal": 6,
-    "description": "gravity-bridge>crescent",
+    "path": "gravity-bridge>crescent",
     "channel": "channel-2",
     "image": "common/grav.png"
   },
@@ -53,7 +53,7 @@
     "dp_denom": "WETH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge>crescent",
+    "path": "ethereum>gravity-bridge>crescent",
     "channel": "channel-2",
     "image": "ethereum/weth.png",
     "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
@@ -66,7 +66,7 @@
     "dp_denom": "USDC",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>gravity-bridge>crescent",
+    "path": "ethereum>gravity-bridge>crescent",
     "channel": "channel-2",
     "image": "ethereum/usdc.png",
     "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
@@ -79,7 +79,7 @@
     "dp_denom": "axlWETH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>axelar>crescent",
+    "path": "ethereum>axelar>crescent",
     "channel": "channel-4",
     "image": "ethereum/weth.png",
     "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
@@ -92,7 +92,7 @@
     "dp_denom": "axlUSDC",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>axelar>crescent",
+    "path": "ethereum>axelar>crescent",
     "channel": "channel-4",
     "image": "ethereum/usdc.png",
     "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
