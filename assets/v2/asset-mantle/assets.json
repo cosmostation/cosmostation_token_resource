@@ -1,7 +1,7 @@
 [
   {
     "denom": "umntl",
-    "type": "native",
+    "type": "staking",
     "base_denom": "umntl",
     "base_type": "staking",
     "dp_denom": "MNTL",
