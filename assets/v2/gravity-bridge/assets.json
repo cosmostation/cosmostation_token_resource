@@ -18,7 +18,7 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>gravity-bridge",
+    "path": "osmosis>gravity-bridge",
     "channel": "channel-10",
     "image": "common/osmo.png"
   },
@@ -30,7 +30,7 @@
     "dp_denom": "ION",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>gravity-bridge",
+    "path": "osmosis>gravity-bridge",
     "channel": "channel-10",
     "image": "osmosis/ion.png"
   },
@@ -42,7 +42,7 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>gravity-bridge",
+    "path": "cosmos>gravity-bridge",
     "channel": "channel-17",
     "image": "common/atom.png"
   },
@@ -54,7 +54,7 @@
     "dp_denom": "NYM",
     "origin_chain": "nyx",
     "decimal": 6,
-    "description": "nyx>gravity-bridge",
+    "path": "nyx>gravity-bridge",
     "channel": "channel-18",
     "image": "nyx/nym.png"
   },
@@ -66,7 +66,7 @@
     "dp_denom": "XPRT",
     "origin_chain": "persistence",
     "decimal": 6,
-    "description": "persistence>gravity-bridge",
+    "path": "persistence>gravity-bridge",
     "channel": "channel-24",
     "image": "common/xprt.png"
   },
@@ -78,7 +78,7 @@
     "dp_denom": "HUAHUA",
     "origin_chain": "chihuahua",
     "decimal": 6,
-    "description": "chihuahua>gravity-bridge",
+    "path": "chihuahua>gravity-bridge",
     "channel": "channel-34",
     "image": "common/huahua.png"
   },
@@ -90,7 +90,7 @@
     "dp_denom": "CHEQ",
     "origin_chain": "cheqd",
     "decimal": 8,
-    "description": "cheqd>gravity-bridge",
+    "path": "cheqd>gravity-bridge",
     "channel": "channel-43",
     "image": "common/cheq.png"
   },
@@ -102,7 +102,7 @@
     "dp_denom": "IRIS",
     "origin_chain": "iris",
     "decimal": 6,
-    "description": "iris>gravity-bridge",
+    "path": "iris>gravity-bridge",
     "channel": "channel-47",
     "image": "common/iris.png"
   },
@@ -114,7 +114,7 @@
     "dp_denom": "STARS",
     "origin_chain": "stargaze",
     "decimal": 6,
-    "description": "stargaze>gravity-bridge",
+    "path": "stargaze>gravity-bridge",
     "channel": "channel-7",
     "image": "common/stars.png"
   },
@@ -126,7 +126,7 @@
     "dp_denom": "SCRT",
     "origin_chain": "secret",
     "decimal": 6,
-    "description": "secret>gravity-bridge",
+    "path": "secret>gravity-bridge",
     "channel": "channel-79",
     "image": "common/scrt.png"
   },
@@ -138,7 +138,7 @@
     "dp_denom": "CRE",
     "origin_chain": "crescent",
     "decimal": 6,
-    "description": "crescent>gravity-bridge",
+    "path": "crescent>gravity-bridge",
     "channel": "channel-62",
     "image": "common/cre.png"
   },
@@ -150,7 +150,7 @@
     "dp_denom": "bCRE",
     "origin_chain": "crescent",
     "decimal": 6,
-    "description": "crescent>gravity-bridge",
+    "path": "crescent>gravity-bridge",
     "channel": "channel-62",
     "image": "common/bcre.png"
   },
@@ -162,7 +162,7 @@
     "dp_denom": "WETH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge",
+    "path": "ethereum>gravity-bridge",
     "image": "ethereum/weth.png",
     "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
   },
@@ -174,7 +174,7 @@
     "dp_denom": "USDC",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>gravity-bridge",
+    "path": "ethereum>gravity-bridge",
     "image": "ethereum/usdc.png",
     "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
@@ -186,7 +186,7 @@
     "dp_denom": "DAI",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge",
+    "path": "ethereum>gravity-bridge",
     "image": "ethereum/dai.png",
     "contract": "0x6b175474e89094c44da98b954eedeac495271d0f"
   },
@@ -198,7 +198,7 @@
     "dp_denom": "UNI",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge",
+    "path": "ethereum>gravity-bridge",
     "image": "ethereum/uni.png",
     "contract": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
   },
@@ -210,7 +210,7 @@
     "dp_denom": "PAXG",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge",
+    "path": "ethereum>gravity-bridge",
     "image": "ethereum/paxg.png",
     "contract": "0x45804880de22913dafe09f4980848ece6ecbaf78"
   },
@@ -222,7 +222,7 @@
     "dp_denom": "STORJ",
     "origin_chain": "ethereum",
     "decimal": 8,
-    "description": "ethereum>gravity-bridge",
+    "path": "ethereum>gravity-bridge",
     "image": "ethereum/storj.png",
     "contract": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac"
   },
@@ -234,7 +234,7 @@
     "dp_denom": "STETH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge",
+    "path": "ethereum>gravity-bridge",
     "image": "ethereum/steth.png",
     "contract": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
   },
@@ -246,7 +246,7 @@
     "dp_denom": "PSTAKE",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge",
+    "path": "ethereum>gravity-bridge",
     "image": "ethereum/pstake.png",
     "contract": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
   },
@@ -258,7 +258,7 @@
     "dp_denom": "USDT",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>gravity-bridge",
+    "path": "ethereum>gravity-bridge",
     "image": "ethereum/usdt.png",
     "contract": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
   }
