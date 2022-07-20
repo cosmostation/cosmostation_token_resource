@@ -18,7 +18,7 @@
     "dp_denom": "ION",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>evmos",
+    "path": "osmosis>evmos",
     "channel": "channel-0",
     "image": "osmosis/ion.png"
   },
@@ -30,7 +30,7 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>evmos",
+    "path": "osmosis>evmos",
     "channel": "channel-0",
     "image": "common/osmo.png"
   },
@@ -42,7 +42,7 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>evmos",
+    "path": "cosmos>evmos",
     "channel": "channel-3",
     "image": "common/atom.png"
   }
