@@ -18,7 +18,7 @@
     "dp_denom": "JUNO",
     "origin_chain": "juno",
     "decimal": 6,
-    "description": "juno>bitsong",
+    "path": "juno>bitsong",
     "channel": "channel-5",
     "image": "common/juno.png"
   },
@@ -30,7 +30,7 @@
     "dp_denom": "ATOM",
     "origin_chain": "atom",
     "decimal": 6,
-    "description": "cosmos>bitsong",
+    "path": "cosmos>bitsong",
     "channel": "channel-1",
     "image": "common/atom.png"
   },
@@ -42,7 +42,7 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmo",
     "decimal": 6,
-    "description": "osmosis>bitsong",
+    "path": "osmosis>bitsong",
     "channel": "channel-0",
     "image": "common/osmo.png"
   },
@@ -54,7 +54,7 @@
     "dp_denom": "ION",
     "origin_chain": "osmo",
     "decimal": 6,
-    "description": "osmosis>bitsong",
+    "path": "osmosis>bitsong",
     "channel": "channel-0",
     "image": "osmosis/ion.png"
   }
