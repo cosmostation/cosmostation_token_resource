@@ -28,10 +28,22 @@
     "base_denom": "uosmo",
     "base_type": "staking",
     "dp_denom": "OSMO",
-    "origin_chain": "osmo",
+    "origin_chain": "osmosis",
     "decimal": 6,
     "description": "osmosis>comdex",
     "channel": "channel-1",
     "image": "common/osmo.png"
+  },
+  {
+    "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "description": "osmosis>comdex",
+    "channel": "channel-1",
+    "image": "common/ion.png"
   }
 ]
