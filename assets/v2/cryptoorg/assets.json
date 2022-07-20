@@ -18,7 +18,7 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>cryptoorg",
+    "path": "cosmos>cryptoorg",
     "channel": "channel-27",
     "image": "common/atom.png"
   },
@@ -30,9 +30,9 @@
     "dp_denom": "ION",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>cryptoorg",
+    "path": "osmosis>cryptoorg",
     "channel": "channel-10",
-    "image": "common/ion.png"
+    "image": "osmosis/ion.png"
   },
   {
     "denom": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
@@ -42,8 +42,20 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>cryptoorg",
+    "path": "osmosis>cryptoorg",
     "channel": "channel-10",
     "image": "common/osmo.png"
+  },
+  {
+    "denom": "ibc/67E8B26BE190FB3F191DA72D6A390DB7DFA6E92C99CB37644DECBEBD2A075C41",
+    "type": "ibc",
+    "base_denom": "rowan",
+    "base_type": "staking",
+    "dp_denom": "ROWAN",
+    "origin_chain": "sifchain",
+    "decimal": 6,
+    "path": "sifchain>cryptoorg",
+    "channel": "channel-33",
+    "image": "common/rowan.png"
   }
 ]
