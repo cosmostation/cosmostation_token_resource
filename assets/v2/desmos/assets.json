@@ -18,8 +18,20 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>desmos",
+    "path": "osmosis>desmos",
     "channel": "channel-2",
     "image": "common/osmo.png"
+  },
+  {
+    "denom": "ibc/6FA7B62692FBCA2E51F567947035DE3C5D7333D49D13B85A25F358E80DF4E991",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>desmos",
+    "channel": "channel-2",
+    "image": "common/ion.png"
   }
 ]
