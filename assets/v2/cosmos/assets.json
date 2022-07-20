@@ -284,13 +284,13 @@
     "image": "common/xprt.png"
   },
   {
-    "denom": "ibc/DCD1849E20837BC8FB2C252A7AE1D8AA7A1876911EE669E6CE6FDF9FEA54083D",
+    "denom": "ibc/F5ED5F3DC6F0EF73FA455337C027FE91ABCB375116BF51A228E44C493E020A09",
     "type": "ibc",
-    "base_denom": "xrowan",
+    "base_denom": "rowan",
     "base_type": "staking",
     "dp_denom": "ROWAN",
     "origin_chain": "sifchain",
-    "decimal": 10,
+    "decimal": 18,
     "description": "sifchain>cosmos",
     "channel": "channel-192",
     "image": "common/rowan.png"
@@ -438,5 +438,29 @@
     "description": "crescent>cosmos",
     "channel": "channel-326",
     "image": "common/cre.png"
+  },
+  {
+    "denom": "ibc/835EE9D00C35D72128F195B50F8A89EB83E5011C43EA0AA00D16348E2208FEBB",
+    "type": "ibc",
+    "base_denom": "ubcre",
+    "base_type": "native",
+    "dp_denom": "bCRE",
+    "origin_chain": "crescent",
+    "decimal": 6,
+    "description": "crescent>cosmos",
+    "channel": "channel-326",
+    "image": "crescent/bcre.png"
+  },
+  {
+    "denom": "ibc/DEC41A02E47658D40FC71E5A35A9C807111F5A6662A3FB5DA84C4E6F53E616B3",
+    "type": "ibc",
+    "base_denom": "uumee",
+    "base_type": "staking",
+    "dp_denom": "UMEE",
+    "origin_chain": "umee",
+    "decimal": 6,
+    "description": "umee>cosmos",
+    "channel": "channel-288",
+    "image": "crescent/umee.png"
   }
 ]
