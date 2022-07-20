@@ -1,7 +1,7 @@
 [
   {
     "denom": "uakt",
-    "type": "native",
+    "type": "staking",
     "base_denom": "uakt",
     "base_type": "staking",
     "dp_denom": "AKT",
