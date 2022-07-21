@@ -31,7 +31,7 @@
     "origin_chain": "cosmos",
     "decimal": 6,
     "path": "cosmos>kichain",
-    "channel": "channel-0",
+    "channel": "channel-1",
     "image": "common/atom.png"
   }
 ]
