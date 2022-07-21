@@ -315,9 +315,9 @@
     "dp_denom": "DARC",
     "origin_chain": "darc",
     "decimal": 6,
-    "description": "darc>osmosis",
+    "description": "konstellation>osmosis",
     "channel": "channel-171",
-    "image": "common/konstellation.png"
+    "image": "common/darc.png"
   },
   {
     "denom": "ibc/9BCB27203424535B6230D594553F1659C77EC173E36D9CF4759E7186EE747E84",
