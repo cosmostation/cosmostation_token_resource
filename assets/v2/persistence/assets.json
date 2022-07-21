@@ -18,9 +18,69 @@
     "dp_denom": "PSTAKE",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge>persistence",
+    "path": "ethereum>gravity-bridge>persistence",
     "channel": "channel-38",
     "image": "ethereum/pstake.png",
     "contract": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
+  },
+  {
+    "denom": "ibc/69B4810E989B56FC6CA41F395228236FA7E7F59B9A3B7AF3FB0A344361C38389",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>persistence",
+    "channel": "channel-6",
+    "image": "osmosis/ion.png"
+  },
+  {
+    "denom": "ibc/646315E3B0461F5FA4C5C8968A88FC45D4D5D04A45B98F1B8294DD82F386DD85",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>persistence",
+    "channel": "channel-6",
+    "image": "common/osmo.png"
+  },
+  {
+    "denom": "ibc/BA51309DEEE69EF9159FADDCD9F566C372157A1F4E559076D201B255C27F484A",
+    "type": "ibc",
+    "base_denom": "rowan",
+    "base_type": "staking",
+    "dp_denom": "ROWAN",
+    "origin_chain": "sifchain",
+    "decimal": 18,
+    "path": "sifchain>persistence",
+    "channel": "channel-26",
+    "image": "common/rowan.png"
+  },
+  {
+    "denom": "ibc/CA687302422C075B26948BEC7143F6D47BACAB53421D57DF30741F91D4DFCA1F",
+    "type": "ibc",
+    "base_denom": "juno",
+    "base_type": "staking",
+    "dp_denom": "JUNO",
+    "origin_chain": "juno",
+    "decimal": 6,
+    "path": "juno>persistence",
+    "channel": "channel-37",
+    "image": "common/juno.png"
+  },
+  {
+    "denom": "ibc/31D711D31CD5D83D98E76B1486EEDA1A38CD1F7D6FCBD03521FE51323115AECA",
+    "type": "ibc",
+    "base_denom": "ugraviton",
+    "base_type": "staking",
+    "dp_denom": "GRAV",
+    "origin_chain": "gravity-bridge",
+    "decimal": 6,
+    "path": "gravity-bridge>persistence",
+    "channel": "channel-38",
+    "image": "common/juno.png"
   }
 ]
