@@ -18,7 +18,7 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>lum",
+    "path": "osmosis>lum",
     "channel": "channel-3",
     "image": "common/osmo.png"
   }
