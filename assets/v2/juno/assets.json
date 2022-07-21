@@ -18,7 +18,7 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>juno",
+    "path": "osmosis>juno",
     "channel": "channel-0",
     "image": "common/osmo.png"
   },
@@ -30,7 +30,7 @@
     "dp_denom": "BTSG",
     "origin_chain": "bitsong",
     "decimal": 6,
-    "description": "bitsong>juno",
+    "path": "bitsong>juno",
     "channel": "channel-17",
     "image": "common/btsg.png"
   },
@@ -42,7 +42,7 @@
     "dp_denom": "ATOLO",
     "origin_chain": "rizon",
     "decimal": 6,
-    "description": "rizon>juno",
+    "path": "rizon>juno",
     "channel": "channel-76",
     "image": "common/atolo.png"
   },
@@ -54,7 +54,7 @@
     "dp_denom": "STARS",
     "origin_chain": "stargaze",
     "decimal": 6,
-    "description": "stargaze>juno",
+    "path": "stargaze>juno",
     "channel": "channel-20",
     "image": "common/stars.png"
   },
@@ -66,7 +66,7 @@
     "dp_denom": "HUAHUA",
     "origin_chain": "chihuahua",
     "decimal": 6,
-    "description": "chihuahua>juno",
+    "path": "chihuahua>juno",
     "channel": "channel-28",
     "image": "common/huahua.png"
   },
@@ -78,7 +78,7 @@
     "dp_denom": "DIG",
     "origin_chain": "digchain",
     "decimal": 6,
-    "description": "digchain>juno",
+    "path": "digchain>juno",
     "channel": "channel-37",
     "image": "common/dig.png"
   },
@@ -90,7 +90,7 @@
     "dp_denom": "EEUR",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney>juno",
+    "path": "emoney>juno",
     "channel": "channel-9",
     "image": "emoney/eeur.png"
   },
@@ -102,7 +102,7 @@
     "dp_denom": "XPRT",
     "origin_chain": "persistence",
     "decimal": 6,
-    "description": "persistence>juno",
+    "path": "persistence>juno",
     "channel": "channel-33",
     "image": "common/xprt.png"
   },
@@ -114,7 +114,7 @@
     "dp_denom": "CMDX",
     "origin_chain": "comdex",
     "decimal": 6,
-    "description": "comdex>juno",
+    "path": "comdex>juno",
     "channel": "channel-36",
     "image": "common/cmdx.png"
   },
@@ -126,7 +126,7 @@
     "dp_denom": "AKT",
     "origin_chain": "akash",
     "decimal": 6,
-    "description": "akash>juno",
+    "path": "akash>juno",
     "channel": "channel-29",
     "image": "common/akt.png"
   },
@@ -138,19 +138,19 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>juno",
+    "path": "cosmos>juno",
     "channel": "channel-1",
     "image": "common/atom.png"
   },
   {
-    "denom": "ibc/20286333A145050C39A504DCF9B35B5284037613201EE87A0798ABC01859DAE8",
+    "denom": "ibc/92E4AB82E3B2AF2D5181AC69C74F9F6D890442C7B7B02CC8634B9D3ED7CF936D",
     "type": "ibc",
-    "base_denom": "xrowan",
+    "base_denom": "rowan",
     "base_type": "staking",
     "dp_denom": "ROWAN",
     "origin_chain": "sifchain",
-    "decimal": 10,
-    "description": "sifchain>juno",
+    "decimal": 18,
+    "path": "sifchain>juno",
     "channel": "channel-5",
     "image": "common/rowan.png"
   },
@@ -162,7 +162,7 @@
     "dp_denom": "SCRT",
     "origin_chain": "secret",
     "decimal": 6,
-    "description": "secret>juno",
+    "path": "secret>juno",
     "channel": "channel-48",
     "image": "common/scrt.png"
   },
@@ -172,7 +172,7 @@
     "base_denom": "ubcna",
     "base_type": "staking",
     "dp_denom": "BCNA",
-    "origin_chain": "bitcanna",
+    "path": "bitcanna",
     "decimal": 6,
     "description": "bitcanna>juno",
     "channel": "channel-50",
@@ -186,8 +186,21 @@
     "dp_denom": "NGM",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney>juno",
+    "path": "emoney>juno",
     "channel": "channel-9",
     "image": "common/ngm.png"
+  },
+  {
+    "denom": "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034",
+    "type": "ibc",
+    "base_denom": "usdc",
+    "base_type": "erc20",
+    "dp_denom": "axlUSDC",
+    "origin_chain": "ethereum",
+    "decimal": 6,
+    "path": "ethereum>axelar>juno",
+    "channel": "channel-71",
+    "image": "ethereum/usdc.png",
+    "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
   }
 ]
