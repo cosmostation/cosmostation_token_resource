@@ -155,6 +155,18 @@
     "image": "common/bcre.png"
   },
   {
+    "denom": "gravity0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "type": "bridge",
+    "base_denom": "wbtc",
+    "base_type": "erc20",
+    "dp_denom": "WBTC",
+    "origin_chain": "ethereum",
+    "decimal": 8,
+    "path": "ethereum>gravity-bridge",
+    "image": "ethereum/wbtc.png",
+    "contract": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+  },
+  {
     "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "type": "bridge",
     "base_denom": "weth",
