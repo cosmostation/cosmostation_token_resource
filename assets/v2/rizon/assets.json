@@ -18,7 +18,7 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>rizon",
+    "path": "cosmos>rizon",
     "channel": "channel-11",
     "image": "common/atom.png"
   },
@@ -30,7 +30,7 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>rizon",
+    "path": "osmosis>rizon",
     "channel": "channel-1",
     "image": "common/osmo.png"
   }
