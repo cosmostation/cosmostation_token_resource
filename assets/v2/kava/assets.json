@@ -59,7 +59,7 @@
     "type": "native",
     "base_denom": "hbtc",
     "base_type": "native",
-    "dp_denom": "DEBT",
+    "dp_denom": "HBTC",
     "origin_chain": "kava",
     "decimal": 6,
     "description": "HBTC on Kava Chain",
@@ -69,11 +69,11 @@
     "denom": "bnb",
     "type": "bridge",
     "base_denom": "bnb",
-    "base_type": "native",
+    "base_type": "bep2",
     "dp_denom": "BNB",
     "origin_chain": "bnb-beacon-chain",
     "decimal": 8,
-    "description": "bnb-beacon-chain>kava",
+    "path": "bnb-beacon-chain>kava",
     "image": "bnb-beacon-chain/bnb.png"
   },
   {
@@ -84,7 +84,7 @@
     "dp_denom": "BTCB",
     "origin_chain": "bnb-beacon-chain",
     "decimal": 8,
-    "description": "bnb-beacon-chain>kava",
+    "path": "bnb-beacon-chain>kava",
     "image": "bnb-beacon-chain/btcb.png"
   },
   {
@@ -95,7 +95,7 @@
     "dp_denom": "BUSD",
     "origin_chain": "bnb-beacon-chain",
     "decimal": 8,
-    "description": "bnb-beacon-chain>kava",
+    "path": "bnb-beacon-chain>kava",
     "image": "bnb-beacon-chain/busd.png"
   },
   {
@@ -106,7 +106,7 @@
     "dp_denom": "XRPB",
     "origin_chain": "bnb-beacon-chain",
     "decimal": 8,
-    "description": "bnb-beacon-chain>kava",
+    "path": "bnb-beacon-chain>kava",
     "image": "bnb-beacon-chain/xrpb.png"
   },
   {
@@ -117,7 +117,7 @@
     "dp_denom": "ION",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>kava",
+    "path": "osmosis>kava",
     "channel": "channel-1",
     "image": "osmosis/ion.png"
   },
@@ -129,7 +129,7 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>kava",
+    "path": "osmosis>kava",
     "channel": "channel-1",
     "image": "common/osmo.png"
   },
@@ -141,7 +141,7 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>kava",
+    "path": "cosmos>kava",
     "channel": "channel-0",
     "image": "common/atom.png"
   },
@@ -153,7 +153,7 @@
     "dp_denom": "AKT",
     "origin_chain": "akash",
     "decimal": 6,
-    "description": "akash>kava",
+    "path": "akash>kava",
     "channel": "channel-5",
     "image": "common/akt.png"
   }
