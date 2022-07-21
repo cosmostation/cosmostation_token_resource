@@ -273,5 +273,53 @@
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/usdt.png",
     "contract": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+  },
+  {
+    "denom": "gravity0x2C5Bcad9Ade17428874855913Def0A02D8bE2324",
+    "type": "bridge",
+    "base_denom": "stketh",
+    "base_type": "erc20",
+    "dp_denom": "stkETH",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>gravity-bridge",
+    "image": "ethereum/stketh.png",
+    "contract": "0x2C5Bcad9Ade17428874855913Def0A02D8bE2324"
+  },
+  {
+    "denom": "gravity0x30D20208d987713f46DFD34EF128Bb16C404D10f",
+    "type": "bridge",
+    "base_denom": "sd",
+    "base_type": "erc20",
+    "dp_denom": "SD",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>gravity-bridge",
+    "image": "ethereum/sd.png",
+    "contract": "0x30D20208d987713f46DFD34EF128Bb16C404D10f"
+  },
+  {
+    "denom": "gravity0x60e683C6514Edd5F758A55b6f393BeBBAfaA8d5e",
+    "type": "bridge",
+    "base_denom": "page",
+    "base_type": "erc20",
+    "dp_denom": "PAGE",
+    "origin_chain": "ethereum",
+    "decimal": 8,
+    "path": "ethereum>gravity-bridge",
+    "image": "ethereum/page.png",
+    "contract": "0x60e683C6514Edd5F758A55b6f393BeBBAfaA8d5e"
+  },
+  {
+    "denom": "gravity0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "type": "bridge",
+    "base_denom": "frax",
+    "base_type": "erc20",
+    "dp_denom": "FRAX",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>gravity-bridge",
+    "image": "ethereum/frax.png",
+    "contract": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
   }
 ]
