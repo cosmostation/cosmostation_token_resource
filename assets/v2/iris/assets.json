@@ -23,24 +23,24 @@
   },
   {
     "denom": "htltbcbnb",
-    "type": "native",
+    "type": "bridge",
     "base_denom": "bnb",
-    "base_type": "native",
+    "base_type": "bep2",
     "dp_denom": "BNB",
-    "origin_chain": "iris",
-    "decimal": 6,
-    "description": "HTLT Coin",
+    "origin_chain": "bnb-beacon-chain",
+    "decimal": 8,
+    "path": "bnb-beacon-chain>iris",
     "image": "bnb-beacon-chain/bnb.png"
   },
   {
     "denom": "htltbcbusd",
-    "type": "native",
+    "type": "bridge",
     "base_denom": "busd",
-    "base_type": "native",
+    "base_type": "bep2",
     "dp_denom": "BUSD",
-    "origin_chain": "iris",
+    "origin_chain": "bnb-beacon-chain",
     "decimal": 6,
-    "description": "HTLT Coin",
+    "path": "bnb-beacon-chain>iris",
     "image": "bnb-beacon-chain/busd.png"
   },
   {
@@ -51,7 +51,7 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>iris",
+    "path": "cosmos>iris",
     "channel": "channel-12",
     "image": "common/atom.png"
   },
@@ -63,7 +63,7 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>iris",
+    "path": "osmosis>iris",
     "channel": "channel-3",
     "image": "common/osmo.png"
   },
@@ -75,7 +75,7 @@
     "dp_denom": "ION",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>iris",
+    "path": "osmosis>iris",
     "channel": "channel-3",
     "image": "osmosis/ion.png"
   },
@@ -87,7 +87,7 @@
     "dp_denom": "USDC",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>gravity-bridge>iris",
+    "path": "ethereum>gravity-bridge>iris",
     "channel": "channel-29",
     "image": "ethereum/usdc.png",
     "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
@@ -100,7 +100,7 @@
     "dp_denom": "DAI",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge>iris",
+    "path": "ethereum>gravity-bridge>iris",
     "channel": "channel-29",
     "image": "ethereum/dai.png",
     "contract": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
@@ -113,7 +113,7 @@
     "dp_denom": "WETH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge>iris",
+    "path": "ethereum>gravity-bridge>iris",
     "channel": "channel-29",
     "image": "ethereum/weth.png",
     "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
