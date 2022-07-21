@@ -29,7 +29,7 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>osmosis",
+    "path": "cosmos>osmosis",
     "channel": "channel-0",
     "image": "common/atom.png"
   },
@@ -41,7 +41,7 @@
     "dp_denom": "AKT",
     "origin_chain": "akash",
     "decimal": 6,
-    "description": "akash>osmosis",
+    "path": "akash>osmosis",
     "channel": "channel-1",
     "image": "common/akt.png"
   },
@@ -53,7 +53,7 @@
     "dp_denom": "CHEQ",
     "origin_chain": "akash",
     "decimal": 9,
-    "description": "cheqd>osmosis",
+    "path": "cheqd>osmosis",
     "channel": "channel-108",
     "image": "common/cheq.png"
   },
@@ -65,7 +65,7 @@
     "dp_denom": "HUAHUA",
     "origin_chain": "chihuahua",
     "decimal": 6,
-    "description": "chihuahua>osmosis",
+    "path": "chihuahua>osmosis",
     "channel": "channel-113",
     "image": "common/huahua.png"
   },
@@ -77,7 +77,7 @@
     "dp_denom": "LUM",
     "origin_chain": "lum",
     "decimal": 6,
-    "description": "lum>osmosis",
+    "path": "lum>osmosis",
     "channel": "channel-115",
     "image": "common/lum.png"
   },
@@ -89,7 +89,7 @@
     "dp_denom": "VDL",
     "origin_chain": "vidulum",
     "decimal": 6,
-    "description": "vidulum>osmosis",
+    "path": "vidulum>osmosis",
     "channel": "channel-124",
     "image": "common/vdl.png"
   },
@@ -101,7 +101,7 @@
     "dp_denom": "DIG",
     "origin_chain": "dig",
     "decimal": 6,
-    "description": "digchain>osmosis",
+    "path": "digchain>osmosis",
     "channel": "channel-128",
     "image": "common/dig.png"
   },
@@ -113,7 +113,7 @@
     "dp_denom": "DSM",
     "origin_chain": "desmos",
     "decimal": 6,
-    "description": "desmos>osmosis",
+    "path": "desmos>osmosis",
     "channel": "channel-135",
     "image": "common/dsm.png"
   },
@@ -125,7 +125,7 @@
     "dp_denom": "axlUSDC",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>axelar>osmosis",
+    "path": "ethereum>axelar>osmosis",
     "channel": "channel-208",
     "image": "ethereum/usdc.png",
     "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
@@ -138,7 +138,7 @@
     "dp_denom": "axlDAI",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>axelar>osmosis",
+    "path": "ethereum>axelar>osmosis",
     "channel": "channel-208",
     "image": "ethereum/dai.png",
     "contract": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
@@ -151,7 +151,7 @@
     "dp_denom": "axlWBTC",
     "origin_chain": "ethereum",
     "decimal": 8,
-    "description": "ethereum>axelar>osmosis",
+    "path": "ethereum>axelar>osmosis",
     "channel": "channel-208",
     "image": "ethereum/wbtc.png",
     "contract": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
@@ -164,7 +164,7 @@
     "dp_denom": "axlWETH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>axelar>osmosis",
+    "path": "ethereum>axelar>osmosis",
     "channel": "channel-208",
     "image": "ethereum/weth.png",
     "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
@@ -177,7 +177,7 @@
     "dp_denom": "WETH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge>osmosis",
+    "path": "ethereum>gravity-bridge>osmosis",
     "channel": "channel-144",
     "image": "ethereum/weth.png",
     "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
@@ -190,7 +190,7 @@
     "dp_denom": "GRAV",
     "origin_chain": "gravity-bridge",
     "decimal": 6,
-    "description": "gravity-bridge>osmosis",
+    "path": "gravity-bridge>osmosis",
     "channel": "channel-144",
     "image": "common/grav.png"
   },
@@ -202,7 +202,7 @@
     "dp_denom": "DAI",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge>osmosis",
+    "path": "ethereum>gravity-bridge>osmosis",
     "channel": "channel-144",
     "image": "ethereum/dai.png",
     "contract": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
@@ -215,7 +215,7 @@
     "dp_denom": "USDC",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>gravity-bridge>osmosis",
+    "path": "ethereum>gravity-bridge>osmosis",
     "channel": "channel-144",
     "image": "ethereum/usdc.png",
     "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
@@ -228,7 +228,7 @@
     "dp_denom": "CTK",
     "origin_chain": "certik",
     "decimal": 6,
-    "description": "certik>osmosis",
+    "path": "certik>osmosis",
     "channel": "channel-146",
     "image": "common/ctk.png"
   },
@@ -240,7 +240,7 @@
     "dp_denom": "BAND",
     "origin_chain": "band",
     "decimal": 6,
-    "description": "band>osmosis",
+    "path": "band>osmosis",
     "channel": "channel-148",
     "image": "common/band.png"
   },
@@ -252,7 +252,7 @@
     "dp_denom": "IOV",
     "origin_chain": "starname",
     "decimal": 6,
-    "description": "starname>osmosis",
+    "path": "starname>osmosis",
     "channel": "channel-15",
     "image": "common/iov.png"
   },
@@ -264,7 +264,7 @@
     "dp_denom": "SOMM",
     "origin_chain": "sommelier",
     "decimal": 6,
-    "description": "sommelier>osmosis",
+    "path": "sommelier>osmosis",
     "channel": "channel-165",
     "image": "common/somm.png"
   },
@@ -276,7 +276,7 @@
     "dp_denom": "HOPE",
     "origin_chain": "juno",
     "decimal": 6,
-    "description": "juno>osmosis",
+    "path": "juno>osmosis",
     "channel": "channel-169",
     "image": "juno/hope.png",
     "contract": "juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z"
@@ -289,7 +289,7 @@
     "dp_denom": "NETA",
     "origin_chain": "juno",
     "decimal": 6,
-    "description": "juno>osmosis",
+    "path": "juno>osmosis",
     "channel": "channel-169",
     "image": "juno/neta.png",
     "contract": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr"
@@ -302,7 +302,7 @@
     "dp_denom": "MARBLE",
     "origin_chain": "juno",
     "decimal": 3,
-    "description": "juno>osmosis",
+    "path": "juno>osmosis",
     "channel": "channel-169",
     "image": "juno/marble.png",
     "contract": "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl"
@@ -315,7 +315,7 @@
     "dp_denom": "DARC",
     "origin_chain": "darc",
     "decimal": 6,
-    "description": "konstellation>osmosis",
+    "path": "konstellation>osmosis",
     "channel": "channel-171",
     "image": "common/darc.png"
   },
@@ -327,7 +327,7 @@
     "dp_denom": "DEC",
     "origin_chain": "dec",
     "decimal": 6,
-    "description": "decentr>osmosis",
+    "path": "decentr>osmosis",
     "channel": "channel-181",
     "image": "common/dec.png"
   },
@@ -339,7 +339,7 @@
     "dp_denom": "UMEE",
     "origin_chain": "umee",
     "decimal": 6,
-    "description": "umee>osmosis",
+    "path": "umee>osmosis",
     "channel": "channel-184",
     "image": "common/umee.png"
   },
@@ -351,7 +351,7 @@
     "dp_denom": "SWTH",
     "origin_chain": "swth",
     "decimal": 6,
-    "description": "swth>osmosis",
+    "path": "swth>osmosis",
     "channel": "channel-188",
     "image": "common/swth.png"
   },
@@ -363,7 +363,7 @@
     "dp_denom": "FLIX",
     "origin_chain": "omniflix",
     "decimal": 6,
-    "description": "omniflix>osmosis",
+    "path": "omniflix>osmosis",
     "channel": "channel-199",
     "image": "common/flix.png"
   },
@@ -375,7 +375,7 @@
     "dp_denom": "DVPN",
     "origin_chain": "sentinel",
     "decimal": 6,
-    "description": "sentinel>osmosis",
+    "path": "sentinel>osmosis",
     "channel": "channel-2",
     "image": "common/dvpn.png"
   },
@@ -387,7 +387,7 @@
     "dp_denom": "EVMOS",
     "origin_chain": "evmos",
     "decimal": 18,
-    "description": "evmos>osmosis",
+    "path": "evmos>osmosis",
     "channel": "channel-204",
     "image": "common/evmos.png"
   },
@@ -399,7 +399,7 @@
     "dp_denom": "CRBRUS",
     "origin_chain": "cerberus",
     "decimal": 6,
-    "description": "cerberus>osmosis",
+    "path": "cerberus>osmosis",
     "channel": "channel-212",
     "image": "common/crbrus.png"
   },
@@ -411,7 +411,7 @@
     "dp_denom": "ATOLO",
     "origin_chain": "rizon",
     "decimal": 6,
-    "description": "rizon>osmosis",
+    "path": "rizon>osmosis",
     "channel": "channel-221",
     "image": "common/atolo.png"
   },
@@ -423,7 +423,7 @@
     "dp_denom": "FET",
     "origin_chain": "fetchai",
     "decimal": 18,
-    "description": "fetchai>osmosis",
+    "path": "fetchai>osmosis",
     "channel": "channel-229",
     "image": "common/fet.png"
   },
@@ -435,7 +435,7 @@
     "dp_denom": "MNTL",
     "origin_chain": "assetmantle",
     "decimal": 6,
-    "description": "assetmantle>osmosis",
+    "path": "assetmantle>osmosis",
     "channel": "channel-232",
     "image": "common/mntl.png"
   },
@@ -447,7 +447,7 @@
     "dp_denom": "EEUR",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney>osmosis",
+    "path": "emoney>osmosis",
     "channel": "channel-37",
     "image": "emoney/eeur.png"
   },
@@ -459,7 +459,7 @@
     "dp_denom": "NGM",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney>osmosis",
+    "path": "emoney>osmosis",
     "channel": "channel-37",
     "image": "common/ngm.png"
   },
@@ -471,7 +471,7 @@
     "dp_denom": "IXO",
     "origin_chain": "ixo",
     "decimal": 6,
-    "description": "ixo>osmosis",
+    "path": "ixo>osmosis",
     "channel": "channel-38",
     "image": "common/ixo.png"
   },
@@ -483,7 +483,7 @@
     "dp_denom": "TICK",
     "origin_chain": "tick",
     "decimal": 6,
-    "description": "microtick>osmosis",
+    "path": "microtick>osmosis",
     "channel": "channel-39",
     "image": "common/tick.png"
   },
@@ -495,7 +495,7 @@
     "dp_denom": "PSTAKE",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge>persistence>osmosis",
+    "path": "ethereum>gravity-bridge>persistence>osmosis",
     "channel": "channel-4",
     "image": "ethereum/pstake.png",
     "contract": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
@@ -508,7 +508,7 @@
     "dp_denom": "XPRT",
     "origin_chain": "persistence",
     "decimal": 6,
-    "description": "persistence>osmosis",
+    "path": "persistence>osmosis",
     "channel": "channel-4",
     "image": "common/xprt.png"
   },
@@ -520,7 +520,7 @@
     "dp_denom": "JUNO",
     "origin_chain": "juno",
     "decimal": 6,
-    "description": "juno>osmosis",
+    "path": "juno>osmosis",
     "channel": "channel-42",
     "image": "common/juno.png"
   },
@@ -532,7 +532,7 @@
     "dp_denom": "ROWAN",
     "origin_chain": "sifchain",
     "decimal": 18,
-    "description": "sifchain>osmosis",
+    "path": "sifchain>osmosis",
     "channel": "channel-47",
     "image": "common/rowan.png"
   },
@@ -544,7 +544,7 @@
     "dp_denom": "CRO",
     "origin_chain": "cryptoorg",
     "decimal": 8,
-    "description": "cryptoorg>osmosis",
+    "path": "cryptoorg>osmosis",
     "channel": "channel-5",
     "image": "common/cro.png"
   },
@@ -556,7 +556,7 @@
     "dp_denom": "BCNA",
     "origin_chain": "bitcanna",
     "decimal": 6,
-    "description": "bitcanna>osmosis",
+    "path": "bitcanna>osmosis",
     "channel": "channel-51",
     "image": "common/bcna.png"
   },
@@ -568,7 +568,7 @@
     "dp_denom": "LIKE",
     "origin_chain": "like",
     "decimal": 9,
-    "description": "like>osmosis",
+    "path": "like>osmosis",
     "channel": "channel-53",
     "image": "common/like.png"
   },
@@ -580,7 +580,7 @@
     "dp_denom": "IRIS",
     "origin_chain": "iris",
     "decimal": 6,
-    "description": "iris>osmosis",
+    "path": "iris>osmosis",
     "channel": "channel-6",
     "image": "common/iris.png"
   },
@@ -592,7 +592,7 @@
     "dp_denom": "BTSG",
     "origin_chain": "bitsong",
     "decimal": 6,
-    "description": "bitsong>osmosis",
+    "path": "bitsong>osmosis",
     "channel": "channel-73",
     "image": "common/btsg.png"
   },
@@ -604,7 +604,7 @@
     "dp_denom": "STARS",
     "origin_chain": "stargaze",
     "decimal": 6,
-    "description": "stargaze>osmosis",
+    "path": "stargaze>osmosis",
     "channel": "channel-75",
     "image": "common/stars.png"
   },
@@ -616,7 +616,7 @@
     "dp_denom": "XKI",
     "origin_chain": "kichain",
     "decimal": 6,
-    "description": "kichain>osmosis",
+    "path": "kichain>osmosis",
     "channel": "channel-77",
     "image": "common/xki.png"
   },
@@ -628,7 +628,7 @@
     "dp_denom": "REGEN",
     "origin_chain": "regen",
     "decimal": 6,
-    "description": "regen>osmosis",
+    "path": "regen>osmosis",
     "channel": "channel-8",
     "image": "common/regen.png"
   },
@@ -640,7 +640,7 @@
     "dp_denom": "MED",
     "origin_chain": "medibloc",
     "decimal": 6,
-    "description": "medibloc>osmosis",
+    "path": "medibloc>osmosis",
     "channel": "channel-82",
     "image": "common/med.png"
   },
@@ -652,7 +652,7 @@
     "dp_denom": "CMDX",
     "origin_chain": "comdex",
     "decimal": 6,
-    "description": "comdex>osmosis",
+    "path": "comdex>osmosis",
     "channel": "channel-87",
     "image": "common/cmdx.png"
   },
@@ -664,7 +664,7 @@
     "dp_denom": "SCRT",
     "origin_chain": "secret",
     "decimal": 6,
-    "description": "secret>osmosis",
+    "path": "secret>osmosis",
     "channel": "channel-88",
     "image": "common/scrt.png"
   },
@@ -676,7 +676,7 @@
     "dp_denom": "BOOT",
     "origin_chain": "bostrom",
     "decimal": 6,
-    "description": "bostrom>osmosis",
+    "path": "bostrom>osmosis",
     "channel": "channel-95",
     "image": "common/boot.png"
   },
@@ -688,7 +688,7 @@
     "dp_denom": "KUJI",
     "origin_chain": "kujira",
     "decimal": 6,
-    "description": "kujira>osmosis",
+    "path": "kujira>osmosis",
     "channel": "channel-259",
     "image": "common/kuji.png"
   },
@@ -700,7 +700,7 @@
     "dp_denom": "INJ",
     "origin_chain": "injective",
     "decimal": 18,
-    "description": "injective>osmosis",
+    "path": "injective>osmosis",
     "channel": "channel-122",
     "image": "common/inj.png"
   }
