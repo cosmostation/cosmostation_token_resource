@@ -23,6 +23,18 @@
     "image": "common/osmo.png"
   },
   {
+    "denom": "ibc/C1A2C4681159048DD4A116652D8594EC5CD1C30D9FD282A9DAEAD6328CF3CDCA",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>chihuahua",
+    "channel": "channel-7",
+    "image": "osmosis/ion.png"
+  },
+  {
     "denom": "ibc/6F0955036B92C0A1EE4EB03942A989369DB275CA57454E5F564B581AB5D81CDB",
     "type": "ibc",
     "base_denom": "inj",
