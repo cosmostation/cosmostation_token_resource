@@ -715,5 +715,17 @@
     "path": "tgrade>osmosis",
     "channel": "channel-263",
     "image": "common/tgd.png"
+  },
+  {
+    "denom": "ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205",
+    "type": "ibc",
+    "base_denom": "ukava",
+    "base_type": "staking",
+    "dp_denom": "KAVA",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "path": "kava>osmosis",
+    "channel": "channel-143",
+    "image": "common/kava.png"
   }
 ]
