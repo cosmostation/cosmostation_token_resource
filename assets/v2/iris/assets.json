@@ -17,7 +17,7 @@
     "base_type": "native",
     "dp_denom": "WDT",
     "origin_chain": "iris",
-    "decimal": 6,
+    "decimal": 9,
     "description": "Native Coin",
     "image": "iris/wdt.png"
   },
