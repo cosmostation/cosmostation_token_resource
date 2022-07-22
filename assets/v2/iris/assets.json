@@ -15,7 +15,7 @@
     "type": "native",
     "base_denom": "uwdt",
     "base_type": "native",
-    "dp_denom": "WDT",
+    "dp_denom": "Winner RDC",
     "origin_chain": "iris",
     "decimal": 9,
     "description": "Native Coin",
