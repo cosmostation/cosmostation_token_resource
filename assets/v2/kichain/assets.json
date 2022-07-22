@@ -11,6 +11,18 @@
     "image": "common/xki.png"
   },
   {
+    "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>kichain",
+    "channel": "channel-0",
+    "image": "common/ion.png"
+  },
+  {
     "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
     "type": "ibc",
     "base_denom": "uosmo",
