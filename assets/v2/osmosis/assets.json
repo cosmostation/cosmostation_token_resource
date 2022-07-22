@@ -675,7 +675,7 @@
     "base_type": "staking",
     "dp_denom": "BOOT",
     "origin_chain": "bostrom",
-    "decimal": 6,
+    "decimal": 0,
     "path": "bostrom>osmosis",
     "channel": "channel-95",
     "image": "common/boot.png"
