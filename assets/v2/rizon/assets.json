@@ -23,6 +23,18 @@
     "image": "common/atom.png"
   },
   {
+    "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>rizon",
+    "channel": "channel-1",
+    "image": "osmosis/ion.png"
+  },
+  {
     "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
     "type": "ibc",
     "base_denom": "uosmo",
