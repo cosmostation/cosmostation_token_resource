@@ -462,5 +462,17 @@
     "path": "umee>cosmos",
     "channel": "channel-288",
     "image": "common/umee.png"
+  },
+  {
+    "denom": "ibc/1542F8DC70E7999691E991E1EDEB1B47E65E3A217B1649D347098EE48ACB580F",
+    "type": "ibc",
+    "base_denom": "uscrt",
+    "base_type": "staking",
+    "dp_denom": "SCRT",
+    "origin_chain": "secret",
+    "decimal": 6,
+    "path": "secret>cosmos",
+    "channel": "channel-235",
+    "image": "common/scrt.png"
   }
 ]
