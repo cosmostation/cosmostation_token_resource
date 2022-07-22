@@ -99,7 +99,7 @@
     "base_denom": "udig",
     "base_type": "staking",
     "dp_denom": "DIG",
-    "origin_chain": "dig",
+    "origin_chain": "digchain",
     "decimal": 6,
     "path": "digchain>osmosis",
     "channel": "channel-128",
