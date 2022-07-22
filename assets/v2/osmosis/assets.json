@@ -349,9 +349,9 @@
     "base_denom": "swth",
     "base_type": "staking",
     "dp_denom": "SWTH",
-    "origin_chain": "swth",
+    "origin_chain": "carbon",
     "decimal": 6,
-    "path": "swth>osmosis",
+    "path": "carbon>osmosis",
     "channel": "channel-188",
     "image": "common/swth.png"
   },
