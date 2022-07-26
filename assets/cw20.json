@@ -96,5 +96,12 @@
     "symbol": "dla",
     "decimal": 6,
     "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/dla.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l",
+    "symbol": "phmn",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/phmn.png"
   }
 ]
