@@ -226,9 +226,9 @@
     "base_denom": "uctk",
     "base_type": "staking",
     "dp_denom": "CTK",
-    "origin_chain": "certik",
+    "origin_chain": "shentu",
     "decimal": 6,
-    "path": "certik>osmosis",
+    "path": "shentu>osmosis",
     "channel": "channel-146",
     "image": "common/ctk.png"
   },
