@@ -5,7 +5,7 @@
     "name": "WETH",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "weth.png",
+    "logoURI": "ethereum/weth.png",
     "coinGeckoId": "weth"
   },
   {
@@ -14,7 +14,7 @@
     "name": "TrueUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "logoURI": "tusd.png",
+    "logoURI": "ethereum/tusd.png",
     "coinGeckoId": "true-usd"
   },
   {
@@ -23,7 +23,7 @@
     "name": "Tokenlon",
     "symbol": "LON",
     "decimals": 18,
-    "logoURI": "lon.png"
+    "logoURI": "ethereum/lon.png"
   },
   {
     "chainId": 1,
@@ -31,7 +31,7 @@
     "name": "AllianceBlock",
     "symbol": "ALBT",
     "decimals": 18,
-    "logoURI": "albt.png"
+    "logoURI": "ethereum/albt.png"
   },
   {
     "chainId": 1,
@@ -39,7 +39,7 @@
     "name": "SKALE Network",
     "symbol": "SKL",
     "decimals": 18,
-    "logoURI": "skl.png"
+    "logoURI": "ethereum/skl.png"
   },
   {
     "chainId": 1,
@@ -47,7 +47,7 @@
     "name": "UniLend",
     "symbol": "UFT",
     "decimals": 18,
-    "logoURI": "uft.png"
+    "logoURI": "ethereum/uft.png"
   },
   {
     "chainId": 1,
@@ -55,7 +55,7 @@
     "name": "Orion Protocol",
     "symbol": "ORN",
     "decimals": 8,
-    "logoURI": "orn.png"
+    "logoURI": "ethereum/orn.png"
   },
   {
     "chainId": 1,
@@ -63,7 +63,7 @@
     "name": "Rai Reflex Index",
     "symbol": "RAI",
     "decimals": 18,
-    "logoURI": "rai.png"
+    "logoURI": "ethereum/rai.png"
   },
   {
     "chainId": 1,
@@ -71,7 +71,7 @@
     "name": "SparkPoint",
     "symbol": "SRK",
     "decimals": 18,
-    "logoURI": "srk.png"
+    "logoURI": "ethereum/srk.png"
   },
   {
     "chainId": 1,
@@ -79,7 +79,7 @@
     "name": "UMA",
     "symbol": "UMA",
     "decimals": 18,
-    "logoURI": "uma.png"
+    "logoURI": "ethereum/uma.png"
   },
   {
     "chainId": 1,
@@ -87,7 +87,7 @@
     "name": "SmartKey",
     "symbol": "Skey",
     "decimals": 8,
-    "logoURI": "skey.png"
+    "logoURI": "ethereum/skey.png"
   },
   {
     "chainId": 1,
@@ -95,7 +95,7 @@
     "name": "Base Protocol",
     "symbol": "BASE",
     "decimals": 9,
-    "logoURI": "base.png"
+    "logoURI": "ethereum/base.png"
   },
   {
     "chainId": 1,
@@ -103,7 +103,7 @@
     "name": "Mirror Protocol",
     "symbol": "MIR",
     "decimals": 18,
-    "logoURI": "mir.png"
+    "logoURI": "ethereum/mir.png"
   },
   {
     "chainId": 1,
@@ -111,7 +111,7 @@
     "name": "Growth DeFi",
     "symbol": "GRO",
     "decimals": 18,
-    "logoURI": "gro.png"
+    "logoURI": "ethereum/gro.png"
   },
   {
     "chainId": 1,
@@ -119,7 +119,7 @@
     "name": "LGO Token",
     "symbol": "LGO",
     "decimals": 8,
-    "logoURI": "lgo.png"
+    "logoURI": "ethereum/lgo.png"
   },
   {
     "chainId": 1,
@@ -127,7 +127,7 @@
     "name": "xDai",
     "symbol": "STAKE",
     "decimals": 18,
-    "logoURI": "stake.png"
+    "logoURI": "ethereum/stake.png"
   },
   {
     "chainId": 1,
@@ -135,7 +135,7 @@
     "name": "yearn.finance",
     "symbol": "YFI",
     "decimals": 18,
-    "logoURI": "yfi.png"
+    "logoURI": "ethereum/yfi.png"
   },
   {
     "chainId": 1,
@@ -143,7 +143,7 @@
     "name": "Bifrost",
     "symbol": "BFC",
     "decimals": 18,
-    "logoURI": "bfc.png"
+    "logoURI": "ethereum/bfc.png"
   },
   {
     "chainId": 1,
@@ -151,7 +151,7 @@
     "name": "Public Mint",
     "symbol": "MINT",
     "decimals": 18,
-    "logoURI": "mint.png"
+    "logoURI": "ethereum/mint.png"
   },
   {
     "chainId": 1,
@@ -159,7 +159,7 @@
     "name": "PoolTogether",
     "symbol": "POOL",
     "decimals": 18,
-    "logoURI": "pool.png"
+    "logoURI": "ethereum/pool.png"
   },
   {
     "chainId": 1,
@@ -167,7 +167,7 @@
     "name": "Basic Attention Token",
     "symbol": "BAT",
     "decimals": 18,
-    "logoURI": "bat.png"
+    "logoURI": "ethereum/bat.png"
   },
   {
     "chainId": 1,
@@ -175,7 +175,7 @@
     "name": "DAO Maker",
     "symbol": "DAO",
     "decimals": 18,
-    "logoURI": "dao.png"
+    "logoURI": "ethereum/dao.png"
   },
   {
     "chainId": 1,
@@ -183,7 +183,7 @@
     "name": "Decentraland",
     "symbol": "MANA",
     "decimals": 18,
-    "logoURI": "mana.png"
+    "logoURI": "ethereum/mana.png"
   },
   {
     "chainId": 1,
@@ -191,7 +191,7 @@
     "name": "Blockzero Labs",
     "symbol": "XIO",
     "decimals": 18,
-    "logoURI": "xio.png"
+    "logoURI": "ethereum/xio.png"
   },
   {
     "chainId": 1,
@@ -199,7 +199,7 @@
     "name": "Pundi X",
     "symbol": "PUNDIX",
     "decimals": 18,
-    "logoURI": "pundix.png"
+    "logoURI": "ethereum/pundix.png"
   },
   {
     "chainId": 1,
@@ -207,7 +207,7 @@
     "name": "Unilayer",
     "symbol": "LAYER",
     "decimals": 18,
-    "logoURI": "layer.png"
+    "logoURI": "ethereum/layer.png"
   },
   {
     "chainId": 1,
@@ -215,7 +215,7 @@
     "name": "UniMex Network",
     "symbol": "UMX",
     "decimals": 18,
-    "logoURI": "umx.png"
+    "logoURI": "ethereum/umx.png"
   },
   {
     "chainId": 1,
@@ -223,7 +223,7 @@
     "name": "1INCH Token",
     "symbol": "1INCH",
     "decimals": 18,
-    "logoURI": "1inch.png"
+    "logoURI": "ethereum/1inch.png"
   },
   {
     "chainId": 1,
@@ -231,7 +231,7 @@
     "name": "ARMOR",
     "symbol": "ARMOR",
     "decimals": 18,
-    "logoURI": "armor.png"
+    "logoURI": "ethereum/armor.png"
   },
   {
     "chainId": 1,
@@ -239,7 +239,7 @@
     "name": "Armor NXM",
     "symbol": "arNXM",
     "decimals": 18,
-    "logoURI": "arnxm.png"
+    "logoURI": "ethereum/arnxm.png"
   },
   {
     "chainId": 1,
@@ -247,7 +247,7 @@
     "name": "DeFi Pulse Index",
     "symbol": "DPI",
     "decimals": 18,
-    "logoURI": "dpi.png"
+    "logoURI": "ethereum/dpi.png"
   },
   {
     "chainId": 1,
@@ -255,7 +255,7 @@
     "name": "DeltaHub Community",
     "symbol": "DHC",
     "decimals": 18,
-    "logoURI": "dhc.png"
+    "logoURI": "ethereum/dhc.png"
   },
   {
     "chainId": 1,
@@ -263,7 +263,7 @@
     "name": "EthereumMax",
     "symbol": "eMax",
     "decimals": 18,
-    "logoURI": "emax.png"
+    "logoURI": "ethereum/emax.png"
   },
   {
     "chainId": 1,
@@ -271,7 +271,7 @@
     "name": "PAID Network",
     "symbol": "PAID",
     "decimals": 18,
-    "logoURI": "paid.png"
+    "logoURI": "ethereum/paid.png"
   },
   {
     "chainId": 1,
@@ -279,7 +279,7 @@
     "name": "KIRA Network",
     "symbol": "KEX",
     "decimals": 6,
-    "logoURI": "kex.png"
+    "logoURI": "ethereum/kex.png"
   },
   {
     "chainId": 1,
@@ -287,7 +287,7 @@
     "name": "Polychain Monsters",
     "symbol": "PMON",
     "decimals": 18,
-    "logoURI": "pmon.png"
+    "logoURI": "ethereum/pmon.png"
   },
   {
     "chainId": 1,
@@ -295,7 +295,7 @@
     "name": "Cryptocurrency Top 10 Tokens Index",
     "symbol": "CC10",
     "decimals": 18,
-    "logoURI": "cc10.png"
+    "logoURI": "ethereum/cc10.png"
   },
   {
     "chainId": 1,
@@ -303,7 +303,7 @@
     "name": "Audius",
     "symbol": "AUDIO",
     "decimals": 18,
-    "logoURI": "audio.png"
+    "logoURI": "ethereum/audio.png"
   },
   {
     "chainId": 1,
@@ -311,7 +311,7 @@
     "name": "Augur",
     "symbol": "REP",
     "decimals": 18,
-    "logoURI": "rep.png"
+    "logoURI": "ethereum/rep.png"
   },
   {
     "chainId": 1,
@@ -319,7 +319,7 @@
     "name": "Vesper",
     "symbol": "VSP",
     "decimals": 18,
-    "logoURI": "vsp.png"
+    "logoURI": "ethereum/vsp.png"
   },
   {
     "chainId": 1,
@@ -327,7 +327,7 @@
     "name": "Antimatter.Finance Governance Token",
     "symbol": "MATTER",
     "decimals": 18,
-    "logoURI": "matter.png"
+    "logoURI": "ethereum/matter.png"
   },
   {
     "chainId": 1,
@@ -335,7 +335,7 @@
     "name": "TOWER",
     "symbol": "TOWER",
     "decimals": 18,
-    "logoURI": "tower.png"
+    "logoURI": "ethereum/tower.png"
   },
   {
     "chainId": 1,
@@ -343,7 +343,7 @@
     "name": "Non-Fungible Yearn",
     "symbol": "NFY",
     "decimals": 18,
-    "logoURI": "nfy.png"
+    "logoURI": "ethereum/nfy.png"
   },
   {
     "chainId": 1,
@@ -351,7 +351,7 @@
     "name": "Keep3rV1",
     "symbol": "KP3R",
     "decimals": 18,
-    "logoURI": "kp3r.png"
+    "logoURI": "ethereum/kp3r.png"
   },
   {
     "chainId": 1,
@@ -359,7 +359,7 @@
     "name": "Lead Wallet",
     "symbol": "LEAD",
     "decimals": 18,
-    "logoURI": "lead.png"
+    "logoURI": "ethereum/lead.png"
   },
   {
     "chainId": 1,
@@ -367,7 +367,7 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "uni.png"
+    "logoURI": "ethereum/uni.png"
   },
   {
     "chainId": 1,
@@ -375,7 +375,7 @@
     "name": "ChainGuardians Governance Token",
     "symbol": "CGG",
     "decimals": 18,
-    "logoURI": "cgg.png"
+    "logoURI": "ethereum/cgg.png"
   },
   {
     "chainId": 1,
@@ -383,7 +383,7 @@
     "name": "OVR",
     "symbol": "OVR",
     "decimals": 18,
-    "logoURI": "ovr.png"
+    "logoURI": "ethereum/ovr.png"
   },
   {
     "chainId": 1,
@@ -391,7 +391,7 @@
     "name": "Reputation",
     "symbol": "REPv2",
     "decimals": 18,
-    "logoURI": "repv2.png"
+    "logoURI": "ethereum/repv2.png"
   },
   {
     "chainId": 1,
@@ -399,7 +399,7 @@
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "wbtc.png"
+    "logoURI": "ethereum/wbtc.png"
   },
   {
     "chainId": 1,
@@ -407,7 +407,7 @@
     "name": "UNION Protocol Governance Token",
     "symbol": "UNN",
     "decimals": 18,
-    "logoURI": "unn.png"
+    "logoURI": "ethereum/unn.png"
   },
   {
     "chainId": 1,
@@ -415,7 +415,7 @@
     "name": "Unisocks Edition 0",
     "symbol": "SOCKS",
     "decimals": 18,
-    "logoURI": "socks.png"
+    "logoURI": "ethereum/socks.png"
   },
   {
     "chainId": 1,
@@ -423,7 +423,7 @@
     "name": "Bidao",
     "symbol": "BID",
     "decimals": 18,
-    "logoURI": "bid.png"
+    "logoURI": "ethereum/bid.png"
   },
   {
     "chainId": 1,
@@ -431,7 +431,7 @@
     "name": "Cellframe",
     "symbol": "CELL",
     "decimals": 18,
-    "logoURI": "cell.png"
+    "logoURI": "ethereum/cell.png"
   },
   {
     "chainId": 1,
@@ -439,7 +439,7 @@
     "name": "DegenVC",
     "symbol": "DGVC",
     "decimals": 18,
-    "logoURI": "dgvc.png"
+    "logoURI": "ethereum/dgvc.png"
   },
   {
     "chainId": 1,
@@ -447,7 +447,7 @@
     "name": "DOGE KILLER",
     "symbol": "LEASH",
     "decimals": 18,
-    "logoURI": "leash.png"
+    "logoURI": "ethereum/leash.png"
   },
   {
     "chainId": 1,
@@ -455,7 +455,7 @@
     "name": "Froge Finance",
     "symbol": "FROGE",
     "decimals": 9,
-    "logoURI": "froge.png"
+    "logoURI": "ethereum/froge.png"
   },
   {
     "chainId": 1,
@@ -463,7 +463,7 @@
     "name": "HEX",
     "symbol": "HEX",
     "decimals": 8,
-    "logoURI": "hex.png"
+    "logoURI": "ethereum/hex.png"
   },
   {
     "chainId": 1,
@@ -471,7 +471,7 @@
     "name": "Cream Finance",
     "symbol": "CREAM",
     "decimals": 18,
-    "logoURI": "cream.png"
+    "logoURI": "ethereum/cream.png"
   },
   {
     "chainId": 1,
@@ -479,7 +479,7 @@
     "name": "Mettalex",
     "symbol": "MTLX",
     "decimals": 18,
-    "logoURI": "mtlx.png"
+    "logoURI": "ethereum/mtlx.png"
   },
   {
     "chainId": 1,
@@ -487,7 +487,7 @@
     "name": "Yfi.mobi",
     "symbol": "YFIM",
     "decimals": 18,
-    "logoURI": "yfim.png"
+    "logoURI": "ethereum/yfim.png"
   },
   {
     "chainId": 1,
@@ -495,7 +495,7 @@
     "name": "ZeroSwap",
     "symbol": "ZEE",
     "decimals": 18,
-    "logoURI": "zee.png"
+    "logoURI": "ethereum/zee.png"
   },
   {
     "chainId": 1,
@@ -503,7 +503,7 @@
     "name": "Decentr",
     "symbol": "DEC",
     "decimals": 18,
-    "logoURI": "dec.png"
+    "logoURI": "ethereum/dec.png"
   },
   {
     "chainId": 1,
@@ -511,7 +511,7 @@
     "name": "THORChain ETH.RUNE",
     "symbol": "RUNE",
     "decimals": 18,
-    "logoURI": "rune.png"
+    "logoURI": "ethereum/rune.png"
   },
   {
     "chainId": 1,
@@ -519,7 +519,7 @@
     "name": "Akita Inu",
     "symbol": "AKITA",
     "decimals": 18,
-    "logoURI": "akita.png"
+    "logoURI": "ethereum/akita.png"
   },
   {
     "chainId": 1,
@@ -527,7 +527,7 @@
     "name": "Anatha",
     "symbol": "wANATHA",
     "decimals": 18,
-    "logoURI": "wanatha.png"
+    "logoURI": "ethereum/wanatha.png"
   },
   {
     "chainId": 1,
@@ -535,7 +535,7 @@
     "name": "RAMP DEFI",
     "symbol": "RAMP",
     "decimals": 18,
-    "logoURI": "ramp.png"
+    "logoURI": "ethereum/ramp.png"
   },
   {
     "chainId": 1,
@@ -543,7 +543,7 @@
     "name": "MANTRA DAO",
     "symbol": "OM",
     "decimals": 18,
-    "logoURI": "om.png"
+    "logoURI": "ethereum/om.png"
   },
   {
     "chainId": 1,
@@ -551,7 +551,7 @@
     "name": "PARSIQ",
     "symbol": "PRQ",
     "decimals": 18,
-    "logoURI": "prq.png"
+    "logoURI": "ethereum/prq.png"
   },
   {
     "chainId": 1,
@@ -559,7 +559,7 @@
     "name": "The Sandbox",
     "symbol": "SAND",
     "decimals": 18,
-    "logoURI": "sand.png"
+    "logoURI": "ethereum/sand.png"
   },
   {
     "chainId": 1,
@@ -567,7 +567,7 @@
     "name": "FEG Token",
     "symbol": "FEGeth",
     "decimals": 9,
-    "logoURI": "fegeth.png"
+    "logoURI": "ethereum/fegeth.png"
   },
   {
     "chainId": 1,
@@ -575,7 +575,7 @@
     "name": "Concentrated Voting Power",
     "symbol": "CVP",
     "decimals": 18,
-    "logoURI": "cvp.png"
+    "logoURI": "ethereum/cvp.png"
   },
   {
     "chainId": 1,
@@ -583,7 +583,7 @@
     "name": "DSLA",
     "symbol": "DSLA",
     "decimals": 18,
-    "logoURI": "dsla.png"
+    "logoURI": "ethereum/dsla.png"
   },
   {
     "chainId": 1,
@@ -591,7 +591,7 @@
     "name": "Vidya",
     "symbol": "VIDYA",
     "decimals": 18,
-    "logoURI": "vidya.png"
+    "logoURI": "ethereum/vidya.png"
   },
   {
     "chainId": 1,
@@ -599,7 +599,7 @@
     "name": "Ren",
     "symbol": "REN",
     "decimals": 18,
-    "logoURI": "ren.png"
+    "logoURI": "ethereum/ren.png"
   },
   {
     "chainId": 1,
@@ -607,7 +607,7 @@
     "name": "SORA",
     "symbol": "XOR",
     "decimals": 18,
-    "logoURI": "xor.png"
+    "logoURI": "ethereum/xor.png"
   },
   {
     "chainId": 1,
@@ -615,7 +615,7 @@
     "name": "FunFair",
     "symbol": "FUN",
     "decimals": 8,
-    "logoURI": "fun.png"
+    "logoURI": "ethereum/fun.png"
   },
   {
     "chainId": 1,
@@ -623,7 +623,7 @@
     "name": "GoBlank",
     "symbol": "BLANK",
     "decimals": 18,
-    "logoURI": "blank.png"
+    "logoURI": "ethereum/blank.png"
   },
   {
     "chainId": 1,
@@ -631,7 +631,7 @@
     "name": "Pickle Finance",
     "symbol": "PICKLE",
     "decimals": 18,
-    "logoURI": "pickle.png"
+    "logoURI": "ethereum/pickle.png"
   },
   {
     "chainId": 1,
@@ -639,7 +639,7 @@
     "name": "dForce",
     "symbol": "DF",
     "decimals": 18,
-    "logoURI": "df.png"
+    "logoURI": "ethereum/df.png"
   },
   {
     "chainId": 1,
@@ -647,7 +647,7 @@
     "name": "FLOKI",
     "symbol": "FLOKI",
     "decimals": 9,
-    "logoURI": "floki.png"
+    "logoURI": "ethereum/floki.png"
   },
   {
     "chainId": 1,
@@ -655,7 +655,7 @@
     "name": "Orchid",
     "symbol": "OXT",
     "decimals": 18,
-    "logoURI": "oxt.png"
+    "logoURI": "ethereum/oxt.png"
   },
   {
     "chainId": 1,
@@ -663,7 +663,7 @@
     "name": "PAX Gold",
     "symbol": "PAXG",
     "decimals": 18,
-    "logoURI": "paxg.png"
+    "logoURI": "ethereum/paxg.png"
   },
   {
     "chainId": 1,
@@ -671,7 +671,7 @@
     "name": "WOO Network",
     "symbol": "WOO",
     "decimals": 18,
-    "logoURI": "woo.png"
+    "logoURI": "ethereum/woo.png"
   },
   {
     "chainId": 1,
@@ -679,7 +679,7 @@
     "name": "Quant",
     "symbol": "QNT",
     "decimals": 18,
-    "logoURI": "qnt.png"
+    "logoURI": "ethereum/qnt.png"
   },
   {
     "chainId": 1,
@@ -687,7 +687,7 @@
     "name": "Jupiter",
     "symbol": "JUP",
     "decimals": 18,
-    "logoURI": "jup.png"
+    "logoURI": "ethereum/jup.png"
   },
   {
     "chainId": 1,
@@ -695,7 +695,7 @@
     "name": "Oraichain Token",
     "symbol": "ORAI",
     "decimals": 18,
-    "logoURI": "orai.png"
+    "logoURI": "ethereum/orai.png"
   },
   {
     "chainId": 1,
@@ -703,7 +703,7 @@
     "name": "TrueFi",
     "symbol": "TRU",
     "decimals": 8,
-    "logoURI": "tru.png"
+    "logoURI": "ethereum/tru.png"
   },
   {
     "chainId": 1,
@@ -711,7 +711,7 @@
     "name": "MCDEX Token",
     "symbol": "MCB",
     "decimals": 18,
-    "logoURI": "mcb.png"
+    "logoURI": "ethereum/mcb.png"
   },
   {
     "chainId": 1,
@@ -719,7 +719,7 @@
     "name": "NuCypher",
     "symbol": "NU",
     "decimals": 18,
-    "logoURI": "nu.png"
+    "logoURI": "ethereum/nu.png"
   },
   {
     "chainId": 1,
@@ -727,7 +727,7 @@
     "name": "Razor Network",
     "symbol": "RAZOR",
     "decimals": 18,
-    "logoURI": "razor.png"
+    "logoURI": "ethereum/razor.png"
   },
   {
     "chainId": 1,
@@ -735,7 +735,7 @@
     "name": "Chainlink",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "link.png"
+    "logoURI": "ethereum/link.png"
   },
   {
     "chainId": 1,
@@ -743,7 +743,7 @@
     "name": "unFederalReserve",
     "symbol": "eRSDL",
     "decimals": 18,
-    "logoURI": "ersdl.png"
+    "logoURI": "ethereum/ersdl.png"
   },
   {
     "chainId": 1,
@@ -751,7 +751,7 @@
     "name": "pTokens BTC",
     "symbol": "pBTC",
     "decimals": 18,
-    "logoURI": "pbtc.png"
+    "logoURI": "ethereum/pbtc.png"
   },
   {
     "chainId": 1,
@@ -759,7 +759,7 @@
     "name": "BarterTrade",
     "symbol": "BART",
     "decimals": 18,
-    "logoURI": "bart.png"
+    "logoURI": "ethereum/bart.png"
   },
   {
     "chainId": 1,
@@ -767,7 +767,7 @@
     "name": "REVV",
     "symbol": "REVV",
     "decimals": 18,
-    "logoURI": "revv.png"
+    "logoURI": "ethereum/revv.png"
   },
   {
     "chainId": 1,
@@ -775,7 +775,7 @@
     "name": "sUSD",
     "symbol": "sUSD",
     "decimals": 18,
-    "logoURI": "susd.png"
+    "logoURI": "ethereum/susd.png"
   },
   {
     "chainId": 1,
@@ -783,7 +783,7 @@
     "name": "Hegic",
     "symbol": "HEGIC",
     "decimals": 18,
-    "logoURI": "hegic.png"
+    "logoURI": "ethereum/hegic.png"
   },
   {
     "chainId": 1,
@@ -791,7 +791,7 @@
     "name": "UnMarshal",
     "symbol": "MARSH",
     "decimals": 18,
-    "logoURI": "marsh.png"
+    "logoURI": "ethereum/marsh.png"
   },
   {
     "chainId": 1,
@@ -799,7 +799,7 @@
     "name": "Xfinance",
     "symbol": "XFI",
     "decimals": 18,
-    "logoURI": "xfi.png"
+    "logoURI": "ethereum/xfi.png"
   },
   {
     "chainId": 1,
@@ -807,7 +807,7 @@
     "name": "Dev",
     "symbol": "DEV",
     "decimals": 18,
-    "logoURI": "dev.png"
+    "logoURI": "ethereum/dev.png"
   },
   {
     "chainId": 1,
@@ -815,7 +815,7 @@
     "name": "BOND",
     "symbol": "BOND",
     "decimals": 8,
-    "logoURI": "bond.png"
+    "logoURI": "ethereum/bond.png"
   },
   {
     "chainId": 1,
@@ -823,7 +823,7 @@
     "name": "DEXTF Token",
     "symbol": "DEXTF",
     "decimals": 18,
-    "logoURI": "dextf.png"
+    "logoURI": "ethereum/dextf.png"
   },
   {
     "chainId": 1,
@@ -831,7 +831,7 @@
     "name": "Liquity USD",
     "symbol": "LUSD",
     "decimals": 18,
-    "logoURI": "lusd.png"
+    "logoURI": "ethereum/lusd.png"
   },
   {
     "chainId": 1,
@@ -839,7 +839,7 @@
     "name": "iExec RLC",
     "symbol": "RLC",
     "decimals": 9,
-    "logoURI": "rlc.png"
+    "logoURI": "ethereum/rlc.png"
   },
   {
     "chainId": 1,
@@ -847,7 +847,7 @@
     "name": "Launchpool",
     "symbol": "LPOOL",
     "decimals": 18,
-    "logoURI": "lpool.png"
+    "logoURI": "ethereum/lpool.png"
   },
   {
     "chainId": 1,
@@ -855,7 +855,7 @@
     "name": "cVault.finance",
     "symbol": "CORE",
     "decimals": 18,
-    "logoURI": "core.png"
+    "logoURI": "ethereum/core.png"
   },
   {
     "chainId": 1,
@@ -863,7 +863,7 @@
     "name": "Reflexer Ungovernance Token",
     "symbol": "FLX",
     "decimals": 18,
-    "logoURI": "flx.png"
+    "logoURI": "ethereum/flx.png"
   },
   {
     "chainId": 1,
@@ -871,7 +871,7 @@
     "name": "AIOZ Network",
     "symbol": "AIOZ",
     "decimals": 18,
-    "logoURI": "aioz.png"
+    "logoURI": "ethereum/aioz.png"
   },
   {
     "chainId": 1,
@@ -879,7 +879,7 @@
     "name": "CyberFi Token",
     "symbol": "CFi",
     "decimals": 18,
-    "logoURI": "cfi.png"
+    "logoURI": "ethereum/cfi.png"
   },
   {
     "chainId": 1,
@@ -887,7 +887,7 @@
     "name": "Wise Token",
     "symbol": "WISE",
     "decimals": 18,
-    "logoURI": "wise.png"
+    "logoURI": "ethereum/wise.png"
   },
   {
     "chainId": 1,
@@ -895,7 +895,7 @@
     "name": "Kylin",
     "symbol": "KYL",
     "decimals": 18,
-    "logoURI": "kyl.png"
+    "logoURI": "ethereum/kyl.png"
   },
   {
     "chainId": 1,
@@ -903,7 +903,7 @@
     "name": "Benchmark Protocol",
     "symbol": "MARK",
     "decimals": 9,
-    "logoURI": "mark.png"
+    "logoURI": "ethereum/mark.png"
   },
   {
     "chainId": 1,
@@ -911,7 +911,7 @@
     "name": "Gnosis",
     "symbol": "GNO",
     "decimals": 18,
-    "logoURI": "gno.png"
+    "logoURI": "ethereum/gno.png"
   },
   {
     "chainId": 1,
@@ -919,7 +919,7 @@
     "name": "chads.vc",
     "symbol": "CHADS",
     "decimals": 18,
-    "logoURI": "chads.png"
+    "logoURI": "ethereum/chads.png"
   },
   {
     "chainId": 1,
@@ -927,7 +927,7 @@
     "name": "Poolz Finance",
     "symbol": "POOLZ",
     "decimals": 18,
-    "logoURI": "poolz.png"
+    "logoURI": "ethereum/poolz.png"
   },
   {
     "chainId": 1,
@@ -935,7 +935,7 @@
     "name": "Mask Network",
     "symbol": "MASK",
     "decimals": 18,
-    "logoURI": "mask.png"
+    "logoURI": "ethereum/mask.png"
   },
   {
     "chainId": 1,
@@ -943,7 +943,7 @@
     "name": "Dai",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "dai.png"
+    "logoURI": "ethereum/dai.png"
   },
   {
     "chainId": 1,
@@ -951,7 +951,7 @@
     "name": "SushiSwap",
     "symbol": "SUSHI",
     "decimals": 18,
-    "logoURI": "sushi.png"
+    "logoURI": "ethereum/sushi.png"
   },
   {
     "chainId": 1,
@@ -959,7 +959,7 @@
     "name": "Fyooz",
     "symbol": "FYZ",
     "decimals": 18,
-    "logoURI": "fyz.png"
+    "logoURI": "ethereum/fyz.png"
   },
   {
     "chainId": 1,
@@ -967,7 +967,7 @@
     "name": "Holo",
     "symbol": "HOT",
     "decimals": 18,
-    "logoURI": "hot.png"
+    "logoURI": "ethereum/hot.png"
   },
   {
     "chainId": 1,
@@ -975,7 +975,7 @@
     "name": "QuiverX",
     "symbol": "QRX",
     "decimals": 18,
-    "logoURI": "qrx.png"
+    "logoURI": "ethereum/qrx.png"
   },
   {
     "chainId": 1,
@@ -983,7 +983,7 @@
     "name": "UniTrade",
     "symbol": "TRADE",
     "decimals": 18,
-    "logoURI": "trade.png"
+    "logoURI": "ethereum/trade.png"
   },
   {
     "chainId": 1,
@@ -991,7 +991,7 @@
     "name": "Umbrella Network",
     "symbol": "UMB",
     "decimals": 18,
-    "logoURI": "umb.png"
+    "logoURI": "ethereum/umb.png"
   },
   {
     "chainId": 1,
@@ -999,7 +999,7 @@
     "name": "Bird.Money",
     "symbol": "BIRD",
     "decimals": 18,
-    "logoURI": "bird.png"
+    "logoURI": "ethereum/bird.png"
   },
   {
     "chainId": 1,
@@ -1007,7 +1007,7 @@
     "name": "Axion",
     "symbol": "AXN",
     "decimals": 18,
-    "logoURI": "axn.png"
+    "logoURI": "ethereum/axn.png"
   },
   {
     "chainId": 1,
@@ -1015,7 +1015,7 @@
     "name": "Bridge Mutual",
     "symbol": "BMI",
     "decimals": 18,
-    "logoURI": "bmi.png"
+    "logoURI": "ethereum/bmi.png"
   },
   {
     "chainId": 1,
@@ -1023,7 +1023,7 @@
     "name": "Paypolitan Token",
     "symbol": "EPAN",
     "decimals": 18,
-    "logoURI": "epan.png"
+    "logoURI": "ethereum/epan.png"
   },
   {
     "chainId": 1,
@@ -1031,7 +1031,7 @@
     "name": "Metaverse Index",
     "symbol": "MVI",
     "decimals": 18,
-    "logoURI": "mvi.png"
+    "logoURI": "ethereum/mvi.png"
   },
   {
     "chainId": 1,
@@ -1039,7 +1039,7 @@
     "name": "SmartCredit Token",
     "symbol": "SMARTCREDIT",
     "decimals": 18,
-    "logoURI": "smartcredit.png"
+    "logoURI": "ethereum/smartcredit.png"
   },
   {
     "chainId": 1,
@@ -1047,7 +1047,7 @@
     "name": "Dogelon",
     "symbol": "ELON",
     "decimals": 18,
-    "logoURI": "elon.png"
+    "logoURI": "ethereum/elon.png"
   },
   {
     "chainId": 1,
@@ -1055,7 +1055,7 @@
     "name": "XCAD Network",
     "symbol": "XCAD",
     "decimals": 18,
-    "logoURI": "xcad.png"
+    "logoURI": "ethereum/xcad.png"
   },
   {
     "chainId": 1,
@@ -1063,7 +1063,7 @@
     "name": "Boolberry",
     "symbol": "BBR",
     "decimals": 18,
-    "logoURI": "bbr.png"
+    "logoURI": "ethereum/bbr.png"
   },
   {
     "chainId": 1,
@@ -1071,7 +1071,7 @@
     "name": "Tornado Cash",
     "symbol": "TORN",
     "decimals": 18,
-    "logoURI": "torn.png"
+    "logoURI": "ethereum/torn.png"
   },
   {
     "chainId": 1,
@@ -1079,7 +1079,7 @@
     "name": "WAXE",
     "symbol": "WAXE",
     "decimals": 8,
-    "logoURI": "waxe.png"
+    "logoURI": "ethereum/waxe.png"
   },
   {
     "chainId": 1,
@@ -1087,7 +1087,7 @@
     "name": "DFOhub",
     "symbol": "buidl",
     "decimals": 18,
-    "logoURI": "buidl.png"
+    "logoURI": "ethereum/buidl.png"
   },
   {
     "chainId": 1,
@@ -1095,7 +1095,7 @@
     "name": "Polygon",
     "symbol": "MATIC",
     "decimals": 18,
-    "logoURI": "matic.png"
+    "logoURI": "ethereum/matic.png"
   },
   {
     "chainId": 1,
@@ -1103,7 +1103,7 @@
     "name": "Robonomics",
     "symbol": "XRT",
     "decimals": 9,
-    "logoURI": "xrt.png"
+    "logoURI": "ethereum/xrt.png"
   },
   {
     "chainId": 1,
@@ -1111,7 +1111,7 @@
     "name": "xToken",
     "symbol": "XTK",
     "decimals": 18,
-    "logoURI": "xtk.png"
+    "logoURI": "ethereum/xtk.png"
   },
   {
     "chainId": 1,
@@ -1119,7 +1119,7 @@
     "name": "Aave",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "aave.png"
+    "logoURI": "ethereum/aave.png"
   },
   {
     "chainId": 1,
@@ -1127,7 +1127,7 @@
     "name": "Tenset",
     "symbol": "10SET",
     "decimals": 18,
-    "logoURI": "10set.png"
+    "logoURI": "ethereum/10set.png"
   },
   {
     "chainId": 1,
@@ -1135,7 +1135,7 @@
     "name": "Origin Protocol",
     "symbol": "OGN",
     "decimals": 18,
-    "logoURI": "ogn.png"
+    "logoURI": "ethereum/ogn.png"
   },
   {
     "chainId": 1,
@@ -1143,7 +1143,7 @@
     "name": "Polkastarter",
     "symbol": "POLS",
     "decimals": 18,
-    "logoURI": "pols.png"
+    "logoURI": "ethereum/pols.png"
   },
   {
     "chainId": 1,
@@ -1151,7 +1151,7 @@
     "name": "Unibright",
     "symbol": "UBT",
     "decimals": 8,
-    "logoURI": "ubt.png"
+    "logoURI": "ethereum/ubt.png"
   },
   {
     "chainId": 1,
@@ -1159,7 +1159,7 @@
     "name": "DIA",
     "symbol": "DIA",
     "decimals": 18,
-    "logoURI": "dia.png"
+    "logoURI": "ethereum/dia.png"
   },
   {
     "chainId": 1,
@@ -1167,7 +1167,7 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "frax.png"
+    "logoURI": "ethereum/frax.png"
   },
   {
     "chainId": 1,
@@ -1175,7 +1175,7 @@
     "name": "KEEP Token",
     "symbol": "KEEP",
     "decimals": 18,
-    "logoURI": "keep.png"
+    "logoURI": "ethereum/keep.png"
   },
   {
     "chainId": 1,
@@ -1183,7 +1183,7 @@
     "name": "88mph.app",
     "symbol": "MPH",
     "decimals": 18,
-    "logoURI": "mph.png"
+    "logoURI": "ethereum/mph.png"
   },
   {
     "chainId": 1,
@@ -1191,7 +1191,7 @@
     "name": "Alchemist",
     "symbol": "⚗️",
     "decimals": 18,
-    "logoURI": "alchemist.png"
+    "logoURI": "ethereum/alchemist.png"
   },
   {
     "chainId": 1,
@@ -1199,7 +1199,7 @@
     "name": "Dego Finance",
     "symbol": "DEGO",
     "decimals": 18,
-    "logoURI": "dego.png"
+    "logoURI": "ethereum/dego.png"
   },
   {
     "chainId": 1,
@@ -1207,7 +1207,7 @@
     "name": "pNetwork",
     "symbol": "PNT",
     "decimals": 18,
-    "logoURI": "pnt.png"
+    "logoURI": "ethereum/pnt.png"
   },
   {
     "chainId": 1,
@@ -1215,7 +1215,7 @@
     "name": "Finxflo",
     "symbol": "FXF",
     "decimals": 18,
-    "logoURI": "fxf.png"
+    "logoURI": "ethereum/fxf.png"
   },
   {
     "chainId": 1,
@@ -1223,7 +1223,7 @@
     "name": "GET",
     "symbol": "GET",
     "decimals": 18,
-    "logoURI": "get.png"
+    "logoURI": "ethereum/get.png"
   },
   {
     "chainId": 1,
@@ -1231,7 +1231,7 @@
     "name": "Saitama Inu",
     "symbol": "SAITAMA",
     "decimals": 9,
-    "logoURI": "saitama.png"
+    "logoURI": "ethereum/saitama.png"
   },
   {
     "chainId": 1,
@@ -1239,7 +1239,7 @@
     "name": "PolkaFoundry",
     "symbol": "PKF",
     "decimals": 18,
-    "logoURI": "pkf.png"
+    "logoURI": "ethereum/pkf.png"
   },
   {
     "chainId": 1,
@@ -1247,7 +1247,7 @@
     "name": "Function X",
     "symbol": "FX",
     "decimals": 18,
-    "logoURI": "fx.png"
+    "logoURI": "ethereum/fx.png"
   },
   {
     "chainId": 1,
@@ -1255,7 +1255,7 @@
     "name": "Swipe",
     "symbol": "SXP",
     "decimals": 18,
-    "logoURI": "sxp.png"
+    "logoURI": "ethereum/sxp.png"
   },
   {
     "chainId": 1,
@@ -1263,7 +1263,7 @@
     "name": "tBTC",
     "symbol": "TBTC",
     "decimals": 18,
-    "logoURI": "tbtc.png"
+    "logoURI": "ethereum/tbtc.png"
   },
   {
     "chainId": 1,
@@ -1271,7 +1271,7 @@
     "name": "SingularityNET Token",
     "symbol": "AGI",
     "decimals": 8,
-    "logoURI": "agi.png"
+    "logoURI": "ethereum/agi.png"
   },
   {
     "chainId": 1,
@@ -1279,7 +1279,7 @@
     "name": "Request Token",
     "symbol": "REQ",
     "decimals": 18,
-    "logoURI": "req.png"
+    "logoURI": "ethereum/req.png"
   },
   {
     "chainId": 1,
@@ -1287,7 +1287,7 @@
     "name": "WHALE",
     "symbol": "WHALE",
     "decimals": 4,
-    "logoURI": "whale.png"
+    "logoURI": "ethereum/whale.png"
   },
   {
     "chainId": 1,
@@ -1295,7 +1295,7 @@
     "name": "Pinakion",
     "symbol": "PNK",
     "decimals": 18,
-    "logoURI": "pnk.png"
+    "logoURI": "ethereum/pnk.png"
   },
   {
     "chainId": 1,
@@ -1303,7 +1303,7 @@
     "name": "Evolution Land Global Token",
     "symbol": "RING",
     "decimals": 18,
-    "logoURI": "ring.png"
+    "logoURI": "ethereum/ring.png"
   },
   {
     "chainId": 1,
@@ -1311,7 +1311,7 @@
     "name": "Cardstack",
     "symbol": "CARD",
     "decimals": 18,
-    "logoURI": "card.png"
+    "logoURI": "ethereum/card.png"
   },
   {
     "chainId": 1,
@@ -1319,7 +1319,7 @@
     "name": "Fei USD",
     "symbol": "FEI",
     "decimals": 18,
-    "logoURI": "fei.png"
+    "logoURI": "ethereum/fei.png"
   },
   {
     "chainId": 1,
@@ -1327,7 +1327,7 @@
     "name": "APY.Finance",
     "symbol": "APY",
     "decimals": 18,
-    "logoURI": "apy.png"
+    "logoURI": "ethereum/apy.png"
   },
   {
     "chainId": 1,
@@ -1335,7 +1335,7 @@
     "name": "SHIBA INU",
     "symbol": "SHIB",
     "decimals": 18,
-    "logoURI": "shib.png"
+    "logoURI": "ethereum/shib.png"
   },
   {
     "chainId": 1,
@@ -1343,7 +1343,7 @@
     "name": "DeFi Yield Protocol",
     "symbol": "DYP",
     "decimals": 18,
-    "logoURI": "dyp.png"
+    "logoURI": "ethereum/dyp.png"
   },
   {
     "chainId": 1,
@@ -1351,7 +1351,7 @@
     "name": "Ocean Protocol",
     "symbol": "OCEAN",
     "decimals": 18,
-    "logoURI": "ocean.png"
+    "logoURI": "ethereum/ocean.png"
   },
   {
     "chainId": 1,
@@ -1359,7 +1359,7 @@
     "name": "Strong",
     "symbol": "STRONG",
     "decimals": 18,
-    "logoURI": "strong.png"
+    "logoURI": "ethereum/strong.png"
   },
   {
     "chainId": 1,
@@ -1367,7 +1367,7 @@
     "name": "Shopping.io",
     "symbol": "SPI",
     "decimals": 18,
-    "logoURI": "spi.png"
+    "logoURI": "ethereum/spi.png"
   },
   {
     "chainId": 1,
@@ -1375,7 +1375,7 @@
     "name": "Binance Wrapped BTC",
     "symbol": "BBTC",
     "decimals": 8,
-    "logoURI": "bbtc.png"
+    "logoURI": "ethereum/bbtc.png"
   },
   {
     "chainId": 1,
@@ -1383,7 +1383,7 @@
     "name": "Doki Doki Finance",
     "symbol": "DOKI",
     "decimals": 18,
-    "logoURI": "doki.png"
+    "logoURI": "ethereum/doki.png"
   },
   {
     "chainId": 1,
@@ -1391,7 +1391,7 @@
     "name": "Delta Financial",
     "symbol": "DELTA",
     "decimals": 18,
-    "logoURI": "delta.png"
+    "logoURI": "ethereum/delta.png"
   },
   {
     "chainId": 1,
@@ -1399,7 +1399,7 @@
     "name": "Unistake",
     "symbol": "UNISTAKE",
     "decimals": 18,
-    "logoURI": "unistake.png"
+    "logoURI": "ethereum/unistake.png"
   },
   {
     "chainId": 1,
@@ -1407,7 +1407,7 @@
     "name": "Tadpole",
     "symbol": "TAD",
     "decimals": 18,
-    "logoURI": "tad.png"
+    "logoURI": "ethereum/tad.png"
   },
   {
     "chainId": 1,
@@ -1415,7 +1415,7 @@
     "name": "Maker",
     "symbol": "MKR",
     "decimals": 18,
-    "logoURI": "mkr.png"
+    "logoURI": "ethereum/mkr.png"
   },
   {
     "chainId": 1,
@@ -1423,7 +1423,7 @@
     "name": "GraphLinq",
     "symbol": "GLQ",
     "decimals": 18,
-    "logoURI": "glq.png"
+    "logoURI": "ethereum/glq.png"
   },
   {
     "chainId": 1,
@@ -1431,7 +1431,7 @@
     "name": "Harvest Finance",
     "symbol": "FARM",
     "decimals": 18,
-    "logoURI": "farm.png"
+    "logoURI": "ethereum/farm.png"
   },
   {
     "chainId": 1,
@@ -1439,7 +1439,7 @@
     "name": "Wrapped CrescoFin",
     "symbol": "wCRES",
     "decimals": 18,
-    "logoURI": "wcres.png"
+    "logoURI": "ethereum/wcres.png"
   },
   {
     "chainId": 1,
@@ -1447,7 +1447,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "usdc.png",
+    "logoURI": "ethereum/usdc.png",
     "coinGeckoId": "usd-coin"
   },
   {
@@ -1456,7 +1456,7 @@
     "name": "Aragon",
     "symbol": "ANT",
     "decimals": 18,
-    "logoURI": "ant.png"
+    "logoURI": "ethereum/ant.png"
   },
   {
     "chainId": 1,
@@ -1464,7 +1464,7 @@
     "name": "RFOX",
     "symbol": "RFOX",
     "decimals": 18,
-    "logoURI": "rfox.png"
+    "logoURI": "ethereum/rfox.png"
   },
   {
     "chainId": 1,
@@ -1472,7 +1472,7 @@
     "name": "Lattice Token",
     "symbol": "LTX",
     "decimals": 8,
-    "logoURI": "ltx.png"
+    "logoURI": "ethereum/ltx.png"
   },
   {
     "chainId": 1,
@@ -1480,7 +1480,7 @@
     "name": "Meta",
     "symbol": "MTA",
     "decimals": 18,
-    "logoURI": "mta.png"
+    "logoURI": "ethereum/mta.png"
   },
   {
     "chainId": 1,
@@ -1488,7 +1488,7 @@
     "name": "Rubic",
     "symbol": "RBC",
     "decimals": 18,
-    "logoURI": "rbc.png"
+    "logoURI": "ethereum/rbc.png"
   },
   {
     "chainId": 1,
@@ -1496,7 +1496,7 @@
     "name": "LUKSO",
     "symbol": "LYXe",
     "decimals": 18,
-    "logoURI": "lyxe.png"
+    "logoURI": "ethereum/lyxe.png"
   },
   {
     "chainId": 1,
@@ -1504,7 +1504,7 @@
     "name": "Syntropy",
     "symbol": "NOIA",
     "decimals": 18,
-    "logoURI": "noia.png"
+    "logoURI": "ethereum/noia.png"
   },
   {
     "chainId": 1,
@@ -1512,7 +1512,7 @@
     "name": "Bella Protocol",
     "symbol": "BEL",
     "decimals": 18,
-    "logoURI": "bel.png"
+    "logoURI": "ethereum/bel.png"
   },
   {
     "chainId": 1,
@@ -1520,7 +1520,7 @@
     "name": "ETH 2x Flexible Leverage Index",
     "symbol": "ETH2x-FLI",
     "decimals": 18,
-    "logoURI": "eth2x-fli.png"
+    "logoURI": "ethereum/eth2x-fli.png"
   },
   {
     "chainId": 1,
@@ -1528,7 +1528,7 @@
     "name": "Trace Token",
     "symbol": "TRAC",
     "decimals": 18,
-    "logoURI": "trac.png"
+    "logoURI": "ethereum/trac.png"
   },
   {
     "chainId": 1,
@@ -1536,7 +1536,7 @@
     "name": "Celsius",
     "symbol": "CEL",
     "decimals": 4,
-    "logoURI": "cel.png"
+    "logoURI": "ethereum/cel.png"
   },
   {
     "chainId": 1,
@@ -1544,7 +1544,7 @@
     "name": "Monolith TKN",
     "symbol": "TKN",
     "decimals": 8,
-    "logoURI": "tkn.png"
+    "logoURI": "ethereum/tkn.png"
   },
   {
     "chainId": 1,
@@ -1552,7 +1552,7 @@
     "name": "Crowns",
     "symbol": "CWS",
     "decimals": 18,
-    "logoURI": "cws.png"
+    "logoURI": "ethereum/cws.png"
   },
   {
     "chainId": 1,
@@ -1560,7 +1560,7 @@
     "name": "OptionRoom Token",
     "symbol": "ROOM",
     "decimals": 18,
-    "logoURI": "room.png"
+    "logoURI": "ethereum/room.png"
   },
   {
     "chainId": 1,
@@ -1568,7 +1568,7 @@
     "name": "UniCrypt",
     "symbol": "UNCX",
     "decimals": 18,
-    "logoURI": "uncx.png"
+    "logoURI": "ethereum/uncx.png"
   },
   {
     "chainId": 1,
@@ -1576,7 +1576,7 @@
     "name": "Ambire AdEx",
     "symbol": "ADX",
     "decimals": 18,
-    "logoURI": "adx.png"
+    "logoURI": "ethereum/adx.png"
   },
   {
     "chainId": 1,
@@ -1584,7 +1584,7 @@
     "name": "YOP",
     "symbol": "YOP",
     "decimals": 8,
-    "logoURI": "yop.png"
+    "logoURI": "ethereum/yop.png"
   },
   {
     "chainId": 1,
@@ -1592,7 +1592,7 @@
     "name": "LGCY Network",
     "symbol": "LGCY",
     "decimals": 18,
-    "logoURI": "lgcy.png"
+    "logoURI": "ethereum/lgcy.png"
   },
   {
     "chainId": 1,
@@ -1600,7 +1600,7 @@
     "name": "Rio Fuel Token",
     "symbol": "RFuel",
     "decimals": 18,
-    "logoURI": "rfuel.png"
+    "logoURI": "ethereum/rfuel.png"
   },
   {
     "chainId": 1,
@@ -1608,7 +1608,7 @@
     "name": "Zenfuse",
     "symbol": "ZEFU",
     "decimals": 18,
-    "logoURI": "zefu.png"
+    "logoURI": "ethereum/zefu.png"
   },
   {
     "chainId": 1,
@@ -1616,7 +1616,7 @@
     "name": "Minds",
     "symbol": "MINDS",
     "decimals": 18,
-    "logoURI": "minds.png"
+    "logoURI": "ethereum/minds.png"
   },
   {
     "chainId": 1,
@@ -1624,7 +1624,7 @@
     "name": "MahaDAO",
     "symbol": "MAHA",
     "decimals": 18,
-    "logoURI": "maha.png"
+    "logoURI": "ethereum/maha.png"
   },
   {
     "chainId": 1,
@@ -1632,7 +1632,7 @@
     "name": "Nexo",
     "symbol": "NEXO",
     "decimals": 18,
-    "logoURI": "nexo.png"
+    "logoURI": "ethereum/nexo.png"
   },
   {
     "chainId": 1,
@@ -1640,7 +1640,7 @@
     "name": "SYNC",
     "symbol": "SYNC",
     "decimals": 18,
-    "logoURI": "sync.png"
+    "logoURI": "ethereum/sync.png"
   },
   {
     "chainId": 1,
@@ -1648,7 +1648,7 @@
     "name": "saffron.finance",
     "symbol": "SFI",
     "decimals": 18,
-    "logoURI": "sfi.png"
+    "logoURI": "ethereum/sfi.png"
   },
   {
     "chainId": 1,
@@ -1656,7 +1656,7 @@
     "name": "Stabilize Token",
     "symbol": "STBZ",
     "decimals": 18,
-    "logoURI": "stbz.png"
+    "logoURI": "ethereum/stbz.png"
   },
   {
     "chainId": 1,
@@ -1664,7 +1664,7 @@
     "name": "K21",
     "symbol": "K21",
     "decimals": 18,
-    "logoURI": "k21.png"
+    "logoURI": "ethereum/k21.png"
   },
   {
     "chainId": 1,
@@ -1672,7 +1672,7 @@
     "name": "0chain",
     "symbol": "ZCN",
     "decimals": 10,
-    "logoURI": "zcn.png"
+    "logoURI": "ethereum/zcn.png"
   },
   {
     "chainId": 1,
@@ -1680,7 +1680,7 @@
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "logoURI": "bal.png"
+    "logoURI": "ethereum/bal.png"
   },
   {
     "chainId": 1,
@@ -1688,7 +1688,7 @@
     "name": "Band Protocol",
     "symbol": "BAND",
     "decimals": 18,
-    "logoURI": "band.png"
+    "logoURI": "ethereum/band.png"
   },
   {
     "chainId": 1,
@@ -1696,7 +1696,7 @@
     "name": "Swapfolio",
     "symbol": "SWFL",
     "decimals": 18,
-    "logoURI": "swfl.png"
+    "logoURI": "ethereum/swfl.png"
   },
   {
     "chainId": 1,
@@ -1704,7 +1704,7 @@
     "name": "Loopring",
     "symbol": "LRC",
     "decimals": 18,
-    "logoURI": "lrc.png"
+    "logoURI": "ethereum/lrc.png"
   },
   {
     "chainId": 1,
@@ -1712,7 +1712,7 @@
     "name": "Ethernity Chain",
     "symbol": "ERN",
     "decimals": 18,
-    "logoURI": "ern.png"
+    "logoURI": "ethereum/ern.png"
   },
   {
     "chainId": 1,
@@ -1720,7 +1720,7 @@
     "name": "Perpetual",
     "symbol": "PERP",
     "decimals": 18,
-    "logoURI": "perp.png"
+    "logoURI": "ethereum/perp.png"
   },
   {
     "chainId": 1,
@@ -1728,7 +1728,7 @@
     "name": "StormX",
     "symbol": "STMX",
     "decimals": 18,
-    "logoURI": "stmx.png"
+    "logoURI": "ethereum/stmx.png"
   },
   {
     "chainId": 1,
@@ -1736,7 +1736,7 @@
     "name": "GYSR",
     "symbol": "GYSR",
     "decimals": 18,
-    "logoURI": "gysr.png"
+    "logoURI": "ethereum/gysr.png"
   },
   {
     "chainId": 1,
@@ -1744,7 +1744,7 @@
     "name": "World Token",
     "symbol": "WORLD",
     "decimals": 18,
-    "logoURI": "world.png"
+    "logoURI": "ethereum/world.png"
   },
   {
     "chainId": 1,
@@ -1752,7 +1752,7 @@
     "name": "Compound",
     "symbol": "COMP",
     "decimals": 18,
-    "logoURI": "comp.png"
+    "logoURI": "ethereum/comp.png"
   },
   {
     "chainId": 1,
@@ -1760,7 +1760,7 @@
     "name": "Synthetix",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "snx.png"
+    "logoURI": "ethereum/snx.png"
   },
   {
     "chainId": 1,
@@ -1768,7 +1768,7 @@
     "name": "DLP Duck Token",
     "symbol": "DUCK",
     "decimals": 18,
-    "logoURI": "duck.png"
+    "logoURI": "ethereum/duck.png"
   },
   {
     "chainId": 1,
@@ -1776,7 +1776,7 @@
     "name": "Ethereum Name Service",
     "symbol": "ENS",
     "decimals": 18,
-    "logoURI": "ens.png"
+    "logoURI": "ethereum/ens.png"
   },
   {
     "chainId": 1,
@@ -1784,7 +1784,7 @@
     "name": "Chain Games",
     "symbol": "CHAIN",
     "decimals": 18,
-    "logoURI": "chain.png"
+    "logoURI": "ethereum/chain.png"
   },
   {
     "chainId": 1,
@@ -1792,7 +1792,7 @@
     "name": "ZEN Exchange Token",
     "symbol": "ZCX",
     "decimals": 18,
-    "logoURI": "zcx.png"
+    "logoURI": "ethereum/zcx.png"
   },
   {
     "chainId": 1,
@@ -1800,7 +1800,7 @@
     "name": "PowerTrade Fuel",
     "symbol": "PTF",
     "decimals": 18,
-    "logoURI": "ptf.png"
+    "logoURI": "ethereum/ptf.png"
   },
   {
     "chainId": 1,
@@ -1808,7 +1808,7 @@
     "name": "Decentralized Insurance Protocol",
     "symbol": "DIP",
     "decimals": 18,
-    "logoURI": "dip.png"
+    "logoURI": "ethereum/dip.png"
   },
   {
     "chainId": 1,
@@ -1816,7 +1816,7 @@
     "name": "Tribe",
     "symbol": "TRIBE",
     "decimals": 18,
-    "logoURI": "tribe.png"
+    "logoURI": "ethereum/tribe.png"
   },
   {
     "chainId": 1,
@@ -1824,7 +1824,7 @@
     "name": "Convergence",
     "symbol": "CONV",
     "decimals": 18,
-    "logoURI": "conv.png"
+    "logoURI": "ethereum/conv.png"
   },
   {
     "chainId": 1,
@@ -1832,7 +1832,7 @@
     "name": "The Graph",
     "symbol": "GRT",
     "decimals": 18,
-    "logoURI": "grt.png"
+    "logoURI": "ethereum/grt.png"
   },
   {
     "chainId": 1,
@@ -1840,7 +1840,7 @@
     "name": "Rootkit Finance",
     "symbol": "ROOT",
     "decimals": 18,
-    "logoURI": "root.png"
+    "logoURI": "ethereum/root.png"
   },
   {
     "chainId": 1,
@@ -1848,7 +1848,7 @@
     "name": "Kine Governance Token",
     "symbol": "KINE",
     "decimals": 18,
-    "logoURI": "kine.png"
+    "logoURI": "ethereum/kine.png"
   },
   {
     "chainId": 1,
@@ -1856,7 +1856,7 @@
     "name": "TrustSwap Token",
     "symbol": "SWAP",
     "decimals": 18,
-    "logoURI": "swap.png"
+    "logoURI": "ethereum/swap.png"
   },
   {
     "chainId": 1,
@@ -1864,7 +1864,7 @@
     "name": "BEPRO Network",
     "symbol": "BEPRO",
     "decimals": 18,
-    "logoURI": "bepro.png"
+    "logoURI": "ethereum/bepro.png"
   },
   {
     "chainId": 1,
@@ -1872,7 +1872,7 @@
     "name": "Terra Virtua Kolect",
     "symbol": "TVK",
     "decimals": 18,
-    "logoURI": "tvk.png"
+    "logoURI": "ethereum/tvk.png"
   },
   {
     "chainId": 1,
@@ -1880,7 +1880,7 @@
     "name": "SIREN",
     "symbol": "SI",
     "decimals": 18,
-    "logoURI": "si.png"
+    "logoURI": "ethereum/si.png"
   },
   {
     "chainId": 1,
@@ -1888,7 +1888,7 @@
     "name": "OMG Network",
     "symbol": "OMG",
     "decimals": 18,
-    "logoURI": "omg.png"
+    "logoURI": "ethereum/omg.png"
   },
   {
     "chainId": 1,
@@ -1896,7 +1896,7 @@
     "name": "Terra",
     "symbol": "LUNA",
     "decimals": 18,
-    "logoURI": "luna.png"
+    "logoURI": "ethereum/luna.png"
   },
   {
     "chainId": 1,
@@ -1904,7 +1904,7 @@
     "name": "Dextrust",
     "symbol": "DETS",
     "decimals": 18,
-    "logoURI": "dets.png"
+    "logoURI": "ethereum/dets.png"
   },
   {
     "chainId": 1,
@@ -1912,7 +1912,7 @@
     "name": "Ampleforth",
     "symbol": "AMPL",
     "decimals": 9,
-    "logoURI": "ampl.png"
+    "logoURI": "ethereum/ampl.png"
   },
   {
     "chainId": 1,
@@ -1920,7 +1920,7 @@
     "name": "Polkamarkets",
     "symbol": "POLK",
     "decimals": 18,
-    "logoURI": "polk.png"
+    "logoURI": "ethereum/polk.png"
   },
   {
     "chainId": 1,
@@ -1928,7 +1928,7 @@
     "name": "Curve DAO Token",
     "symbol": "CRV",
     "decimals": 18,
-    "logoURI": "crv.png"
+    "logoURI": "ethereum/crv.png"
   },
   {
     "chainId": 1,
@@ -1936,7 +1936,7 @@
     "name": "MEME",
     "symbol": "MEME",
     "decimals": 8,
-    "logoURI": "meme.png"
+    "logoURI": "ethereum/meme.png"
   },
   {
     "chainId": 1,
@@ -1944,7 +1944,7 @@
     "name": "ExNetwork Token",
     "symbol": "EXNT",
     "decimals": 16,
-    "logoURI": "exnt.png"
+    "logoURI": "ethereum/exnt.png"
   },
   {
     "chainId": 1,
@@ -1952,7 +1952,7 @@
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "usdt.png"
+    "logoURI": "ethereum/usdt.png"
   },
   {
     "chainId": 1,
@@ -1960,7 +1960,7 @@
     "name": "Atari Token",
     "symbol": "ATRI",
     "decimals": 0,
-    "logoURI": "atri.png"
+    "logoURI": "ethereum/atri.png"
   },
   {
     "chainId": 1,
@@ -1968,7 +1968,7 @@
     "name": "Yield",
     "symbol": "YLD",
     "decimals": 18,
-    "logoURI": "yld.png"
+    "logoURI": "ethereum/yld.png"
   },
   {
     "chainId": 1,
@@ -1976,7 +1976,7 @@
     "name": "COTI",
     "symbol": "COTI",
     "decimals": 18,
-    "logoURI": "coti.png"
+    "logoURI": "ethereum/coti.png"
   },
   {
     "chainId": 1,
@@ -1984,7 +1984,7 @@
     "name": "Curate",
     "symbol": "XCUR",
     "decimals": 8,
-    "logoURI": "xcur.png"
+    "logoURI": "ethereum/xcur.png"
   },
   {
     "chainId": 1,
@@ -1992,7 +1992,7 @@
     "name": "Injective",
     "symbol": "INJ",
     "decimals": 18,
-    "logoURI": "inj.png"
+    "logoURI": "ethereum/inj.png"
   },
   {
     "chainId": 1,
@@ -2000,7 +2000,7 @@
     "name": "PILLAR",
     "symbol": "PLR",
     "decimals": 18,
-    "logoURI": "plr.png"
+    "logoURI": "ethereum/plr.png"
   },
   {
     "chainId": 1,
@@ -2008,7 +2008,7 @@
     "name": "0x",
     "symbol": "ZRX",
     "decimals": 18,
-    "logoURI": "zrx.png"
+    "logoURI": "ethereum/zrx.png"
   },
   {
     "chainId": 1,
@@ -2016,7 +2016,7 @@
     "name": "WCELO",
     "symbol": "WCELO",
     "decimals": 18,
-    "logoURI": "wcelo.png"
+    "logoURI": "ethereum/wcelo.png"
   },
   {
     "chainId": 1,
@@ -2024,7 +2024,7 @@
     "name": "SuperFarm",
     "symbol": "SUPER",
     "decimals": 18,
-    "logoURI": "super.png"
+    "logoURI": "ethereum/super.png"
   },
   {
     "chainId": 1,
@@ -2032,7 +2032,7 @@
     "name": "Ferrum Network",
     "symbol": "FRM",
     "decimals": 6,
-    "logoURI": "frm.png"
+    "logoURI": "ethereum/frm.png"
   },
   {
     "chainId": 1,
@@ -2040,7 +2040,7 @@
     "name": "COIN",
     "symbol": "COIN",
     "decimals": 18,
-    "logoURI": "coin.png"
+    "logoURI": "ethereum/coin.png"
   },
   {
     "chainId": 1,
@@ -2048,7 +2048,7 @@
     "name": "ankrETH",
     "symbol": "aETHc",
     "decimals": 18,
-    "logoURI": "aethc.png"
+    "logoURI": "ethereum/aethc.png"
   },
   {
     "chainId": 1,
@@ -2056,7 +2056,7 @@
     "name": "Modefi",
     "symbol": "MOD",
     "decimals": 18,
-    "logoURI": "mod.png"
+    "logoURI": "ethereum/mod.png"
   },
   {
     "chainId": 1,
@@ -2064,7 +2064,7 @@
     "name": "SURF Finance",
     "symbol": "SURF",
     "decimals": 18,
-    "logoURI": "surf.png"
+    "logoURI": "ethereum/surf.png"
   },
   {
     "chainId": 1,
@@ -2072,7 +2072,7 @@
     "name": "renBTC",
     "symbol": "renBTC",
     "decimals": 8,
-    "logoURI": "renbtc.png"
+    "logoURI": "ethereum/renbtc.png"
   },
   {
     "chainId": 1,
@@ -2080,7 +2080,7 @@
     "name": "Everest",
     "symbol": "ID",
     "decimals": 18,
-    "logoURI": "id.png"
+    "logoURI": "ethereum/id.png"
   },
   {
     "chainId": 1,
@@ -2088,7 +2088,7 @@
     "name": "DMM: Governance",
     "symbol": "DMG",
     "decimals": 18,
-    "logoURI": "dmg.png"
+    "logoURI": "ethereum/dmg.png"
   },
   {
     "chainId": 1,
@@ -2096,7 +2096,7 @@
     "name": "Exeedme",
     "symbol": "XED",
     "decimals": 18,
-    "logoURI": "xed.png"
+    "logoURI": "ethereum/xed.png"
   },
   {
     "chainId": 1,
@@ -2104,7 +2104,7 @@
     "name": "GOVI",
     "symbol": "GOVI",
     "decimals": 18,
-    "logoURI": "govi.png"
+    "logoURI": "ethereum/govi.png"
   },
   {
     "chainId": 1,
@@ -2112,7 +2112,7 @@
     "name": "Dopex Governance Token",
     "symbol": "DPX",
     "decimals": 18,
-    "logoURI": "dpx.png"
+    "logoURI": "ethereum/dpx.png"
   },
   {
     "chainId": 1,
@@ -2120,7 +2120,7 @@
     "name": "Hermez Network Token",
     "symbol": "HEZ",
     "decimals": 18,
-    "logoURI": "hez.png"
+    "logoURI": "ethereum/hez.png"
   },
   {
     "chainId": 1,
@@ -2128,7 +2128,7 @@
     "name": "DxSale Network",
     "symbol": "SALE",
     "decimals": 18,
-    "logoURI": "sale.png"
+    "logoURI": "ethereum/sale.png"
   },
   {
     "chainId": 1,
@@ -2136,7 +2136,7 @@
     "name": "Rally",
     "symbol": "RLY",
     "decimals": 18,
-    "logoURI": "rly.png"
+    "logoURI": "ethereum/rly.png"
   },
   {
     "chainId": 1,
@@ -2144,7 +2144,7 @@
     "name": "Realio Network",
     "symbol": "RIO",
     "decimals": 18,
-    "logoURI": "rio.png"
+    "logoURI": "ethereum/rio.png"
   },
   {
     "chainId": 1,
@@ -2152,7 +2152,7 @@
     "name": "Verasity",
     "symbol": "VRA",
     "decimals": 18,
-    "logoURI": "vra.png"
+    "logoURI": "ethereum/vra.png"
   },
   {
     "chainId": 1,
@@ -2160,7 +2160,7 @@
     "name": "PUSH",
     "symbol": "PUSH",
     "decimals": 18,
-    "logoURI": "push.png"
+    "logoURI": "ethereum/push.png"
   },
   {
     "chainId": 1,
@@ -2168,7 +2168,7 @@
     "name": "YfDAI.finance",
     "symbol": "Yf-DAI",
     "decimals": 18,
-    "logoURI": "yf-dai.png"
+    "logoURI": "ethereum/yf-dai.png"
   },
   {
     "chainId": 1,
@@ -2176,7 +2176,7 @@
     "name": "Fractal",
     "symbol": "FCL",
     "decimals": 18,
-    "logoURI": "fcl.png"
+    "logoURI": "ethereum/fcl.png"
   },
   {
     "chainId": 1,
@@ -2184,7 +2184,7 @@
     "name": "Enjin Coin",
     "symbol": "ENJ",
     "decimals": 18,
-    "logoURI": "enj.png"
+    "logoURI": "ethereum/enj.png"
   },
   {
     "chainId": 1,
@@ -2192,7 +2192,7 @@
     "name": "GIVLY Coin",
     "symbol": "GIV",
     "decimals": 8,
-    "logoURI": "giv.png"
+    "logoURI": "ethereum/giv.png"
   },
   {
     "chainId": 1,
@@ -2200,7 +2200,7 @@
     "name": "Visor.Finance",
     "symbol": "VISR",
     "decimals": 18,
-    "logoURI": "visr.png"
+    "logoURI": "ethereum/visr.png"
   },
   {
     "chainId": 1,
@@ -2208,7 +2208,7 @@
     "name": "Yield",
     "symbol": "YLD",
     "decimals": 18,
-    "logoURI": "yld.png"
+    "logoURI": "ethereum/yld.png"
   },
   {
     "chainId": 1,
@@ -2216,7 +2216,7 @@
     "name": "Hoge Finance",
     "symbol": "HOGE",
     "decimals": 9,
-    "logoURI": "hoge.png"
+    "logoURI": "ethereum/hoge.png"
   },
   {
     "chainId": 1,
@@ -2224,7 +2224,7 @@
     "name": "DuckDaoDime",
     "symbol": "DDIM",
     "decimals": 18,
-    "logoURI": "ddim.png"
+    "logoURI": "ethereum/ddim.png"
   },
   {
     "chainId": 1,
@@ -2232,7 +2232,7 @@
     "name": "Moss Carbon Credit",
     "symbol": "MCO2",
     "decimals": 18,
-    "logoURI": "mco2.png"
+    "logoURI": "ethereum/mco2.png"
   },
   {
     "chainId": 1,
@@ -2240,7 +2240,7 @@
     "name": "Rarible",
     "symbol": "RARI",
     "decimals": 18,
-    "logoURI": "rari.png"
+    "logoURI": "ethereum/rari.png"
   },
   {
     "chainId": 1,
@@ -2248,7 +2248,7 @@
     "name": "Reef",
     "symbol": "REEF",
     "decimals": 18,
-    "logoURI": "reef.png"
+    "logoURI": "ethereum/reef.png"
   },
   {
     "chainId": 1,
@@ -2256,7 +2256,7 @@
     "name": "Amp",
     "symbol": "AMP",
     "decimals": 18,
-    "logoURI": "amp.png"
+    "logoURI": "ethereum/amp.png"
   },
   {
     "chainId": 1,
@@ -2264,7 +2264,7 @@
     "name": "FalconSwap Token",
     "symbol": "FSW",
     "decimals": 18,
-    "logoURI": "fsw.png"
+    "logoURI": "ethereum/fsw.png"
   },
   {
     "chainId": 1,
@@ -2272,7 +2272,7 @@
     "name": "OlympusDAO",
     "symbol": "OHM",
     "decimals": 9,
-    "logoURI": "ohm.png"
+    "logoURI": "ethereum/ohm.png"
   },
   {
     "chainId": 1,
@@ -2280,7 +2280,7 @@
     "name": "Illuvium",
     "symbol": "ILV",
     "decimals": 18,
-    "logoURI": "ilv.png"
+    "logoURI": "ethereum/ilv.png"
   },
   {
     "chainId": 1,
@@ -2288,7 +2288,7 @@
     "name": "Gala",
     "symbol": "GALA",
     "decimals": 8,
-    "logoURI": "gala.png"
+    "logoURI": "ethereum/gala.png"
   },
   {
     "chainId": 1,
@@ -2296,7 +2296,7 @@
     "name": "Convex Token",
     "symbol": "CVX",
     "decimals": 18,
-    "logoURI": "cvx.png"
+    "logoURI": "ethereum/cvx.png"
   },
   {
     "chainId": 1,
@@ -2304,7 +2304,7 @@
     "name": "Spell Token",
     "symbol": "SPELL",
     "decimals": 18,
-    "logoURI": "spell.png"
+    "logoURI": "ethereum/spell.png"
   },
   {
     "chainId": 1,
@@ -2312,7 +2312,7 @@
     "name": "OpenDAO",
     "symbol": "SOS",
     "decimals": 18,
-    "logoURI": "sos.png"
+    "logoURI": "ethereum/sos.png"
   },
   {
     "chainId": 1,
@@ -2320,7 +2320,7 @@
     "name": "Gas DAO",
     "symbol": "GAS",
     "decimals": 18,
-    "logoURI": "gas.png"
+    "logoURI": "ethereum/gas.png"
   },
   {
     "chainId": 1,
@@ -2328,7 +2328,7 @@
     "name": "Binance USD",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "busd.png"
+    "logoURI": "ethereum/busd.png"
   },
   {
     "chainId": 1,
@@ -2336,7 +2336,7 @@
     "name": "MetisDAO",
     "symbol": "Metis",
     "decimals": 18,
-    "logoURI": "metis.png"
+    "logoURI": "ethereum/metis.png"
   },
   {
     "chainId": 1,
@@ -2344,7 +2344,7 @@
     "name": "LooksRare",
     "symbol": "LOOKS",
     "decimals": 18,
-    "logoURI": "looks.png"
+    "logoURI": "ethereum/looks.png"
   },
   {
     "chainId": 1,
@@ -2352,7 +2352,7 @@
     "name": "X2Y2Token",
     "symbol": "X2Y2",
     "decimals": 18,
-    "logoURI": "x2y2.png"
+    "logoURI": "ethereum/x2y2.png"
   },
   {
     "chainId": 1,
@@ -2360,7 +2360,7 @@
     "name": "ApeCoin (APE)",
     "symbol": "APE",
     "decimals": 18,
-    "logoURI": "ape.png"
+    "logoURI": "ethereum/ape.png"
   },
   {
     "chainId": 1,
@@ -2368,6 +2368,6 @@
     "name": "StargateToken",
     "symbol": "STG",
     "decimals": 18,
-    "logoURI": "stg.png"
+    "logoURI": "ethereum/stg.png"
   }
 ]
