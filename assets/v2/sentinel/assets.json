@@ -44,7 +44,7 @@
     "decimal": 6,
     "path": "osmosis>sentinel",
     "channel": "channel-0",
-    "image": "common/ion.png"
+    "image": "osmosis/ion.png"
   },
   {
     "denom": "ibc/31FEE1A2A9F9C01113F90BD0BBCCE8FD6BBB8585FAF109A2101827DD1D5B95B8",
