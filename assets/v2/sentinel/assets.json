@@ -57,5 +57,17 @@
     "path": "secret>sentinel",
     "channel": "channel-50",
     "image": "common/scrt.png"
+  },
+  {
+    "denom": "ibc/B1C0DDB14F25279A2026BC8794E12B259F8BDA546A3C5132CCAEE4431CE36783",
+    "type": "ibc",
+    "base_denom": "udec",
+    "base_type": "staking",
+    "dp_denom": "DEC",
+    "origin_chain": "decentr",
+    "decimal": 6,
+    "path": "decentr>sentinel",
+    "channel": "channel-55",
+    "image": "common/dec.png"
   }
 ]
