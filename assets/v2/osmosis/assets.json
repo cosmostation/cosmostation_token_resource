@@ -350,7 +350,7 @@
     "base_type": "staking",
     "dp_denom": "SWTH",
     "origin_chain": "carbon",
-    "decimal": 6,
+    "decimal": 8,
     "path": "carbon>osmosis",
     "channel": "channel-188",
     "image": "common/swth.png"
