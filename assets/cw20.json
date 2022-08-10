@@ -4,7 +4,8 @@
     "contract_address": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
     "symbol": "neta",
     "decimal": 6,
-    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/neta.png"
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/neta.png",
+    "coinGeckoId": "neta"
   },
   {
     "chain": "juno",
@@ -53,14 +54,16 @@
     "contract_address": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
     "symbol": "rac",
     "decimal": 6,
-    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/racoon.png"
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/racoon.png",
+    "coinGeckoId": "racoon"
   },
   {
     "chain": "juno",
     "contract_address": "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl",
     "symbol": "marble",
     "decimal": 3,
-    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/marble-logo.png"
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/marble-logo.png",
+    "coinGeckoId": "marble"
   },
   {
     "chain": "juno",
