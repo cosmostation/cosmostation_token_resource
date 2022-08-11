@@ -59,6 +59,18 @@
     "image": "common/xprt.png"
   },
   {
+    "denom": "ibc/624BA9DD171915A2B9EA70F69638B2CEA179959850C1A586F6C485498F29EDD4",
+    "type": "ibc",
+    "base_denom": "dot",
+    "base_type": "staking",
+    "dp_denom": "axlDOT",
+    "origin_chain": "persistence",
+    "decimal": 10,
+    "path": "polkadot>axelar>injective",
+    "channel": "channel-84",
+    "image": "common/dot.png"
+  },
+  {
     "denom": "peggy0x8d983cb9388eac77af0474fa441c4815500cb7bb",
     "type": "bridge",
     "base_denom": "uatom",
@@ -101,7 +113,7 @@
     "base_type": "erc20",
     "dp_denom": "USTC",
     "origin_chain": "ethereum",
-    "decimal": 6,
+    "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/ust.png",
     "contract": "0xa47c8bf37f92abed4a126bda807a7b7498661acd"
@@ -645,5 +657,41 @@
     "path": "ethereum>injective",
     "image": "ethereum/dydx.png",
     "contract": "0x92D6C1e31e14520e676a687F0a93788B716BEff5"
+  },
+  {
+    "denom": "peggy0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+    "type": "bridge",
+    "base_denom": "ape",
+    "base_type": "erc20",
+    "dp_denom": "APE",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>injective",
+    "image": "ethereum/ape.png",
+    "contract": "0x4d224452801ACEd8B2F0aebE155379bb5D594381"
+  },
+  {
+    "denom": "peggy0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "type": "bridge",
+    "base_denom": "steth",
+    "base_type": "erc20",
+    "dp_denom": "stETH",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>injective",
+    "image": "ethereum/steth.png",
+    "contract": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
+  },
+  {
+    "denom": "peggy0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
+    "type": "bridge",
+    "base_denom": "lym",
+    "base_type": "erc20",
+    "dp_denom": "LYM",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>injective",
+    "image": "ethereum/lym.png",
+    "contract": "0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5"
   }
 ]
