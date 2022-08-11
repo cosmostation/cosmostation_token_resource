@@ -1,0 +1,115 @@
+[
+    {
+        "title": "Cosmjs Example",
+        "description": "Cosmostation Dapp Cosmjs Example",
+        "logo": "https://github.com/cosmostation/cosmostation_token_resource/blob/master/stamper/logo_256x256.png?raw=true",
+        "url": "https://cosmjs-example.dev.cosmostation.io",
+        "chain": "station",
+        "badge": "EXAMPLE",
+        "links": {
+            "webSite": "https://cosmostation.io",
+            "github": "https://github.com/cosmostation",
+            "twitter": "https://twitter.com/cosmostationvd",
+            "medium": "https://medium.com/cosmostation"
+        }
+    },
+    {
+        "title": "Crescent",
+        "description": "Innovating DeFi investment through advancements in inter-blockchain technology",
+        "logo": "https://github.com/cosmostation/cosmostation_token_resource/blob/master/chains/logo/crescent.png?raw=false",
+        "url": "https://dyaexny1wjxy6.cloudfront.net/",
+        "chain": "crescent",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://crescent.network",
+            "github": "https://github.com/crescent-network",
+            "twitter": "https://twitter.com/CrescentHub",
+            "medium": "https://crescentnetwork.medium.com"
+        }
+    },
+    {
+        "title": "Kava",
+        "description": "Kava app",
+        "logo": "https://github.com/cosmostation/cosmostation_token_resource/blob/master/chains/logo/kava.png?raw=false",
+        "url": "https://app.kava.io",
+        "chain": "kava",
+        "os": ["ios", "android", "chrome"],
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://kava.io",
+            "github": "https://github.com/Kava-Labs",
+            "twitter": "https://twitter.com/kava_platform",
+            "medium": "https://medium.com/kava-labs"
+        }
+    },
+    {
+        "title": "Diffusion",
+        "description": "Powering liquidity for the Cosmos EVM",
+        "logo": "https://app.diffusion.fi/static/media/logo.7b407131.svg",
+        "url": "https://app.diffusion.fi/",
+        "chain": "evmos",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://diffusion.fi",
+            "github": "https://github.com/diffusion-fi",
+            "twitter": "https://twitter.com/diffusion_fi",
+            "medium": "https://medium.com/@diffusion_fi"
+        }
+    },
+    {
+        "title": "Spacefi",
+        "description": "spacefi.io validator is launched with delegator points and incentive plan.",
+        "logo": "https://www.spacefi.io/img/logo.18321680.png",
+        "url": "https://swap-evmos.spacefi.io",
+        "chain": "evmos",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://spacifi.io",
+            "github": "https://github.com/diffusion-fi",
+            "twitter": "https://twitter.com/spacefi_io",
+            "medium": "https://space-finance.medium.com"
+        }
+    },
+    {
+        "title": "Osmosis",
+        "description": "Swap, earn, and build on the leading decentralized Cosmos exchange.",
+        "logo": "https://app.osmosis.zone/_next/image?url=%2Ftokens%2Fosmo.svg&w=48&q=75",
+        "url": "https://app.osmosis.zone",
+        "chain": "osmosis",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://osmosis.zone",
+            "github": "https://github.com/osmosis-labs",
+            "twitter": "https://twitter.com/osmosiszone",
+            "medium": "https://medium.com/osmosis"
+        }
+    },
+    {
+        "title": "Osmosis Frontier",
+        "description": "Swap, earn, and build on the leading decentralized Cosmos exchange.",
+        "logo": "https://frontier.osmosis.zone/icons/frontier-osmo-badge.svg",
+        "url": "https://frontier.osmosis.zone",
+        "chain": "osmosis",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://osmosis.zone",
+            "github": "https://github.com/osmosis-labs",
+            "twitter": "https://twitter.com/osmosiszone",
+            "medium": "https://medium.com/osmosis"
+        }
+    },
+    {
+        "title": "Coinhall",
+        "description": "Realtime Charts, DEX Aggregator & Analytics.",
+        "logo": "https://pbs.twimg.com/profile_images/1485983931392757763/CtgLlnbI_400x400.jpg",
+        "url": "https://coinhall.org",
+        "chain": "juno",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://coinhall.org",
+            "github": "https://github.com/",
+            "twitter": "https://t.me/coinhall_org",
+            "medium": "https://medium.com/@Coinhall"
+        }
+    }
+]
