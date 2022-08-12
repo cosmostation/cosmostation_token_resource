@@ -1,6 +1,13 @@
 [
   {
     "chain": "juno",
+    "contract_address": "juno1pqht3pkhr5fpyre2tw3ltrzc0kvxknnsgt04thym9l7n2rmxgw0sgefues",
+    "symbol": "dao",
+    "decimal": 6,
+    "image": "https://bafkreiefe4icv32rsn5l43p776d5rd4yk6expmiita5jt5tqqugc65mbua.ipfs.cf-ipfs.com/"
+  },
+  {
+    "chain": "juno",
     "contract_address": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
     "symbol": "neta",
     "decimal": 6,
