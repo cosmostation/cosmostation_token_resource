@@ -2,7 +2,7 @@
     {
         "title": "Cosmjs Example",
         "description": "Cosmostation Dapp Cosmjs Example",
-        "logo": "https://github.com/cosmostation/cosmostation_token_resource/blob/master/stamper/logo_256x256.png?raw=true",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/stamper/logo_256x256.png",
         "url": "https://cosmjs-example.dev.cosmostation.io",
         "chain": "station",
         "badge": "EXAMPLE",
@@ -15,8 +15,8 @@
     },
     {
         "title": "Crescent",
-        "description": "Innovating DeFi investment through advancements in inter-blockchain technology",
-        "logo": "https://github.com/cosmostation/cosmostation_token_resource/blob/master/chains/logo/crescent.png?raw=false",
+        "description": "Swap, earn, and stake on a capital-efficient AMM/orderbook hybrid DEX.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/crescent.png",
         "url": "https://app.crescent.network",
         "chain": "crescent",
         "badge": "Defi",
@@ -29,8 +29,8 @@
     },
     {
         "title": "Kava",
-        "description": "Kava app",
-        "logo": "https://github.com/cosmostation/cosmostation_token_resource/blob/master/chains/logo/kava.png?raw=false",
+        "description": "Swap, mint, lend and earn on Kava, a lightning-fast Layer-1 blockchain that combines the interoperability of Cosmos with the developer support of Ethereum.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/kava.png",
         "url": "https://app.kava.io",
         "chain": "kava",
         "os": ["ios", "android", "chrome"],
@@ -44,8 +44,8 @@
     },
     {
         "title": "Diffusion",
-        "description": "Powering liquidity for the Cosmos EVM",
-        "logo": "https://app.diffusion.fi/static/media/logo.7b407131.svg",
+        "description": "Swap, earn, bridge, and stake on Diffusion, an AMM protocol and liquidity pool designed for efficient trading between crypto-assets.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/diffusion.png",
         "url": "https://app.diffusion.fi/",
         "chain": "evmos",
         "badge": "Defi",
@@ -58,8 +58,8 @@
     },
     {
         "title": "Spacefi",
-        "description": "spacefi.io validator is launched with delegator points and incentive plan.",
-        "logo": "https://www.spacefi.io/img/logo.18321680.png",
+        "description": "Swap on a cross-chain web3 DEX platform connecting Cosmos and Layer2.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/spacefi.png",
         "url": "https://swap-evmos.spacefi.io",
         "chain": "evmos",
         "badge": "Defi",
@@ -72,8 +72,8 @@
     },
     {
         "title": "Osmosis",
-        "description": "Swap, earn, and build on the leading decentralized Cosmos exchange.",
-        "logo": "https://app.osmosis.zone/_next/image?url=%2Ftokens%2Fosmo.svg&w=48&q=75",
+        "description": "Swap, provide, and earn on the leading decentralized AMM.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/osmosis.png",
         "url": "https://app.osmosis.zone",
         "chain": "osmosis",
         "badge": "Defi",
@@ -86,8 +86,8 @@
     },
     {
         "title": "Osmosis Frontier",
-        "description": "Swap, earn, and build on the leading decentralized Cosmos exchange.",
-        "logo": "https://frontier.osmosis.zone/icons/frontier-osmo-badge.svg",
+        "description": "Swap, provide, and earn on the permissionless decentralized AMM.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/osmosis-frontier.png",
         "url": "https://frontier.osmosis.zone",
         "chain": "osmosis",
         "badge": "Defi",
@@ -101,7 +101,7 @@
     {
         "title": "Coinhall",
         "description": "Realtime Charts, DEX Aggregator & Analytics.",
-        "logo": "https://pbs.twimg.com/profile_images/1485983931392757763/CtgLlnbI_400x400.jpg",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/coinhall.png",
         "url": "https://coinhall.org",
         "chain": "juno",
         "badge": "Defi",
