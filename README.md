@@ -38,6 +38,15 @@ git push origin <branch_name>
 - file directory: should be located in whichever network inside [moniker](https://github.com/cosmostation/cosmostation_token_resource/tree/master/moniker) directory
 
 
+
+## dApp Link add for mobile wallets
+
+1. Add your dapp information with /dapps/dapps.json
+
+2. Commit and push to your fork for PR
+
+
+
 ## Cosmostation's Services and Community
 
 - [Official Website](https://www.cosmostation.io)
