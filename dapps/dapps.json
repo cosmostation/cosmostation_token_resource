@@ -64,8 +64,7 @@
         "chain": "evmos",
         "badge": "Defi",
         "links": {
-            "webSite": "https://spacifi.io",
-            "github": "https://github.com/diffusion-fi",
+            "webSite": "https://www.spacefi.io",
             "twitter": "https://twitter.com/spacefi_io",
             "medium": "https://space-finance.medium.com"
         }
@@ -107,7 +106,6 @@
         "badge": "Defi",
         "links": {
             "webSite": "https://coinhall.org",
-            "github": "https://github.com/",
             "twitter": "https://t.me/coinhall_org",
             "medium": "https://medium.com/@Coinhall"
         }
