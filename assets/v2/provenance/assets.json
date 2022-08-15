@@ -1,0 +1,13 @@
+[
+  {
+    "denom": "nhash",
+    "type": "staking",
+    "base_denom": "nhash",
+    "base_type": "staking",
+    "dp_denom": "HASH",
+    "origin_chain": "provenance",
+    "decimal": 9,
+    "description": "Provenance Staking Coin",
+    "image": "common/hash.png"
+  }
+]

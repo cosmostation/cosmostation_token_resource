@@ -1,0 +1,13 @@
+[
+  {
+    "denom": "acudos",
+    "type": "staking",
+    "base_denom": "acudos",
+    "base_type": "staking",
+    "dp_denom": "CUDOS",
+    "origin_chain": "cudos",
+    "decimal": 18,
+    "description": "Cudos Staking Coin",
+    "image": "common/cudos.png"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "denom": "ustars",
+    "type": "staking",
+    "base_denom": "ustars",
+    "base_type": "staking",
+    "dp_denom": "STARS",
+    "origin_chain": "stargaze",
+    "decimal": 6,
+    "description": "Stargaze Staking Coin",
+    "image": "common/stars.png"
+  },
+  {
+    "denom": "ibc/448C1061CE97D86CC5E86374CD914870FB8EBA16C58661B5F1D3F46729A2422D",
+    "type": "ibc",
+    "base_denom": "ujuno",
+    "base_type": "staking",
+    "dp_denom": "JUNO",
+    "origin_chain": "juno",
+    "decimal": 6,
+    "path": "juno>stargaze",
+    "channel": "channel-5",
+    "image": "common/juno.png"
+  },
+  {
+    "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>stargaze",
+    "channel": "channel-0",
+    "image": "osmosis/ion.png"
+  },
+  {
+    "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>stargaze",
+    "channel": "channel-0",
+    "image": "common/osmo.png"
+  },
+  {
+    "denom": "ibc/3554989531C7DB295D548F373FE93205215CAC2820A62D748E5A3703044D481E",
+    "type": "ibc",
+    "base_denom": "ugraviton",
+    "base_type": "staking",
+    "dp_denom": "GRAV",
+    "origin_chain": "gravity-bridge",
+    "decimal": 6,
+    "path": "gravity-bridge>stargaze",
+    "channel": "channel-6",
+    "image": "common/grav.png"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "denom": "uband",
+    "type": "staking",
+    "base_denom": "uband",
+    "base_type": "staking",
+    "dp_denom": "BAND",
+    "origin_chain": "band",
+    "decimal": 6,
+    "description": "BAND Staking Coin",
+    "image": "common/band.png"
+  },
+  {
+    "denom": "ibc/1005CD468908E4EB83A7E3D4A68E90128D073E3A85611B8B424320F306C508E1",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>band",
+    "channel": "channel-83",
+    "image": "osmosis/ion.png"
+  },
+  {
+    "denom": "ibc/6B8531505147C9FF2AC90BC096AEC5D8E77EE3582874640FA5FE4E4FB382D2AC",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>band",
+    "channel": "channel-83",
+    "image": "common/osmo.png"
+  }
+]

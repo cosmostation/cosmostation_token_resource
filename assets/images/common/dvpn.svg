@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="token-sentinel" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="패스_2979" d="M41.359 56.3a7.084 7.084 0 0 1-4.8 4.451c-1.255.22-1.433.573-1.124.9a4.969 4.969 0 0 0 .793.132 7.341 7.341 0 0 0 5.289-3.613 5.462 5.462 0 0 0 .595-1.609c-.2-.243-.419-.463-.573-.463-.089 0-.132.044-.176.2" class="cls-1" transform="translate(-35.302 -56.1)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="사각형_2666" d="M0 0H9.695V0.992H0z" class="cls-1"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="패스_2980" d="M11.8 21.4v3.636l10.182 7.624a7.388 7.388 0 0 0 1.19-1.542 6.131 6.131 0 0 0 .749-2.512L14.273 21.4z" class="cls-1" transform="translate(-11.8 -21.4)"/>
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <path id="패스_2981" d="M29.9 21.322l8.175 6.125V21.3H29.9z" class="cls-1" transform="translate(-29.9 -21.3)"/>
+        </clipPath>
+        <clipPath id="clip-path-5">
+            <path id="패스_2982" d="M11.8 43.608a9 9 0 0 0 .815 4.583A7.261 7.261 0 0 0 17.9 51.8a6.615 6.615 0 0 0 3.372-1.433L11.8 43.3z" class="cls-1" transform="translate(-11.768 -43.3)"/>
+        </clipPath>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#1d4175"/>
+            <stop offset="1" stop-color="#142d51"/>
+        </linearGradient>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="그룹_5426">
+        <g id="그룹_5425">
+            <g id="타원_15" fill="url(#linear-gradient)" stroke="#fff" stroke-width="0.5px">
+                <circle cx="16" cy="16" r="16" stroke="none"/>
+                <circle cx="16" cy="16" r="15.75" fill="none"/>
+            </g>
+        </g>
+    </g>
+    <path id="패스_2978" d="M8.752 28.011h-.023A10.409 10.409 0 0 1 1.2 22.942 11.782 11.782 0 0 1 .062 16.93V9.272h17.379v7.652a11.565 11.565 0 0 1-1.164 6.019 10.4 10.4 0 0 1-7.5 5.065zM.606 9.81v7.124a11.331 11.331 0 0 0 1.066 5.731 9.855 9.855 0 0 0 7.081 4.8 9.844 9.844 0 0 0 7.06-4.8A11.119 11.119 0 0 0 16.9 16.93V9.81z" class="cls-1" transform="translate(7.215 -1.268)"/>
+    <g id="그룹_5457" transform="translate(15.043 18.318)">
+        <g id="그룹_5456">
+            <g id="그룹_5455" clip-path="url(#clip-path)">
+                <path id="사각형_2664" d="M0 0H6.963V5.706H0z" class="cls-1" transform="translate(-.179)"/>
+            </g>
+        </g>
+    </g>
+    <g id="그룹_5460" transform="translate(11.361 10.695)">
+        <g id="그룹_5459">
+            <g id="그룹_5458" clip-path="url(#clip-path-2)">
+                <path id="사각형_2665" d="M0 0H9.695V0.992H0z" class="cls-1"/>
+            </g>
+        </g>
+    </g>
+    <g id="그룹_5463" transform="translate(9.863 10.695)">
+        <g id="그룹_5462">
+            <g id="그룹_5461" clip-path="url(#clip-path-3)">
+                <path id="사각형_2667" d="M0 0H12.096V11.26H0z" class="cls-1"/>
+            </g>
+        </g>
+    </g>
+    <g id="그룹_5466" transform="translate(13.849 10.674)">
+        <g id="그룹_5465">
+            <g id="그룹_5464" clip-path="url(#clip-path-4)">
+                <path id="사각형_2668" d="M0 0H8.196V6.125H0z" class="cls-1" transform="translate(0 .022)"/>
+            </g>
+        </g>
+    </g>
+    <g id="그룹_5469" transform="translate(9.83 15.498)">
+        <g id="그룹_5468">
+            <g id="그룹_5467" clip-path="url(#clip-path-5)">
+                <path id="사각형_2669" d="M0 0H9.54V8.527H0z" class="cls-1" transform="translate(-.056)"/>
+            </g>
+        </g>
+    </g>
+</svg>

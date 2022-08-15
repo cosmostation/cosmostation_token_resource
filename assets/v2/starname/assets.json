@@ -1,0 +1,37 @@
+[
+  {
+    "denom": "uiov",
+    "type": "staking",
+    "base_denom": "uiov",
+    "base_type": "staking",
+    "dp_denom": "IOV",
+    "origin_chain": "starname",
+    "decimal": 6,
+    "description": "Starname Staking Coin",
+    "image": "common/iov.png"
+  },
+  {
+    "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>starname",
+    "channel": "channel-2",
+    "image": "common/osmo.png"
+  },
+  {
+    "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "path": "cosmos>starname",
+    "channel": "channel-0",
+    "image": "common/atom.png"
+  }
+]
