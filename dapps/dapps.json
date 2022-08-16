@@ -29,7 +29,7 @@
     },
     {
         "title": "Kava",
-        "description": "Swap, mint, lend and earn on Kava, a lightning-fast Layer-1 blockchain that combines the interoperability of Cosmos with the developer support of Ethereum.",
+        "description": "Swap, mint, lend and earn on Kava, a lightning-fast Layer-1 blockchain that combines Cosmos & Ethereum.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/kava.png",
         "url": "https://app.kava.io",
         "chain": "kava",
