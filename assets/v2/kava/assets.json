@@ -61,7 +61,7 @@
     "base_type": "native",
     "dp_denom": "HBTC",
     "origin_chain": "kava",
-    "decimal": 6,
+    "decimal": 8,
     "description": "HBTC on Kava Chain",
     "image": "kava/hbtc.png"
   },
