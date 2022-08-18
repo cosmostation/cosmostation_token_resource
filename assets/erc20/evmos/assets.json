@@ -15,7 +15,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "logoURI": "weth.png",
-    "coinGeckoId": "ethereum/weth"
+    "coinGeckoId": "ethereum/weth.png"
   },
   {
     "chainId": 9001,
