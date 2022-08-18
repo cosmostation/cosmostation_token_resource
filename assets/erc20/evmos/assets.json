@@ -1,12 +1,21 @@
 [
   {
     "chainId": 9001,
+    "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
+    "name": "Wrapped Evmos",
+    "symbol": "WEVMOS",
+    "decimals": 18,
+    "logoURI": "wevmos.png",
+    "coinGeckoId": "evmos/wevmos.png"
+  },
+  {
+    "chainId": 9001,
     "address": "0x5842C5532b61aCF3227679a8b1BD0242a41752f2",
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
     "logoURI": "weth.png",
-    "coinGeckoId": "weth"
+    "coinGeckoId": "ethereum/weth"
   },
   {
     "chainId": 9001,
