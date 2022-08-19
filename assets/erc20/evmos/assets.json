@@ -5,8 +5,8 @@
     "name": "Wrapped Evmos",
     "symbol": "WEVMOS",
     "decimals": 18,
-    "logoURI": "wevmos.png",
-    "coinGeckoId": "evmos/wevmos.png"
+    "logoURI": "evmos/wevmos.png",
+    "coinGeckoId": "evmos"
   },
   {
     "chainId": 9001,
@@ -14,8 +14,8 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "weth.png",
-    "coinGeckoId": "ethereum/weth.png"
+    "logoURI": "ethereum/weth.png",
+    "coinGeckoId": "weth"
   },
   {
     "chainId": 9001,
@@ -23,7 +23,8 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "ethereum/dai.png"
+    "logoURI": "ethereum/dai.png",
+    "coinGeckoId": "dai"
   },
   {
     "chainId": 9001,
@@ -31,7 +32,8 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "ethereum/usdc.png"
+    "logoURI": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin"
   },
   {
     "chainId": 9001,
@@ -39,6 +41,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "ethereum/usdt.png"
+    "logoURI": "ethereum/usdt.png",
+    "coinGeckoId": "tether"
   }
 ]
