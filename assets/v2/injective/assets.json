@@ -437,7 +437,7 @@
     "base_type": "erc20",
     "dp_denom": "EVAI",
     "origin_chain": "ethereum",
-    "decimal": 18,
+    "decimal": 8,
     "path": "ethereum>injective",
     "image": "ethereum/evai.png",
     "contract": "0x50f09629d0afdf40398a3f317cc676ca9132055c"
@@ -521,7 +521,7 @@
     "base_type": "erc20",
     "dp_denom": "WBTC",
     "origin_chain": "ethereum",
-    "decimal": 18,
+    "decimal": 8,
     "path": "ethereum>injective",
     "image": "ethereum/wbtc.png",
     "contract": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
