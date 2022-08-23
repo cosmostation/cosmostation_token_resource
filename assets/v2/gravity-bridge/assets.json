@@ -152,7 +152,7 @@
     "decimal": 6,
     "path": "crescent>gravity-bridge",
     "channel": "channel-62",
-    "image": "common/bcre.png"
+    "image": "crescent/bcre.png"
   },
   {
     "denom": "gravity0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
