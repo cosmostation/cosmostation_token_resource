@@ -23,7 +23,8 @@
     "port": "transfer",
     "counter_party": {
         "channel": "channel-12",
-        "port": "transfer"
+        "port": "transfer",
+        "denom": "uhuahua"
     },
     "image": "common/huahua.png"
   },
