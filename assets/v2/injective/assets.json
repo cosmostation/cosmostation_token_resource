@@ -20,6 +20,11 @@
     "decimal": 6,
     "path": "chihuahua>injective",
     "channel": "channel-76",
+    "port": "transfer",
+    "counter_party": {
+        "channel_id": "channel-12",
+        "port_id": "transfer"
+    },
     "image": "common/huahua.png"
   },
   {
