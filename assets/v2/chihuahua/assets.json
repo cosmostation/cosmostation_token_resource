@@ -44,6 +44,11 @@
     "decimal": 18,
     "path": "injective>chihuahua",
     "channel": "channel-12",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-76",
+        "port": "transfer"
+    },
     "image": "common/inj.png"
   },
   {
