@@ -22,8 +22,8 @@
     "channel": "channel-76",
     "port": "transfer",
     "counter_party": {
-        "channel_id": "channel-12",
-        "port_id": "transfer"
+        "channel": "channel-12",
+        "port": "transfer"
     },
     "image": "common/huahua.png"
   },
