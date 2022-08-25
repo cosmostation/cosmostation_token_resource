@@ -62,7 +62,7 @@
     "counter_party": {
         "channel": "channel-26",
         "port": "transfer",
-        "denom": "xxx"
+        "denom": "enok"
     },
     "image": "emoney/enok.png"
   },
@@ -80,7 +80,7 @@
     "counter_party": {
         "channel": "channel-26",
         "port": "transfer",
-        "denom": "xxx"
+        "denom": "esek"
     },
     "image": "emoney/esek.png"
   },
