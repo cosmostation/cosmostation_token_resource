@@ -66,6 +66,6 @@
         "denom": "ujuno"
     },
     "image": "common/juno.png",
-    "coinGeckoId": "juno"
+    "coinGeckoId": "juno-network"
   }
 ]
