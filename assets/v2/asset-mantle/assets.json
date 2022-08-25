@@ -8,7 +8,8 @@
     "origin_chain": "asset-mantle",
     "decimal": 6,
     "description": "AssetMantle Staking Coin",
-    "image": "common/mntl.png"
+    "image": "common/mntl.png",
+    "coinGeckoId": "assetmantle"
   },
   {
     "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
@@ -20,7 +21,14 @@
     "decimal": 6,
     "path": "osmosis>asset-mantle",
     "channel": "channel-0",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-232",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
@@ -32,7 +40,14 @@
     "decimal": 6,
     "path": "osmosis>asset-mantle",
     "channel": "channel-0",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-232",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
@@ -44,6 +59,13 @@
     "decimal": 6,
     "path": "juno>asset-mantle",
     "channel": "channel-2",
-    "image": "common/juno.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-83",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno"
   }
 ]
