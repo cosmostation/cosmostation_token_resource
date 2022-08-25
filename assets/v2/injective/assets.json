@@ -38,6 +38,12 @@
     "decimal": 6,
     "path": "cosmos>injective",
     "channel": "channel-1",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-220",
+        "port": "transfer",
+        "denom": "uatom"
+    },
     "image": "common/atom.png"
   },
   {
@@ -50,6 +56,12 @@
     "decimal": 18,
     "path": "evmos>injective",
     "channel": "channel-83",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-10",
+        "port": "transfer",
+        "denom": "aevmos"
+    },
     "image": "common/evmos.png"
   },
   {
@@ -62,6 +74,12 @@
     "decimal": 6,
     "path": "persistence>injective",
     "channel": "channel-82",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-41",
+        "port": "transfer",
+        "denom": "uxprt"
+    },
     "image": "common/xprt.png"
   },
   {
@@ -74,6 +92,12 @@
     "decimal": 10,
     "path": "polkadot>axelar>injective",
     "channel": "channel-84",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-10",
+        "port": "transfer",
+        "denom": "dot"
+    },
     "image": "common/dot.png"
   },
   {
