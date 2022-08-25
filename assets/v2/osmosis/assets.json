@@ -733,5 +733,31 @@
     "path": "kava>osmosis",
     "channel": "channel-143",
     "image": "common/kava.png"
+  },
+  {
+    "denom": "ibc/c6b6bfcb6ee49a7cab1a7e7b021de35b99d525ac660844952f0f6c78dcb2a57b",
+    "type": "ibc",
+    "base_denom": "sejuno",
+    "base_type": "cw20",
+    "dp_denom": "seJUNO",
+    "origin_chain": "juno",
+    "decimal": 6,
+    "path": "juno>osmosis",
+    "channel": "channel-169",
+    "image": "juno/sejuno.png",
+    "contract": "juno1dd0k0um5rqncfueza62w9sentdfh3ec4nw4aq4lk5hkjl63vljqscth9gv"
+  },
+  {
+    "denom": "ibc/c2df5c3949ca835b221c575625991f09bab4e48fb9c11a4ee357194f736111e3",
+    "type": "ibc",
+    "base_denom": "bjuno",
+    "base_type": "cw20",
+    "dp_denom": "bJUNO",
+    "origin_chain": "juno",
+    "decimal": 6,
+    "path": "juno>osmosis",
+    "channel": "channel-169",
+    "image": "juno/bjuno.png",
+    "contract": "juno1wwnhkagvcd3tjz6f8vsdsw5plqnw8qy2aj3rrhqr2axvktzv9q2qz8jxn3"
   }
 ]
