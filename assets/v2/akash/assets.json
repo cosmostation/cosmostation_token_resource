@@ -47,7 +47,7 @@
         "denom": "ujuno"
     },
     "image": "common/juno.png",
-    "coinGeckoId": "juno"
+    "coinGeckoId": "juno-network"
   },
   {
     "denom": "ibc/B567D2C79ED9D9D78B5761E8E4D261C7013E349518FD499D42B2BD1B81266DD6",
