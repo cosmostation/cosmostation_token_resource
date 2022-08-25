@@ -123,5 +123,33 @@
             "twitter": "https://twitter.com/RacoonSupply",
             "medium": "https://medium.com/@racoon-supply"
         }
+    },
+    {
+        "title": "StakeEasy Juno",
+        "description": "Liquid staking for Juno network.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/stakeeasy-juno.png",
+        "url": "https://juno.stakeeasy.finance",
+        "chain": "juno",
+        "badge": "DeFi",
+        "links": {
+            "webSite": "https://www.stakeeasy.finance",
+            "github": "https://github.com/arufa-research",
+            "twitter": "https://twitter.com/StakeEasy",
+            "medium": "https://stakeeasy.medium.com/"
+        }
+    },
+    {
+        "title": "StakeEasy Secret",
+        "description": "Privacy-preserving liquid staking for Secret network.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/stakeeasy-secret.png",
+        "url": "https://app.stakeeasy.finance",
+        "chain": "secret",
+        "badge": "DeFi",
+        "links": {
+            "webSite": "https://www.stakeeasy.finance",
+            "github": "https://github.com/arufa-research",
+            "twitter": "https://twitter.com/StakeEasy",
+            "medium": "https://stakeeasy.medium.com/"
+        }
     }
 ]
