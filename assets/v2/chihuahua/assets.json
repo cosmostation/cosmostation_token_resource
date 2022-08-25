@@ -8,7 +8,8 @@
     "origin_chain": "chihuahua",
     "decimal": 6,
     "description": "Chihuahua Staking Coin",
-    "image": "common/huahua.png"
+    "image": "common/huahua.png",
+    "coinGeckoId": "chihuahua-token"
   },
   {
     "denom": "ibc/FAC1BAAA6ECDCB88408A6EEEA13AD4736DA687F85ACD22B5BBD00D36754AC0FA",
@@ -20,7 +21,14 @@
     "decimal": 6,
     "path": "osmosis>chihuahua",
     "channel": "channel-7",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-113",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/C1A2C4681159048DD4A116652D8594EC5CD1C30D9FD282A9DAEAD6328CF3CDCA",
@@ -32,7 +40,14 @@
     "decimal": 6,
     "path": "osmosis>chihuahua",
     "channel": "channel-7",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-113",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/6F0955036B92C0A1EE4EB03942A989369DB275CA57454E5F564B581AB5D81CDB",
@@ -50,7 +65,8 @@
         "port": "transfer",
         "denom": "inj"
     },
-    "image": "common/inj.png"
+    "image": "common/inj.png",
+    "coinGeckoId": "injective-protocol"
   },
   {
     "denom": "ibc/EB2CED20AB0466F18BE49285E56B31306D4C60438A022EA995BA65D5E3CF7E09",
@@ -62,7 +78,14 @@
     "decimal": 6,
     "path": "secret>chihuahua",
     "channel": "channel-16",
-    "image": "common/scrt.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-11",
+        "port": "transfer",
+        "denom": "uscrt"
+    },
+    "image": "common/scrt.png",
+    "coinGeckoId": "secret"
   },
   {
     "denom": "ibc/89C79BD28DCCF300B9EE87740B061011AD870EC480777FAB95D85B3ED36BC06C",
@@ -74,6 +97,13 @@
     "decimal": 6,
     "path": "juno>chihuahua",
     "channel": "channel-11",
-    "image": "common/juno.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-28",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
   }
 ]
