@@ -1120,7 +1120,7 @@
     "base_type": "erc20",
     "dp_denom": "WSCRT",
     "origin_chain": "ethereum",
-    "decimal": 18,
+    "decimal": 6,
     "path": "ethereum>sifchain",
     "image": "ethereum/wscrt.png",
     "contract": "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be"
@@ -1144,7 +1144,7 @@
     "base_type": "erc20",
     "dp_denom": "ZCN",
     "origin_chain": "ethereum",
-    "decimal": 18,
+    "decimal": 10,
     "path": "ethereum>sifchain",
     "image": "ethereum/zcn.png",
     "contract": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"

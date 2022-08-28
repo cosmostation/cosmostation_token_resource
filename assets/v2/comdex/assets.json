@@ -44,6 +44,6 @@
     "decimal": 6,
     "path": "osmosis>comdex",
     "channel": "channel-1",
-    "image": "common/ion.png"
+    "image": "osmosis/ion.png"
   }
 ]

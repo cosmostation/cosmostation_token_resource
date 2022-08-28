@@ -20,6 +20,12 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge>persistence",
     "channel": "channel-38",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-24",
+        "port": "transfer",
+        "denom": "gravity0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
+    },
     "image": "ethereum/pstake.png",
     "contract": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
   },
