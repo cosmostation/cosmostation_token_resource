@@ -58,7 +58,7 @@
     "denom": "hbtc",
     "type": "native",
     "base_denom": "hbtc",
-    "base_type": "native",
+    "base_type": "bridge",
     "dp_denom": "HBTC",
     "origin_chain": "kava",
     "decimal": 8,
