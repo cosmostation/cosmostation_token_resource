@@ -56,11 +56,11 @@
   },
   {
     "denom": "hbtc",
-    "type": "native",
+    "type": "bridge",
     "base_denom": "hbtc",
     "base_type": "bridge",
     "dp_denom": "HBTC",
-    "origin_chain": "kava",
+    "origin_chain": "Huobi",
     "decimal": 8,
     "description": "HBTC on Kava Chain",
     "image": "kava/hbtc.png"
