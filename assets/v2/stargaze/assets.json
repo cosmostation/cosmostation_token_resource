@@ -8,7 +8,8 @@
     "origin_chain": "stargaze",
     "decimal": 6,
     "description": "Stargaze Staking Coin",
-    "image": "common/stars.png"
+    "image": "common/stars.png",
+    "coinGeckoId": "stargaze"
   },
   {
     "denom": "ibc/448C1061CE97D86CC5E86374CD914870FB8EBA16C58661B5F1D3F46729A2422D",
@@ -20,7 +21,14 @@
     "decimal": 6,
     "path": "juno>stargaze",
     "channel": "channel-5",
-    "image": "common/juno.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-20",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
   },
   {
     "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
@@ -32,7 +40,14 @@
     "decimal": 6,
     "path": "osmosis>stargaze",
     "channel": "channel-0",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-75",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
@@ -44,7 +59,14 @@
     "decimal": 6,
     "path": "osmosis>stargaze",
     "channel": "channel-0",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-75",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/3554989531C7DB295D548F373FE93205215CAC2820A62D748E5A3703044D481E",
@@ -56,6 +78,13 @@
     "decimal": 6,
     "path": "gravity-bridge>stargaze",
     "channel": "channel-6",
-    "image": "common/grav.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-7",
+        "port": "transfer",
+        "denom": "ugraviton"
+    },
+    "image": "common/grav.png",
+    "coinGeckoId": "graviton"
   }
 ]
