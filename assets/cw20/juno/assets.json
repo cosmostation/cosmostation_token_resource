@@ -127,5 +127,19 @@
     "symbol": "sgnl",
     "decimal": 6,
     "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/sgnl.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1dd0k0um5rqncfueza62w9sentdfh3ec4nw4aq4lk5hkjl63vljqscth9gv",
+    "symbol": "seJUNO",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/sejuno.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1wwnhkagvcd3tjz6f8vsdsw5plqnw8qy2aj3rrhqr2axvktzv9q2qz8jxn3",
+    "symbol": "bJUNO",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/bjuno.png"
   }
 ]
