@@ -8,6 +8,7 @@
     "origin_chain": "shentu",
     "decimal": 6,
     "description": "Shentu Staking Coin",
-    "image": "common/ctk.png"
+    "image": "common/ctk.png",
+    "coinGeckoId": "certik"
   }
 ]
