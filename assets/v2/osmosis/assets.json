@@ -8,7 +8,8 @@
     "origin_chain": "osmosis",
     "decimal": 6,
     "description": "Osmosis Staking Coin",
-    "image": "common/osmo.png"
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "uion",
@@ -19,31 +20,27 @@
     "origin_chain": "osmosis",
     "decimal": 6,
     "description": "Native Coin",
-    "image": "osmosis/ion.png"
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
-    "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "denom": "ibc/9989AD6CCA39D1131523DB0617B50F6442081162294B4795E26746292467B525",
     "type": "ibc",
-    "base_denom": "uatom",
+    "base_denom": "nanolike",
     "base_type": "staking",
-    "dp_denom": "ATOM",
-    "origin_chain": "cosmos",
-    "decimal": 6,
-    "path": "cosmos>osmosis",
-    "channel": "channel-0",
-    "image": "common/atom.png"
-  },
-  {
-    "denom": "ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4",
-    "type": "ibc",
-    "base_denom": "uakt",
-    "base_type": "staking",
-    "dp_denom": "AKT",
-    "origin_chain": "akash",
-    "decimal": 6,
-    "path": "akash>osmosis",
-    "channel": "channel-1",
-    "image": "common/akt.png"
+    "dp_denom": "LIKE",
+    "origin_chain": "like",
+    "decimal": 9,
+    "path": "like>osmosis",
+    "channel": "channel-53",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "nanolike"
+    },
+    "image": "common/like.png",
+    "coinGeckoId": "likecoin"
   },
   {
     "denom": "ibc/7A08C6F11EF0F59EB841B9F788A87EC9F2361C7D9703157EC13D940DC53031FA",
@@ -55,7 +52,109 @@
     "decimal": 9,
     "path": "cheqd>osmosis",
     "channel": "channel-108",
-    "image": "common/cheq.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "ncheq"
+    },
+    "image": "common/cheq.png",
+    "coinGeckoId": "cheqd-network"
+  },
+  {
+    "denom": "ibc/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1",
+    "type": "ibc",
+    "base_denom": "basecro",
+    "base_type": "staking",
+    "dp_denom": "CRO",
+    "origin_chain": "cryptoorg",
+    "decimal": 8,
+    "path": "cryptoorg>osmosis",
+    "channel": "channel-5",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-10",
+        "port": "transfer",
+        "denom": "basecro"
+    },
+    "image": "common/cro.png",
+    "coinGeckoId": "crypto-com-chain"
+  },
+  {
+    "denom": "ibc/8FEFAE6AECF6E2A255585617F781F35A8D5709A545A804482A261C0C9548A9D3",
+    "type": "ibc",
+    "base_denom": "swth",
+    "base_type": "staking",
+    "dp_denom": "SWTH",
+    "origin_chain": "carbon",
+    "decimal": 8,
+    "path": "carbon>osmosis",
+    "channel": "channel-188",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "swth"
+    },
+    "image": "common/swth.png",
+    "coinGeckoId": "switcheo"
+  },
+  {
+    "denom": "ibc/FE2CD1E6828EC0FAB8AF39BAC45BC25B965BA67CCBC50C13A14BD610B0D1E2C4",
+    "type": "ibc",
+    "base_denom": "boot",
+    "base_type": "staking",
+    "dp_denom": "BOOT",
+    "origin_chain": "bostrom",
+    "decimal": 0,
+    "path": "bostrom>osmosis",
+    "channel": "channel-95",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-2",
+        "port": "transfer",
+        "denom": "boot"
+    },
+    "image": "common/boot.png",
+    "coinGeckoId": "bostrom"
+  },
+  {
+    "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "path": "cosmos>osmosis",
+    "channel": "channel-0",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-141",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "denom": "ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4",
+    "type": "ibc",
+    "base_denom": "uakt",
+    "base_type": "staking",
+    "dp_denom": "AKT",
+    "origin_chain": "akash",
+    "decimal": 6,
+    "path": "akash>osmosis",
+    "channel": "channel-1",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-9",
+        "port": "transfer",
+        "denom": "uakt"
+    },
+    "image": "common/akt.png",
+    "coinGeckoId": "akash-network"
   },
   {
     "denom": "ibc/B9E0A1A524E98BB407D3CED8720EFEFD186002F90C1B1B7964811DD0CCC12228",
@@ -67,7 +166,14 @@
     "decimal": 6,
     "path": "chihuahua>osmosis",
     "channel": "channel-113",
-    "image": "common/huahua.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-7",
+        "port": "transfer",
+        "denom": "uhuahua"
+    },
+    "image": "common/huahua.png",
+    "coinGeckoId": "chihuahua-token"
   },
   {
     "denom": "ibc/8A34AF0C1943FD0DFCDE9ADBF0B2C9959C45E87E6088EA2FC6ADACD59261B8A2",
@@ -79,7 +185,14 @@
     "decimal": 6,
     "path": "lum>osmosis",
     "channel": "channel-115",
-    "image": "common/lum.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "ulum"
+    },
+    "image": "common/lum.png",
+    "coinGeckoId": "lum-network"
   },
   {
     "denom": "ibc/E7B35499CFBEB0FF5778127ABA4FB2C4B79A6B8D3D831D4379C4048C238796BD",
@@ -91,7 +204,14 @@
     "decimal": 6,
     "path": "vidulum>osmosis",
     "channel": "channel-124",
-    "image": "common/vdl.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "uvdl"
+    },
+    "image": "common/vdl.png",
+    "coinGeckoId": "vidulum"
   },
   {
     "denom": "ibc/307E5C96C8F60D1CBEE269A9A86C0834E1DB06F2B3788AE4F716EDB97A48B97D",
@@ -103,7 +223,14 @@
     "decimal": 6,
     "path": "digchain>osmosis",
     "channel": "channel-128",
-    "image": "common/dig.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-1",
+        "port": "transfer",
+        "denom": "udig"
+    },
+    "image": "common/dig.png",
+    "coinGeckoId": "dig-chain"
   },
   {
     "denom": "ibc/EA4C0A9F72E2CEDF10D0E7A9A6A22954DB3444910DB5BE980DF59B05A46DAD1C",
@@ -115,72 +242,661 @@
     "decimal": 6,
     "path": "desmos>osmosis",
     "channel": "channel-135",
-    "image": "common/dsm.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-2",
+        "port": "transfer",
+        "denom": "udsm"
+    },
+    "image": "common/dsm.png",
+    "coinGeckoId": "desmos"
   },
   {
-    "denom": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
+    "denom": "ibc/7ED954CFFFC06EE8419387F3FC688837FF64EF264DE14219935F724EEEDBF8D3",
     "type": "ibc",
-    "base_denom": "usdc",
-    "base_type": "erc20",
-    "dp_denom": "axlUSDC",
-    "origin_chain": "ethereum",
+    "base_denom": "uctk",
+    "base_type": "staking",
+    "dp_denom": "CTK",
+    "origin_chain": "shentu",
     "decimal": 6,
-    "path": "ethereum>axelar>osmosis",
-    "channel": "channel-208",
-    "image": "ethereum/usdc.png",
-    "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+    "path": "shentu>osmosis",
+    "channel": "channel-146",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-8",
+        "port": "transfer",
+        "denom": "uctk"
+    },
+    "image": "common/ctk.png",
+    "coinGeckoId": "certik"
   },
   {
-    "denom": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7",
+    "denom": "ibc/F867AE2112EFE646EC71A25CD2DFABB8927126AC1E19F1BBF0FF693A4ECA05DE",
     "type": "ibc",
-    "base_denom": "dai",
+    "base_denom": "uband",
+    "base_type": "staking",
+    "dp_denom": "BAND",
+    "origin_chain": "band",
+    "decimal": 6,
+    "path": "band>osmosis",
+    "channel": "channel-148",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-83",
+        "port": "transfer",
+        "denom": "uband"
+    },
+    "image": "common/band.png",
+    "coinGeckoId": "band-protocol"
+  },
+  {
+    "denom": "ibc/52B1AA623B34EB78FD767CEA69E8D7FA6C9CFE1FBF49C5406268FD325E2CC2AC",
+    "type": "ibc",
+    "base_denom": "uiov",
+    "base_type": "staking",
+    "dp_denom": "IOV",
+    "origin_chain": "starname",
+    "decimal": 6,
+    "path": "starname>osmosis",
+    "channel": "channel-15",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-2",
+        "port": "transfer",
+        "denom": "uiov"
+    },
+    "image": "common/iov.png",
+    "coinGeckoId": "starname"
+  },
+  {
+    "denom": "ibc/9BBA9A1C257E971E38C1422780CE6F0B0686F0A3085E2D61118D904BFE0F5F5E",
+    "type": "ibc",
+    "base_denom": "usomm",
+    "base_type": "staking",
+    "dp_denom": "SOMM",
+    "origin_chain": "sommelier",
+    "decimal": 6,
+    "path": "sommelier>osmosis",
+    "channel": "channel-165",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "usomm"
+    },
+    "image": "common/somm.png",
+    "coinGeckoId": "sommelier"
+  },
+  {
+    "denom": "ibc/346786EA82F41FE55FAD14BF69AD8BA9B36985406E43F3CB23E6C45A285A9593",
+    "type": "ibc",
+    "base_denom": "udarc",
+    "base_type": "staking",
+    "dp_denom": "DARC",
+    "origin_chain": "konstellation",
+    "decimal": 6,
+    "path": "konstellation>osmosis",
+    "channel": "channel-171",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "udarc"
+    },
+    "image": "common/darc.png",
+    "coinGeckoId": "darcmatter-coin"
+  },
+  {
+    "denom": "ibc/9BCB27203424535B6230D594553F1659C77EC173E36D9CF4759E7186EE747E84",
+    "type": "ibc",
+    "base_denom": "udec",
+    "base_type": "staking",
+    "dp_denom": "DEC",
+    "origin_chain": "decentr",
+    "decimal": 6,
+    "path": "decentr>osmosis",
+    "channel": "channel-181",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-1",
+        "port": "transfer",
+        "denom": "udec"
+    },
+    "image": "common/dec.png",
+    "coinGeckoId": "decentr"
+  },
+  {
+    "denom": "ibc/67795E528DF67C5606FC20F824EA39A6EF55BA133F4DC79C90A8C47A0901E17C",
+    "type": "ibc",
+    "base_denom": "uumee",
+    "base_type": "staking",
+    "dp_denom": "UMEE",
+    "origin_chain": "umee",
+    "decimal": 6,
+    "path": "umee>osmosis",
+    "channel": "channel-184",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "uumee"
+    },
+    "image": "common/umee.png",
+    "coinGeckoId": "umee"
+  },
+  {
+    "denom": "ibc/CEE970BB3D26F4B907097B6B660489F13F3B0DA765B83CC7D9A0BC0CE220FA6F",
+    "type": "ibc",
+    "base_denom": "uflix",
+    "base_type": "staking",
+    "dp_denom": "FLIX",
+    "origin_chain": "omniflix",
+    "decimal": 6,
+    "path": "omniflix>osmosis",
+    "channel": "channel-199",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-1",
+        "port": "transfer",
+        "denom": "uflix"
+    },
+    "image": "common/flix.png",
+    "coinGeckoId": "omniflix-network"
+  },
+  {
+    "denom": "ibc/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84",
+    "type": "ibc",
+    "base_denom": "udvpn",
+    "base_type": "staking",
+    "dp_denom": "DVPN",
+    "origin_chain": "sentinel",
+    "decimal": 6,
+    "path": "sentinel>osmosis",
+    "channel": "channel-2",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "udvpn"
+    },
+    "image": "common/dvpn.png",
+    "coinGeckoId": "sentinel"
+  },
+  {
+    "denom": "ibc/6AE98883D4D5D5FF9E50D7130F1305DA2FFA0C652D1DD9C123657C6B4EB2DF8A",
+    "type": "ibc",
+    "base_denom": "aevmos",
+    "base_type": "staking",
+    "dp_denom": "EVMOS",
+    "origin_chain": "evmos",
+    "decimal": 18,
+    "path": "evmos>osmosis",
+    "channel": "channel-204",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "aevmos"
+    },
+    "image": "common/evmos.png",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "denom": "ibc/41999DF04D9441DAC0DF5D8291DF4333FBCBA810FFD63FDCE34FDF41EF37B6F7",
+    "type": "ibc",
+    "base_denom": "ucrbrus",
+    "base_type": "staking",
+    "dp_denom": "CRBRUS",
+    "origin_chain": "cerberus",
+    "decimal": 6,
+    "path": "cerberus>osmosis",
+    "channel": "channel-212",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-1",
+        "port": "transfer",
+        "denom": "ucrbrus"
+    },
+    "image": "common/crbrus.png",
+    "coinGeckoId": "cerberus-2"
+  },
+  {
+    "denom": "ibc/2716E3F2E146664BEFA9217F1A03BFCEDBCD5178B3C71CACB1A0D7584451D219",
+    "type": "ibc",
+    "base_denom": "uatolo",
+    "base_type": "staking",
+    "dp_denom": "ATOLO",
+    "origin_chain": "rizon",
+    "decimal": 6,
+    "path": "rizon>osmosis",
+    "channel": "channel-221",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-1",
+        "port": "transfer",
+        "denom": "uatolo"
+    },
+    "image": "common/atolo.png",
+    "coinGeckoId": "rizon"
+  },
+  {
+    "denom": "ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447",
+    "type": "ibc",
+    "base_denom": "afet",
+    "base_type": "staking",
+    "dp_denom": "FET",
+    "origin_chain": "fetchai",
+    "decimal": 18,
+    "path": "fetchai>osmosis",
+    "channel": "channel-229",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-10",
+        "port": "transfer",
+        "denom": "afet"
+    },
+    "image": "common/fet.png",
+    "coinGeckoId": "fetch-ai"
+  },
+  {
+    "denom": "ibc/CBA34207E969623D95D057D9B11B0C8B32B89A71F170577D982FDDE623813FFC",
+    "type": "ibc",
+    "base_denom": "umntl",
+    "base_type": "staking",
+    "dp_denom": "MNTL",
+    "origin_chain": "assetmantle",
+    "decimal": 6,
+    "path": "assetmantle>osmosis",
+    "channel": "channel-232",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "umntl"
+    },
+    "image": "common/mntl.png",
+    "coinGeckoId": "assetmantle"
+  },
+  {
+    "denom": "ibc/F3FF7A84A73B62921538642F9797C423D2B4C4ACB3C7FCFFCE7F12AA69909C4B",
+    "type": "ibc",
+    "base_denom": "uixo",
+    "base_type": "native",
+    "dp_denom": "IXO",
+    "origin_chain": "ixo",
+    "decimal": 6,
+    "path": "ixo>osmosis",
+    "channel": "channel-38",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-4",
+        "port": "transfer",
+        "denom": "uixo"
+    },
+    "image": "common/ixo.png",
+    "coinGeckoId": "ixo"
+  },
+  {
+    "denom": "ibc/655BCEF3CDEBE32863FF281DBBE3B06160339E9897DC9C9C9821932A5F8BA6F8",
+    "type": "ibc",
+    "base_denom": "utick",
+    "base_type": "native",
+    "dp_denom": "TICK",
+    "origin_chain": "tick",
+    "decimal": 6,
+    "path": "microtick>osmosis",
+    "channel": "channel-39",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-16",
+        "port": "transfer",
+        "denom": "utick"
+    },
+    "image": "common/tick.png",
+    "coinGeckoId": "microtick"
+  },
+  {
+    "denom": "ibc/8318FD63C42203D16DDCAF49FE10E8590669B3219A3E87676AC9DA50722687FB",
+    "type": "ibc",
+    "base_denom": "rowan",
+    "base_type": "staking",
+    "dp_denom": "ROWAN",
+    "origin_chain": "sifchain",
+    "decimal": 18,
+    "path": "sifchain>osmosis",
+    "channel": "channel-47",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-7",
+        "port": "transfer",
+        "denom": "rowan"
+    },
+    "image": "common/rowan.png",
+    "coinGeckoId": "sifchain"
+  },
+  {
+    "denom": "ibc/D805F1DA50D31B96E4282C1D4181EDDFB1A44A598BFF5666F4B43E4B8BEA95A5",
+    "type": "ibc",
+    "base_denom": "ubcna",
+    "base_type": "staking",
+    "dp_denom": "BCNA",
+    "origin_chain": "bitcanna",
+    "decimal": 6,
+    "path": "bitcanna>osmosis",
+    "channel": "channel-51",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-1",
+        "port": "transfer",
+        "denom": "ubcna"
+    },
+    "image": "common/bcna.png",
+    "coinGeckoId": "bitcanna"
+  },
+  {
+    "denom": "ibc/7C4D60AA95E5A7558B0A364860979CA34B7FF8AAF255B87AF9E879374470CEC0",
+    "type": "ibc",
+    "base_denom": "uiris",
+    "base_type": "staking",
+    "dp_denom": "IRIS",
+    "origin_chain": "iris",
+    "decimal": 6,
+    "path": "iris>osmosis",
+    "channel": "channel-6",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "uiris"
+    },
+    "image": "common/iris.png",
+    "coinGeckoId": "iris-network"
+  },
+  {
+    "denom": "ibc/4E5444C35610CC76FC94E7F7886B93121175C28262DDFDDE6F84E82BF2425452",
+    "type": "ibc",
+    "base_denom": "ubtsg",
+    "base_type": "staking",
+    "dp_denom": "BTSG",
+    "origin_chain": "bitsong",
+    "decimal": 6,
+    "path": "bitsong>osmosis",
+    "channel": "channel-73",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "ubtsg"
+    },
+    "image": "common/btsg.png",
+    "coinGeckoId": "bitsong"
+  },
+  {
+    "denom": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
+    "type": "ibc",
+    "base_denom": "ustars",
+    "base_type": "staking",
+    "dp_denom": "STARS",
+    "origin_chain": "stargaze",
+    "decimal": 6,
+    "path": "stargaze>osmosis",
+    "channel": "channel-75",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "ustars"
+    },
+    "image": "common/stars.png",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "denom": "ibc/B547DC9B897E7C3AA5B824696110B8E3D2C31E3ED3F02FF363DCBAD82457E07E",
+    "type": "ibc",
+    "base_denom": "uxki",
+    "base_type": "staking",
+    "dp_denom": "XKI",
+    "origin_chain": "kichain",
+    "decimal": 6,
+    "path": "kichain>osmosis",
+    "channel": "channel-77",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "uxki"
+    },
+    "image": "common/xki.png",
+    "coinGeckoId": "ki"
+  },
+  {
+    "denom": "ibc/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076",
+    "type": "ibc",
+    "base_denom": "uregen",
+    "base_type": "staking",
+    "dp_denom": "REGEN",
+    "origin_chain": "regen",
+    "decimal": 6,
+    "path": "regen>osmosis",
+    "channel": "channel-8",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-1",
+        "port": "transfer",
+        "denom": "uregen"
+    },
+    "image": "common/regen.png",
+    "coinGeckoId": "regen"
+  },
+  {
+    "denom": "ibc/3BCCC93AD5DF58D11A6F8A05FA8BC801CBA0BA61A981F57E91B8B598BF8061CB",
+    "type": "ibc",
+    "base_denom": "umed",
+    "base_type": "staking",
+    "dp_denom": "MED",
+    "origin_chain": "medibloc",
+    "decimal": 6,
+    "path": "medibloc>osmosis",
+    "channel": "channel-82",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-1",
+        "port": "transfer",
+        "denom": "umed"
+    },
+    "image": "common/med.png",
+    "coinGeckoId": "medibloc"
+  },
+  {
+    "denom": "ibc/EA3E1640F9B1532AB129A571203A0B9F789A7F14BB66E350DCBFA18E1A1931F0",
+    "type": "ibc",
+    "base_denom": "ucmdx",
+    "base_type": "staking",
+    "dp_denom": "CMDX",
+    "origin_chain": "comdex",
+    "decimal": 6,
+    "path": "comdex>osmosis",
+    "channel": "channel-87",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-1",
+        "port": "transfer",
+        "denom": "ucmdx"
+    },
+    "image": "common/cmdx.png",
+    "coinGeckoId": "comdex"
+  },
+  {
+    "denom": "ibc/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A",
+    "type": "ibc",
+    "base_denom": "uscrt",
+    "base_type": "staking",
+    "dp_denom": "SCRT",
+    "origin_chain": "secret",
+    "decimal": 6,
+    "path": "secret>osmosis",
+    "channel": "channel-88",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-1",
+        "port": "transfer",
+        "denom": "uscrt"
+    },
+    "image": "common/scrt.png",
+    "coinGeckoId": "secret"
+  },
+  {
+    "denom": "ibc/BB6BCDB515050BAE97516111873CCD7BCF1FD0CCB723CC12F3C4F704D6C646CE",
+    "type": "ibc",
+    "base_denom": "ukuji",
+    "base_type": "staking",
+    "dp_denom": "KUJI",
+    "origin_chain": "kujira",
+    "decimal": 6,
+    "path": "kujira>osmosis",
+    "channel": "channel-259",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "ukuji"
+    },
+    "image": "common/kuji.png",
+    "coinGeckoId": "kujira"
+  },
+  {
+    "denom": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
+    "type": "ibc",
+    "base_denom": "inj",
+    "base_type": "staking",
+    "dp_denom": "INJ",
+    "origin_chain": "injective",
+    "decimal": 18,
+    "path": "injective>osmosis",
+    "channel": "channel-122",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-8",
+        "port": "transfer",
+        "denom": "inj"
+    },
+    "image": "common/inj.png",
+    "coinGeckoId": "inj"
+  },
+  {
+    "denom": "ibc/1E09CB0F506ACF12FDE4683FB6B34DA62FB4BE122641E0D93AAF98A87675676C",
+    "type": "ibc",
+    "base_denom": "utgd",
+    "base_type": "staking",
+    "dp_denom": "TGD",
+    "origin_chain": "tgrade",
+    "decimal": 6,
+    "path": "tgrade>osmosis",
+    "channel": "channel-263",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "utgd"
+    },
+    "image": "common/tgd.png",
+    "coinGeckoId": "tgrade"
+  },
+  {
+    "denom": "ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205",
+    "type": "ibc",
+    "base_denom": "ukava",
+    "base_type": "staking",
+    "dp_denom": "KAVA",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "path": "kava>osmosis",
+    "channel": "channel-143",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-1",
+        "port": "transfer",
+        "denom": "ukava"
+    },
+    "image": "common/kava.png",
+    "coinGeckoId": "kava"
+  },
+  {
+    "denom": "ibc/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293",
+    "type": "ibc",
+    "base_denom": "uxprt",
+    "base_type": "staking",
+    "dp_denom": "XPRT",
+    "origin_chain": "persistence",
+    "decimal": 6,
+    "path": "persistence>osmosis",
+    "channel": "channel-4",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-6",
+        "port": "transfer",
+        "denom": "uxprt"
+    },
+    "image": "common/xprt.png",
+    "coinGeckoId": "persistence"
+  },
+  {
+    "denom": "ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961",
+    "type": "ibc",
+    "base_denom": "pstake",
     "base_type": "erc20",
-    "dp_denom": "axlDAI",
+    "dp_denom": "pSTAKE",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "path": "ethereum>axelar>osmosis",
-    "channel": "channel-208",
-    "image": "ethereum/dai.png",
-    "contract": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+    "path": "ethereum>gravity-bridge>persistence>osmosis",
+    "channel": "channel-4",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-6",
+        "port": "transfer",
+        "denom": "ibc/A6E3AF63B3C906416A9AF7A556C59EA4BD50E617EFFE6299B99700CCB780E444"
+    },
+    "image": "ethereum/pstake.png",
+    "coinGeckoId": "pstake-finance",
+    "contract": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
   },
   {
-    "denom": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
+    "denom": "ibc/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F",
     "type": "ibc",
-    "base_denom": "wbtc",
-    "base_type": "erc20",
-    "dp_denom": "axlWBTC",
-    "origin_chain": "ethereum",
-    "decimal": 8,
-    "path": "ethereum>axelar>osmosis",
-    "channel": "channel-208",
-    "image": "ethereum/wbtc.png",
-    "contract": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+    "base_denom": "eeur",
+    "base_type": "native",
+    "dp_denom": "EEUR",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "path": "emoney>osmosis",
+    "channel": "channel-37",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "eeur"
+    },
+    "image": "emoney/eeur.png",
+    "coinGeckoId": "e-money-eur"
   },
   {
-    "denom": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
+    "denom": "ibc/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59",
     "type": "ibc",
-    "base_denom": "weth",
-    "base_type": "erc20",
-    "dp_denom": "axlWETH",
-    "origin_chain": "ethereum",
-    "decimal": 18,
-    "path": "ethereum>axelar>osmosis",
-    "channel": "channel-208",
-    "image": "ethereum/weth.png",
-    "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
-  },
-  {
-    "denom": "ibc/65381C5F3FD21442283D56925E62EA524DED8B6927F0FF94E21E0020954C40B5",
-    "type": "ibc",
-    "base_denom": "weth",
-    "base_type": "erc20",
-    "dp_denom": "WETH",
-    "origin_chain": "ethereum",
-    "decimal": 18,
-    "path": "ethereum>gravity-bridge>osmosis",
-    "channel": "channel-144",
-    "image": "ethereum/weth.png",
-    "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+    "base_denom": "ungm",
+    "base_type": "native",
+    "dp_denom": "NGM",
+    "origin_chain": "emoney",
+    "decimal": 6,
+    "path": "emoney>osmosis",
+    "channel": "channel-37",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "ungm"
+    },
+    "image": "common/ngm.png",
+    "coinGeckoId": "e-money"
   },
   {
     "denom": "ibc/E97634A40119F1898989C2A23224ED83FDD0A57EA46B3A094E287288D1672B44",
@@ -192,7 +908,34 @@
     "decimal": 6,
     "path": "gravity-bridge>osmosis",
     "channel": "channel-144",
-    "image": "common/grav.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-10",
+        "port": "transfer",
+        "denom": "ugraviton"
+    },
+    "image": "common/grav.png",
+    "coinGeckoId": "graviton"
+  },
+  {
+    "denom": "ibc/65381C5F3FD21442283D56925E62EA524DED8B6927F0FF94E21E0020954C40B5",
+    "type": "ibc",
+    "base_denom": "weth",
+    "base_type": "erc20",
+    "dp_denom": "WETH",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>gravity-bridge>osmosis",
+    "channel": "channel-144",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-10",
+        "port": "transfer",
+        "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+    },
+    "image": "ethereum/weth.png",
+    "coinGeckoId": "weth",
+    "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
   },
   {
     "denom": "ibc/F292A17CF920E3462C816CBE6B042E779F676CAB59096904C4C1C966413E3DF5",
@@ -204,7 +947,14 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge>osmosis",
     "channel": "channel-144",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-10",
+        "port": "transfer",
+        "denom": "gravity0x6b175474e89094c44da98b954eedeac495271d0f"
+    },
     "image": "ethereum/dai.png",
+    "coinGeckoId": "dai",
     "contract": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
   },
   {
@@ -217,56 +967,114 @@
     "decimal": 6,
     "path": "ethereum>gravity-bridge>osmosis",
     "channel": "channel-144",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-10",
+        "port": "transfer",
+        "denom": "gravity0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    },
     "image": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin",
     "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
   },
   {
-    "denom": "ibc/7ED954CFFFC06EE8419387F3FC688837FF64EF264DE14219935F724EEEDBF8D3",
+    "denom": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
     "type": "ibc",
-    "base_denom": "uctk",
-    "base_type": "staking",
-    "dp_denom": "CTK",
-    "origin_chain": "shentu",
+    "base_denom": "usdc",
+    "base_type": "erc20",
+    "dp_denom": "axlUSDC",
+    "origin_chain": "ethereum",
     "decimal": 6,
-    "path": "shentu>osmosis",
-    "channel": "channel-146",
-    "image": "common/ctk.png"
+    "path": "ethereum>axelar>osmosis",
+    "channel": "channel-208",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "uusdc"
+    },
+    "image": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin",
+    "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
   },
   {
-    "denom": "ibc/F867AE2112EFE646EC71A25CD2DFABB8927126AC1E19F1BBF0FF693A4ECA05DE",
+    "denom": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7",
     "type": "ibc",
-    "base_denom": "uband",
-    "base_type": "staking",
-    "dp_denom": "BAND",
-    "origin_chain": "band",
-    "decimal": 6,
-    "path": "band>osmosis",
-    "channel": "channel-148",
-    "image": "common/band.png"
+    "base_denom": "dai",
+    "base_type": "erc20",
+    "dp_denom": "axlDAI",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>axelar>osmosis",
+    "channel": "channel-208",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "dai-wei"
+    },
+    "image": "ethereum/dai.png",
+    "coinGeckoId": "dai",
+    "contract": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
   },
   {
-    "denom": "ibc/52B1AA623B34EB78FD767CEA69E8D7FA6C9CFE1FBF49C5406268FD325E2CC2AC",
+    "denom": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
     "type": "ibc",
-    "base_denom": "uiov",
-    "base_type": "staking",
-    "dp_denom": "IOV",
-    "origin_chain": "starname",
-    "decimal": 6,
-    "path": "starname>osmosis",
-    "channel": "channel-15",
-    "image": "common/iov.png"
+    "base_denom": "wbtc",
+    "base_type": "erc20",
+    "dp_denom": "axlWBTC",
+    "origin_chain": "ethereum",
+    "decimal": 8,
+    "path": "ethereum>axelar>osmosis",
+    "channel": "channel-208",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "wbtc-satoshi"
+    },
+    "image": "ethereum/wbtc.png",
+    "coinGeckoId": "wrapped-bitcoin",
+    "contract": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
   },
   {
-    "denom": "ibc/9BBA9A1C257E971E38C1422780CE6F0B0686F0A3085E2D61118D904BFE0F5F5E",
+    "denom": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
     "type": "ibc",
-    "base_denom": "usomm",
+    "base_denom": "weth",
+    "base_type": "erc20",
+    "dp_denom": "axlWETH",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>axelar>osmosis",
+    "channel": "channel-208",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "weth-wei"
+    },
+    "image": "ethereum/weth.png",
+    "coinGeckoId": "weth",
+    "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+  },
+  {
+    "denom": "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED",
+    "type": "ibc",
+    "base_denom": "ujuno",
     "base_type": "staking",
-    "dp_denom": "SOMM",
-    "origin_chain": "sommelier",
+    "dp_denom": "JUNO",
+    "origin_chain": "juno",
     "decimal": 6,
-    "path": "sommelier>osmosis",
-    "channel": "channel-165",
-    "image": "common/somm.png"
+    "path": "juno>osmosis",
+    "channel": "channel-42",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
   },
   {
     "denom": "ibc/C2A2E9CA95DDD4828B75124B5E27B8401C7D8493BC48353D418CBFC04565899B",
@@ -278,7 +1086,14 @@
     "decimal": 6,
     "path": "juno>osmosis",
     "channel": "channel-169",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-47",
+        "port": "wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn",
+        "denom": "juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z"
+    },
     "image": "juno/hope.png",
+    "coinGeckoId": "hope-galaxy",
     "contract": "juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z"
   },
   {
@@ -291,7 +1106,14 @@
     "decimal": 6,
     "path": "juno>osmosis",
     "channel": "channel-169",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-47",
+        "port": "wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn",
+        "denom": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr"
+    },
     "image": "juno/neta.png",
+    "coinGeckoId": "neta",
     "contract": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr"
   },
   {
@@ -304,435 +1126,15 @@
     "decimal": 3,
     "path": "juno>osmosis",
     "channel": "channel-169",
-    "image": "juno/marble.png",
-    "contract": "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl"
-  },
-  {
-    "denom": "ibc/346786EA82F41FE55FAD14BF69AD8BA9B36985406E43F3CB23E6C45A285A9593",
-    "type": "ibc",
-    "base_denom": "udarc",
-    "base_type": "staking",
-    "dp_denom": "DARC",
-    "origin_chain": "konstellation",
-    "decimal": 6,
-    "path": "konstellation>osmosis",
-    "channel": "channel-171",
-    "image": "common/darc.png"
-  },
-  {
-    "denom": "ibc/9BCB27203424535B6230D594553F1659C77EC173E36D9CF4759E7186EE747E84",
-    "type": "ibc",
-    "base_denom": "udec",
-    "base_type": "staking",
-    "dp_denom": "DEC",
-    "origin_chain": "decentr",
-    "decimal": 6,
-    "path": "decentr>osmosis",
-    "channel": "channel-181",
-    "image": "common/dec.png"
-  },
-  {
-    "denom": "ibc/67795E528DF67C5606FC20F824EA39A6EF55BA133F4DC79C90A8C47A0901E17C",
-    "type": "ibc",
-    "base_denom": "uumee",
-    "base_type": "staking",
-    "dp_denom": "UMEE",
-    "origin_chain": "umee",
-    "decimal": 6,
-    "path": "umee>osmosis",
-    "channel": "channel-184",
-    "image": "common/umee.png"
-  },
-  {
-    "denom": "ibc/8FEFAE6AECF6E2A255585617F781F35A8D5709A545A804482A261C0C9548A9D3",
-    "type": "ibc",
-    "base_denom": "swth",
-    "base_type": "staking",
-    "dp_denom": "SWTH",
-    "origin_chain": "carbon",
-    "decimal": 8,
-    "path": "carbon>osmosis",
-    "channel": "channel-188",
-    "image": "common/swth.png"
-  },
-  {
-    "denom": "ibc/CEE970BB3D26F4B907097B6B660489F13F3B0DA765B83CC7D9A0BC0CE220FA6F",
-    "type": "ibc",
-    "base_denom": "uflix",
-    "base_type": "staking",
-    "dp_denom": "FLIX",
-    "origin_chain": "omniflix",
-    "decimal": 6,
-    "path": "omniflix>osmosis",
-    "channel": "channel-199",
-    "image": "common/flix.png"
-  },
-  {
-    "denom": "ibc/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84",
-    "type": "ibc",
-    "base_denom": "udvpn",
-    "base_type": "staking",
-    "dp_denom": "DVPN",
-    "origin_chain": "sentinel",
-    "decimal": 6,
-    "path": "sentinel>osmosis",
-    "channel": "channel-2",
-    "image": "common/dvpn.png"
-  },
-  {
-    "denom": "ibc/6AE98883D4D5D5FF9E50D7130F1305DA2FFA0C652D1DD9C123657C6B4EB2DF8A",
-    "type": "ibc",
-    "base_denom": "aevmos",
-    "base_type": "staking",
-    "dp_denom": "EVMOS",
-    "origin_chain": "evmos",
-    "decimal": 18,
-    "path": "evmos>osmosis",
-    "channel": "channel-204",
-    "image": "common/evmos.png"
-  },
-  {
-    "denom": "ibc/41999DF04D9441DAC0DF5D8291DF4333FBCBA810FFD63FDCE34FDF41EF37B6F7",
-    "type": "ibc",
-    "base_denom": "ucrbrus",
-    "base_type": "staking",
-    "dp_denom": "CRBRUS",
-    "origin_chain": "cerberus",
-    "decimal": 6,
-    "path": "cerberus>osmosis",
-    "channel": "channel-212",
-    "image": "common/crbrus.png"
-  },
-  {
-    "denom": "ibc/2716E3F2E146664BEFA9217F1A03BFCEDBCD5178B3C71CACB1A0D7584451D219",
-    "type": "ibc",
-    "base_denom": "uatolo",
-    "base_type": "staking",
-    "dp_denom": "ATOLO",
-    "origin_chain": "rizon",
-    "decimal": 6,
-    "path": "rizon>osmosis",
-    "channel": "channel-221",
-    "image": "common/atolo.png"
-  },
-  {
-    "denom": "ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447",
-    "type": "ibc",
-    "base_denom": "afet",
-    "base_type": "staking",
-    "dp_denom": "FET",
-    "origin_chain": "fetchai",
-    "decimal": 18,
-    "path": "fetchai>osmosis",
-    "channel": "channel-229",
-    "image": "common/fet.png"
-  },
-  {
-    "denom": "ibc/CBA34207E969623D95D057D9B11B0C8B32B89A71F170577D982FDDE623813FFC",
-    "type": "ibc",
-    "base_denom": "umntl",
-    "base_type": "staking",
-    "dp_denom": "MNTL",
-    "origin_chain": "assetmantle",
-    "decimal": 6,
-    "path": "assetmantle>osmosis",
-    "channel": "channel-232",
-    "image": "common/mntl.png"
-  },
-  {
-    "denom": "ibc/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F",
-    "type": "ibc",
-    "base_denom": "eeur",
-    "base_type": "native",
-    "dp_denom": "EEUR",
-    "origin_chain": "emoney",
-    "decimal": 6,
-    "path": "emoney>osmosis",
-    "channel": "channel-37",
-    "image": "emoney/eeur.png"
-  },
-  {
-    "denom": "ibc/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59",
-    "type": "ibc",
-    "base_denom": "ungm",
-    "base_type": "native",
-    "dp_denom": "NGM",
-    "origin_chain": "emoney",
-    "decimal": 6,
-    "path": "emoney>osmosis",
-    "channel": "channel-37",
-    "image": "common/ngm.png"
-  },
-  {
-    "denom": "ibc/F3FF7A84A73B62921538642F9797C423D2B4C4ACB3C7FCFFCE7F12AA69909C4B",
-    "type": "ibc",
-    "base_denom": "uixo",
-    "base_type": "native",
-    "dp_denom": "IXO",
-    "origin_chain": "ixo",
-    "decimal": 6,
-    "path": "ixo>osmosis",
-    "channel": "channel-38",
-    "image": "common/ixo.png"
-  },
-  {
-    "denom": "ibc/655BCEF3CDEBE32863FF281DBBE3B06160339E9897DC9C9C9821932A5F8BA6F8",
-    "type": "ibc",
-    "base_denom": "utick",
-    "base_type": "native",
-    "dp_denom": "TICK",
-    "origin_chain": "tick",
-    "decimal": 6,
-    "path": "microtick>osmosis",
-    "channel": "channel-39",
-    "image": "common/tick.png"
-  },
-  {
-    "denom": "ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961",
-    "type": "ibc",
-    "base_denom": "pstake",
-    "base_type": "erc20",
-    "dp_denom": "PSTAKE",
-    "origin_chain": "ethereum",
-    "decimal": 18,
-    "path": "ethereum>gravity-bridge>persistence>osmosis",
-    "channel": "channel-4",
     "port": "transfer",
     "counter_party": {
-        "channel": "channel-6",
-        "port": "transfer",
-        "denom": "ibc/A6E3AF63B3C906416A9AF7A556C59EA4BD50E617EFFE6299B99700CCB780E444"
+        "channel": "channel-47",
+        "port": "wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn",
+        "denom": "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl"
     },
-    "image": "ethereum/pstake.png",
-    "contract": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
-  },
-  {
-    "denom": "ibc/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293",
-    "type": "ibc",
-    "base_denom": "uxprt",
-    "base_type": "staking",
-    "dp_denom": "XPRT",
-    "origin_chain": "persistence",
-    "decimal": 6,
-    "path": "persistence>osmosis",
-    "channel": "channel-4",
-    "image": "common/xprt.png"
-  },
-  {
-    "denom": "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED",
-    "type": "ibc",
-    "base_denom": "ujuno",
-    "base_type": "staking",
-    "dp_denom": "JUNO",
-    "origin_chain": "juno",
-    "decimal": 6,
-    "path": "juno>osmosis",
-    "channel": "channel-42",
-    "image": "common/juno.png"
-  },
-  {
-    "denom": "ibc/8318FD63C42203D16DDCAF49FE10E8590669B3219A3E87676AC9DA50722687FB",
-    "type": "ibc",
-    "base_denom": "rowan",
-    "base_type": "staking",
-    "dp_denom": "ROWAN",
-    "origin_chain": "sifchain",
-    "decimal": 18,
-    "path": "sifchain>osmosis",
-    "channel": "channel-47",
-    "image": "common/rowan.png"
-  },
-  {
-    "denom": "ibc/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1",
-    "type": "ibc",
-    "base_denom": "basecro",
-    "base_type": "staking",
-    "dp_denom": "CRO",
-    "origin_chain": "cryptoorg",
-    "decimal": 8,
-    "path": "cryptoorg>osmosis",
-    "channel": "channel-5",
-    "image": "common/cro.png"
-  },
-  {
-    "denom": "ibc/D805F1DA50D31B96E4282C1D4181EDDFB1A44A598BFF5666F4B43E4B8BEA95A5",
-    "type": "ibc",
-    "base_denom": "ubcna",
-    "base_type": "staking",
-    "dp_denom": "BCNA",
-    "origin_chain": "bitcanna",
-    "decimal": 6,
-    "path": "bitcanna>osmosis",
-    "channel": "channel-51",
-    "image": "common/bcna.png"
-  },
-  {
-    "denom": "ibc/9989AD6CCA39D1131523DB0617B50F6442081162294B4795E26746292467B525",
-    "type": "ibc",
-    "base_denom": "nanolike",
-    "base_type": "staking",
-    "dp_denom": "LIKE",
-    "origin_chain": "like",
-    "decimal": 9,
-    "path": "like>osmosis",
-    "channel": "channel-53",
-    "image": "common/like.png"
-  },
-  {
-    "denom": "ibc/7C4D60AA95E5A7558B0A364860979CA34B7FF8AAF255B87AF9E879374470CEC0",
-    "type": "ibc",
-    "base_denom": "uiris",
-    "base_type": "staking",
-    "dp_denom": "IRIS",
-    "origin_chain": "iris",
-    "decimal": 6,
-    "path": "iris>osmosis",
-    "channel": "channel-6",
-    "image": "common/iris.png"
-  },
-  {
-    "denom": "ibc/4E5444C35610CC76FC94E7F7886B93121175C28262DDFDDE6F84E82BF2425452",
-    "type": "ibc",
-    "base_denom": "ubtsg",
-    "base_type": "staking",
-    "dp_denom": "BTSG",
-    "origin_chain": "bitsong",
-    "decimal": 6,
-    "path": "bitsong>osmosis",
-    "channel": "channel-73",
-    "image": "common/btsg.png"
-  },
-  {
-    "denom": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
-    "type": "ibc",
-    "base_denom": "ustars",
-    "base_type": "staking",
-    "dp_denom": "STARS",
-    "origin_chain": "stargaze",
-    "decimal": 6,
-    "path": "stargaze>osmosis",
-    "channel": "channel-75",
-    "image": "common/stars.png"
-  },
-  {
-    "denom": "ibc/B547DC9B897E7C3AA5B824696110B8E3D2C31E3ED3F02FF363DCBAD82457E07E",
-    "type": "ibc",
-    "base_denom": "uxki",
-    "base_type": "staking",
-    "dp_denom": "XKI",
-    "origin_chain": "kichain",
-    "decimal": 6,
-    "path": "kichain>osmosis",
-    "channel": "channel-77",
-    "image": "common/xki.png"
-  },
-  {
-    "denom": "ibc/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076",
-    "type": "ibc",
-    "base_denom": "uregen",
-    "base_type": "staking",
-    "dp_denom": "REGEN",
-    "origin_chain": "regen",
-    "decimal": 6,
-    "path": "regen>osmosis",
-    "channel": "channel-8",
-    "image": "common/regen.png"
-  },
-  {
-    "denom": "ibc/3BCCC93AD5DF58D11A6F8A05FA8BC801CBA0BA61A981F57E91B8B598BF8061CB",
-    "type": "ibc",
-    "base_denom": "umed",
-    "base_type": "staking",
-    "dp_denom": "MED",
-    "origin_chain": "medibloc",
-    "decimal": 6,
-    "path": "medibloc>osmosis",
-    "channel": "channel-82",
-    "image": "common/med.png"
-  },
-  {
-    "denom": "ibc/EA3E1640F9B1532AB129A571203A0B9F789A7F14BB66E350DCBFA18E1A1931F0",
-    "type": "ibc",
-    "base_denom": "ucmdx",
-    "base_type": "staking",
-    "dp_denom": "CMDX",
-    "origin_chain": "comdex",
-    "decimal": 6,
-    "path": "comdex>osmosis",
-    "channel": "channel-87",
-    "image": "common/cmdx.png"
-  },
-  {
-    "denom": "ibc/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A",
-    "type": "ibc",
-    "base_denom": "uscrt",
-    "base_type": "staking",
-    "dp_denom": "SCRT",
-    "origin_chain": "secret",
-    "decimal": 6,
-    "path": "secret>osmosis",
-    "channel": "channel-88",
-    "image": "common/scrt.png"
-  },
-  {
-    "denom": "ibc/FE2CD1E6828EC0FAB8AF39BAC45BC25B965BA67CCBC50C13A14BD610B0D1E2C4",
-    "type": "ibc",
-    "base_denom": "boot",
-    "base_type": "staking",
-    "dp_denom": "BOOT",
-    "origin_chain": "bostrom",
-    "decimal": 0,
-    "path": "bostrom>osmosis",
-    "channel": "channel-95",
-    "image": "common/boot.png"
-  },
-  {
-    "denom": "ibc/BB6BCDB515050BAE97516111873CCD7BCF1FD0CCB723CC12F3C4F704D6C646CE",
-    "type": "ibc",
-    "base_denom": "ukuji",
-    "base_type": "staking",
-    "dp_denom": "KUJI",
-    "origin_chain": "kujira",
-    "decimal": 6,
-    "path": "kujira>osmosis",
-    "channel": "channel-259",
-    "image": "common/kuji.png"
-  },
-  {
-    "denom": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
-    "type": "ibc",
-    "base_denom": "inj",
-    "base_type": "staking",
-    "dp_denom": "INJ",
-    "origin_chain": "injective",
-    "decimal": 18,
-    "path": "injective>osmosis",
-    "channel": "channel-122",
-    "image": "common/inj.png"
-  },
-  {
-    "denom": "ibc/1E09CB0F506ACF12FDE4683FB6B34DA62FB4BE122641E0D93AAF98A87675676C",
-    "type": "ibc",
-    "base_denom": "utgd",
-    "base_type": "staking",
-    "dp_denom": "TGD",
-    "origin_chain": "tgrade",
-    "decimal": 6,
-    "path": "tgrade>osmosis",
-    "channel": "channel-263",
-    "image": "common/tgd.png"
-  },
-  {
-    "denom": "ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205",
-    "type": "ibc",
-    "base_denom": "ukava",
-    "base_type": "staking",
-    "dp_denom": "KAVA",
-    "origin_chain": "kava",
-    "decimal": 6,
-    "path": "kava>osmosis",
-    "channel": "channel-143",
-    "image": "common/kava.png"
+    "image": "juno/marble.png",
+    "coinGeckoId": "marble",
+    "contract": "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl"
   },
   {
     "denom": "ibc/c6b6bfcb6ee49a7cab1a7e7b021de35b99d525ac660844952f0f6c78dcb2a57b",
@@ -744,6 +1146,12 @@
     "decimal": 6,
     "path": "juno>osmosis",
     "channel": "channel-169",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-47",
+        "port": "wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn",
+        "denom": "juno1dd0k0um5rqncfueza62w9sentdfh3ec4nw4aq4lk5hkjl63vljqscth9gv"
+    },
     "image": "juno/sejuno.png",
     "contract": "juno1dd0k0um5rqncfueza62w9sentdfh3ec4nw4aq4lk5hkjl63vljqscth9gv"
   },
@@ -757,6 +1165,12 @@
     "decimal": 6,
     "path": "juno>osmosis",
     "channel": "channel-169",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-47",
+        "port": "wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn",
+        "denom": "juno1wwnhkagvcd3tjz6f8vsdsw5plqnw8qy2aj3rrhqr2axvktzv9q2qz8jxn3"
+    },
     "image": "juno/bjuno.png",
     "contract": "juno1wwnhkagvcd3tjz6f8vsdsw5plqnw8qy2aj3rrhqr2axvktzv9q2qz8jxn3"
   }
