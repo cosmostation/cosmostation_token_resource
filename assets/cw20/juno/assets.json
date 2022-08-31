@@ -141,5 +141,12 @@
     "symbol": "bJUNO",
     "decimal": 6,
     "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/bjuno.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup",
+    "symbol": "LOOP",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/loop.png"
   }
 ]
