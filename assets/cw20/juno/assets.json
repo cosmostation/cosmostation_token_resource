@@ -124,7 +124,7 @@
   {
     "chain": "juno",
     "contract_address": "juno14lycavan8gvpjn97aapzvwmsj8kyrvf644p05r0hu79namyj3ens87650k",
-    "symbol": "sgnl",
+    "symbol": "SGNL",
     "decimal": 6,
     "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/sgnl.png"
   },
