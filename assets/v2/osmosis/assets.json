@@ -1102,7 +1102,7 @@
     "type": "ibc",
     "base_denom": "dot",
     "base_type": "erc20",
-    "dp_denom": "DOT",
+    "dp_denom": "axlDOT",
     "origin_chain": "ethereum",
     "decimal": 10,
     "path": "moonbeam>axelar>osmosis",
