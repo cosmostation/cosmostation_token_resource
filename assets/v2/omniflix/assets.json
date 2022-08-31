@@ -49,7 +49,7 @@
     "coinGeckoId": "juno-network"
   },
   {
-    "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D ",
+    "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",
     "type": "ibc",
     "base_denom": "uion",
     "base_type": "native",
@@ -68,7 +68,7 @@
     "coinGeckoId": "ion"
   },
   {
-    "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B ",
+    "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
     "type": "ibc",
     "base_denom": "uosmo",
     "base_type": "staking",
@@ -87,7 +87,7 @@
     "coinGeckoId": "osmosis"
   },
   {
-    "denom": "ibc/CC12CFFD769D5E0059D98E760DD34FAB477261785B99240C97F6AABC4F566CB5 ",
+    "denom": "ibc/CC12CFFD769D5E0059D98E760DD34FAB477261785B99240C97F6AABC4F566CB5",
     "type": "ibc",
     "base_denom": "uhuahua",
     "base_type": "staking",
