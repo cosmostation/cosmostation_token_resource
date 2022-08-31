@@ -1056,6 +1056,66 @@
     "image": "ethereum/weth.png",
     "coinGeckoId": "weth",
     "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+  },  
+  {
+    "denom": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049",
+    "type": "ibc",
+    "base_denom": "link",
+    "base_type": "erc20",
+    "dp_denom": "axlLINK",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>axelar>osmosis",
+    "channel": "channel-208",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "link-wei"
+    },
+    "image": "ethereum/link.png",
+    "coinGeckoId": "chainlink",
+    "contract": "0x514910771af9ca656af840dff83e8264ecf986ca"
+  }, 
+  {
+    "denom": "ibc/D27DDDF34BB47E5D5A570742CC667DE53277867116CCCA341F27785E899A70F3",
+    "type": "ibc",
+    "base_denom": "mkr",
+    "base_type": "erc20",
+    "dp_denom": "axlMKR",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>axelar>osmosis",
+    "channel": "channel-208",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "mkr-wei"
+    },
+    "image": "ethereum/mkr.png",
+    "coinGeckoId": "maker",
+    "contract": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
+  }, 
+  {
+    "denom": "ibc/3FF92D26B407FD61AE95D975712A7C319CDE28DE4D80BDC9978D935932B991D7",
+    "type": "ibc",
+    "base_denom": "dot",
+    "base_type": "erc20",
+    "dp_denom": "DOT",
+    "origin_chain": "ethereum",
+    "decimal": 10,
+    "path": "moonbeam>axelar>osmosis",
+    "channel": "channel-208",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "dot-planck"
+    },
+    "image": "ethereum/dot.png",
+    "coinGeckoId": "polkadot",
+    "contract": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080"
   },
   {
     "denom": "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED",
