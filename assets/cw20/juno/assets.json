@@ -148,5 +148,12 @@
     "symbol": "LOOP",
     "decimal": 6,
     "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/loop.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno147t4fd3tny6hws6rha9xs5gah9qa6g7hrjv9tuvv6ce6m25sy39sq6yv52",
+    "symbol": "DRGN",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/drgn.png"
   }
 ]
