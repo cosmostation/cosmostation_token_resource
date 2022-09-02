@@ -8,7 +8,8 @@
     "origin_chain": "injective",
     "decimal": 18,
     "description": "Injective Staking Coin",
-    "image": "common/inj.png"
+    "image": "common/inj.png",
+    "coinGeckoId": "injective-protocol"
   },
   {
     "denom": "ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB",
@@ -20,7 +21,14 @@
     "decimal": 6,
     "path": "chihuahua>injective",
     "channel": "channel-76",
-    "image": "common/huahua.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-12",
+        "port": "transfer",
+        "denom": "uhuahua"
+    },
+    "image": "common/huahua.png",
+    "coinGeckoId": "chihuahua-token"
   },
   {
     "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
@@ -32,7 +40,14 @@
     "decimal": 6,
     "path": "cosmos>injective",
     "channel": "channel-1",
-    "image": "common/atom.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-220",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   },
   {
     "denom": "ibc/16618B7F7AC551F48C057A13F4CA5503693FBFF507719A85BC6876B8BD75F821",
@@ -44,7 +59,14 @@
     "decimal": 18,
     "path": "evmos>injective",
     "channel": "channel-83",
-    "image": "common/evmos.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-10",
+        "port": "transfer",
+        "denom": "aevmos"
+    },
+    "image": "common/evmos.png",
+    "coinGeckoId": "evmos"
   },
   {
     "denom": "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
@@ -56,7 +78,14 @@
     "decimal": 6,
     "path": "persistence>injective",
     "channel": "channel-82",
-    "image": "common/xprt.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-41",
+        "port": "transfer",
+        "denom": "uxprt"
+    },
+    "image": "common/xprt.png",
+    "coinGeckoId": "persistence"
   },
   {
     "denom": "ibc/624BA9DD171915A2B9EA70F69638B2CEA179959850C1A586F6C485498F29EDD4",
@@ -68,7 +97,14 @@
     "decimal": 10,
     "path": "polkadot>axelar>injective",
     "channel": "channel-84",
-    "image": "common/dot.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-10",
+        "port": "transfer",
+        "denom": "dot"
+    },
+    "image": "common/dot.png",
+    "coinGeckoId": "polkadot"
   },
   {
     "denom": "peggy0x8d983cb9388eac77af0474fa441c4815500cb7bb",
@@ -80,6 +116,7 @@
     "decimal": 6,
     "path": "cosmos>ethereum>injective",
     "image": "ethereum/atom.png",
+    "coinGeckoId": "cosmos",
     "contract": "0x8d983cb9388eac77af0474fa441c4815500cb7bb"
   },
   {
@@ -92,6 +129,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/inj.png",
+    "coinGeckoId": "inj",
     "contract": "0xe28b3b32b6c345a34ff64674606124dd5aceca30"
   },
   {
@@ -104,6 +142,7 @@
     "decimal": 6,
     "path": "ethereum>injective",
     "image": "ethereum/luna.png",
+    "coinGeckoId": "terra-luna",
     "contract": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9"
   },
   {
@@ -116,6 +155,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/ust.png",
+    "coinGeckoId": "terrausd",
     "contract": "0xa47c8bf37f92abed4a126bda807a7b7498661acd"
   },
   {
@@ -128,6 +168,7 @@
     "decimal": 4,
     "path": "ethereum>injective",
     "image": "ethereum/cel.png",
+    "coinGeckoId": "celsius-degree-token",
     "contract": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"
   },
   {
@@ -140,6 +181,7 @@
     "decimal": 6,
     "path": "ethereum>injective",
     "image": "ethereum/usdt.png",
+    "coinGeckoId": "tether",
     "contract": "0xdac17f958d2ee523a2206206994597c13d831ec7"
   },
   {
@@ -152,6 +194,7 @@
     "decimal": 6,
     "path": "ethereum>injective",
     "image": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin",
     "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
   {
@@ -164,6 +207,7 @@
     "decimal": 18,
     "path": "bnb-beacon-chain>ethereum>injective",
     "image": "bnb-beacon-chain/bnb.png",
+    "coinGeckoId": "binancecoin",
     "contract": "0xb8c77482e45f1f44de1745f52c74426c631bdd52"
   },
   {
@@ -188,6 +232,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/utk.png",
+    "coinGeckoId": "utrust",
     "contract": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c"
   },
   {
@@ -200,6 +245,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/grt.png",
+    "coinGeckoId": "the-graph",
     "contract": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
   },
   {
@@ -212,6 +258,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/stars.png",
+    "coinGeckoId": "mogul-productions",
     "contract": "0xc55c2175e90a46602fd42e931f62b3acc1a013ca"
   },
   {
@@ -236,6 +283,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/noia.png",
+    "coinGeckoId": "noia-network",
     "contract": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca"
   },
   {
@@ -248,6 +296,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/enj.png",
+    "coinGeckoId": "enjincoin",
     "contract": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
   },
   {
@@ -260,6 +309,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/zrx.png",
+    "coinGeckoId": "0x",
     "contract": "0xe41d2489571d322189246dafa5ebde1f4699f498"
   },
   {
@@ -272,6 +322,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/swap.png",
+    "coinGeckoId": "trustswap",
     "contract": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe"
   },
   {
@@ -284,6 +335,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/weth.png",
+    "coinGeckoId": "weth",
     "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
   },
   {
@@ -296,6 +348,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/snx.png",
+    "coinGeckoId": "havven",
     "contract": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
   },
   {
@@ -308,6 +361,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/axs.png",
+    "coinGeckoId": "axie-infinity",
     "contract": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b"
   },
   {
@@ -320,6 +374,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/nexo.png",
+    "coinGeckoId": "nexo",
     "contract": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
   },
   {
@@ -332,6 +387,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/gf.png",
+    "coinGeckoId": "guildfi",
     "contract": "0xaaef88cea01475125522e117bfe45cf32044e238"
   },
   {
@@ -344,6 +400,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/ocean.png",
+    "coinGeckoId": "ocean-protocol",
     "contract": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
   },
   {
@@ -356,6 +413,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/shib.png",
+    "coinGeckoId": "shiba-inu",
     "contract": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
   },
   {
@@ -368,6 +426,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/aave.png",
+    "coinGeckoId": "aave",
     "contract": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
   },
   {
@@ -380,6 +439,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/matic.png",
+    "coinGeckoId": "matic-network",
     "contract": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
   },
   {
@@ -392,6 +452,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/ht.png",
+    "coinGeckoId": "huobi-token",
     "contract": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
   },
   {
@@ -404,6 +465,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/sushi.png",
+    "coinGeckoId": "sushi",
     "contract": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
   },
   {
@@ -416,6 +478,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/dai.png",
+    "coinGeckoId": "dai",
     "contract": "0x6b175474e89094c44da98b954eedeac495271d0f"
   },
   {
@@ -428,6 +491,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/link.png",
+    "coinGeckoId": "chainlink",
     "contract": "0x514910771af9ca656af840dff83e8264ecf986ca"
   },
   {
@@ -437,7 +501,7 @@
     "base_type": "erc20",
     "dp_denom": "EVAI",
     "origin_chain": "ethereum",
-    "decimal": 18,
+    "decimal": 8,
     "path": "ethereum>injective",
     "image": "ethereum/evai.png",
     "contract": "0x50f09629d0afdf40398a3f317cc676ca9132055c"
@@ -452,6 +516,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/qnt.png",
+    "coinGeckoId": "quant-network",
     "contract": "0x4a220e6096b25eadb88358cb44068a3248254675"
   },
   {
@@ -464,6 +529,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/busd.png",
+    "coinGeckoId": "binance-usd",
     "contract": "0x4fabb145d64652a948d72533023f6e7a623c7c53"
   },
   {
@@ -476,6 +542,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/ftm.png",
+    "coinGeckoId": "fantom",
     "contract": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
   },
   {
@@ -488,6 +555,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/paxg.png",
+    "coinGeckoId": "pax-gold",
     "contract": "0x45804880de22913dafe09f4980848ece6ecbaf78"
   },
   {
@@ -500,6 +568,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/chz.png",
+    "coinGeckoId": "chiliz",
     "contract": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
   },
   {
@@ -512,6 +581,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/rune.png",
+    "coinGeckoId": "thorchain",
     "contract": "0x3155ba85d5f96b2d030a4966af206230e46849cb"
   },
   {
@@ -521,9 +591,10 @@
     "base_type": "erc20",
     "dp_denom": "WBTC",
     "origin_chain": "ethereum",
-    "decimal": 18,
+    "decimal": 8,
     "path": "ethereum>injective",
     "image": "ethereum/wbtc.png",
+    "coinGeckoId": "wrapped-bitcoin",
     "contract": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
   },
   {
@@ -536,6 +607,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/uni.png",
+    "coinGeckoId": "uniswap",
     "contract": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
   },
   {
@@ -548,6 +620,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/uma.png",
+    "coinGeckoId": "uma",
     "contract": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828"
   },
   {
@@ -560,6 +633,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/bat.png",
+    "coinGeckoId": "basic-attention-token",
     "contract": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
   },
   {
@@ -572,6 +646,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/pool.png",
+    "coinGeckoId": "pooltogether",
     "contract": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e"
   },
   {
@@ -584,6 +659,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/1inch.png",
+    "coinGeckoId": "1inch",
     "contract": "0x111111111117dc0aa78b770fa6a738034120c302"
   },
   {
@@ -596,6 +672,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/yfi.png",
+    "coinGeckoId": "yearn-finance",
     "contract": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
   },
   {
@@ -608,6 +685,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/comp.png",
+    "coinGeckoId": "compound-governance-token",
     "contract": "0xc00e94cb662c3520282e6f5717214004a7f26888"
   },
   {
@@ -620,6 +698,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/cell.png",
+    "coinGeckoId": "cellframe",
     "contract": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099"
   },
   {
@@ -644,6 +723,7 @@
     "decimal": 8,
     "path": "ethereum>injective",
     "image": "ethereum/xac.png",
+    "coinGeckoId": "general-attention-currency",
     "contract": "0xde4c5a791913838027a2185709e98c5c6027ea63"
   },
   {
@@ -656,6 +736,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/dydx.png",
+    "coinGeckoId": "dydx",
     "contract": "0x92D6C1e31e14520e676a687F0a93788B716BEff5"
   },
   {
@@ -668,6 +749,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/ape.png",
+    "coinGeckoId": "apecoin",
     "contract": "0x4d224452801ACEd8B2F0aebE155379bb5D594381"
   },
   {
@@ -680,6 +762,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/steth.png",
+    "coinGeckoId": "staked-ether",
     "contract": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
   },
   {
@@ -692,6 +775,7 @@
     "decimal": 18,
     "path": "ethereum>injective",
     "image": "ethereum/lym.png",
+    "coinGeckoId": "lympo",
     "contract": "0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5"
   }
 ]

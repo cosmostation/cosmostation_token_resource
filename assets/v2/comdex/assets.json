@@ -8,7 +8,8 @@
     "origin_chain": "comdex",
     "decimal": 6,
     "description": "Comdex Staking Coin",
-    "image": "common/cmdx.png"
+    "image": "common/cmdx.png",
+    "coinGeckoId": "comdex"
   },
   {
     "denom": "ibc/167E3D88D71B7D2F6308D3EF93FC3DD51932B2D9672D72B71418F61CBC5F5717",
@@ -20,7 +21,13 @@
     "decimal": 6,
     "path": "juno>comdex",
     "channel": "channel-18",
-    "image": "common/juno.png"
+    "counter_party": {
+        "channel": "channel-36",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
   },
   {
     "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
@@ -32,7 +39,13 @@
     "decimal": 6,
     "path": "osmosis>comdex",
     "channel": "channel-1",
-    "image": "common/osmo.png"
+    "counter_party": {
+        "channel": "channel-87",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",
@@ -44,6 +57,12 @@
     "decimal": 6,
     "path": "osmosis>comdex",
     "channel": "channel-1",
-    "image": "common/ion.png"
+    "counter_party": {
+        "channel": "channel-87",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   }
 ]

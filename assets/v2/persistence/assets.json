@@ -8,7 +8,8 @@
     "origin_chain": "persistence",
     "decimal": 6,
     "description": "Persistence Staking Coin",
-    "image": "common/xprt.png"
+    "image": "common/xprt.png",
+    "coinGeckoId": "persistence"
   },
   {
     "denom": "ibc/A6E3AF63B3C906416A9AF7A556C59EA4BD50E617EFFE6299B99700CCB780E444",
@@ -20,7 +21,14 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge>persistence",
     "channel": "channel-38",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-24",
+        "port": "transfer",
+        "denom": "gravity0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
+    },
     "image": "ethereum/pstake.png",
+    "coinGeckoId": "pstake-finance",
     "contract": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
   },
   {
@@ -33,7 +41,13 @@
     "decimal": 6,
     "path": "osmosis>persistence",
     "channel": "channel-6",
-    "image": "osmosis/ion.png"
+    "counter_party": {
+        "channel": "channel-4",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/646315E3B0461F5FA4C5C8968A88FC45D4D5D04A45B98F1B8294DD82F386DD85",
@@ -45,7 +59,13 @@
     "decimal": 6,
     "path": "osmosis>persistence",
     "channel": "channel-6",
-    "image": "common/osmo.png"
+    "counter_party": {
+        "channel": "channel-4",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/BA51309DEEE69EF9159FADDCD9F566C372157A1F4E559076D201B255C27F484A",
@@ -57,19 +77,31 @@
     "decimal": 18,
     "path": "sifchain>persistence",
     "channel": "channel-26",
-    "image": "common/rowan.png"
+    "counter_party": {
+        "channel": "channel-7",
+        "port": "transfer",
+        "denom": "rowan"
+    },
+    "image": "common/rowan.png",
+    "coinGeckoId": "sifchain"
   },
   {
     "denom": "ibc/CA687302422C075B26948BEC7143F6D47BACAB53421D57DF30741F91D4DFCA1F",
     "type": "ibc",
-    "base_denom": "juno",
+    "base_denom": "ujuno",
     "base_type": "staking",
     "dp_denom": "JUNO",
     "origin_chain": "juno",
     "decimal": 6,
     "path": "juno>persistence",
     "channel": "channel-37",
-    "image": "common/juno.png"
+    "counter_party": {
+        "channel": "channel-33",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
   },
   {
     "denom": "ibc/31D711D31CD5D83D98E76B1486EEDA1A38CD1F7D6FCBD03521FE51323115AECA",
@@ -81,6 +113,12 @@
     "decimal": 6,
     "path": "gravity-bridge>persistence",
     "channel": "channel-38",
-    "image": "common/grav.png"
+    "counter_party": {
+        "channel": "channel-24",
+        "port": "transfer",
+        "denom": "ugraviton"
+    },
+    "image": "common/grav.png",
+    "coinGeckoId": "graviton"
   }
 ]

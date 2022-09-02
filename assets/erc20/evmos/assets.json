@@ -43,5 +43,22 @@
     "decimals": 6,
     "logoURI": "ethereum/usdt.png",
     "coinGeckoId": "tether"
+  },
+  {
+    "chainId": 9001,
+    "address": "0x75aeE82a16BD1fB98b11879af93AB7CE055f66Da",
+    "name": "xDiffusion",
+    "symbol": "xDIFF",
+    "decimals": 18,
+    "logoURI": "ethereum/xdiff.png"
+  },
+  {
+    "chainId": 9001,
+    "address": "0x3f75ceabCDfed1aCa03257Dc6Bdc0408E2b4b026",
+    "name": "Diffusion",
+    "symbol": "DIFF",
+    "decimals": 18,
+    "logoURI": "ethereum/diff.png",
+    "coinGeckoId": "diffusion"
   }
 ]

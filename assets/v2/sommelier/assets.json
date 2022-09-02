@@ -1,0 +1,14 @@
+[
+  {
+    "denom": "usomm",
+    "type": "staking",
+    "base_denom": "usomm",
+    "base_type": "staking",
+    "dp_denom": "SOMM",
+    "origin_chain": "sommelier",
+    "decimal": 6,
+    "description": "Sommelier Staking Coin",
+    "image": "common/somm.png",
+    "coinGeckoId": "sommelier"
+  }
+]

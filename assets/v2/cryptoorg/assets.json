@@ -8,7 +8,8 @@
     "origin_chain": "cryptoorg",
     "decimal": 8,
     "description": "Cronos",
-    "image": "common/cro.png"
+    "image": "common/cro.png",
+    "coinGeckoId": "crypto-com-chain"
   },
   {
     "denom": "ibc/67E8B26BE190FB3F191DA72D6A390DB7DFA6E92C99CB37644DECBEBD2A075C41",
@@ -20,7 +21,14 @@
     "decimal": 18,
     "path": "sifchain>cryptoorg",
     "channel": "channel-33",
-    "image": "common/rowan.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-9",
+        "port": "transfer",
+        "denom": "rowan"
+    },
+    "image": "common/rowan.png",
+    "coinGeckoId": "sifchain"
   },
   {
     "denom": "ibc/B5919B1B65A79F595F71D2E8306FD1FB70B969A268230E745A6DBE86F1060D58",
@@ -32,7 +40,14 @@
     "decimal": 6,
     "path": "cosmos>cryptoorg",
     "channel": "channel-27",
-    "image": "common/atom.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-187",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   },
   {
     "denom": "ibc/0433997003A2CFE10E483B93743BEC37F2F13B89854FD69599482E6DB8E6CE22",
@@ -44,7 +59,14 @@
     "decimal": 6,
     "path": "osmosis>cryptoorg",
     "channel": "channel-10",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-5",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
@@ -56,6 +78,13 @@
     "decimal": 6,
     "path": "osmosis>cryptoorg",
     "channel": "channel-10",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-5",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   }
 ]

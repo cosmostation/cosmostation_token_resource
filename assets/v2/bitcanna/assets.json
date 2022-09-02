@@ -8,7 +8,8 @@
     "origin_chain": "bitcanna",
     "decimal": 6,
     "description": "Bitcanna Staking Coin",
-    "image": "common/bcna.png"
+    "image": "common/bcna.png",
+    "coinGeckoId": "bitcanna"
   },
   {
     "denom": "ibc/8D9262E35CAE362FA74AE05E430550757CF8D842EC1B241F645D3CB7179AFD10",
@@ -20,7 +21,14 @@
     "decimal": 6,
     "path": "juno>bitcanna",
     "channel": "channel-10",
-    "image": "common/juno.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-50",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
   },
   {
     "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
@@ -32,7 +40,14 @@
     "decimal": 6,
     "path": "osmosis>bitcanna",
     "channel": "channel-1",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-51",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",
@@ -44,7 +59,14 @@
     "decimal": 6,
     "path": "osmosis>bitcanna",
     "channel": "channel-1",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-51",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/A4DB47A9D3CF9A068D454513891B526702455D3EF08FB9EB558C561F9DC2B701",
@@ -56,6 +78,13 @@
     "decimal": 6,
     "path": "cosmos>bitcanna",
     "channel": "channel-3",
-    "image": "common/atom.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-232",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   }
 ]

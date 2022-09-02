@@ -8,7 +8,8 @@
     "origin_chain": "gravity-bridge",
     "decimal": 6,
     "description": "Gravity-bridge Staking Coin",
-    "image": "common/grav.png"
+    "image": "common/grav.png",
+    "coinGeckoId": "graviton"
   },
   {
     "denom": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
@@ -20,7 +21,14 @@
     "decimal": 6,
     "path": "osmosis>gravity-bridge",
     "channel": "channel-10",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-144",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/0433997003A2CFE10E483B93743BEC37F2F13B89854FD69599482E6DB8E6CE22",
@@ -32,7 +40,14 @@
     "decimal": 6,
     "path": "osmosis>gravity-bridge",
     "channel": "channel-10",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-144",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/2E5D0AC026AC1AFA65A23023BA4F24BB8DDF94F118EDC0BAD6F625BFC557CDED",
@@ -44,7 +59,14 @@
     "decimal": 6,
     "path": "cosmos>gravity-bridge",
     "channel": "channel-17",
-    "image": "common/atom.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-281",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   },
   {
     "denom": "ibc/0C273962C274B2C05B22D9474BFE5B84D6A6FCAD198CB9B0ACD35EA521A36606",
@@ -56,6 +78,12 @@
     "decimal": 6,
     "path": "nyx>gravity-bridge",
     "channel": "channel-18",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "unym"
+    },
     "image": "nyx/nym.png"
   },
   {
@@ -68,7 +96,14 @@
     "decimal": 6,
     "path": "persistence>gravity-bridge",
     "channel": "channel-24",
-    "image": "common/xprt.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-38",
+        "port": "transfer",
+        "denom": "uxprt"
+    },
+    "image": "common/xprt.png",
+    "coinGeckoId": "persistence"
   },
   {
     "denom": "ibc/048BE20AE2E6BFD4142C547E04F17E5F94363003A12B7B6C084E08101BFCF7D1",
@@ -80,7 +115,14 @@
     "decimal": 6,
     "path": "chihuahua>gravity-bridge",
     "channel": "channel-34",
-    "image": "common/huahua.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-15",
+        "port": "transfer",
+        "denom": "uhuahua"
+    },
+    "image": "common/huahua.png",
+    "coinGeckoId": "chihuahua-token"
   },
   {
     "denom": "ibc/5012B1C96F286E8A6604A87037CE51241C6F1CA195B71D1E261FCACB69FB6BC2",
@@ -92,7 +134,14 @@
     "decimal": 8,
     "path": "cheqd>gravity-bridge",
     "channel": "channel-43",
-    "image": "common/cheq.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-2",
+        "port": "transfer",
+        "denom": "ncheq"
+    },
+    "image": "common/cheq.png",
+    "coinGeckoId": "cheqd-network"
   },
   {
     "denom": "ibc/3D5109BC236E6BD75F90CC03A5B7AA360FF3CB3F535B662227CEE78E83477AD9",
@@ -104,7 +153,14 @@
     "decimal": 6,
     "path": "iris>gravity-bridge",
     "channel": "channel-47",
-    "image": "common/iris.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-29",
+        "port": "transfer",
+        "denom": "uiris"
+    },
+    "image": "common/iris.png",
+    "coinGeckoId": "iris-network"
   },
   {
     "denom": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
@@ -116,7 +172,14 @@
     "decimal": 6,
     "path": "stargaze>gravity-bridge",
     "channel": "channel-7",
-    "image": "common/stars.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-6",
+        "port": "transfer",
+        "denom": "ustars"
+    },
+    "image": "common/stars.png",
+    "coinGeckoId": "stargaze"
   },
   {
     "denom": "ibc/7907EA1A11FD4FC2A815FCAA54948C42F08E3F3C874EE48861386286FEB80160",
@@ -128,7 +191,14 @@
     "decimal": 6,
     "path": "secret>gravity-bridge",
     "channel": "channel-79",
-    "image": "common/scrt.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-17",
+        "port": "transfer",
+        "denom": "uscrt"
+    },
+    "image": "common/scrt.png",
+    "coinGeckoId": "secret"
   },
   {
     "denom": "ibc/4CD51DA94425EB1C8D1983832E46F410528DB2AAFBFC0C646845DAC2DB7D97AE",
@@ -140,7 +210,14 @@
     "decimal": 6,
     "path": "crescent>gravity-bridge",
     "channel": "channel-62",
-    "image": "common/cre.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-2",
+        "port": "transfer",
+        "denom": "ucre"
+    },
+    "image": "common/cre.png",
+    "coinGeckoId": "crescent-network"
   },
   {
     "denom": "ibc/5AEBA89C7BEEF2C56EE23AC2138661C2EE7AB33C48CDE4C3C1E2E3218C4A2C41",
@@ -152,7 +229,14 @@
     "decimal": 6,
     "path": "crescent>gravity-bridge",
     "channel": "channel-62",
-    "image": "common/bcre.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-2",
+        "port": "transfer",
+        "denom": "ubcre"
+    },
+    "image": "crescent/bcre.png",
+    "coinGeckoId": "liquid-staking-crescent"
   },
   {
     "denom": "gravity0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
@@ -164,6 +248,7 @@
     "decimal": 8,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/wbtc.png",
+    "coinGeckoId": "wrapped-bitcoin",
     "contract": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
   },
   {
@@ -176,6 +261,7 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/weth.png",
+    "coinGeckoId": "weth",
     "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
   },
   {
@@ -188,6 +274,7 @@
     "decimal": 6,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin",
     "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
   {
@@ -200,6 +287,7 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/dai.png",
+    "coinGeckoId": "dai",
     "contract": "0x6b175474e89094c44da98b954eedeac495271d0f"
   },
   {
@@ -212,6 +300,7 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/uni.png",
+    "coinGeckoId": "uniswap",
     "contract": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
   },
   {
@@ -224,6 +313,7 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/paxg.png",
+    "coinGeckoId": "pax-gold",
     "contract": "0x45804880de22913dafe09f4980848ece6ecbaf78"
   },
   {
@@ -236,6 +326,7 @@
     "decimal": 8,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/storj.png",
+    "coinGeckoId": "storj",
     "contract": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac"
   },
   {
@@ -248,6 +339,7 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/steth.png",
+    "coinGeckoId": "staked-ether",
     "contract": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
   },
   {
@@ -260,6 +352,7 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/pstake.png",
+    "coinGeckoId": "pstake-finance",
     "contract": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
   },
   {
@@ -272,6 +365,7 @@
     "decimal": 6,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/usdt.png",
+    "coinGeckoId": "tether",
     "contract": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
   },
   {
@@ -284,6 +378,7 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/stketh.png",
+    "coinGeckoId": "pstake-staked-eth",
     "contract": "0x2C5Bcad9Ade17428874855913Def0A02D8bE2324"
   },
   {
@@ -296,6 +391,7 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/sd.png",
+    "coinGeckoId": "stader",
     "contract": "0x30D20208d987713f46DFD34EF128Bb16C404D10f"
   },
   {
@@ -308,6 +404,7 @@
     "decimal": 8,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/page.png",
+    "coinGeckoId": "page",
     "contract": "0x60e683C6514Edd5F758A55b6f393BeBBAfaA8d5e"
   },
   {
@@ -320,6 +417,7 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge",
     "image": "ethereum/frax.png",
+    "coinGeckoId": "frax",
     "contract": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
   }
 ]

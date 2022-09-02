@@ -8,7 +8,8 @@
     "origin_chain": "band",
     "decimal": 6,
     "description": "BAND Staking Coin",
-    "image": "common/band.png"
+    "image": "common/band.png",
+    "coinGeckoId": "band-protocol"
   },
   {
     "denom": "ibc/1005CD468908E4EB83A7E3D4A68E90128D073E3A85611B8B424320F306C508E1",
@@ -20,7 +21,14 @@
     "decimal": 6,
     "path": "osmosis>band",
     "channel": "channel-83",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-148",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/6B8531505147C9FF2AC90BC096AEC5D8E77EE3582874640FA5FE4E4FB382D2AC",
@@ -32,6 +40,13 @@
     "decimal": 6,
     "path": "osmosis>band",
     "channel": "channel-83",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-148",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   }
 ]
