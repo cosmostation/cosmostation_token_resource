@@ -30,7 +30,7 @@
     "dp_denom": "GRAV",
     "origin_chain": "gravity-bridge",
     "decimal": 6,
-    "description": "gravity-bridge>nyx",
+    "path": "gravity-bridge>nyx",
     "channel": "channel-0",
     "port": "transfer",
     "counter_party": {
