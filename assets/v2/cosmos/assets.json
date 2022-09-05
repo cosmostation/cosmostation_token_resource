@@ -450,7 +450,7 @@
     "dp_denom": "LIKE",
     "origin_chain": "likecoin",
     "decimal": 9,
-    "path": "like>cosmos",
+    "path": "likecoin>cosmos",
     "channel": "channel-217",
     "port": "transfer",
     "counter_party": {
