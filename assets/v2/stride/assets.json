@@ -1,0 +1,13 @@
+[
+  {
+    "denom": "ustrd",
+    "type": "staking",
+    "base_denom": "ustrd",
+    "base_type": "staking",
+    "dp_denom": "STRD",
+    "origin_chain": "stride",
+    "decimal": 6,
+    "description": "Stride Staking Coin",
+    "image": "common/strd.png"
+  }
+]
