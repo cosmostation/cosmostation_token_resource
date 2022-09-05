@@ -1103,7 +1103,7 @@
     "base_denom": "dot",
     "base_type": "erc20",
     "dp_denom": "axlDOT",
-    "origin_chain": "ethereum",
+    "origin_chain": "moonbeam",
     "decimal": 10,
     "path": "moonbeam>axelar>osmosis",
     "channel": "channel-208",
@@ -1113,8 +1113,8 @@
         "port": "transfer",
         "denom": "dot-planck"
     },
-    "image": "ethereum/dot.png",
-    "coinGeckoId": "polkadot",
+    "image": "moonbeam/xcdot.png",
+    "coinGeckoId": "xcdot",
     "contract": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080"
   },
   {
