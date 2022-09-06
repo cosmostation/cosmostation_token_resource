@@ -18,7 +18,7 @@
     "dp_denom": "stATOM",
     "origin_chain": "stride",
     "decimal": 6,
-    "description": "Stride Liquidated Atom",
+    "description": "Stride Staked Atom",
     "image": "stride/statom.png",
     "coinGeckoId": "stride-staked-atom"
   },
