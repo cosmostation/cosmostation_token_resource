@@ -155,5 +155,12 @@
     "symbol": "DRGN",
     "decimal": 6,
     "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/drgn.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf",
+    "symbol": "SEASY",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/seasy.png"
   }
 ]
