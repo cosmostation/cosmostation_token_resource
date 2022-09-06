@@ -127,7 +127,7 @@
     {
         "title": "DropStation(GNO)",
         "description": "Airdrop aggregator for CØSMONAUTS.",
-        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/stamper/logo_256x256.png",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/dropstation.png",
         "url": "https://dapps.cosmostation.io/airdrop",
         "chain": "cosmos",
         "badge": "AGG",
