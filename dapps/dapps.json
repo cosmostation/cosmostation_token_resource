@@ -1,0 +1,141 @@
+[
+    {
+        "title": "Cosmjs Example",
+        "description": "Cosmostation Dapp Cosmjs Example",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/stamper/logo_256x256.png",
+        "url": "https://cosmjs-example.dev.cosmostation.io",
+        "chain": "station",
+        "badge": "EXAMPLE",
+        "links": {
+            "webSite": "https://cosmostation.io",
+            "github": "https://github.com/cosmostation",
+            "twitter": "https://twitter.com/cosmostationvd",
+            "medium": "https://medium.com/cosmostation"
+        }
+    },
+    {
+        "title": "Crescent",
+        "description": "Swap, earn, and stake on a capital-efficient AMM/orderbook hybrid DEX.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/crescent.png",
+        "url": "https://app.crescent.network",
+        "chain": "crescent",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://crescent.network",
+            "github": "https://github.com/crescent-network",
+            "twitter": "https://twitter.com/CrescentHub",
+            "medium": "https://crescentnetwork.medium.com"
+        }
+    },
+    {
+        "title": "Kava",
+        "description": "Swap, mint, lend and earn on Kava, a lightning-fast Layer-1 blockchain that combines Cosmos & Ethereum.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/kava.png",
+        "url": "https://app.kava.io",
+        "chain": "kava",
+        "os": ["ios", "android", "chrome"],
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://kava.io",
+            "github": "https://github.com/Kava-Labs",
+            "twitter": "https://twitter.com/kava_platform",
+            "medium": "https://medium.com/kava-labs"
+        }
+    },
+    {
+        "title": "Diffusion",
+        "description": "Swap, earn, bridge, and stake on Diffusion, an AMM protocol and liquidity pool designed for efficient trading between crypto-assets.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/diffusion.png",
+        "url": "https://app.diffusion.fi/",
+        "chain": "evmos",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://diffusion.fi",
+            "github": "https://github.com/diffusion-fi",
+            "twitter": "https://twitter.com/diffusion_fi",
+            "medium": "https://medium.com/@diffusion_fi"
+        }
+    },
+    {
+        "title": "Spacefi",
+        "description": "Swap on a cross-chain web3 DEX platform connecting Cosmos and Layer2.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/spacefi.png",
+        "url": "https://swap-evmos.spacefi.io",
+        "chain": "evmos",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://www.spacefi.io",
+            "twitter": "https://twitter.com/spacefi_io",
+            "medium": "https://space-finance.medium.com"
+        }
+    },
+    {
+        "title": "Osmosis",
+        "description": "Swap, provide, and earn on the leading decentralized AMM.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/osmosis.png",
+        "url": "https://app.osmosis.zone",
+        "chain": "osmosis",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://osmosis.zone",
+            "github": "https://github.com/osmosis-labs",
+            "twitter": "https://twitter.com/osmosiszone",
+            "medium": "https://medium.com/osmosis"
+        }
+    },
+    {
+        "title": "Osmosis Frontier",
+        "description": "Swap, provide, and earn on the permissionless decentralized AMM.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/osmosis-frontier.png",
+        "url": "https://frontier.osmosis.zone",
+        "chain": "osmosis",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://osmosis.zone",
+            "github": "https://github.com/osmosis-labs",
+            "twitter": "https://twitter.com/osmosiszone",
+            "medium": "https://medium.com/osmosis"
+        }
+    },
+    {
+        "title": "Coinhall",
+        "description": "Realtime Charts, DEX Aggregator & Analytics.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/coinhall.png",
+        "url": "https://coinhall.org",
+        "chain": "juno",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://coinhall.org",
+            "twitter": "https://t.me/coinhall_org",
+            "medium": "https://medium.com/@Coinhall"
+        }
+    },
+    {
+        "title": "Racoon.bet",
+        "description": "Gaming platform offering fully integrated on-chain games within the Cosmos Ecosystem.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/racoon-bet.png",
+        "url": "https://www.racoon.bet",
+        "chain": "juno",
+        "badge": "Gaming",
+        "links": {
+            "webSite": "https://www.racoon.bet",
+            "github": "https://github.com/racoon-supply-rac",
+            "twitter": "https://twitter.com/RacoonSupply",
+            "medium": "https://medium.com/@racoon-supply"
+        }
+    },
+    {
+        "title": "DropStation(GNO)",
+        "description": "Airdrop aggregator for CØSMONAUTS.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/dropstation.png",
+        "url": "https://dapps.cosmostation.io/airdrop",
+        "chain": "cosmos",
+        "badge": "AGG",
+        "links": {
+            "webSite": "https://cosmostation.io",
+            "github": "https://github.com/cosmostation",
+            "twitter": "https://twitter.com/cosmostationvd",
+            "medium": "https://medium.com/cosmostation"
+        }
+    }
+]

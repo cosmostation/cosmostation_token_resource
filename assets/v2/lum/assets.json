@@ -8,7 +8,27 @@
     "origin_chain": "lum",
     "decimal": 6,
     "description": "Lum Staking Coin",
-    "image": "common/lum.png"
+    "image": "common/lum.png",
+    "coinGeckoId": "lum-network"
+  },
+  {
+    "denom": "ibc/6CDA7F7E4DDB86FD275A986E78F13DF2FC500E3FEC2149E2215061FA51BB8C5D",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>lum",
+    "channel": "channel-3",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-115",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
@@ -18,8 +38,15 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>lum",
+    "path": "osmosis>lum",
     "channel": "channel-3",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-115",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   }
 ]

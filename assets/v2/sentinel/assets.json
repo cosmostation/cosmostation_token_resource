@@ -8,7 +8,8 @@
     "origin_chain": "sentinel",
     "decimal": 6,
     "description": "Sentinel Staking Coin",
-    "image": "common/dvpn.png"
+    "image": "common/dvpn.png",
+    "coinGeckoId": "sentinel"
   },
   {
     "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
@@ -18,9 +19,16 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>sentinel",
+    "path": "cosmos>sentinel",
     "channel": "channel-12",
-    "image": "common/atom.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-186",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   },
   {
     "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
@@ -30,21 +38,35 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>sentinel",
+    "path": "osmosis>sentinel",
     "channel": "channel-0",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-2",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
     "type": "ibc",
     "base_denom": "uion",
-    "base_type": "staking",
+    "base_type": "native",
     "dp_denom": "ION",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>sentinel",
+    "path": "osmosis>sentinel",
     "channel": "channel-0",
-    "image": "common/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-2",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/31FEE1A2A9F9C01113F90BD0BBCCE8FD6BBB8585FAF109A2101827DD1D5B95B8",
@@ -54,8 +76,34 @@
     "dp_denom": "SCRT",
     "origin_chain": "secret",
     "decimal": 6,
-    "description": "secret>sentinel",
+    "path": "secret>sentinel",
     "channel": "channel-50",
-    "image": "common/scrt.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "uscrt"
+    },
+    "image": "common/scrt.png",
+    "coinGeckoId": "secret"
+  },
+  {
+    "denom": "ibc/B1C0DDB14F25279A2026BC8794E12B259F8BDA546A3C5132CCAEE4431CE36783",
+    "type": "ibc",
+    "base_denom": "udec",
+    "base_type": "staking",
+    "dp_denom": "DEC",
+    "origin_chain": "decentr",
+    "decimal": 6,
+    "path": "decentr>sentinel",
+    "channel": "channel-55",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-4",
+        "port": "transfer",
+        "denom": "udec"
+    },
+    "image": "common/dec.png",
+    "coinGeckoId": "decentr"
   }
 ]

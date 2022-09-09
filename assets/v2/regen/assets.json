@@ -8,7 +8,8 @@
     "origin_chain": "regen",
     "decimal": 6,
     "description": "Regen Staking Coin",
-    "image": "common/regen.png"
+    "image": "common/regen.png",
+    "coinGeckoId": "regen"
   },
   {
     "denom": "ibc/5FEB332D2B121921C792F1A0DBF7C3163FF205337B4AFE6E14F69E8E49545F49",
@@ -18,9 +19,35 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>regen",
+    "path": "cosmos>regen",
     "channel": "channel-11",
-    "image": "common/atom.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-185",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>regen",
+    "channel": "channel-1",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-132",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
@@ -30,8 +57,15 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>regen",
+    "path": "osmosis>regen",
     "channel": "channel-1",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-132",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   }
 ]

@@ -8,6 +8,7 @@
     "origin_chain": "provenance",
     "decimal": 9,
     "description": "Provenance Staking Coin",
-    "image": "common/hash.svg"
+    "image": "common/hash.png",
+    "coinGeckoId": "provenance-blockchain"
   }
 ]

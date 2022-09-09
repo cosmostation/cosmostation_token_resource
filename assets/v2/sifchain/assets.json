@@ -8,7 +8,8 @@
     "origin_chain": "sifchain",
     "decimal": 18,
     "description": "Sifchain Staking Coin",
-    "image": "common/rowan.png"
+    "image": "common/rowan.png",
+    "coinGeckoId": "sifchain"
   },
   {
     "denom": "ibc/21CB41565FCA19AB6613EE06B0D56E588E0DC3E53FF94BA499BB9635794A1A35",
@@ -18,9 +19,16 @@
     "dp_denom": "DVPN",
     "origin_chain": "sentinel",
     "decimal": 6,
-    "description": "sentinel>sifchain",
+    "path": "sentinel>sifchain",
     "channel": "channel-1",
-    "image": "common/dvpn.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-36",
+        "port": "transfer",
+        "denom": "udvpn"
+    },
+    "image": "common/dvpn.png",
+    "coinGeckoId": "sentinel"
   },
   {
     "denom": "ibc/6D717BFF5537D129035BAB39F593D638BA258A9F8D86FB7ECCEAB05B6950CC3E",
@@ -30,9 +38,16 @@
     "dp_denom": "AKT",
     "origin_chain": "akash",
     "decimal": 6,
-    "description": "akash>sifchain",
+    "path": "akash>sifchain",
     "channel": "channel-2",
-    "image": "common/akt.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-24",
+        "port": "transfer",
+        "denom": "uakt"
+    },
+    "image": "common/akt.png",
+    "coinGeckoId": "akash-network"
   },
   {
     "denom": "ibc/2CC6F10253D563A7C238096BA63D060F7F356E37D5176E517034B8F730DB4AB6",
@@ -42,9 +57,16 @@
     "dp_denom": "REGEN",
     "origin_chain": "regen",
     "decimal": 6,
-    "description": "regen>sifchain",
+    "path": "regen>sifchain",
     "channel": "channel-10",
-    "image": "common/regen.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-28",
+        "port": "transfer",
+        "denom": "uregen"
+    },
+    "image": "common/regen.png",
+    "coinGeckoId": "regen"
   },
   {
     "denom": "ibc/F20C4E30E4202C11FE009D6D58B2FF212C99084CB6F767287A51A93EFD960086",
@@ -54,9 +76,16 @@
     "dp_denom": "IOV",
     "origin_chain": "starname",
     "decimal": 6,
-    "description": "starname>sifchain",
+    "path": "starname>sifchain",
     "channel": "channel-54",
-    "image": "common/iov.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-18",
+        "port": "transfer",
+        "denom": "uiov"
+    },
+    "image": "common/iov.png",
+    "coinGeckoId": "starname"
   },
   {
     "denom": "ibc/D87BC708A791246AA683D514C273736F07579CBD56C9CA79B7823F9A01C16270",
@@ -66,9 +95,16 @@
     "dp_denom": "XPRT",
     "origin_chain": "persistence",
     "decimal": 6,
-    "description": "persistence>sifchain",
+    "path": "persistence>sifchain",
     "channel": "channel-7",
-    "image": "common/xprt.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-26",
+        "port": "transfer",
+        "denom": "uxprt"
+    },
+    "image": "common/xprt.png",
+    "coinGeckoId": "persistence"
   },
   {
     "denom": "ibc/B4314D0E670CB43C88A5DCA09F76E5E812BD831CC2FEC6E434C9E5A9D1F57953",
@@ -78,9 +114,16 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>sifchain",
+    "path": "osmosis>sifchain",
     "channel": "channel-17",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-47",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/C5C8682EB9AA1313EF1B12C991ADCDA465B80C05733BFB2972E2005E01BCE459",
@@ -90,9 +133,16 @@
     "dp_denom": "IXO",
     "origin_chain": "ixo",
     "decimal": 6,
-    "description": "ixo>sifchain",
+    "path": "ixo>sifchain",
     "channel": "channel-15",
-    "image": "common/ixo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-11",
+        "port": "transfer",
+        "denom": "uixo"
+    },
+    "image": "common/ixo.png",
+    "coinGeckoId": "ixo"
   },
   {
     "denom": "ibc/ACA7D0100794F39DF3FF0C5E31638B24737321C24F32C2C486A24C78DD8F2029",
@@ -102,9 +152,16 @@
     "dp_denom": "NGM",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney>sifchain",
+    "path": "emoney>sifchain",
     "channel": "channel-19",
-    "image": "common/ngm.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-14",
+        "port": "transfer",
+        "denom": "ungm"
+    },
+    "image": "common/ngm.png",
+    "coinGeckoId": "e-money"
   },
   {
     "denom": "ibc/7B8A3357032F3DB000ACFF3B2C9F8E77B932F21004FC93B5A8F77DE24161A573",
@@ -114,9 +171,16 @@
     "dp_denom": "EEUR",
     "origin_chain": "emoney",
     "decimal": 6,
-    "description": "emoney>sifchain",
+    "path": "emoney>sifchain",
     "channel": "channel-19",
-    "image": "emoney/eeur.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-14",
+        "port": "transfer",
+        "denom": "eeur"
+    },
+    "image": "emoney/eeur.png",
+    "coinGeckoId": "e-money-eur"
   },
   {
     "denom": "ibc/F279AB967042CAC10BFF70FAECB179DCE37AAAE4CD4C1BC4565C2BBC383BC0FA",
@@ -126,9 +190,16 @@
     "dp_denom": "JUNO",
     "origin_chain": "juno",
     "decimal": 6,
-    "description": "juno>sifchain",
+    "path": "juno>sifchain",
     "channel": "channel-14",
-    "image": "common/juno.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-5",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
   },
   {
     "denom": "ibc/B21954812E6E642ADC0B5ACB233E02A634BF137C572575BF80F7C0CC3DB2E74D",
@@ -138,9 +209,16 @@
     "dp_denom": "CRO",
     "origin_chain": "cryotoorg",
     "decimal": 8,
-    "description": "cryotoorg>sifchain",
+    "path": "cryotoorg>sifchain",
     "channel": "channel-9",
-    "image": "common/cro.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-33",
+        "port": "transfer",
+        "denom": "basecro"
+    },
+    "image": "common/cro.png",
+    "coinGeckoId": "crypto-com-chain"
   },
   {
     "denom": "ibc/11DFDFADE34DCE439BA732EBA5CD8AA804A544BA1ECC0882856289FAF01FE53F",
@@ -150,9 +228,16 @@
     "dp_denom": "IRIS",
     "origin_chain": "iris",
     "decimal": 6,
-    "description": "iris>sifchain",
+    "path": "iris>sifchain",
     "channel": "channel-8",
-    "image": "common/iris.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-19",
+        "port": "transfer",
+        "denom": "uiris"
+    },
+    "image": "common/iris.png",
+    "coinGeckoId": "iris-network"
   },
   {
     "denom": "ibc/345D30E8ED06B47FC538ED131D99D16126F07CD6F8B35DE96AAF4C1E445AF466",
@@ -162,9 +247,16 @@
     "dp_denom": "SCRT",
     "origin_chain": "secret",
     "decimal": 6,
-    "description": "secret>sifchain",
+    "path": "secret>sifchain",
     "channel": "channel-65",
-    "image": "common/scrt.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-15",
+        "port": "transfer",
+        "denom": "uscrt"
+    },
+    "image": "common/scrt.png",
+    "coinGeckoId": "secret"
   },
   {
     "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
@@ -174,9 +266,16 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>sifchain",
+    "path": "cosmos>sifchain",
     "channel": "channel-0",
-    "image": "common/atom.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-192",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   },
   {
     "denom": "ceth",
@@ -186,7 +285,7 @@
     "dp_denom": "ETH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/eth.png"
   },
   {
@@ -197,8 +296,9 @@
     "dp_denom": "USDC",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin",
     "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
   {
@@ -209,8 +309,9 @@
     "dp_denom": "SRM",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/srm.png",
+    "coinGeckoId": "serum",
     "contract": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff"
   },
   {
@@ -221,8 +322,9 @@
     "dp_denom": "USDT",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/usdt.png",
+    "coinGeckoId": "tether",
     "contract": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
   },
   {
@@ -233,8 +335,9 @@
     "dp_denom": "CRO",
     "origin_chain": "cryptoorg",
     "decimal": 8,
-    "description": "cryptoorg>ethereum>sifchain",
+    "path": "cryptoorg>ethereum>sifchain",
     "image": "ethereum/cro.png",
+    "coinGeckoId": "crypto-com-chain",
     "contract": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b"
   },
   {
@@ -245,8 +348,9 @@
     "dp_denom": "1INCH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/1inch.png",
+    "coinGeckoId": "1inch",
     "contract": "0x111111111117dc0aa78b770fa6a738034120c302"
   },
   {
@@ -257,8 +361,9 @@
     "dp_denom": "AAVE",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/aave.png",
+    "coinGeckoId": "aave",
     "contract": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
   },
   {
@@ -269,8 +374,9 @@
     "dp_denom": "AKRO",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/akro.png",
+    "coinGeckoId": "akropolis",
     "contract": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7"
   },
   {
@@ -281,8 +387,9 @@
     "dp_denom": "ANT",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/ant.png",
+    "coinGeckoId": "aragon",
     "contract": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e"
   },
   {
@@ -293,8 +400,9 @@
     "dp_denom": "AXS",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/axs.png",
+    "coinGeckoId": "axie-infinity",
     "contract": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b"
   },
   {
@@ -305,8 +413,9 @@
     "dp_denom": "B20",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/b20.png",
+    "coinGeckoId": "b20",
     "contract": "0xc4De189Abf94c57f396bD4c52ab13b954FebEfD8"
   },
   {
@@ -317,8 +426,9 @@
     "dp_denom": "BAL",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
-    "image": "ethereum/b20.png",
+    "path": "ethereum>sifchain",
+    "image": "ethereum/bal.png",
+    "coinGeckoId": "balancer",
     "contract": "0xba100000625a3754423978a60c9317c58a424e3D"
   },
   {
@@ -329,8 +439,9 @@
     "dp_denom": "Band",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/band.png",
+    "coinGeckoId": "band-protocol",
     "contract": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55"
   },
   {
@@ -341,8 +452,9 @@
     "dp_denom": "BAT",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/bat.png",
+    "coinGeckoId": "basic-attention-token",
     "contract": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
   },
   {
@@ -353,8 +465,9 @@
     "dp_denom": "BNT",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/bnt.png",
+    "coinGeckoId": "bancor",
     "contract": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C"
   },
   {
@@ -365,8 +478,9 @@
     "dp_denom": "BOND",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/bond.png",
+    "coinGeckoId": "barnbridge",
     "contract": "0x0391D2021f89DC339F60Fff84546EA23E337750f"
   },
   {
@@ -377,8 +491,9 @@
     "dp_denom": "BTSG",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/btsg.png",
+    "coinGeckoId": "bitsong",
     "contract": "0x05079687D35b93538cbd59fe5596380cae9054A9"
   },
   {
@@ -389,7 +504,7 @@
     "dp_denom": "COCOS",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/cocos.png",
     "contract": "0x0C6f5F7D555E7518f6841a79436BD2b1Eef03381"
   },
@@ -401,8 +516,9 @@
     "dp_denom": "COMP",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/comp.png",
+    "coinGeckoId": "xxxxx",
     "contract": "0xc00e94cb662c3520282e6f5717214004a7f26888"
   },
   {
@@ -413,8 +529,9 @@
     "dp_denom": "CONV",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/conv.png",
+    "coinGeckoId": "convergence",
     "contract": "0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50"
   },
   {
@@ -425,8 +542,9 @@
     "dp_denom": "CREAM",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/cream.png",
+    "coinGeckoId": "cream-2",
     "contract": "0x2ba592F78dB6436527729929AAf6c908497cB200"
   },
   {
@@ -437,8 +555,9 @@
     "dp_denom": "DAI",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/dai.png",
+    "coinGeckoId": "dai",
     "contract": "0x6b175474e89094c44da98b954eedeac495271d0f"
   },
   {
@@ -449,8 +568,9 @@
     "dp_denom": "DAOFI",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/daofi.png",
+    "coinGeckoId": "xxxxx",
     "contract": "0xD82BB924a1707950903e2C0a619824024e254cD1"
   },
   {
@@ -461,8 +581,9 @@
     "dp_denom": "DFYN",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/dfyn.png",
+    "coinGeckoId": "dfyn-network",
     "contract": "0x9695e0114e12C0d3A3636fAb5A18e6b737529023"
   },
   {
@@ -473,7 +594,7 @@
     "dp_denom": "DINO",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/dino.png",
     "contract": "0x4c081D8EC752C8cA6309149E3ad07747b2576401"
   },
@@ -485,8 +606,9 @@
     "dp_denom": "DNXC",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/dnxc.png",
+    "coinGeckoId": "dinox",
     "contract": "0x20a8CEC5fffea65Be7122BCaB2FFe32ED4Ebf03a"
   },
   {
@@ -497,8 +619,9 @@
     "dp_denom": "DON",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/don.png",
+    "coinGeckoId": "donkey-token",
     "contract": "0x4576E6825B462b6916D2a41E187626E9090A92c6"
   },
   {
@@ -509,8 +632,9 @@
     "dp_denom": "ENJ",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/enj.png",
+    "coinGeckoId": "enjincoin",
     "contract": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
   },
   {
@@ -521,8 +645,9 @@
     "dp_denom": "ERN",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/ern.png",
+    "coinGeckoId": "ethernity-chain",
     "contract": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505"
   },
   {
@@ -533,8 +658,9 @@
     "dp_denom": "ESD",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/esd.png",
+    "coinGeckoId": "empty-set-dollar",
     "contract": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723"
   },
   {
@@ -545,8 +671,9 @@
     "dp_denom": "FRAX",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/frax.png",
+    "coinGeckoId": "frax",
     "contract": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
   },
   {
@@ -557,8 +684,9 @@
     "dp_denom": "FTM",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/ftm.png",
+    "coinGeckoId": "fantom",
     "contract": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
   },
   {
@@ -569,8 +697,9 @@
     "dp_denom": "FXS",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/fxs.png",
+    "coinGeckoId": "frax-share",
     "contract": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0"
   },
   {
@@ -581,8 +710,9 @@
     "dp_denom": "GRT",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/grt.png",
+    "coinGeckoId": "the-graph",
     "contract": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
   },
   {
@@ -593,8 +723,9 @@
     "dp_denom": "IOTX",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/iotx.png",
+    "coinGeckoId": "iotex",
     "contract": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69"
   },
   {
@@ -605,8 +736,9 @@
     "dp_denom": "KEEP",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/keep.png",
+    "coinGeckoId": "keep-network",
     "contract": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC"
   },
   {
@@ -617,8 +749,9 @@
     "dp_denom": "KFT",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/kft.png",
+    "coinGeckoId": "knit-finance",
     "contract": "0xEF53462838000184F35f7D991452e5f25110b207"
   },
   {
@@ -629,8 +762,9 @@
     "dp_denom": "LDO",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/ldo.png",
+    "coinGeckoId": "lido-dao",
     "contract": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32"
   },
   {
@@ -641,8 +775,9 @@
     "dp_denom": "LEASH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/leash.png",
+    "coinGeckoId": "leash",
     "contract": "0x27C70Cd1946795B66be9d954418546998b546634"
   },
   {
@@ -653,8 +788,9 @@
     "dp_denom": "LGCY",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/lgcy.png",
+    "coinGeckoId": "lgcy-network",
     "contract": "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d"
   },
   {
@@ -665,8 +801,9 @@
     "dp_denom": "LINA",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/lina.png",
+    "coinGeckoId": "linear",
     "contract": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937"
   },
   {
@@ -677,8 +814,9 @@
     "dp_denom": "LINK",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/link.png",
+    "coinGeckoId": "chainlink",
     "contract": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
   },
   {
@@ -689,8 +827,9 @@
     "dp_denom": "LON",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/lon.png",
+    "coinGeckoId": "tokenlon",
     "contract": "0x0000000000095413afC295d19EDeb1Ad7B71c952"
   },
   {
@@ -701,8 +840,9 @@
     "dp_denom": "LRC",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/lrc.png",
+    "coinGeckoId": "loopring",
     "contract": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd"
   },
   {
@@ -713,8 +853,9 @@
     "dp_denom": "MANA",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/mana.png",
+    "coinGeckoId": "decentraland",
     "contract": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
   },
   {
@@ -725,8 +866,9 @@
     "dp_denom": "MATIC",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/matic.png",
+    "coinGeckoId": "matic-network",
     "contract": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
   },
   {
@@ -737,8 +879,9 @@
     "dp_denom": "METIS",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/metis.png",
+    "coinGeckoId": "metis-token",
     "contract": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e"
   },
   {
@@ -749,8 +892,9 @@
     "dp_denom": "OCEAN",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/ocean.png",
+    "coinGeckoId": "ocean-protocol",
     "contract": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48"
   },
   {
@@ -761,8 +905,9 @@
     "dp_denom": "OGN",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/ogn.png",
+    "coinGeckoId": "origin-protocol",
     "contract": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26"
   },
   {
@@ -773,8 +918,9 @@
     "dp_denom": "OH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/oh.png",
+    "coinGeckoId": "oh-finance",
     "contract": "0x16ba8efe847ebdfef99d399902ec29397d403c30"
   },
   {
@@ -785,8 +931,9 @@
     "dp_denom": "PAID",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/paid.png",
+    "coinGeckoId": "paid-network",
     "contract": "0x1614F18Fc94f47967A3Fbe5FfcD46d4e7Da3D787"
   },
   {
@@ -797,8 +944,9 @@
     "dp_denom": "POLS",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/pols.png",
+    "coinGeckoId": "polkastarter",
     "contract": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa"
   },
   {
@@ -809,8 +957,9 @@
     "dp_denom": "POND",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/pond.png",
+    "coinGeckoId": "marlin",
     "contract": "0x57B946008913B82E4dF85f501cbAeD910e58D26C"
   },
   {
@@ -821,8 +970,9 @@
     "dp_denom": "QUICK",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/quick.png",
+    "coinGeckoId": "quick",
     "contract": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f"
   },
   {
@@ -833,8 +983,9 @@
     "dp_denom": "RAIL",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/rail.png",
+    "coinGeckoId": "railgun",
     "contract": "0xe76C6c83af64e4C60245D8C7dE953DF673a7A33D"
   },
   {
@@ -845,8 +996,9 @@
     "dp_denom": "RATOM",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/ratom.png",
+    "coinGeckoId": "stafi-ratom",
     "contract": "0xd01cb3d113a864763dd3977fe1e725860013b0ed"
   },
   {
@@ -857,8 +1009,9 @@
     "dp_denom": "REEF",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/reef.png",
+    "coinGeckoId": "reef",
     "contract": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf"
   },
   {
@@ -869,8 +1022,9 @@
     "dp_denom": "RFUEL",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/rfuel.png",
+    "coinGeckoId": "rio-defi",
     "contract": "0xaf9f549774ecEDbD0966C52f250aCc548D3F36E5"
   },
   {
@@ -881,8 +1035,9 @@
     "dp_denom": "RLY",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/rly.png",
+    "coinGeckoId": "rally-2",
     "contract": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b"
   },
   {
@@ -893,8 +1048,9 @@
     "dp_denom": "RNDR",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/rndr.png",
+    "coinGeckoId": "render-token",
     "contract": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24"
   },
   {
@@ -905,8 +1061,9 @@
     "dp_denom": "RUNE",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/rune.png",
+    "coinGeckoId": "thorchain",
     "contract": "0x3155BA85D5F96b2d030a4966AF206230e46849cb"
   },
   {
@@ -917,8 +1074,9 @@
     "dp_denom": "SAITO",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/saito.png",
+    "coinGeckoId": "saito",
     "contract": "0xFa14Fa6958401314851A17d6C5360cA29f74B57B"
   },
   {
@@ -929,8 +1087,9 @@
     "dp_denom": "SAND",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/sand.png",
+    "coinGeckoId": "the-sandbox",
     "contract": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
   },
   {
@@ -941,8 +1100,9 @@
     "dp_denom": "SHIB",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/shib.png",
+    "coinGeckoId": "shiba-inu",
     "contract": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE"
   },
   {
@@ -953,8 +1113,9 @@
     "dp_denom": "SNX",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/snx.png",
+    "coinGeckoId": "havven",
     "contract": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
   },
   {
@@ -965,8 +1126,9 @@
     "dp_denom": "sUSD",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/susd.png",
+    "coinGeckoId": "nusd",
     "contract": "0x57ab1ec28d129707052df4df418d58a2d46d5f51"
   },
   {
@@ -977,8 +1139,9 @@
     "dp_denom": "SUSHI",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/sushi.png",
+    "coinGeckoId": "sushi",
     "contract": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2"
   },
   {
@@ -989,8 +1152,9 @@
     "dp_denom": "SXP",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/sxp.png",
+    "coinGeckoId": "swipe",
     "contract": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9"
   },
   {
@@ -1001,8 +1165,9 @@
     "dp_denom": "TIDAL",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/tidal.png",
+    "coinGeckoId": "tidal-finance",
     "contract": "0x29CbD0510EEc0327992CD6006e63F9Fa8E7f33B7"
   },
   {
@@ -1013,8 +1178,9 @@
     "dp_denom": "TOKE",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/toke.png",
+    "coinGeckoId": "tokemak",
     "contract": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94"
   },
   {
@@ -1025,8 +1191,9 @@
     "dp_denom": "TSHP",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/tshp.png",
+    "coinGeckoId": "12ships",
     "contract": "0x525794473f7ab5715c81d06d10f52d11cc052804"
   },
   {
@@ -1037,8 +1204,9 @@
     "dp_denom": "TUSD",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/tusd.png",
+    "coinGeckoId": "true-usd",
     "contract": "0x0000000000085d4780B73119b644AE5ecd22b376"
   },
   {
@@ -1049,8 +1217,9 @@
     "dp_denom": "UFO",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/ufo.png",
+    "coinGeckoId": "ufo-gaming",
     "contract": "0x249e38Ea4102D0cf8264d3701f1a0E39C4f2DC3B"
   },
   {
@@ -1061,8 +1230,9 @@
     "dp_denom": "UMA",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/uma.png",
+    "coinGeckoId": "uma",
     "contract": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828"
   },
   {
@@ -1073,8 +1243,9 @@
     "dp_denom": "UNI",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/uni.png",
+    "coinGeckoId": "uniswap",
     "contract": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
   },
   {
@@ -1085,8 +1256,9 @@
     "dp_denom": "USTC",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/ust.png",
+    "coinGeckoId": "wrapped-ust",
     "contract": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD"
   },
   {
@@ -1097,9 +1269,10 @@
     "dp_denom": "WBTC",
     "origin_chain": "ethereum",
     "decimal": 8,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/wbtc.png",
-    "contract": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD"
+    "coinGeckoId": "wrapped-bitcoin",
+    "contract": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
   },
   {
     "denom": "cwfil",
@@ -1109,8 +1282,9 @@
     "dp_denom": "WFIL",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/wfil.png",
+    "coinGeckoId": "wrapped-filecoin",
     "contract": "0x6e1a19f235be7ed8e3369ef73b196c07257494de"
   },
   {
@@ -1120,9 +1294,10 @@
     "base_type": "erc20",
     "dp_denom": "WSCRT",
     "origin_chain": "ethereum",
-    "decimal": 18,
-    "description": "ethereum>sifchain",
+    "decimal": 6,
+    "path": "ethereum>sifchain",
     "image": "ethereum/wscrt.png",
+    "coinGeckoId": "secret-erc20",
     "contract": "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be"
   },
   {
@@ -1133,8 +1308,9 @@
     "dp_denom": "YFI",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/yfi.png",
+    "coinGeckoId": "yearn-finance",
     "contract": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e"
   },
   {
@@ -1144,9 +1320,10 @@
     "base_type": "erc20",
     "dp_denom": "ZCN",
     "origin_chain": "ethereum",
-    "decimal": 18,
-    "description": "ethereum>sifchain",
+    "decimal": 10,
+    "path": "ethereum>sifchain",
     "image": "ethereum/zcn.png",
+    "coinGeckoId": "0chain",
     "contract": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
   },
   {
@@ -1157,8 +1334,9 @@
     "dp_denom": "ZCX",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/zcx.png",
+    "coinGeckoId": "unizen",
     "contract": "0xc52c326331e9ce41f04484d3b5e5648158028804"
   },
   {
@@ -1169,8 +1347,9 @@
     "dp_denom": "ZCX",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>sifchain",
+    "path": "ethereum>sifchain",
     "image": "ethereum/zrx.png",
+    "coinGeckoId": "0x",
     "contract": "0xe41d2489571d322189246dafa5ebde1f4699f498"
   }
 ]

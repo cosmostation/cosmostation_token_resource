@@ -1,0 +1,14 @@
+[
+  {
+    "denom": "uctk",
+    "type": "staking",
+    "base_denom": "uctk",
+    "base_type": "staking",
+    "dp_denom": "CTK",
+    "origin_chain": "shentu",
+    "decimal": 6,
+    "description": "Shentu Staking Coin",
+    "image": "common/ctk.png",
+    "coinGeckoId": "certik"
+  }
+]

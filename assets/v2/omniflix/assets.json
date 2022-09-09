@@ -9,5 +9,100 @@
     "decimal": 6,
     "description": "Omniflix Staking Coin",
     "image": "common/flix.png"
+  },
+  {
+    "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "path": "cosmos>omniflix",
+    "channel": "channel-12",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-306",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "denom": "ibc/F951C98B3D08879376970DD39F74907896391810FD40AF9B2357A02E9E82BBA5",
+    "type": "ibc",
+    "base_denom": "ujuno",
+    "base_type": "staking",
+    "dp_denom": "JUNO",
+    "origin_chain": "juno",
+    "decimal": 6,
+    "path": "juno>omniflix",
+    "channel": "channel-20",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-78",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>omniflix",
+    "channel": "channel-1",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-199",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
+  },
+  {
+    "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>omniflix",
+    "channel": "channel-1",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-199",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "denom": "ibc/CC12CFFD769D5E0059D98E760DD34FAB477261785B99240C97F6AABC4F566CB5",
+    "type": "ibc",
+    "base_denom": "uhuahua",
+    "base_type": "staking",
+    "dp_denom": "HUAHUA",
+    "origin_chain": "chihuahua",
+    "decimal": 6,
+    "path": "chihuahua>omniflix",
+    "channel": "channel-5",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-17",
+        "port": "transfer",
+        "denom": "uhuahua"
+    },
+    "image": "common/huahua.png",
+    "coinGeckoId": "chihuahua-token"
   }
 ]

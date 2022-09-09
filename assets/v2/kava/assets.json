@@ -8,7 +8,8 @@
     "origin_chain": "kava",
     "decimal": 6,
     "description": "Kava Staking Coin",
-    "image": "common/kava.png"
+    "image": "common/kava.png",
+    "coinGeckoId": "kava"
   },
   {
     "denom": "swp",
@@ -19,7 +20,8 @@
     "origin_chain": "kava",
     "decimal": 6,
     "description": "Kava Swap Coin",
-    "image": "kava/swp.png"
+    "image": "kava/swp.png",
+    "coinGeckoId": "kava-swap"
   },
   {
     "denom": "usdx",
@@ -30,7 +32,8 @@
     "origin_chain": "kava",
     "decimal": 6,
     "description": "USD Stable Asset",
-    "image": "kava/usdx.png"
+    "image": "kava/usdx.png",
+    "coinGeckoId": "usdx"
   },
   {
     "denom": "hard",
@@ -41,7 +44,8 @@
     "origin_chain": "kava",
     "decimal": 6,
     "description": "HardPool Gov. Coin",
-    "image": "kava/hard.png"
+    "image": "kava/hard.png",
+    "coinGeckoId": "kava-lend"
   },
   {
     "denom": "debt",
@@ -56,25 +60,27 @@
   },
   {
     "denom": "hbtc",
-    "type": "native",
+    "type": "bridge",
     "base_denom": "hbtc",
-    "base_type": "native",
-    "dp_denom": "DEBT",
-    "origin_chain": "kava",
-    "decimal": 6,
+    "base_type": "bridge",
+    "dp_denom": "HBTC",
+    "origin_chain": "Huobi",
+    "decimal": 8,
     "description": "HBTC on Kava Chain",
-    "image": "kava/hbtc.png"
+    "image": "kava/hbtc.png",
+    "coinGeckoId": "huobi-btc"
   },
   {
     "denom": "bnb",
     "type": "bridge",
     "base_denom": "bnb",
-    "base_type": "native",
+    "base_type": "bep2",
     "dp_denom": "BNB",
     "origin_chain": "bnb-beacon-chain",
     "decimal": 8,
-    "description": "bnb-beacon-chain>kava",
-    "image": "bnb-beacon-chain/bnb.png"
+    "path": "bnb-beacon-chain>kava",
+    "image": "bnb-beacon-chain/bnb.png",
+    "coinGeckoId": "binancecoin"
   },
   {
     "denom": "btcb",
@@ -84,8 +90,9 @@
     "dp_denom": "BTCB",
     "origin_chain": "bnb-beacon-chain",
     "decimal": 8,
-    "description": "bnb-beacon-chain>kava",
-    "image": "bnb-beacon-chain/btcb.png"
+    "path": "bnb-beacon-chain>kava",
+    "image": "bnb-beacon-chain/btcb.png",
+    "coinGeckoId": "bitcoin-bep2"
   },
   {
     "denom": "busd",
@@ -95,8 +102,9 @@
     "dp_denom": "BUSD",
     "origin_chain": "bnb-beacon-chain",
     "decimal": 8,
-    "description": "bnb-beacon-chain>kava",
-    "image": "bnb-beacon-chain/busd.png"
+    "path": "bnb-beacon-chain>kava",
+    "image": "bnb-beacon-chain/busd.png",
+    "coinGeckoId": "binance-usd"
   },
   {
     "denom": "xrpb",
@@ -106,8 +114,9 @@
     "dp_denom": "XRPB",
     "origin_chain": "bnb-beacon-chain",
     "decimal": 8,
-    "description": "bnb-beacon-chain>kava",
-    "image": "bnb-beacon-chain/xrpb.png"
+    "path": "bnb-beacon-chain>kava",
+    "image": "bnb-beacon-chain/xrpb.png",
+    "coinGeckoId": "ripple"
   },
   {
     "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",
@@ -117,9 +126,16 @@
     "dp_denom": "ION",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>kava",
+    "path": "osmosis>kava",
     "channel": "channel-1",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-143",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
@@ -129,9 +145,16 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>kava",
+    "path": "osmosis>kava",
     "channel": "channel-1",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-143",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
@@ -141,9 +164,16 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>kava",
+    "path": "cosmos>kava",
     "channel": "channel-0",
-    "image": "common/atom.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-277",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   },
   {
     "denom": "ibc/799FDD409719A1122586A629AE8FCA17380351A51C1F47A80A1B8E7F2A491098",
@@ -153,8 +183,15 @@
     "dp_denom": "AKT",
     "origin_chain": "akash",
     "decimal": 6,
-    "description": "akash>kava",
+    "path": "akash>kava",
     "channel": "channel-5",
-    "image": "common/akt.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-37",
+        "port": "transfer",
+        "denom": "uakt"
+    },
+    "image": "common/akt.png",
+    "coinGeckoId": "akash-network"
   }
 ]

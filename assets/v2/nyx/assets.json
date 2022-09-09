@@ -19,7 +19,8 @@
     "origin_chain": "nyx",
     "decimal": 6,
     "description": "Native Coin",
-    "image": "nyx/nym.png"
+    "image": "nyx/nym.png",
+    "coinGeckoId": "nym"
   },
   {
     "denom": "ibc/FC9D92EC12BC974E8B6179D411351524CD5C2EBC3CE29D5BA856414FEFA47093",
@@ -29,8 +30,15 @@
     "dp_denom": "GRAV",
     "origin_chain": "gravity-bridge",
     "decimal": 6,
-    "description": "gravity-bridge>nyx",
+    "path": "gravity-bridge>nyx",
     "channel": "channel-0",
-    "image": "common/grav.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-18",
+        "port": "transfer",
+        "denom": "ugraviton"
+    },
+    "image": "common/grav.png",
+    "coinGeckoId": "graviton"
   }
 ]

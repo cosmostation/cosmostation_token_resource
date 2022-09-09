@@ -80,5 +80,14 @@
     "display_symbol": "Tether",
     "decimal": 6,
     "logo": "usdt.png"
+  },
+  {
+    "denom": "gravity0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "origin_denom": "wbtc",
+    "origin_chain": "ethereum",
+    "origin_symbol": "WBTC",
+    "display_symbol": "WBTC",
+    "decimal": 8,
+    "logo": "wbtc.png"
   }
 ]

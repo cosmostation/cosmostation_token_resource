@@ -8,7 +8,8 @@
     "origin_chain": "iris",
     "decimal": 6,
     "description": "Iris Staking Coin",
-    "image": "common/iris.png"
+    "image": "common/iris.png",
+    "coinGeckoId": "iris-network"
   },
   {
     "denom": "uwdt",
@@ -17,31 +18,33 @@
     "base_type": "native",
     "dp_denom": "WDT",
     "origin_chain": "iris",
-    "decimal": 6,
-    "description": "Native Coin",
+    "decimal": 9,
+    "description": "Winner RDC",
     "image": "iris/wdt.png"
   },
   {
     "denom": "htltbcbnb",
-    "type": "native",
+    "type": "bridge",
     "base_denom": "bnb",
-    "base_type": "native",
+    "base_type": "bep2",
     "dp_denom": "BNB",
-    "origin_chain": "iris",
-    "decimal": 6,
-    "description": "HTLT Coin",
-    "image": "bnb-beacon-chain/bnb.png"
+    "origin_chain": "bnb-beacon-chain",
+    "decimal": 8,
+    "path": "bnb-beacon-chain>iris",
+    "image": "bnb-beacon-chain/bnb.png",
+    "coinGeckoId": "binancecoin"
   },
   {
     "denom": "htltbcbusd",
-    "type": "native",
+    "type": "bridge",
     "base_denom": "busd",
-    "base_type": "native",
+    "base_type": "bep2",
     "dp_denom": "BUSD",
-    "origin_chain": "iris",
-    "decimal": 6,
-    "description": "HTLT Coin",
-    "image": "bnb-beacon-chain/busd.png"
+    "origin_chain": "bnb-beacon-chain",
+    "decimal": 8,
+    "path": "bnb-beacon-chain>iris",
+    "image": "bnb-beacon-chain/busd.png",
+    "coinGeckoId": "binance-usd"
   },
   {
     "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
@@ -51,9 +54,16 @@
     "dp_denom": "ATOM",
     "origin_chain": "cosmos",
     "decimal": 6,
-    "description": "cosmos>iris",
+    "path": "cosmos>iris",
     "channel": "channel-12",
-    "image": "commom/atom.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-182",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   },
   {
     "denom": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
@@ -63,9 +73,16 @@
     "dp_denom": "OSMO",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>iris",
+    "path": "osmosis>iris",
     "channel": "channel-3",
-    "image": "commom/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-6",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/6CDA7F7E4DDB86FD275A986E78F13DF2FC500E3FEC2149E2215061FA51BB8C5D",
@@ -75,9 +92,16 @@
     "dp_denom": "ION",
     "origin_chain": "osmosis",
     "decimal": 6,
-    "description": "osmosis>iris",
+    "path": "osmosis>iris",
     "channel": "channel-3",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-6",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/A5A5EBF3B7A180FBA2A3CE133153F5B904AA8B085691F66A15BE8156B6722652",
@@ -87,9 +111,16 @@
     "dp_denom": "USDC",
     "origin_chain": "ethereum",
     "decimal": 6,
-    "description": "ethereum>gravity-bridge>iris",
+    "path": "ethereum>gravity-bridge>iris",
     "channel": "channel-29",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-47",
+        "port": "transfer",
+        "denom": "gravity0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    },
     "image": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin",
     "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
   },
   {
@@ -100,9 +131,16 @@
     "dp_denom": "DAI",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge>iris",
+    "path": "ethereum>gravity-bridge>iris",
     "channel": "channel-29",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-47",
+        "port": "transfer",
+        "denom": "gravity0x6b175474e89094c44da98b954eedeac495271d0f"
+    },
     "image": "ethereum/dai.png",
+    "coinGeckoId": "dai",
     "contract": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
   },
   {
@@ -113,9 +151,16 @@
     "dp_denom": "WETH",
     "origin_chain": "ethereum",
     "decimal": 18,
-    "description": "ethereum>gravity-bridge>iris",
+    "path": "ethereum>gravity-bridge>iris",
     "channel": "channel-29",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-47",
+        "port": "transfer",
+        "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+    },
     "image": "ethereum/weth.png",
+    "coinGeckoId": "weth",
     "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
   }
 ]
