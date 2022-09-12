@@ -8,7 +8,8 @@
     "origin_chain": "konstellation",
     "decimal": 6,
     "description": "Konstellation Staking Coin",
-    "image": "common/darc.png"
+    "image": "common/darc.png",
+    "coinGeckoId": "darcmatter-coin"
   },
   {
     "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
@@ -20,7 +21,14 @@
     "decimal": 6,
     "path": "osmosis>konstellation",
     "channel": "channel-0",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-171",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
@@ -32,6 +40,13 @@
     "decimal": 6,
     "path": "osmosis>konstellation",
     "channel": "channel-0",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-171",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   }
 ]

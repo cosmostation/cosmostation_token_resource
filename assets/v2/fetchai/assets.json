@@ -8,7 +8,8 @@
     "origin_chain": "fetchai",
     "decimal": 18,
     "description": "Fetch.ai Staking Coin",
-    "image": "common/fet.png"
+    "image": "common/fet.png",
+    "coinGeckoId": "fetch-ai"
   },
   {
     "denom": "nanomobx",

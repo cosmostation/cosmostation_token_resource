@@ -8,7 +8,8 @@
     "origin_chain": "evmos",
     "decimal": 18,
     "description": "Evmos Staking Coin",
-    "image": "common/evmos.png"
+    "image": "common/evmos.png",
+    "coinGeckoId": "evmos"
   },
   {
     "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
@@ -20,7 +21,14 @@
     "decimal": 6,
     "path": "osmosis>evmos",
     "channel": "channel-0",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-204",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
@@ -32,7 +40,14 @@
     "decimal": 6,
     "path": "osmosis>evmos",
     "channel": "channel-0",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-204",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/A4DB47A9D3CF9A068D454513891B526702455D3EF08FB9EB558C561F9DC2B701",
@@ -44,7 +59,14 @@
     "decimal": 6,
     "path": "cosmos>evmos",
     "channel": "channel-3",
-    "image": "common/atom.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-292",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   },
   {
     "denom": "ibc/ADF401C952ADD9EE232D52C8303B8BE17FE7953C8D420F20769AF77240BD0C58",
@@ -56,6 +78,132 @@
     "decimal": 18,
     "path": "injective>evmos",
     "channel": "channel-10",
-    "image": "common/inj.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-83",
+        "port": "transfer",
+        "denom": "inj"
+    },
+    "image": "common/inj.png",
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "denom": "ibc/7F0C2CB6E79CC36D29DA7592899F98E3BEFD2CF77A94340C317032A78812393D",
+    "type": "ibc",
+    "base_denom": "ugraviton",
+    "base_type": "staking",
+    "dp_denom": "GRAV",
+    "origin_chain": "gravity-bridge",
+    "decimal": 6,
+    "path": "gravity-bridge>evmos",
+    "channel": "channel-8",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-65",
+        "port": "transfer",
+        "denom": "ugraviton"
+    },
+    "image": "common/grav.png",
+    "coinGeckoId": "graviton"
+  },
+  {
+    "denom": "ibc/693989F95CF3279ADC113A6EF21B02A51EC054C95A9083F2E290126668149433",
+    "type": "ibc",
+    "base_denom": "usdc",
+    "base_type": "erc20",
+    "dp_denom": "gUSDC",
+    "origin_chain": "ethereum",
+    "decimal": 6,
+    "path": "ethereum>gravity-bridge>evmos",
+    "channel": "channel-8",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-65",
+        "port": "transfer",
+        "denom": "gravity0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    },
+    "image": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin",
+    "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+  },
+  {
+    "denom": "ibc/DF63978F803A2E27CA5CC9B7631654CCF0BBC788B3B7F0A10200508E37C70992",
+    "type": "ibc",
+    "base_denom": "usdt",
+    "base_type": "erc20",
+    "dp_denom": "gUSDT",
+    "origin_chain": "ethereum",
+    "decimal": 6,
+    "path": "ethereum>gravity-bridge>evmos",
+    "channel": "channel-8",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-65",
+        "port": "transfer",
+        "denom": "gravity0x6c9E3E437b0F06C5366fAE4ea4e6cd6fB1803BdF"
+    },
+    "image": "ethereum/usdt.png",
+    "coinGeckoId": "tether",
+    "contract": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+  },
+  {
+    "denom": "ibc/350B6DC0FF48E3BDB856F40A8259909E484259ED452B3F4F39A0FEF874F30F61",
+    "type": "ibc",
+    "base_denom": "wbtc",
+    "base_type": "erc20",
+    "dp_denom": "gWBTC",
+    "origin_chain": "ethereum",
+    "decimal": 8,
+    "path": "ethereum>gravity-bridge>evmos",
+    "channel": "channel-8",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-65",
+        "port": "transfer",
+        "denom": "gravity0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+    },
+    "image": "ethereum/wbtc.png",
+    "coinGeckoId": "wrapped-bitcoin",
+    "contract": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+  },
+  {
+    "denom": "ibc/6B3FCE336C3465D3B72F7EFB4EB92FC521BC480FE9653F627A0BD0237DF213F3",
+    "type": "ibc",
+    "base_denom": "weth",
+    "base_type": "erc20",
+    "dp_denom": "gWETH",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>gravity-bridge>evmos",
+    "channel": "channel-8",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-65",
+        "port": "transfer",
+        "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+    },
+    "image": "ethereum/weth.png",
+    "coinGeckoId": "weth",
+    "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+  },
+  {
+    "denom": "ibc/F96A7F81E8F82E4EE81F94D507CD257319EFB70FE46E23B4953F63B62E855603",
+    "type": "ibc",
+    "base_denom": "dai",
+    "base_type": "erc20",
+    "dp_denom": "gDAI",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>gravity-bridge>evmos",
+    "channel": "channel-8",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-65",
+        "port": "transfer",
+        "denom": "gravity0x6B175474E89094C44Da98b954EedeAC495271d0F"
+    },
+    "image": "ethereum/dai.png",
+    "coinGeckoId": "dai",
+    "contract": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
   }
 ]

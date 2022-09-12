@@ -8,7 +8,8 @@
     "origin_chain": "desmos",
     "decimal": 6,
     "description": "Desmos Staking Coin",
-    "image": "common/dsm.png"
+    "image": "common/dsm.png",
+    "coinGeckoId": "desmos"
   },
   {
     "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
@@ -20,7 +21,14 @@
     "decimal": 6,
     "path": "osmosis>desmos",
     "channel": "channel-2",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-135",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/6FA7B62692FBCA2E51F567947035DE3C5D7333D49D13B85A25F358E80DF4E991",
@@ -32,6 +40,13 @@
     "decimal": 6,
     "path": "osmosis>desmos",
     "channel": "channel-2",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-135",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   }
 ]

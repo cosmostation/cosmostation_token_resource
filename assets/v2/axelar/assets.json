@@ -329,6 +329,19 @@
     "contract": "0xAcc15dC74880C9944775448304B263D191c6077F"
   },
   {
+    "denom": "dot-planck",
+    "type": "bridge",
+    "base_denom": "dot",
+    "base_type": "erc20",
+    "dp_denom": "xcDOT",
+    "origin_chain": "moonbeam",
+    "decimal": 10,
+    "path": "moonbeam>axelar",
+    "image": "moonbeam/xcdot.png",
+    "coinGeckoId": "xcdot",
+    "contract": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080"
+  },
+  {
     "denom": "wftm-wei",
     "type": "bridge",
     "base_denom": "wftm",

@@ -8,7 +8,8 @@
     "origin_chain": "emoney",
     "decimal": 6,
     "description": "Emoney Staking Coin",
-    "image": "common/ngm.png"
+    "image": "common/ngm.png",
+    "coinGeckoId": "e-money"
   },
   {
     "denom": "eeur",
@@ -19,7 +20,8 @@
     "origin_chain": "emoney",
     "decimal": 6,
     "description": "EUR on E-Money Network",
-    "image": "emoney/eeur.png"
+    "image": "emoney/eeur.png",
+    "coinGeckoId": "e-money-eur"
   },
   {
     "denom": "echf",
@@ -75,7 +77,14 @@
     "decimal": 6,
     "path": "osmosis>emoney",
     "channel": "channel-0",
-    "image": "common/osmo.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-37",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   },
   {
     "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
@@ -87,7 +96,14 @@
     "decimal": 6,
     "path": "osmosis>emoney",
     "channel": "channel-0",
-    "image": "osmosis/ion.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-37",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
   },
   {
     "denom": "ibc/3BEA25F3A13A9C17476C821CCF8ECCC84351DDB7B1B06B98654C3B4427F785CC",
@@ -99,7 +115,14 @@
     "decimal": 6,
     "path": "juno>emoney",
     "channel": "channel-15",
-    "image": "common/juno.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-9",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
   },
   {
     "denom": "ibc/9ABBB41787E96DFD57EB3AD4E18323F26DBEABB2C4891F23A570BE42B37C2A07",
@@ -111,7 +134,14 @@
     "decimal": 18,
     "path": "sifchain>emoney",
     "channel": "channel-14",
-    "image": "common/rowan.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-19",
+        "port": "transfer",
+        "denom": "rowan"
+    },
+    "image": "common/rowan.png",
+    "coinGeckoId": "sifchain"
   },
   {
     "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
@@ -123,7 +153,14 @@
     "decimal": 6,
     "path": "cosmos>emoney",
     "channel": "channel-1",
-    "image": "common/atom.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-202",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   },
   {
     "denom": "ibc/FA9EE003772526394268E66E81AA4874AEBF8A109D8B09EF37AC25905899F26B",
@@ -135,6 +172,12 @@
     "decimal": 6,
     "path": "axelar>emoney",
     "channel": "channel-26",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-6",
+        "port": "transfer",
+        "denom": "uaxl"
+    },
     "image": "common/axl.png"
   }
 ]

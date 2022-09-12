@@ -8,7 +8,8 @@
     "origin_chain": "crescent",
     "decimal": 6,
     "description": "Crescent Staking Coin",
-    "image": "common/cre.png"
+    "image": "common/cre.png",
+    "coinGeckoId": "crescent-network"
   },
   {
     "denom": "ubcre",
@@ -19,7 +20,8 @@
     "origin_chain": "crescent",
     "decimal": 6,
     "description": "Crescent Liquidated CRE",
-    "image": "crescent/bcre.png"
+    "image": "crescent/bcre.png",
+    "coinGeckoId": "liquid-staking-crescent"
   },
   {
     "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
@@ -31,7 +33,14 @@
     "decimal": 6,
     "path": "cosmos>crescent",
     "channel": "channel-1",
-    "image": "common/atom.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-326",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   },
   {
     "denom": "ibc/C950356239AD2A205DE09FDF066B1F9FF19A7CA7145EA48A5B19B76EE47E52F7",
@@ -43,7 +52,14 @@
     "decimal": 6,
     "path": "gravity-bridge>crescent",
     "channel": "channel-2",
-    "image": "common/grav.png"
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-62",
+        "port": "transfer",
+        "denom": "ugraviton"
+    },
+    "image": "common/grav.png",
+    "coinGeckoId": "graviton"
   },
   {
     "denom": "ibc/DBF5FA602C46392DE9F4796A0FC7D02F3A8A3D32CA3FAA50B761D4AA6F619E95",
@@ -55,7 +71,14 @@
     "decimal": 18,
     "path": "ethereum>gravity-bridge>crescent",
     "channel": "channel-2",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-62",
+        "port": "transfer",
+        "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+    },
     "image": "ethereum/weth.png",
+    "coinGeckoId": "weth",
     "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
   },
   {
@@ -68,7 +91,14 @@
     "decimal": 6,
     "path": "ethereum>gravity-bridge>crescent",
     "channel": "channel-2",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-62",
+        "port": "transfer",
+        "denom": "gravity0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    },
     "image": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin",
     "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
   {
@@ -81,7 +111,14 @@
     "decimal": 18,
     "path": "ethereum>axelar>crescent",
     "channel": "channel-4",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-7",
+        "port": "transfer",
+        "denom": "weth-wei"
+    },
     "image": "ethereum/weth.png",
+    "coinGeckoId": "weth",
     "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
   },
   {
@@ -94,7 +131,14 @@
     "decimal": 6,
     "path": "ethereum>axelar>crescent",
     "channel": "channel-4",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-7",
+        "port": "transfer",
+        "denom": "uusdc"
+    },
     "image": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin",
     "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   }
 ]

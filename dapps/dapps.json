@@ -123,5 +123,19 @@
             "twitter": "https://twitter.com/RacoonSupply",
             "medium": "https://medium.com/@racoon-supply"
         }
+    },
+    {
+        "title": "DropStation(GNO)",
+        "description": "Airdrop aggregator for CØSMONAUTS.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/dropstation.png",
+        "url": "https://dapps.cosmostation.io/airdrop",
+        "chain": "cosmos",
+        "badge": "AGG",
+        "links": {
+            "webSite": "https://cosmostation.io",
+            "github": "https://github.com/cosmostation",
+            "twitter": "https://twitter.com/cosmostationvd",
+            "medium": "https://medium.com/cosmostation"
+        }
     }
 ]

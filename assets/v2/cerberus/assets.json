@@ -8,6 +8,7 @@
     "origin_chain": "cerberus",
     "decimal": 6,
     "description": "Cerberus Staking Coin",
-    "image": "common/crbrus.png"
+    "image": "common/crbrus.png",
+    "coinGeckoId": "cerberus-2"
   }
 ]

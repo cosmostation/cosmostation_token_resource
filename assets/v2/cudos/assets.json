@@ -8,6 +8,7 @@
     "origin_chain": "cudos",
     "decimal": 18,
     "description": "Cudos Staking Coin",
-    "image": "common/cudos.png"
+    "image": "common/cudos.png",
+    "coinGeckoId": "cudos"
   }
 ]
