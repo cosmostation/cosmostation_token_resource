@@ -162,5 +162,12 @@
     "symbol": "SEASY",
     "decimal": 6,
     "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/seasy.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno1mkw83sv6c7sjdvsaplrzc8yaes9l42p4mhy0ssuxjnyzl87c9eps7ce3m9",
+    "symbol": "WYND",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/wynd.png"
   }
 ]
