@@ -11,6 +11,291 @@
     "image": "common/axl.png"
   },
   {
+    "denom": "ibc/9117A26BA81E29FA4F78F57DC2BD90CD3D26848101BA880445F119B22A1E254E",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "path": "cosmos>axelar",
+    "channel": "channel-2",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-293",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "denom": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>axelar",
+    "channel": "channel-3",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-208",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "denom": "ibc/6CDA7F7E4DDB86FD275A986E78F13DF2FC500E3FEC2149E2215061FA51BB8C5D",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>axelar",
+    "channel": "channel-3",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-208",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
+  },
+  {
+    "denom": "ibc/9E3EB38E5E157AEBFF4A8EAC66E654BC8ECFCB1F758F4D1C0F2D65945E9E2935",
+    "type": "ibc",
+    "base_denom": "ujuno",
+    "base_type": "staking",
+    "dp_denom": "JUNO",
+    "origin_chain": "juno",
+    "decimal": 6,
+    "path": "juno>axelar",
+    "channel": "channel-4",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-71",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "denom": "ibc/B090DC21658BD57698522880590CA53947B8B09355764131AA94EC75517D46A5",
+    "type": "ibc",
+    "base_denom": "ucre",
+    "base_type": "staking",
+    "dp_denom": "CRE",
+    "origin_chain": "crescent",
+    "decimal": 6,
+    "path": "crescent>axelar",
+    "channel": "channel-7",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-4",
+        "port": "transfer",
+        "denom": "ucre"
+    },
+    "image": "common/cre.png",
+    "coinGeckoId": "crescent-network"
+  },
+  {
+    "denom": "ibc/FC48493C53C0A6EF28A191F42A65500643DDF8A0B5B89ADF3FC5FCB60AA6D92A",
+    "type": "ibc",
+    "base_denom": "ubcre",
+    "base_type": "staking",
+    "dp_denom": "bCRE",
+    "origin_chain": "crescent",
+    "decimal": 6,
+    "path": "crescent>axelar",
+    "channel": "channel-7",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-4",
+        "port": "transfer",
+        "denom": "ubcre"
+    },
+    "image": "crescent/bcre.png",
+    "coinGeckoId": "liquid-staking-crescent"
+  },
+  {
+    "denom": "ibc/ADF401C952ADD9EE232D52C8303B8BE17FE7953C8D420F20769AF77240BD0C58",
+    "type": "ibc",
+    "base_denom": "inj",
+    "base_type": "staking",
+    "dp_denom": "INJ",
+    "origin_chain": "injective",
+    "decimal": 18,
+    "path": "injective>axelar",
+    "channel": "channel-10",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-84",
+        "port": "transfer",
+        "denom": "inj"
+    },
+    "image": "common/inj.png",
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "denom": "ibc/5B0968D76C6250F0824BD0BB4317DB34E884A14B345C83FB8256809855AC7CA7",
+    "type": "ibc",
+    "base_denom": "uscrt",
+    "base_type": "staking",
+    "dp_denom": "SCRT",
+    "origin_chain": "secret",
+    "decimal": 6,
+    "path": "secret>axelar",
+    "channel": "channel-12",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-20",
+        "port": "transfer",
+        "denom": "uscrt"
+    },
+    "image": "common/scrt.png",
+    "coinGeckoId": "secret"
+  },
+  {
+    "denom": "ibc/1EDB735A58AA984F6FF11E332077D8A05D5E70E355427C2CF419BD1566FC1E2C",
+    "type": "ibc",
+    "base_denom": "ukuji",
+    "base_type": "staking",
+    "dp_denom": "KUJI",
+    "origin_chain": "kujira",
+    "decimal": 6,
+    "path": "kujira>axelar",
+    "channel": "channel-14",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-9",
+        "port": "transfer",
+        "denom": "ukuji"
+    },
+    "image": "common/kuji.png",
+    "coinGeckoId": "kujira"
+  },
+  {
+    "denom": "ibc/A139C0E0B5E87CBA8EAEEB12B9BEE13AC7C814CFBBFA87BBCADD67E31003466C",
+    "type": "ibc",
+    "base_denom": "ustars",
+    "base_type": "staking",
+    "dp_denom": "STARS",
+    "origin_chain": "stargaze",
+    "decimal": 6,
+    "path": "stargaze>axelar",
+    "channel": "channel-18",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-50",
+        "port": "transfer",
+        "denom": "ustars"
+    },
+    "image": "common/stars.png",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "denom": "ibc/7E3492CD5C2BC8F4C1E936E8AFB8BDD1B45526F8D716BB00B3A4465089E616F5",
+    "type": "ibc",
+    "base_denom": "umntl",
+    "base_type": "staking",
+    "dp_denom": "MNTL",
+    "origin_chain": "assetmantle",
+    "decimal": 6,
+    "path": "assetmantle>axelar",
+    "channel": "channel-23",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-10",
+        "port": "transfer",
+        "denom": "umntl"
+    },
+    "image": "common/mntl.png",
+    "coinGeckoId": "assetmantle"
+  },
+  {
+    "denom": "ibc/B76399CD0009818F7D347EEC032A4E472173D12F0DC99C2ACFB6BEFCC01030E3",
+    "type": "ibc",
+    "base_denom": "afet",
+    "base_type": "staking",
+    "dp_denom": "FET",
+    "origin_chain": "fetchai",
+    "decimal": 18,
+    "path": "fetchai>axelar",
+    "channel": "channel-21",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-14",
+        "port": "transfer",
+        "denom": "afet"
+    },
+    "image": "common/fet.png",
+    "coinGeckoId": "fetch-ai"
+  },
+  {
+    "denom": "ibc/33C0B536F10138B8F2F7485F0A48F53C4F5A7004DFAB00EA750312731209293F",
+    "type": "ibc",
+    "base_denom": "uxki",
+    "base_type": "staking",
+    "dp_denom": "XKI",
+    "origin_chain": "kichain",
+    "decimal": 6,
+    "path": "kichain>axelar",
+    "channel": "channel-17",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-19",
+        "port": "transfer",
+        "denom": "uxki"
+    },
+    "image": "common/xki.png",
+    "coinGeckoId": "ki"
+  },
+  {
+    "denom": "ibc/73D370D177CC659EA123B423D1AC194F0733537E5A346ECEA1DCBC8FEBB45FD3",
+    "type": "ibc",
+    "base_denom": "aevmos",
+    "base_type": "staking",
+    "dp_denom": "EVMOS",
+    "origin_chain": "evmos",
+    "decimal": 18,
+    "path": "evmos>axelar",
+    "channel": "channel-22",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-21",
+        "port": "transfer",
+        "denom": "aevmos"
+    },
+    "image": "common/evmos.png",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "denom": "ibc/5336218FAC4BC06222A3FDD158602CBAAAAE1B16D4B738732C03F6ABDDB1E948",
+    "type": "ibc",
+    "base_denom": "uregen",
+    "base_type": "staking",
+    "dp_denom": "REGEN",
+    "origin_chain": "regen",
+    "decimal": 6,
+    "path": "regen>axelar",
+    "channel": "channel-29",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-48",
+        "port": "transfer",
+        "denom": "uregen"
+    },
+    "image": "common/regen.png",
+    "coinGeckoId": "regen"
+  },
+  {
     "denom": "ibc/ACD9A665DB6C19EC1D057A43D468E324CA9FB9C5ABF82235815F7B7745A15B80",
     "type": "ibc",
     "base_denom": "ungm",
