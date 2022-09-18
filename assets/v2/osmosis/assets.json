@@ -24,6 +24,44 @@
     "coinGeckoId": "ion"
   },
   {
+    "denom": "ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4",
+    "type": "ibc",
+    "base_denom": "ustrd",
+    "base_type": "staking",
+    "dp_denom": "STRD",
+    "origin_chain": "stride",
+    "decimal": 6,
+    "path": "stride>osmosis",
+    "channel": "channel-326",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-5",
+        "port": "transfer",
+        "denom": "ustrd"
+    },
+    "image": "common/strd.png",
+    "coinGeckoId": "stride"
+  },
+  {
+    "denom": "ibc/C140AFD542AE77BD7DCC83F13FDD8C5E5BB8C4929785E6EC2F4C636F98F17901",
+    "type": "ibc",
+    "base_denom": "stuatom",
+    "base_type": "native",
+    "dp_denom": "stATOM",
+    "origin_chain": "stride",
+    "decimal": 6,
+    "path": "stride>osmosis",
+    "channel": "channel-326",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-5",
+        "port": "transfer",
+        "denom": "stuatom"
+    },
+    "image": "stride/statom.png",
+    "coinGeckoId": "stride-staked-atom"
+  },
+  {
     "denom": "ibc/9989AD6CCA39D1131523DB0617B50F6442081162294B4795E26746292467B525",
     "type": "ibc",
     "base_denom": "nanolike",

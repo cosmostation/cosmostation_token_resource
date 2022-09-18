@@ -50,7 +50,7 @@
     "name": "xDiffusion",
     "symbol": "xDIFF",
     "decimals": 18,
-    "logoURI": "ethereum/xdiff.png"
+    "logoURI": "evmos/xdiff.png"
   },
   {
     "chainId": 9001,
@@ -58,7 +58,7 @@
     "name": "Diffusion",
     "symbol": "DIFF",
     "decimals": 18,
-    "logoURI": "ethereum/diff.png",
+    "logoURI": "evmos/diff.png",
     "coinGeckoId": "diffusion"
   }
 ]

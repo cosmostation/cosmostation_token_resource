@@ -1,0 +1,8 @@
+{
+	"base" : "1",
+	"rate" : [
+		"0.01ucre,0.01ubcre",
+		"0.02ucre,0.02ubcre",
+		"0.05ucre,0.05ubcre"
+	]
+}
