@@ -8,7 +8,8 @@
     "origin_chain": "axelar",
     "decimal": 6,
     "description": "Axelar Staking Coin",
-    "image": "common/axl.png"
+    "image": "common/axl.png",
+    "coinGeckoId": "axelar"
   },
   {
     "denom": "ibc/9117A26BA81E29FA4F78F57DC2BD90CD3D26848101BA880445F119B22A1E254E",
@@ -651,5 +652,18 @@
     "image": "avalanche/wavax.png",
     "coinGeckoId": "wrapped-avax",
     "contract": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
+  },
+  {
+    "denom": "wbnb-wei",
+    "type": "bridge",
+    "base_denom": "wbnb",
+    "base_type": "erc20",
+    "dp_denom": "axlWBNB",
+    "origin_chain": "avalanche",
+    "decimal": 18,
+    "path": "bnb-smart-chain>axelar",
+    "image": "bnb-smart-chain/wbnb.png",
+    "coinGeckoId": "wbnb",
+    "contract": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
   }
 ]
