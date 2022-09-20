@@ -111,6 +111,20 @@
         }
     },
     {
+        "title": "Liker.Land: Writing NFT",
+        "description": "Publish as you write. Collect as you read.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/likerland.png",
+        "url": "https://liker.land",
+        "chain": "likecoin",
+        "badge": "NFT",
+        "links": {
+            "webSite": "https://liker.land",
+            "github": "https://github.com/likecoin/liker-land",
+            "twitter": "https://twitter.com/likecoin",
+            "medium": "https://blog.like.co"
+        }
+    },
+    {
         "title": "Racoon.bet",
         "description": "Gaming platform offering fully integrated on-chain games within the Cosmos Ecosystem.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/racoon-bet.png",
