@@ -169,5 +169,12 @@
     "symbol": "WYND",
     "decimal": 6,
     "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/wynd.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno18gxsdfrhxdyy4699a3gqdgd8cl5fsku2rsdj6az0w3f7ltue2pxs77vs4u",
+    "symbol": "LENO",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/leno.png"
   }
 ]
