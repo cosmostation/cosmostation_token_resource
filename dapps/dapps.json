@@ -155,7 +155,7 @@
     {
         "title": "Hopers.io",
         "description": "An avenue for the evolution of DeFi & NFTs on Juno. The fully-permissionless DEX living in the Cosmos.",
-        "logo": "https://hopers.io/logo.png",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/hopers.png",
         "url": "https://hopers.io/",
         "chain": "juno",
         "badge": "DEX + NFT Marketplace",
@@ -165,5 +165,5 @@
             "twitter": "https://mobile.twitter.com/Hopers_io",
             "medium": "https://hopegalaxy.medium.com/"
         }
-    } 
+    }
 ]
