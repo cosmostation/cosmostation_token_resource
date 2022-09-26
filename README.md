@@ -29,13 +29,22 @@ git commit -m “Add <YOUR VALIDATOR NAME>”
 git push origin <branch_name>
 ```
 
-5. From your repository, make pull reuqest (PR)
+5. From your repository, make pull requesrt (PR)
 
 ## Image Requirements
 
 - file extension: `.png`. Note that uppercase `PNG` considered invalid
 - file name: should be your `validator operator address.png` 
 - file directory: should be located in whichever network inside [moniker](https://github.com/cosmostation/cosmostation_token_resource/tree/master/moniker) directory
+
+
+
+## dApp Link add for mobile wallets
+
+1. Add your dapp information with /dapps/dapps.json
+
+2. Commit and push to your fork for PR
+
 
 
 ## Cosmostation's Services and Community

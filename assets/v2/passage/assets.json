@@ -1,0 +1,13 @@
+[
+  {
+    "denom": "upasg",
+    "type": "staking",
+    "base_denom": "upasg",
+    "base_type": "staking",
+    "dp_denom": "PASG",
+    "origin_chain": "passage",
+    "decimal": 6,
+    "description": "Passage Staking Coin",
+    "image": "common/pasg.png"
+  }
+]
