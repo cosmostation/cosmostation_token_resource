@@ -542,9 +542,9 @@
     "base_denom": "umntl",
     "base_type": "staking",
     "dp_denom": "MNTL",
-    "origin_chain": "assetmantle",
+    "origin_chain": "asset-mantle",
     "decimal": 6,
-    "path": "assetmantle>osmosis",
+    "path": "asset-mantle>osmosis",
     "channel": "channel-232",
     "port": "transfer",
     "counter_party": {
