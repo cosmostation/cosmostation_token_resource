@@ -2,7 +2,7 @@
   {
     "denom": "nanolike",
     "type": "staking",
-    "base_denom": "ulike",
+    "base_denom": "nanolike",
     "base_type": "staking",
     "dp_denom": "LIKE",
     "origin_chain": "likecoin",

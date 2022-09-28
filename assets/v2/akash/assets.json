@@ -166,7 +166,7 @@
   {
     "denom": "ibc/8DF58513AF8A608CD13929F5300EBCBD034FAFBA284691E8FC414A193F57529C",
     "type": "ibc",
-    "base_denom": "urowan",
+    "base_denom": "rowan",
     "base_type": "staking",
     "dp_denom": "ROWAN",
     "origin_chain": "sifchain",
@@ -177,7 +177,7 @@
     "counter_party": {
         "channel": "channel-2",
         "port": "transfer",
-        "denom": "urowan"
+        "denom": "rowan"
     },
     "image": "common/rowan.png",
     "coinGeckoId": "sifchain"

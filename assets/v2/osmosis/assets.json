@@ -24,14 +24,52 @@
     "coinGeckoId": "ion"
   },
   {
+    "denom": "ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4",
+    "type": "ibc",
+    "base_denom": "ustrd",
+    "base_type": "staking",
+    "dp_denom": "STRD",
+    "origin_chain": "stride",
+    "decimal": 6,
+    "path": "stride>osmosis",
+    "channel": "channel-326",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-5",
+        "port": "transfer",
+        "denom": "ustrd"
+    },
+    "image": "common/strd.png",
+    "coinGeckoId": "stride"
+  },
+  {
+    "denom": "ibc/C140AFD542AE77BD7DCC83F13FDD8C5E5BB8C4929785E6EC2F4C636F98F17901",
+    "type": "ibc",
+    "base_denom": "stuatom",
+    "base_type": "native",
+    "dp_denom": "stATOM",
+    "origin_chain": "stride",
+    "decimal": 6,
+    "path": "stride>osmosis",
+    "channel": "channel-326",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-5",
+        "port": "transfer",
+        "denom": "stuatom"
+    },
+    "image": "stride/statom.png",
+    "coinGeckoId": "stride-staked-atom"
+  },
+  {
     "denom": "ibc/9989AD6CCA39D1131523DB0617B50F6442081162294B4795E26746292467B525",
     "type": "ibc",
     "base_denom": "nanolike",
     "base_type": "staking",
     "dp_denom": "LIKE",
-    "origin_chain": "like",
+    "origin_chain": "likecoin",
     "decimal": 9,
-    "path": "like>osmosis",
+    "path": "likecoin>osmosis",
     "channel": "channel-53",
     "port": "transfer",
     "counter_party": {
@@ -504,9 +542,9 @@
     "base_denom": "umntl",
     "base_type": "staking",
     "dp_denom": "MNTL",
-    "origin_chain": "assetmantle",
+    "origin_chain": "asset-mantle",
     "decimal": 6,
-    "path": "assetmantle>osmosis",
+    "path": "asset-mantle>osmosis",
     "channel": "channel-232",
     "port": "transfer",
     "counter_party": {
@@ -781,7 +819,7 @@
         "denom": "inj"
     },
     "image": "common/inj.png",
-    "coinGeckoId": "inj"
+    "coinGeckoId": "injective-protocol"
   },
   {
     "denom": "ibc/1E09CB0F506ACF12FDE4683FB6B34DA62FB4BE122641E0D93AAF98A87675676C",
@@ -1233,5 +1271,24 @@
     },
     "image": "juno/bjuno.png",
     "contract": "juno1wwnhkagvcd3tjz6f8vsdsw5plqnw8qy2aj3rrhqr2axvktzv9q2qz8jxn3"
+  },
+  {
+    "denom": "ibc/18a676a074f73b9b42da4f9dfc8e5aef334c9a6636ddec8d34682f52f1decdf6",
+    "type": "ibc",
+    "base_denom": "seasy",
+    "base_type": "cw20",
+    "dp_denom": "SEASY",
+    "origin_chain": "juno",
+    "decimal": 6,
+    "path": "juno>osmosis",
+    "channel": "channel-169",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-47",
+        "port": "wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn",
+        "denom": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf"
+    },
+    "image": "juno/seasy.png",
+    "contract": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf"
   }
 ]
