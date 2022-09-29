@@ -165,5 +165,18 @@
             "twitter": "https://mobile.twitter.com/Hopers_io",
             "medium": "https://hopegalaxy.medium.com/"
         }
+    },
+    {
+        "title": "depub.space",
+        "description": "An Web3 decentralized Twitter on Likecoin.",
+        "logo": "https://avatars.githubusercontent.com/u/99318658",
+        "url": "https://depub.space",
+        "chain": "likecoin",
+        "badge": "NFT",
+        "links": {
+            "webSite": "https://depub.space",
+            "github": "https://github.com/depub-team/depub.space",
+            "twitter": "https://twitter.com/depubspace"
+        }
     }
 ]
