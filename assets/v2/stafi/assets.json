@@ -1,0 +1,13 @@
+[
+  {
+    "denom": "ufis",
+    "type": "staking",
+    "base_denom": "ufis",
+    "base_type": "staking",
+    "dp_denom": "FIS",
+    "origin_chain": "stafi",
+    "decimal": 6,
+    "description": "StaFi Staking Coin",
+    "image": "common/fis.png"
+  }
+]

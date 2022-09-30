@@ -111,6 +111,20 @@
         }
     },
     {
+        "title": "Liker.Land: Writing NFT",
+        "description": "Publish as you write. Collect as you read.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/likerland.png",
+        "url": "https://liker.land",
+        "chain": "likecoin",
+        "badge": "NFT",
+        "links": {
+            "webSite": "https://liker.land",
+            "github": "https://github.com/likecoin/liker-land",
+            "twitter": "https://twitter.com/likecoin",
+            "medium": "https://blog.like.co"
+        }
+    },
+    {
         "title": "Racoon.bet",
         "description": "Gaming platform offering fully integrated on-chain games within the Cosmos Ecosystem.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/racoon-bet.png",
@@ -136,6 +150,33 @@
             "github": "https://github.com/cosmostation",
             "twitter": "https://twitter.com/cosmostationvd",
             "medium": "https://medium.com/cosmostation"
+        }
+    },
+    {
+        "title": "Hopers.io",
+        "description": "An avenue for the evolution of DeFi & NFTs on Juno. The fully-permissionless DEX living in the Cosmos.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/hopers.png",
+        "url": "https://hopers.io/",
+        "chain": "juno",
+        "badge": "DEX + NFT Marketplace",
+        "links": {
+            "webSite": "https://hopers.io/",
+            "github": "https://github.com/HopersNFT",
+            "twitter": "https://mobile.twitter.com/Hopers_io",
+            "medium": "https://hopegalaxy.medium.com/"
+        }
+    },
+    {
+        "title": "depub.space",
+        "description": "An Web3 decentralized Twitter on Likecoin.",
+        "logo": "https://avatars.githubusercontent.com/u/99318658",
+        "url": "https://depub.space",
+        "chain": "likecoin",
+        "badge": "NFT",
+        "links": {
+            "webSite": "https://depub.space",
+            "github": "https://github.com/depub-team/depub.space",
+            "twitter": "https://twitter.com/depubspace"
         }
     }
 ]
