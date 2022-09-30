@@ -176,5 +176,12 @@
     "symbol": "LENO",
     "decimal": 6,
     "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/leno.png"
+  },
+  {
+    "chain": "juno",
+    "contract_address": "juno13926947pmrjly5p9hf5juey65c6rget0gqrnx3us3r6pvnpf4hwqm8mchy",
+    "symbol": "PUNK",
+    "decimal": 6,
+    "image": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/punk.png"
   }
 ]
