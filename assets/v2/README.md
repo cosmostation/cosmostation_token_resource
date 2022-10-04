@@ -90,7 +90,7 @@
       "origin_chain": "osmosis",
       "decimal": 6,
       "description": "Osmosis Staking Coin",
-      "image": "common/osmo.png", // in /assets/images/common/${your token image}
+      "image": "common/osmo.png",
       "coinGeckoId": "osmosis",
     },
     {
@@ -102,7 +102,7 @@
       "origin_chain": "osmosis",
       "decimal": 6,
       "description": "Native Coin",
-      "image": "osmosis/ion.png", // in /assets/images/${chain}/${your token image}
+      "image": "osmosis/ion.png",
       "coinGeckoId": "ion",
     },
   ]
@@ -129,7 +129,7 @@
           "port": "transfer",
           "denom": "uosmo"
       },
-      "image": "common/osmo.png", // base_denom의 이미지 경로 지정
+      "image": "common/osmo.png", // Set image route for base_denom
       "coinGeckoId": "osmosis"
     },
     // example IRIS
@@ -149,7 +149,7 @@
           "port": "transfer",
           "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
       },
-      "image": "ethereum/weth.png", // base_denom의 이미지 경로 지정
+      "image": "ethereum/weth.png", // Set image route for base_denom
       "coinGeckoId": "weth",
       "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
     }
@@ -204,7 +204,7 @@
       "origin_chain": "cosmos",
       "decimal": 6,
       "description": "pool/1",
-      "image": "cosmos/pool.png" // target 체인폴더 안에 pool 이미지 추가
+      "image": "cosmos/pool.png" // Add pool image in the target chain’s folder
     },
   ]
   ```
