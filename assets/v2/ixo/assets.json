@@ -1,0 +1,14 @@
+[
+  {
+    "denom": "uixo",
+    "type": "staking",
+    "base_denom": "uixo",
+    "base_type": "staking",
+    "dp_denom": "IXO",
+    "origin_chain": "uixo",
+    "decimal": 6,
+    "description": "Ixo Staking Coin",
+    "image": "common/ixo.png",
+    "coinGeckoId": "ixo"
+  }
+]
