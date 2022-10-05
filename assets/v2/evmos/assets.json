@@ -205,5 +205,24 @@
     "image": "ethereum/dai.png",
     "coinGeckoId": "dai",
     "contract": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+  },
+  {
+    "denom": "ibc/46AB1362B4446BCE0FD7D2F247FFCA8CC39BC6CA7AEAD03C77CABBD1CB41E5C9",
+    "type": "ibc",
+    "base_denom": "utgd",
+    "base_type": "staking",
+    "dp_denom": "TGD",
+    "origin_chain": "tgrade",
+    "decimal": 6,
+    "path": "tgrade>evmos",
+    "channel": "channel-34",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-9",
+        "port": "transfer",
+        "denom": "utgd"
+    },
+    "image": "common/tgrade.png",
+    "coinGeckoId": "tgrade"
   }
 ]
