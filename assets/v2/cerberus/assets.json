@@ -10,5 +10,25 @@
     "description": "Cerberus Staking Coin",
     "image": "common/crbrus.png",
     "coinGeckoId": "cerberus-2"
+  },
+  {
+    "denom": "bc/a10c7675236a1306078bf605af774d2212c67b465fcab142019c05167b60ca3f",
+    "type": "ibc",
+    "base_denom": "umedas",
+    "base_type": "staking",
+    "dp_denom": "MEDAS",
+    "origin_chain": "medas",
+    "decimal": 6,
+    "description": "Medas Staking Coin",
+    "path": "medas>cerberus",
+    "channel": "channel-7",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-4",
+        "port": "transfer",
+        "denom": "umedas"
+    },
+    "image": "common/medas.png",
+    "coinGeckoId": "medas"
   }
 ]
