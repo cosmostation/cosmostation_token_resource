@@ -1,0 +1,13 @@
+[
+  {
+    "denom": "anom",
+    "type": "staking",
+    "base_denom": "anom",
+    "base_type": "staking",
+    "dp_denom": "NOM",
+    "origin_chain": "onomy",
+    "decimal": 18,
+    "description": "Onomy Staking Coin",
+    "image": "common/nom.png"
+  }
+]
