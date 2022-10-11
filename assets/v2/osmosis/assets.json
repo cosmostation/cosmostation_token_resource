@@ -12,26 +12,6 @@
     "coinGeckoId": "osmosis"
   },
   {
-    "denom": "ibc/efd541707e35746895b8905ce13509b4c816728bfd7371b7a2384f5b28202751",
-    "type": "ibc",
-    "base_denom": "umedas",
-    "base_type": "staking",
-    "dp_denom": "MEDAS",
-    "origin_chain": "medas",
-    "decimal": 6,
-    "description": "Medas Staking Coin",
-    "path": "medas>osmosis",
-    "channel": "channel-356",
-    "port": "transfer",
-    "counter_party": {
-        "channel": "channel-0",
-        "port": "transfer",
-        "denom": "umedas"
-    },
-    "image": "common/medas.png",
-    "coinGeckoId": "medas"
-  }, 
-  {
     "denom": "uion",
     "type": "native",
     "base_denom": "uion",
