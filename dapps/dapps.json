@@ -139,11 +139,25 @@
         }
     },
     {
-        "title": "DropStation(GNO)",
+        "title": "DropStation",
         "description": "Airdrop aggregator for CØSMONAUTS.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/dropstation.png",
         "url": "https://dapps.cosmostation.io/airdrop",
         "chain": "cosmos",
+        "badge": "AGG",
+        "links": {
+            "webSite": "https://cosmostation.io",
+            "github": "https://github.com/cosmostation",
+            "twitter": "https://twitter.com/cosmostationvd",
+            "medium": "https://medium.com/cosmostation"
+        }
+    },
+    {
+        "title": "DropStation",
+        "description": "Airdrop aggregator for CØSMONAUTS.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/dropstation.png",
+        "url": "https://dapps.cosmostation.io/airdrop",
+        "chain": "evmos",
         "badge": "AGG",
         "links": {
             "webSite": "https://cosmostation.io",
