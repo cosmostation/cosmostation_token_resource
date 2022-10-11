@@ -12,26 +12,6 @@
     "coinGeckoId": "sentinel"
   },
   {
-    "denom": "ibc/5676a4bf80eced46e0e3b82d379b9fae57ea19fdb2906720c42d7bec980878e8",
-    "type": "ibc",
-    "base_denom": "umedas",
-    "base_type": "staking",
-    "dp_denom": "MEDAS",
-    "origin_chain": "medas",
-    "decimal": 6,
-    "description": "Medas Staking Coin",
-    "path": "medas>sentinel",
-    "channel": "channel-57",
-    "port": "transfer",
-    "counter_party": {
-        "channel": "channel-1",
-        "port": "transfer",
-        "denom": "umedas"
-    },
-    "image": "common/medas.png",
-    "coinGeckoId": "medas"
-  }, 
-  {
     "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
     "type": "ibc",
     "base_denom": "uatom",

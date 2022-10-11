@@ -12,26 +12,6 @@
     "coinGeckoId": "chihuahua-token"
   },
   {
-    "denom": "bc/881b09c071d2d60fe5521d6b0fa01008aed3957bc5f4acd370261f1f62f114a8",
-    "type": "ibc",
-    "base_denom": "umedas",
-    "base_type": "staking",
-    "dp_denom": "MEDAS",
-    "origin_chain": "medas",
-    "decimal": 6,
-    "description": "Medas Staking Coin", 
-    "path": "medas>chihuahua",
-    "channel": "channel-27",
-    "port": "transfer",
-    "counter_party": {
-        "channel": "channel-5",
-        "port": "transfer",
-        "denom": "umedas"
-    },
-    "image": "common/medas.png",
-    "coinGeckoId": "medas"
-  },
-  {
     "denom": "ibc/FAC1BAAA6ECDCB88408A6EEEA13AD4736DA687F85ACD22B5BBD00D36754AC0FA",
     "type": "ibc",
     "base_denom": "uosmo",
