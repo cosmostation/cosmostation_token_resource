@@ -1,4 +1,5 @@
 ## How to add your token info
+‼️ Please be noted that tokens of Testnets and unverified networks may not be merged to master.
 
 1. Fork this repo to your own github account
 
