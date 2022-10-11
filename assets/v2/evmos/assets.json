@@ -205,5 +205,24 @@
     "image": "ethereum/dai.png",
     "coinGeckoId": "dai",
     "contract": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+  },
+  {
+    "denom": "ibc/1FA2E811AA853A2AE028D82D490B1E967312DB871C9A40B19684FACB1DDD7881",
+    "type": "ibc",
+    "base_denom": "basecro",
+    "base_type": "staking",
+    "dp_denom": "CRO",
+    "origin_chain": "cryptoorg",
+    "decimal": 8,
+    "path": "cryptoorg>evmos",
+    "channel": "channel-31",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-57",
+        "port": "transfer",
+        "denom": "basecro"
+    },
+    "image": "common/cro.png",
+    "coinGeckoId": "crypto-com-chain"
   }
 ]
