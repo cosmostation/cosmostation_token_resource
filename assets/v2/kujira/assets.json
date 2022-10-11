@@ -1,0 +1,13 @@
+[
+  {
+    "denom": "ukuji",
+    "type": "staking",
+    "base_denom": "ukuji",
+    "base_type": "staking",
+    "dp_denom": "KUJI",
+    "origin_chain": "kujira",
+    "decimal": 6,
+    "description": "Kujira Staking Coin",
+    "image": "common/kuji.png"
+  }
+]
