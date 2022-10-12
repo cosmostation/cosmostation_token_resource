@@ -72,7 +72,7 @@
     "image": "stride/ststars.png"
   },
   {
-    "denom": "ibc/ibc/DA356E369C3E5CF6A9F1DCD99CE8ED55FBD595E676A5CF033CE784C060492D5A",
+    "denom": "ibc/DA356E369C3E5CF6A9F1DCD99CE8ED55FBD595E676A5CF033CE784C060492D5A",
     "type": "ibc",
     "base_denom": "ujuno",
     "base_type": "staking",
