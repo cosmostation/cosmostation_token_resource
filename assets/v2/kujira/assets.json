@@ -9,5 +9,36 @@
     "decimal": 6,
     "description": "Kujira Staking Coin",
     "image": "common/kuji.png"
+  },
+  {
+    "denom": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+    "type": "native",
+    "base_denom": "uusk",
+    "base_type": "native",
+    "dp_denom": "USK",
+    "origin_chain": "kujira",
+    "decimal": 6,
+    "description": "USK Stable Asset",
+    "image": "kujira/usk.png",
+    "coinGeckoId": "usk"
+  },
+  {
+    "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "path": "cosmos>kujira",
+    "channel": "channel-0",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-343",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "cosmos/atom.png",
+    "coinGeckoId": "cosmos"
   }
 ]
