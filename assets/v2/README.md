@@ -44,6 +44,8 @@
          - Make sure to upload a `png` file
      - `coinGeckoId` (optional)
        - Coin gecko site's API ID <ex) https://www.coingecko.com/en/coins/cosmos-hub -> API ID: cosmos>
+     - `price_denom` (optional)
+       - Denom for price
    - If the type is staking, provide the info below:
 
      - `description`
@@ -105,6 +107,20 @@
       "description": "Native Coin",
       "image": "osmosis/ion.png",
       "coinGeckoId": "ion",
+    },
+    // example KUJIRA
+    {
+      "denom": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+      "type": "native",
+      "base_denom": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+      "base_type": "native",
+      "dp_denom": "USK",
+      "origin_chain": "kujira",
+      "decimal": 6,
+      "description": "USK Stable Asset",
+      "image": "kujira/usk.png",
+      "coinGeckoId": "usk",
+      "price_denom": "uusk"
     },
   ]
   ```
