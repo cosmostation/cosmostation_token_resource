@@ -222,7 +222,7 @@
         "port": "transfer",
         "denom": "utgd"
     },
-    "image": "common/tgrade.png",
+    "image": "common/tgd.png",
     "coinGeckoId": "tgrade"
   },
   {
