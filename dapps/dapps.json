@@ -98,6 +98,19 @@
         }
     },
     {
+        "title": "DAODAO",
+        "description": "Simple, capable, and free DAO tooling.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/daodao.png",
+        "url": "https://daodao.zone/home",
+        "chain": "juno",
+        "badge": "DAO",
+        "links": {
+            "webSite": "https://daodao.zone",
+            "github": "https://github.com/DA0-DA0",
+            "twitter": "https://twitter.com/da0_da0"
+        }
+    },
+    {
         "title": "Coinhall",
         "description": "Realtime Charts, DEX Aggregator & Analytics.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/coinhall.png",
@@ -217,19 +230,6 @@
             "webSite": "https://umee.cc",
             "github": "https://github.com/umee-network",
             "twitter": "https://twitter.com/Umee_CrossChain"
-        }
-    },
-    {
-        "title": "DAODAO",
-        "description": "Simple, capable, and free DAO tooling.",
-        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/daodao.png",
-        "url": "https://daodao.zone/home",
-        "chain": "juno",
-        "badge": "DAO",
-        "links": {
-            "webSite": "https://daodao.zone",
-            "github": "https://github.com/DA0-DA0",
-            "twitter": "https://twitter.com/da0_da0"
         }
     }
 ]
