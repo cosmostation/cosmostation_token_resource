@@ -70,5 +70,35 @@
     "decimal": 6,
     "description": "Stride Staked Stars",
     "image": "stride/ststars.png"
+  },
+  {
+    "denom": "ibc/DA356E369C3E5CF6A9F1DCD99CE8ED55FBD595E676A5CF033CE784C060492D5A",
+    "type": "ibc",
+    "base_denom": "ujuno",
+    "base_type": "staking",
+    "dp_denom": "JUNO",
+    "origin_chain": "juno",
+    "decimal": 6,
+    "path": "juno>stride",
+    "channel": "channel-24",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-139",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "denom": "stujuno",
+    "type": "native",
+    "base_denom": "stujuno",
+    "base_type": "native",
+    "dp_denom": "stJUNO",
+    "origin_chain": "stride",
+    "decimal": 6,
+    "description": "Stride Staked Juno",
+    "image": "stride/stjuno.png"
   }
 ]

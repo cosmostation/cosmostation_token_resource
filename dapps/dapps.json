@@ -98,6 +98,19 @@
         }
     },
     {
+        "title": "DAODAO",
+        "description": "Simple, capable, and free DAO tooling.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/daodao.png",
+        "url": "https://daodao.zone/home",
+        "chain": "juno",
+        "badge": "DAO",
+        "links": {
+            "webSite": "https://daodao.zone",
+            "github": "https://github.com/DA0-DA0",
+            "twitter": "https://twitter.com/da0_da0"
+        }
+    },
+    {
         "title": "Coinhall",
         "description": "Realtime Charts, DEX Aggregator & Analytics.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/coinhall.png",
@@ -139,11 +152,25 @@
         }
     },
     {
-        "title": "DropStation(GNO)",
+        "title": "DropStation",
         "description": "Airdrop aggregator for CØSMONAUTS.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/dropstation.png",
         "url": "https://dapps.cosmostation.io/airdrop",
         "chain": "cosmos",
+        "badge": "AGG",
+        "links": {
+            "webSite": "https://cosmostation.io",
+            "github": "https://github.com/cosmostation",
+            "twitter": "https://twitter.com/cosmostationvd",
+            "medium": "https://medium.com/cosmostation"
+        }
+    },
+    {
+        "title": "DropStation",
+        "description": "Airdrop aggregator for CØSMONAUTS.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/dropstation.png",
+        "url": "https://dapps.cosmostation.io/airdrop",
+        "chain": "evmos",
         "badge": "AGG",
         "links": {
             "webSite": "https://cosmostation.io",
@@ -164,6 +191,45 @@
             "github": "https://github.com/HopersNFT",
             "twitter": "https://mobile.twitter.com/Hopers_io",
             "medium": "https://hopegalaxy.medium.com/"
+        }
+    },
+    {
+        "title": "depub.space",
+        "description": "An Web3 decentralized Twitter on Likecoin.",
+        "logo": "https://avatars.githubusercontent.com/u/99318658",
+        "url": "https://depub.space",
+        "chain": "likecoin",
+        "badge": "NFT",
+        "links": {
+            "webSite": "https://depub.space",
+            "github": "https://github.com/depub-team/depub.space",
+            "twitter": "https://twitter.com/depubspace"
+        }
+    },
+    {
+        "title": "Frontier OmniFlix Market",
+        "description": "Frontier is a Market UI on OmniFlix to bring you the latest features that might be tagged as features in testing and development.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/omniflix.png",
+        "url": "https://frontier.omniflix.market",
+        "chain": "omniflix",
+        "badge": "NFT Market",
+        "links": {
+            "webSite": "https://omniflix.network",
+            "github": "https://github.com/OmniFlix",
+            "twitter": "https://twitter.com/OmniFlixNetwork"
+        }
+    },
+    {
+        "title": "Umee",
+        "description": "Borrow and lend today.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/umeemarkets.png",
+        "url": "https://app.umee.cc",
+        "chain": "umee",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://umee.cc",
+            "github": "https://github.com/umee-network",
+            "twitter": "https://twitter.com/Umee_CrossChain"
         }
     }
 ]

@@ -542,9 +542,9 @@
     "base_denom": "umntl",
     "base_type": "staking",
     "dp_denom": "MNTL",
-    "origin_chain": "assetmantle",
+    "origin_chain": "asset-mantle",
     "decimal": 6,
-    "path": "assetmantle>osmosis",
+    "path": "asset-mantle>osmosis",
     "channel": "channel-232",
     "port": "transfer",
     "counter_party": {
@@ -605,7 +605,7 @@
     "channel": "channel-47",
     "port": "transfer",
     "counter_party": {
-        "channel": "channel-7",
+        "channel": "channel-17",
         "port": "transfer",
         "denom": "rowan"
     },
@@ -1290,5 +1290,62 @@
     },
     "image": "juno/seasy.png",
     "contract": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf"
+  },
+  {
+    "denom": "ibc/E09ED39F390EC51FA9F3F69BEA08B5BBE6A48B3057B2B1C3467FAAE9E58B021B",
+    "type": "ibc",
+    "base_denom": "acudos",
+    "base_type": "staking",
+    "dp_denom": "CUDOS",
+    "origin_chain": "cudos",
+    "decimal": 18,
+    "path": "cudos>osmosis",
+    "channel": "channel-298",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-1",
+        "port": "transfer",
+        "denom": "acudos"
+    },
+    "image": "common/cudos.png",
+    "coinGeckoId": "cudos"
+  },
+  {
+    "denom": "ibc/CE5BFF1D9BADA03BB5CCA5F56939392A761B53A10FBD03B37506669C3218D3B2",
+    "type": "ibc",
+    "base_denom": "nhash",
+    "base_type": "staking",
+    "dp_denom": "HASH",
+    "origin_chain": "provenance",
+    "decimal": 9,
+    "path": "provenance>osmosis",
+    "channel": "channel-222",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-7",
+        "port": "transfer",
+        "denom": "nhash"
+    },
+    "image": "common/hash.png",
+    "coinGeckoId": "provenance-blockchain"
+  },
+  {
+    "denom": "ibc/5A7C219BA5F7582B99629BA3B2A01A61BFDA0F6FD1FE95B5366F7334C4BC0580",
+    "type": "ibc",
+    "base_denom": "ucre",
+    "base_type": "staking",
+    "dp_denom": "CRE",
+    "origin_chain": "crescent",
+    "decimal": 6,
+    "path": "crescent>osmosis",
+    "channel": "channel-297",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-9",
+        "port": "transfer",
+        "denom": "ucre"
+    },
+    "image": "common/cre.png",
+    "coinGeckoId": "crescent-network"
   }
 ]
