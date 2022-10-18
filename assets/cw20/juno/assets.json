@@ -16,13 +16,6 @@
   },
   {
     "chain": "juno",
-    "contract_address": "juno10rktvmllvgctcmhl5vv8kl3mdksukyqf2tdveh8drpn0sppugwwqjzz30z",
-    "symbol": "TCOS",
-    "decimal": 0,
-    "image": "common/cw20-unknown.png"
-  },
-  {
-    "chain": "juno",
     "contract_address": "juno1pshrvuw5ng2q4nwcsuceypjkp48d95gmcgjdxlus2ytm4k5kvz2s7t9ldx",
     "symbol": "HULC",
     "decimal": 6,
