@@ -605,7 +605,7 @@
     "channel": "channel-47",
     "port": "transfer",
     "counter_party": {
-        "channel": "channel-7",
+        "channel": "channel-17",
         "port": "transfer",
         "denom": "rowan"
     },
