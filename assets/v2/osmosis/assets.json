@@ -1347,5 +1347,24 @@
     },
     "image": "common/cre.png",
     "coinGeckoId": "crescent-network"
+  },
+  {
+    "denom": "ibc/xxxxxx",
+    "type": "ibc",
+    "base_denom": "utori",
+    "base_type": "staking",
+    "dp_denom": "TORI",
+    "origin_chain": "teritori",
+    "decimal": 6,
+    "path": "teritori>osmosis",
+    "channel": "channel-362",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "utori"
+    },
+    "image": "common/tori.png",
+    "coinGeckoId": "teritori"
   }
 ]
