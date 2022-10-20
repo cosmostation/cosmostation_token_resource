@@ -8,6 +8,7 @@
     "origin_chain": "teritori",
     "decimal": 6,
     "description": "Teritori Staking Coin",
-    "image": "common/tori.png"
+    "image": "common/tori.png",
+    "coinGeckoId": "teritori"
   }
 ]
