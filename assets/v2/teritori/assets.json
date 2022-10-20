@@ -1,0 +1,13 @@
+[
+  {
+    "denom": "utori",
+    "type": "staking",
+    "base_denom": "utori",
+    "base_type": "staking",
+    "dp_denom": "TORI",
+    "origin_chain": "teritori",
+    "decimal": 6,
+    "description": "Teritori Staking Coin",
+    "image": "common/tori.png"
+  }
+]
