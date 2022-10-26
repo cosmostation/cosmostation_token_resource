@@ -1,7 +1,6 @@
 {
-	"base" : "1",
+	"base" : "0",
 	"rate" : [
-		"0.0uosmo",
 		"0.0025uosmo",
 		"0.025uosmo"
 	]
