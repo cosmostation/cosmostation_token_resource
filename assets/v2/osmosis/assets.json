@@ -86,7 +86,7 @@
     "base_denom": "ncheq",
     "base_type": "staking",
     "dp_denom": "CHEQ",
-    "origin_chain": "akash",
+    "origin_chain": "cheqd",
     "decimal": 9,
     "path": "cheqd>osmosis",
     "channel": "channel-108",
