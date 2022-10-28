@@ -538,7 +538,7 @@
     "coinGeckoId": "bitcanna"
   },
   {
-    "denom": "ibc/8870C4203CEBF2279BA065E3DE95FC3F8E05A4A93424E7DC707A21514BE353A0",
+    "denom": "ibc/6DCA2712C83907A4BDF45E7B3E0F75F4DD708B62C74975BFB9ACA9F333F7E7C8",
     "type": "ibc",
     "base_denom": "ukava",
     "base_type": "staking",
