@@ -1,0 +1,33 @@
+[
+    {
+      "denom": "utgd",
+      "type": "staking",
+      "base_denom": "utgd",
+      "base_type": "staking",
+      "dp_denom": "TGD",
+      "origin_chain": "tgrade",
+      "decimal": 6,
+      "description": "Tgrade Staking Coin",
+      "image": "common/tgd.png",
+      "coinGeckoId": "tgrade"
+    },
+    {
+        "denom": "ibc/4B322204B4F59D770680FE4D7A565DDC3F37BFF035474B717476C66A4F83DD72",
+        "type": "ibc",
+        "base_denom": "aevmos",
+        "base_type": "staking",
+        "dp_denom": "EVMOS",
+        "origin_chain": "evmos",
+        "decimal": 18,
+        "path": "evmos>tgrade",
+        "channel": "channel-9",
+        "port": "transfer",
+        "counter_party": {
+            "channel": "channel-34",
+            "port": "transfer",
+            "denom": "aevmos"
+        },
+        "image": "common/evmos.png",
+        "coinGeckoId": "evmos"
+    }
+]

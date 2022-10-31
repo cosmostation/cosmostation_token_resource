@@ -1,0 +1,200 @@
+[
+  {
+    "denom": "uaud",
+    "origin_denom": "uaud",
+    "origin_chain": "terra",
+    "origin_symbol": "AUT",
+    "display_symbol": "AUT",
+    "decimal": 6,
+    "logo": "aud.png"
+  },
+  {
+    "denom": "ucad",
+    "origin_denom": "ucad",
+    "origin_chain": "terra",
+    "origin_symbol": "CAT",
+    "display_symbol": "CAT",
+    "decimal": 6,
+    "logo": "cad.png"
+  },
+  {
+    "denom": "uchf",
+    "origin_denom": "uchf",
+    "origin_chain": "terra",
+    "origin_symbol": "CHT",
+    "display_symbol": "CHT",
+    "decimal": 6,
+    "logo": "chf.png"
+  },
+  {
+    "denom": "ucny",
+    "origin_denom": "ucny",
+    "origin_chain": "terra",
+    "origin_symbol": "CNT",
+    "display_symbol": "CNT",
+    "decimal": 6,
+    "logo": "cny.png"
+  },
+  {
+    "denom": "udkk",
+    "origin_denom": "udkk",
+    "origin_chain": "terra",
+    "origin_symbol": "DKT",
+    "display_symbol": "DKT",
+    "decimal": 6,
+    "logo": "dkk.png"
+  },
+  {
+    "denom": "ueur",
+    "origin_denom": "ueur",
+    "origin_chain": "terra",
+    "origin_symbol": "EUT",
+    "display_symbol": "EUT",
+    "decimal": 6,
+    "logo": "eur.png"
+  },
+  {
+    "denom": "ugbp",
+    "origin_denom": "ugbp",
+    "origin_chain": "terra",
+    "origin_symbol": "GBT",
+    "display_symbol": "GBT",
+    "decimal": 6,
+    "logo": "gbp.png"
+  },
+  {
+    "denom": "uhkd",
+    "origin_denom": "uhkd",
+    "origin_chain": "terra",
+    "origin_symbol": "HKT",
+    "display_symbol": "HKT",
+    "decimal": 6,
+    "logo": "hkd.png"
+  },
+  {
+    "denom": "uidr",
+    "origin_denom": "uidr",
+    "origin_chain": "terra",
+    "origin_symbol": "IDT",
+    "display_symbol": "IDT",
+    "decimal": 6,
+    "logo": "idr.png"
+  },
+  {
+    "denom": "uinr",
+    "origin_denom": "uinr",
+    "origin_chain": "terra",
+    "origin_symbol": "INT",
+    "display_symbol": "INT",
+    "decimal": 6,
+    "logo": "inr.png"
+  },
+  {
+    "denom": "ujpy",
+    "origin_denom": "ujpy",
+    "origin_chain": "terra",
+    "origin_symbol": "JPT",
+    "display_symbol": "JPT",
+    "decimal": 6,
+    "logo": "jpy.png"
+  },
+  {
+    "denom": "umnt",
+    "origin_denom": "umnt",
+    "origin_chain": "terra",
+    "origin_symbol": "MNT",
+    "display_symbol": "MNT",
+    "decimal": 6,
+    "logo": "mnt.png"
+  },
+  {
+    "denom": "umyr",
+    "origin_denom": "umyr",
+    "origin_chain": "terra",
+    "origin_symbol": "MYT",
+    "display_symbol": "MYT",
+    "decimal": 6,
+    "logo": "myr.png"
+  },
+  {
+    "denom": "unok",
+    "origin_denom": "unok",
+    "origin_chain": "terra",
+    "origin_symbol": "NOT",
+    "display_symbol": "NOT",
+    "decimal": 6,
+    "logo": "nok.png"
+  },
+  {
+    "denom": "uphp",
+    "origin_denom": "uphp",
+    "origin_chain": "terra",
+    "origin_symbol": "PHT",
+    "display_symbol": "PHT",
+    "decimal": 6,
+    "logo": "php.png"
+  },
+  {
+    "denom": "usdr",
+    "origin_denom": "usdr",
+    "origin_chain": "terra",
+    "origin_symbol": "SDT",
+    "display_symbol": "SDT",
+    "decimal": 6,
+    "logo": "sdr.png"
+  },
+  {
+    "denom": "usek",
+    "origin_denom": "usek",
+    "origin_chain": "terra",
+    "origin_symbol": "SET",
+    "display_symbol": "SET",
+    "decimal": 6,
+    "logo": "sek.png"
+  },
+  {
+    "denom": "usgd",
+    "origin_denom": "usgd",
+    "origin_chain": "terra",
+    "origin_symbol": "SGT",
+    "display_symbol": "SGT",
+    "decimal": 6,
+    "logo": "sgd.png"
+  },
+  {
+    "denom": "uthb",
+    "origin_denom": "uthb",
+    "origin_chain": "terra",
+    "origin_symbol": "THT",
+    "display_symbol": "THT",
+    "decimal": 6,
+    "logo": "thb.png"
+  },
+  {
+    "denom": "utwd",
+    "origin_denom": "utwd",
+    "origin_chain": "terra",
+    "origin_symbol": "TWT",
+    "display_symbol": "TWT",
+    "decimal": 6,
+    "logo": "twd.png"
+  },
+  {
+    "denom": "ukrw",
+    "origin_denom": "ukrw",
+    "origin_chain": "terra",
+    "origin_symbol": "KRT",
+    "display_symbol": "KRT",
+    "decimal": 6,
+    "logo": "krw.png"
+  },
+  {
+    "denom": "uusd",
+    "origin_denom": "uusd",
+    "origin_chain": "terra",
+    "origin_symbol": "UST",
+    "display_symbol": "UST",
+    "decimal": 6,
+    "logo": "usd.png"
+  }
+]

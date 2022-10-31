@@ -1,0 +1,104 @@
+[
+  {
+    "denom": "ufis",
+    "type": "staking",
+    "base_denom": "ufis",
+    "base_type": "staking",
+    "dp_denom": "FIS",
+    "origin_chain": "stafi",
+    "decimal": 6,
+    "description": "StaFi Staking Coin",
+    "image": "common/fis.png"
+  },
+  {
+    "denom": "uratom",
+    "type": "native",
+    "base_denom": "uatom",
+    "base_type": "native",
+    "dp_denom": "rATOM",
+    "origin_chain": "stafi",
+    "decimal": 6,
+    "description": "Stafi Staked Atom",
+    "image": "stafi/ratom.png",
+    "coinGeckoId": "stafi-ratom"
+  },
+  {
+    "denom": "uriris",
+    "type": "native",
+    "base_denom": "uiris",
+    "base_type": "native",
+    "dp_denom": "rIRIS",
+    "origin_chain": "stafi",
+    "decimal": 6,
+    "description": "Stafi Staked Iris",
+    "image": "stafi/riris.png"
+  },
+  {
+    "denom": "urhuahua",
+    "type": "native",
+    "base_denom": "uhuahua",
+    "base_type": "native",
+    "dp_denom": "rHUAHUA",
+    "origin_chain": "stafi",
+    "decimal": 6,
+    "description": "Stafi Staked Huahua",
+    "image": "stafi/rhuahua.png"
+  },
+  {
+    "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "path": "cosmos>stafi",
+    "channel": "channel-0",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-369",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "denom": "ibc/89B8CC5467F9D02C505E598C4191F1B086DD83F3EBE9A67620A02BB409B9734C",
+    "type": "ibc",
+    "base_denom": "uiris",
+    "base_type": "staking",
+    "dp_denom": "IRIS",
+    "origin_chain": "iris",
+    "decimal": 6,
+    "path": "iris>stafi",
+    "channel": "channel-3",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-33",
+        "port": "transfer",
+        "denom": "uiris"
+    },
+    "image": "common/iris.png",
+    "coinGeckoId": "iris-network"
+  },
+  {
+    "denom": "ibc/B5C5ADF9955FF42C1AD0C2B8924256DDBC91BD57E4AD232803419266661D3BDC",
+    "type": "ibc",
+    "base_denom": "uhuahua",
+    "base_type": "staking",
+    "dp_denom": "HUAHUA",
+    "origin_chain": "chihuahua",
+    "decimal": 6,
+    "path": "chihuahua>stafi",
+    "channel": "channel-4",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-25",
+        "port": "transfer",
+        "denom": "uhuahua"
+    },
+    "image": "common/huahua.png",
+    "coinGeckoId": "chihuahua-token"
+  }
+]
