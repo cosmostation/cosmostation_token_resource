@@ -1,0 +1,109 @@
+[
+  {
+    "denom": "basecro",
+    "type": "staking",
+    "base_denom": "basecro",
+    "base_type": "staking",
+    "dp_denom": "CRO",
+    "origin_chain": "crypto-org",
+    "decimal": 8,
+    "description": "Cronos",
+    "image": "common/cro.png",
+    "coinGeckoId": "crypto-com-chain"
+  },
+  {
+    "denom": "ibc/67E8B26BE190FB3F191DA72D6A390DB7DFA6E92C99CB37644DECBEBD2A075C41",
+    "type": "ibc",
+    "base_denom": "rowan",
+    "base_type": "staking",
+    "dp_denom": "ROWAN",
+    "origin_chain": "sifchain",
+    "decimal": 18,
+    "path": "sifchain>crypto-org",
+    "channel": "channel-33",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-9",
+        "port": "transfer",
+        "denom": "rowan"
+    },
+    "image": "common/rowan.png",
+    "coinGeckoId": "sifchain"
+  },
+  {
+    "denom": "ibc/B5919B1B65A79F595F71D2E8306FD1FB70B969A268230E745A6DBE86F1060D58",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "path": "cosmos>crypto-org",
+    "channel": "channel-27",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-187",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "denom": "ibc/0433997003A2CFE10E483B93743BEC37F2F13B89854FD69599482E6DB8E6CE22",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>crypto-org",
+    "channel": "channel-10",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-5",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
+  },
+  {
+    "denom": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>crypto-org",
+    "channel": "channel-10",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-5",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "denom": "ibc/80D5E86278CE910A7A9653CCA7DEB62C817E07AF9C0C657B43191C43DE60B107",
+    "type": "ibc",
+    "base_denom": "aevmos",
+    "base_type": "staking",
+    "dp_denom": "EVMOS",
+    "origin_chain": "evmos",
+    "decimal": 18,
+    "path": "evmos>crypto-org",
+    "channel": "channel-57",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-31",
+        "port": "transfer",
+        "denom": "aevmos"
+    },
+    "image": "common/evmos.png",
+    "coinGeckoId": "evmos"
+  }
+]
