@@ -207,6 +207,19 @@
         }
     },
     {
+        "title": "OmniFlix Market",
+        "description": "OmniFlix Market is the destination for NFT creators, communities & curators to list & collect NFTs in Fixed Price Listings or Timed Auctions in various IBC tokens.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/omniflix.png",
+        "url": "https://omniflix.market",
+        "chain": "omniflix",
+        "badge": "NFT Market",
+        "links": {
+            "webSite": "https://omniflix.network",
+            "github": "https://github.com/OmniFlix",
+            "twitter": "https://twitter.com/OmniFlixNetwork"
+        }
+    },
+    {
         "title": "Frontier OmniFlix Market",
         "description": "Frontier is a Market UI on OmniFlix to bring you the latest features that might be tagged as features in testing and development.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/omniflix.png",
