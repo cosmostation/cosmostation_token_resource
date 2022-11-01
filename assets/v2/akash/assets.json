@@ -112,7 +112,7 @@
     "base_denom": "usdx",
     "base_type": "native",
     "dp_denom": "USDX",
-    "origin_chain": "usdx",
+    "origin_chain": "kava",
     "decimal": 6,
     "path": "kava>akash",
     "channel": "channel-37",
