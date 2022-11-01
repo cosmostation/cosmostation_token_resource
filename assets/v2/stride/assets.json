@@ -100,5 +100,16 @@
     "decimal": 6,
     "description": "Stride Staked Juno",
     "image": "stride/stjuno.png"
+  },
+  {
+    "denom": "stuosmo",
+    "type": "native",
+    "base_denom": "stuosmo",
+    "base_type": "native",
+    "dp_denom": "stOSMO",
+    "origin_chain": "stride",
+    "decimal": 6,
+    "description": "Stride Staked Osmo",
+    "image": "stride/stosmo.png"
   }
 ]
