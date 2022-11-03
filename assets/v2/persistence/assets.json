@@ -16,7 +16,7 @@
     "type": "native",
     "base_denom": "stk/uatom",
     "base_type": "native",
-    "dp_denom": "STKATOM",
+    "dp_denom": "stkATOM",
     "origin_chain": "persistence",
     "decimal": 6,
     "description": "PSTAKE Liquid-Staked ATOM",
