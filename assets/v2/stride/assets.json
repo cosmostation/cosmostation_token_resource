@@ -111,5 +111,24 @@
     "decimal": 6,
     "description": "Stride Staked Osmo",
     "image": "stride/stosmo.png"
+  },
+  {
+    "denom": "ibc/D24B4564BCD51D3D02D9987D92571EAC5915676A9BD6D9B0C1D0254CB8A5EA34",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>stride",
+    "channel": "channel-5",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-326",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
   }
 ]
