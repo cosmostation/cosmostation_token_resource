@@ -1,0 +1,12 @@
+[
+  {
+    "type": "0x1::aptos_coin::AptosCoin",
+    "official_name": "Aptos Coin",
+    "official_symbol": "APT",
+    "name": "Aptos Coin",
+    "symbol": "APT",
+    "decimals": 8,
+    "coingecko_id": "aptos",
+    "image": ""
+  }
+]
