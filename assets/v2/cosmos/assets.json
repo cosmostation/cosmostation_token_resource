@@ -673,10 +673,10 @@
   {
     "denom": "ibc/DB9AAADFBE21E014373EF97141D451F453B9B9A2C8B65F5CF8E7CE57531B6850",
     "type": "ibc",
-    "base_denom": "basecro",
+    "base_denom": "transfer/channel-31/basecro",
     "base_type": "staking",
     "dp_denom": "CRO",
-    "origin_chain": "cryptoorg",
+    "origin_chain": "evmos",
     "decimal": 8,
     "path": "cryptoorg>evmos>cosmos",
     "channel": "channel-292",
