@@ -130,24 +130,5 @@
     },
     "image": "common/osmo.png",
     "coinGeckoId": "osmosis"
-  },
-  {
-    "denom": "ibc/2475196A6E87EEA47C8878EDE62E99C0FAA14A81B83165E4121E776622EF59BE",
-    "type": "ibc",
-    "base_denom": "basecro",
-    "base_type": "staking",
-    "dp_denom": "CRO",
-    "origin_chain": "cryptoorg",
-    "decimal": 8,
-    "path": "cryptoorg>osmosis>stride",
-    "channel": "channel-5",
-    "port": "transfer",
-    "counter_party": {
-        "channel": "channel-326",
-        "port": "transfer",
-        "denom": "basecro"
-    },
-    "image": "common/cro.png",
-    "coinGeckoId": "crypto-com-chain"
   }
 ]
