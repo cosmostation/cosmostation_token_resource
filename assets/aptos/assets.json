@@ -8,7 +8,7 @@
     "symbol": "APT",
     "decimals": 8,
     "coinGeckoId": "aptos",
-    "image": ""
+    "image": "aptos/aptos.png"
   },
   {
     "chainId": 1,
@@ -19,7 +19,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "coinGeckoId": "usd-coin",
-    "image": ""
+    "image": "ethereum/usdc.png"
   },
   {
     "chainId": 1,
@@ -30,7 +30,7 @@
     "symbol": "USDCso",
     "decimals": 6,
     "coinGeckoId": "usd-coin",
-    "image": ""
+    "image": "ethereum/usdc.png"
   },
   {
     "chainId": 1,
@@ -41,6 +41,6 @@
     "symbol": "zUSDC",
     "decimals": 6,
     "coinGeckoId": "usd-coin",
-    "image": ""
+    "image": "ethereum/usdc.png"
   }
 ]
