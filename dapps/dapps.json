@@ -28,12 +28,29 @@
         }
     },
     {
+        "title": "Cosmon",
+        "description": "Build a team of leaders, collect cards, fight to earn! The first NFT Play to Earn on Cosmos",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/cosmon.png",
+        "url": "https://cosmon.ki",
+        "chain": "kichain",
+        "badge": "PLAY-AND-EARN",
+        "links": {
+            "webSite": "https://cosmon.ki",
+            "twitter": "https://twitter.com/PlayCosmon",
+            "medium": "https://medium.com/@malek_97480"
+        }
+    },
+    {
         "title": "Kava",
         "description": "Swap, mint, lend and earn on Kava, a lightning-fast Layer-1 blockchain that combines Cosmos & Ethereum.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/kava.png",
         "url": "https://app.kava.io",
         "chain": "kava",
-        "os": ["ios", "android", "chrome"],
+        "os": [
+            "ios",
+            "android",
+            "chrome"
+        ],
         "badge": "Defi",
         "links": {
             "webSite": "https://kava.io",
@@ -95,6 +112,19 @@
             "github": "https://github.com/osmosis-labs",
             "twitter": "https://twitter.com/osmosiszone",
             "medium": "https://medium.com/osmosis"
+        }
+    },
+    {
+        "title": "DAODAO",
+        "description": "Simple, capable, and free DAO tooling.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/daodao.png",
+        "url": "https://daodao.zone/home",
+        "chain": "juno",
+        "badge": "DAO",
+        "links": {
+            "webSite": "https://daodao.zone",
+            "github": "https://github.com/DA0-DA0",
+            "twitter": "https://twitter.com/da0_da0"
         }
     },
     {
@@ -194,6 +224,19 @@
         }
     },
     {
+        "title": "OmniFlix Market",
+        "description": "OmniFlix Market is the destination for NFT creators, communities & curators to list & collect NFTs in Fixed Price Listings or Timed Auctions in various IBC tokens.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/omniflix.png",
+        "url": "https://omniflix.market",
+        "chain": "omniflix",
+        "badge": "NFT Market",
+        "links": {
+            "webSite": "https://omniflix.network",
+            "github": "https://github.com/OmniFlix",
+            "twitter": "https://twitter.com/OmniFlixNetwork"
+        }
+    },
+    {
         "title": "Frontier OmniFlix Market",
         "description": "Frontier is a Market UI on OmniFlix to bring you the latest features that might be tagged as features in testing and development.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/omniflix.png",
@@ -204,6 +247,33 @@
             "webSite": "https://omniflix.network",
             "github": "https://github.com/OmniFlix",
             "twitter": "https://twitter.com/OmniFlixNetwork"
+        }
+    },
+    {
+        "title": "Umee",
+        "description": "Borrow and lend today.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/umeemarkets.png",
+        "url": "https://app.umee.cc",
+        "chain": "umee",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://umee.cc",
+            "github": "https://github.com/umee-network",
+            "twitter": "https://twitter.com/Umee_CrossChain"
+        }
+    },
+    {
+        "title": "Racoon.bet",
+        "description": "Gaming platform offering fully integrated on-chain games within the Cosmos Ecosystem.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/racoon-bet.png",
+        "url": "https://chihuahua.racoon.bet/",
+        "chain": "chihuahua",
+        "badge": "Gaming",
+        "links": {
+            "webSite": "https://www.racoon.bet",
+            "github": "https://github.com/racoon-supply-rac",
+            "twitter": "https://twitter.com/RacoonSupply",
+            "medium": "https://medium.com/@racoon-supply"
         }
     }
 ]

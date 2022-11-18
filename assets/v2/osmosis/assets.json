@@ -86,7 +86,7 @@
     "base_denom": "ncheq",
     "base_type": "staking",
     "dp_denom": "CHEQ",
-    "origin_chain": "akash",
+    "origin_chain": "cheqd",
     "decimal": 9,
     "path": "cheqd>osmosis",
     "channel": "channel-108",
@@ -605,7 +605,7 @@
     "channel": "channel-47",
     "port": "transfer",
     "counter_party": {
-        "channel": "channel-7",
+        "channel": "channel-17",
         "port": "transfer",
         "denom": "rowan"
     },
@@ -1016,6 +1016,25 @@
     "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
   },
   {
+    "denom": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E",
+    "type": "ibc",
+    "base_denom": "uaxl",
+    "base_type": "staking",
+    "dp_denom": "AXL",
+    "origin_chain": "axelar",
+    "decimal": 6,
+    "path": "axelar>osmosis",
+    "channel": "channel-208",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "uaxl"
+    },
+    "image": "common/axl.png",
+    "coinGeckoId": "axelar"
+  },
+  {
     "denom": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
     "type": "ibc",
     "base_denom": "usdc",
@@ -1347,5 +1366,42 @@
     },
     "image": "common/cre.png",
     "coinGeckoId": "crescent-network"
+  },
+  {
+    "denom": "ibc/EB7FB9C8B425F289B63703413327C2051030E848CE4EAAEA2E51199D6D39D3EC",
+    "type": "ibc",
+    "base_denom": "utori",
+    "base_type": "staking",
+    "dp_denom": "TORI",
+    "origin_chain": "teritori",
+    "decimal": 6,
+    "path": "teritori>osmosis",
+    "channel": "channel-362",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "utori"
+    },
+    "image": "common/tori.png",
+    "coinGeckoId": "teritori"
+  },
+  {
+    "denom": "ibc/D176154B0C63D1F9C6DCFB4F70349EBF2E2B5A87A05902F57A6AE92B863E9AEC",
+    "type": "ibc",
+    "base_denom": "stuosmo",
+    "base_type": "native",
+    "dp_denom": "stOSMO",
+    "origin_chain": "stride",
+    "decimal": 6,
+    "path": "stride>osmosis",
+    "channel": "channel-326",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-5",
+        "port": "transfer",
+        "denom": "stuosmo"
+    },
+    "image": "stride/stosmo.png"   
   }
 ]

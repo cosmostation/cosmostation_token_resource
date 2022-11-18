@@ -264,9 +264,9 @@
     "base_denom": "ubcna",
     "base_type": "staking",
     "dp_denom": "BCNA",
-    "path": "bitcanna",
+    "origin_chain": "bitcanna",
     "decimal": 6,
-    "description": "bitcanna>juno",
+    "path": "bitcanna>juno",
     "channel": "channel-50",
     "port": "transfer",
     "counter_party": {

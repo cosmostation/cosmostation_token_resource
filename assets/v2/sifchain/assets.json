@@ -207,9 +207,9 @@
     "base_denom": "basecro",
     "base_type": "staking",
     "dp_denom": "CRO",
-    "origin_chain": "cryotoorg",
+    "origin_chain": "cryptoorg",
     "decimal": 8,
-    "path": "cryotoorg>sifchain",
+    "path": "cryptoorg>sifchain",
     "channel": "channel-9",
     "port": "transfer",
     "counter_party": {

@@ -1,0 +1,14 @@
+[
+  {
+    "denom": "uiss",
+    "type": "staking",
+    "base_denom": "uiss",
+    "base_type": "staking",
+    "dp_denom": "ISS",
+    "origin_chain": "station",
+    "decimal": 6,
+    "description": "Station Staking Coin",
+    "image": "common/iss.png",
+    "coinGeckoId": ""
+  }
+]
