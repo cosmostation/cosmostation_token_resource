@@ -21,6 +21,7 @@
     "decimal": 6,
     "path": "juno>comdex",
     "channel": "channel-18",
+    "port": "transfer",
     "counter_party": {
         "channel": "channel-36",
         "port": "transfer",
@@ -39,6 +40,7 @@
     "decimal": 6,
     "path": "osmosis>comdex",
     "channel": "channel-1",
+    "port": "transfer",
     "counter_party": {
         "channel": "channel-87",
         "port": "transfer",
@@ -57,6 +59,7 @@
     "decimal": 6,
     "path": "osmosis>comdex",
     "channel": "channel-1",
+    "port": "transfer",
     "counter_party": {
         "channel": "channel-87",
         "port": "transfer",
