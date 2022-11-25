@@ -91,5 +91,24 @@
     },
     "image": "osmosis/ion.png",
     "coinGeckoId": "ion"
+  },
+  {
+    "denom": "ibc/961FA3E54F5DCCA639F37A7C45F7BBE41815579EF1513B5AFBEFCFEB8F256352",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "path": "cosmos>comdex",
+    "channel": "channel-37",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-400",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   }
 ]
