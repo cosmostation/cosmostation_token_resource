@@ -12,6 +12,30 @@
     "coinGeckoId": "comdex"
   },
   {
+    "denom": "uharbor",
+    "type": "native",
+    "base_denom": "uharbor",
+    "base_type": "native",
+    "dp_denom": "HARBOR",
+    "origin_chain": "comdex",
+    "decimal": 6,
+    "description": "Harbor Protocol Governance Token",
+    "image": "comdex/harbor.png",
+    "coinGeckoId": ""
+  },
+  {
+    "denom": "ucmst",
+    "type": "native",
+    "base_denom": "ucmst",
+    "base_type": "native",
+    "dp_denom": "CMST",
+    "origin_chain": "comdex",
+    "decimal": 6,
+    "description": "Harbor Protocol Stablecoin",
+    "image": "comdex/cmst.png",
+    "coinGeckoId": ""
+  },
+  {
     "denom": "ibc/167E3D88D71B7D2F6308D3EF93FC3DD51932B2D9672D72B71418F61CBC5F5717",
     "type": "ibc",
     "base_denom": "ujuno",
