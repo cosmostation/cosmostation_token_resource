@@ -24,5 +24,23 @@
     "decimals": 18,
     "logoURI": "evmos/diff.png",
     "coinGeckoId": "diffusion"
+  },
+  {
+    "chainId": 9001,
+    "address": "0x47685B6AC7bB4de761A57828877A7B8254c8B145",
+    "name": "Evmos Domains",
+    "symbol": "EVD",
+    "decimals": 18,
+    "logoURI": "evmos/evd.png",
+    "coinGeckoId": "evmos-domains"
+  },
+  {
+    "chainId": 9001,
+    "address": "0xBbD37BF85f7474b5bDe689695674faB1888565Ad",
+    "name": "OAV",
+    "symbol": "OAV",
+    "decimals": 18,
+    "logoURI": "evmos/oav.png",
+    "coinGeckoId": ""
   }
 ]
