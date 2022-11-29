@@ -42,5 +42,14 @@
     "decimals": 18,
     "logoURI": "evmos/emo.png",
     "coinGeckoId": "evmoswap"
+  },
+  {
+    "chainId": 9001,
+    "address": "0xBbD37BF85f7474b5bDe689695674faB1888565Ad",
+    "name": "OAV",
+    "symbol": "OAV",
+    "decimals": 18,
+    "logoURI": "evmos/oav.png",
+    "coinGeckoId": ""
   }
 ]
