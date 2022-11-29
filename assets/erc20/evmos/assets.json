@@ -36,11 +36,11 @@
   },
   {
     "chainId": 9001,
-    "address": "0xBbD37BF85f7474b5bDe689695674faB1888565Ad",
-    "name": "OAV",
-    "symbol": "OAV",
+    "address": "0x181C262b973B22C307C646a67f64B76410D19b6B",
+    "name": "EvmoSwap Token",
+    "symbol": "EMO",
     "decimals": 18,
-    "logoURI": "evmos/oav.png",
-    "coinGeckoId": ""
+    "logoURI": "evmos/emo.png",
+    "coinGeckoId": "evmoswap"
   }
 ]
