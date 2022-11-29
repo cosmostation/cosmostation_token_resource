@@ -51,5 +51,32 @@
     "decimals": 18,
     "logoURI": "evmos/oav.png",
     "coinGeckoId": ""
+  },
+  {
+    "chainId": 9001,
+    "address": "0xe46910336479F254723710D57e7b683F3315b22B",
+    "name": "USD Coin (Celer)",
+    "symbol": "ceUSDC",
+    "decimals": 6,
+    "logoURI": "ethereum/usdc.png",
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": 9001,
+    "address": "0xb72A7567847abA28A2819B855D7fE679D4f59846",
+    "name": "Tether USD (Celer)",
+    "symbol": "ceUSDT",
+    "decimals": 6,
+    "logoURI": "ethereum/usdt.png",
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": 9001,
+    "address": "0x940dAAbA3F713abFabD79CdD991466fe698CBe54",
+    "name": "Dai Stablecoin (Celer)",
+    "symbol": "ceDAI",
+    "decimals": 18,
+    "logoURI": "ethereum/dai.png",
+    "coinGeckoId": ""
   }
 ]
