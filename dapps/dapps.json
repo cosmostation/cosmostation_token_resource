@@ -14,6 +14,34 @@
         }
     },
     {
+        "title": "Cosmos Sign Example",
+        "description": "Cosmostation Dapp Cosmos Example",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/stamper/logo_256x256.png",
+        "url": "https://cosmos-example.dev.cosmostation.io",
+        "chain": "station",
+        "badge": "EXAMPLE",
+        "links": {
+            "webSite": "https://cosmostation.io",
+            "github": "https://github.com/cosmostation",
+            "twitter": "https://twitter.com/cosmostationvd",
+            "medium": "https://medium.com/cosmostation"
+        }
+    },
+    {
+        "title": "Cosmos WalletConnect 2.0 Example",
+        "description": "Cosmostation Dapp Cosmos WalletConnect 2.0 Example",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/stamper/logo_256x256.png",
+        "url": "https://cosmos-wcv2-example.dev.cosmostation.io",
+        "chain": "station",
+        "badge": "EXAMPLE",
+        "links": {
+            "webSite": "https://cosmostation.io",
+            "github": "https://github.com/cosmostation",
+            "twitter": "https://twitter.com/cosmostationvd",
+            "medium": "https://medium.com/cosmostation"
+        }
+    },
+    {
         "title": "Crescent",
         "description": "Swap, earn, and stake on a capital-efficient AMM/orderbook hybrid DEX.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/crescent.png",
