@@ -20,6 +20,7 @@
     "origin_chain": "fetchai",
     "decimal": 9,
     "description": "Native Coin",
-    "image": "fetchai/mobx.png"
+    "image": "fetchai/mobx.png",
+    "coinGeckoId": "mobix"
   }
 ]
