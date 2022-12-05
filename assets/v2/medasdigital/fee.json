@@ -1,0 +1,8 @@
+{
+	"base" : "1",
+	"rate" : [
+		"0.0umedas",
+		"0.025umedas",
+		"0.1umedas"
+	]
+}

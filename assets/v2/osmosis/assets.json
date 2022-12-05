@@ -24,6 +24,25 @@
     "coinGeckoId": "ion"
   },
   {
+    "denom": "ibc/ce90fb06c2afa74d96fc8e06681236e24b6a22da7e3d1a9d09551daf3c28cb40",
+    "type": "ibc",
+    "base_denom": "umedas",
+    "base_type": "staking",
+    "dp_denom": "MEDAS",
+    "origin_chain": "medasdigital",
+    "decimal": 6,
+    "path": "medasdigital->osmosis",
+    "channel": "channel-516",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "umedas"
+    },
+    "image": "common/medas.png",
+    "coinGeckoId": "medasdigital"
+  },
+  {
     "denom": "ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4",
     "type": "ibc",
     "base_denom": "ustrd",
