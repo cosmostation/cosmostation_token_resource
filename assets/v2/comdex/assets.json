@@ -116,7 +116,7 @@
     "type": "ibc",
     "base_denom": "usdc",
     "base_type": "erc20",
-    "dp_denom": "ATOM",
+    "dp_denom": "axlUSDC",
     "origin_chain": "ethereum",
     "decimal": 6,
     "path": "ethereum>axelar>comdex",
