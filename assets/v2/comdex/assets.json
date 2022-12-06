@@ -110,5 +110,24 @@
     },
     "image": "common/atom.png",
     "coinGeckoId": "cosmos"
+  },
+  {
+    "denom": "ibc/E1616E7C19EA474C565737709A628D6F8A23FF9D3E9A7A6871306CF5E0A5341E",
+    "type": "ibc",
+    "base_denom": "usdc",
+    "base_type": "erc20",
+    "dp_denom": "ATOM",
+    "origin_chain": "ethereum",
+    "decimal": 6,
+    "path": "ethereum>axelar>comdex",
+    "channel": "channel-34",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-31",
+        "port": "transfer",
+        "denom": "uusdc"
+    },
+    "image": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin"
   }
 ]
