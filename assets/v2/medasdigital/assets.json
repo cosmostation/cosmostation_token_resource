@@ -1,0 +1,14 @@
+[
+  {
+    "denom": "umedas",
+    "type": "staking",
+    "base_denom": "umedas",
+    "base_type": "staking",
+    "dp_denom": "MEDAS",
+    "origin_chain": "medasdigital",
+    "decimal": 6,
+    "description": "Medas Digital Staking Coin",
+    "image": "common/medas.png",
+    "coinGeckoId": "medasdigital"
+  } 
+]
