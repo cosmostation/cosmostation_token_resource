@@ -24,7 +24,7 @@
     "coinGeckoId": "ion"
   },
   {
-    "denom": "ibc/ce90fb06c2afa74d96fc8e06681236e24b6a22da7e3d1a9d09551daf3c28cb40",
+    "denom": "ibc/01e94a5ff29b8ddefc86f412cc3927f7330e9b523cc63a6194b1108f5276025c",
     "type": "ibc",
     "base_denom": "umedas",
     "base_type": "staking",
@@ -32,7 +32,7 @@
     "origin_chain": "medasdigital",
     "decimal": 6,
     "path": "medasdigital->osmosis",
-    "channel": "channel-516",
+    "channel": "channel-519",
     "port": "transfer",
     "counter_party": {
         "channel": "channel-0",
