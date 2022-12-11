@@ -1439,7 +1439,7 @@
         "port": "transfer",
         "denom": "aacre"
     },
-    "image": "acre/acre.png",
+    "image": "common/acre.png",
     "coinGeckoId": "arable-protocol"
   }
 ]
