@@ -1422,5 +1422,24 @@
         "denom": "stuosmo"
     },
     "image": "stride/stosmo.png"   
+  },
+  {
+    "denom": "ibc/BB936517F7E5D77A63E0ADB05217A6608B0C4CF8FBA7EA2F4BAE4107A7238F06",
+    "type": "ibc",
+    "base_denom": "aacre",
+    "base_type": "staking",
+    "dp_denom": "ACRE",
+    "origin_chain": "acrechain",
+    "decimal": 18,
+    "path": "acrechain>osmosis",
+    "channel": "channel-490",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-0",
+        "port": "transfer",
+        "denom": "aacre"
+    },
+    "image": "common/acre.png",
+    "coinGeckoId": "arable-protocol"
   }
 ]
