@@ -1,0 +1,14 @@
+[
+  {
+    "denom": "nund",
+    "type": "staking",
+    "base_denom": "nund",
+    "base_type": "staking",
+    "dp_denom": "FUND",
+    "origin_chain": "unification",
+    "decimal": 9,
+    "description": "Unification Staking Coin",
+    "image": "common/unification.png",
+    "coinGeckoId": "unification"
+  }
+]

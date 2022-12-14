@@ -12,6 +12,42 @@
     "coinGeckoId": "kava"
   },
   {
+    "denom": "erc20/multichain/dai",
+    "type": "native",
+    "base_denom": "erc20/multichain/dai",
+    "base_type": "native",
+    "dp_denom": "bDAI",
+    "origin_chain": "kava",
+    "decimal": 18,
+    "description": "DAI Earned in Kava",
+    "image": "kava/bdai.png",
+    "coinGeckoId": ""
+  },
+  {
+    "denom": "erc20/multichain/usdc",
+    "type": "native",
+    "base_denom": "erc20/multichain/usdc",
+    "base_type": "native",
+    "dp_denom": "bUSDC",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "USDC Earned in Kava",
+    "image": "kava/busdc.png",
+    "coinGeckoId": ""
+  },
+  {
+    "denom": "erc20/multichain/usdt",
+    "type": "native",
+    "base_denom": "erc20/multichain/usdt",
+    "base_type": "native",
+    "dp_denom": "bUSDT",
+    "origin_chain": "kava",
+    "decimal": 6,
+    "description": "USDT Earned in Kava",
+    "image": "kava/busdt.png",
+    "coinGeckoId": ""
+  },
+  {
     "denom": "swp",
     "type": "native",
     "base_denom": "swp",

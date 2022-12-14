@@ -12,6 +12,17 @@
     "coinGeckoId": "persistence"
   },
   {
+    "denom": "stk/uatom",
+    "type": "native",
+    "base_denom": "stk/uatom",
+    "base_type": "native",
+    "dp_denom": "stkATOM",
+    "origin_chain": "persistence",
+    "decimal": 6,
+    "description": "PSTAKE Liquid-Staked ATOM",
+    "image": "persistence/stkatom.png"
+  },
+  {
     "denom": "ibc/A6E3AF63B3C906416A9AF7A556C59EA4BD50E617EFFE6299B99700CCB780E444",
     "type": "ibc",
     "base_denom": "pstake",
@@ -30,6 +41,24 @@
     "image": "ethereum/pstake.png",
     "coinGeckoId": "pstake-finance",
     "contract": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
+  },
+  {
+    "denom": "ibc/C8A74ABBE2AF892E15680D916A7C22130585CE5704F9B17A10F184A90D53BECA",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "native",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "path": "cosmos>persistence",
+    "channel": "channel-24",
+    "counter_party": {
+      "channel": "channel-190",
+      "port": "transfer",
+      "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
   },
   {
     "denom": "ibc/69B4810E989B56FC6CA41F395228236FA7E7F59B9A3B7AF3FB0A344361C38389",

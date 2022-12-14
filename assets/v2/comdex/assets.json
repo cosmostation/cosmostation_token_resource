@@ -12,6 +12,30 @@
     "coinGeckoId": "comdex"
   },
   {
+    "denom": "uharbor",
+    "type": "native",
+    "base_denom": "uharbor",
+    "base_type": "native",
+    "dp_denom": "HARBOR",
+    "origin_chain": "comdex",
+    "decimal": 6,
+    "description": "Harbor Protocol Governance Token",
+    "image": "comdex/harbor.png",
+    "coinGeckoId": ""
+  },
+  {
+    "denom": "ucmst",
+    "type": "native",
+    "base_denom": "ucmst",
+    "base_type": "native",
+    "dp_denom": "CMST",
+    "origin_chain": "comdex",
+    "decimal": 6,
+    "description": "Harbor Protocol Stablecoin",
+    "image": "comdex/cmst.png",
+    "coinGeckoId": ""
+  },
+  {
     "denom": "ibc/167E3D88D71B7D2F6308D3EF93FC3DD51932B2D9672D72B71418F61CBC5F5717",
     "type": "ibc",
     "base_denom": "ujuno",
@@ -21,6 +45,7 @@
     "decimal": 6,
     "path": "juno>comdex",
     "channel": "channel-18",
+    "port": "transfer",
     "counter_party": {
         "channel": "channel-36",
         "port": "transfer",
@@ -39,6 +64,7 @@
     "decimal": 6,
     "path": "osmosis>comdex",
     "channel": "channel-1",
+    "port": "transfer",
     "counter_party": {
         "channel": "channel-87",
         "port": "transfer",
@@ -57,6 +83,7 @@
     "decimal": 6,
     "path": "osmosis>comdex",
     "channel": "channel-1",
+    "port": "transfer",
     "counter_party": {
         "channel": "channel-87",
         "port": "transfer",
@@ -64,5 +91,44 @@
     },
     "image": "osmosis/ion.png",
     "coinGeckoId": "ion"
+  },
+  {
+    "denom": "ibc/961FA3E54F5DCCA639F37A7C45F7BBE41815579EF1513B5AFBEFCFEB8F256352",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "path": "cosmos>comdex",
+    "channel": "channel-37",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-400",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "denom": "ibc/E1616E7C19EA474C565737709A628D6F8A23FF9D3E9A7A6871306CF5E0A5341E",
+    "type": "ibc",
+    "base_denom": "usdc",
+    "base_type": "erc20",
+    "dp_denom": "axlUSDC",
+    "origin_chain": "ethereum",
+    "decimal": 6,
+    "path": "ethereum>axelar>comdex",
+    "channel": "channel-34",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-31",
+        "port": "transfer",
+        "denom": "uusdc"
+    },
+    "image": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin",
+    "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   }
 ]

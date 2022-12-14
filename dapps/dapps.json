@@ -14,6 +14,34 @@
         }
     },
     {
+        "title": "Cosmos Sign Example",
+        "description": "Cosmostation Dapp Cosmos Example",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/stamper/logo_256x256.png",
+        "url": "https://cosmos-example.dev.cosmostation.io",
+        "chain": "station",
+        "badge": "EXAMPLE",
+        "links": {
+            "webSite": "https://cosmostation.io",
+            "github": "https://github.com/cosmostation",
+            "twitter": "https://twitter.com/cosmostationvd",
+            "medium": "https://medium.com/cosmostation"
+        }
+    },
+    {
+        "title": "Cosmos WalletConnect 2.0 Example",
+        "description": "Cosmostation Dapp Cosmos WalletConnect 2.0 Example",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/stamper/logo_256x256.png",
+        "url": "https://cosmos-wcv2-example.dev.cosmostation.io",
+        "chain": "station",
+        "badge": "EXAMPLE",
+        "links": {
+            "webSite": "https://cosmostation.io",
+            "github": "https://github.com/cosmostation",
+            "twitter": "https://twitter.com/cosmostationvd",
+            "medium": "https://medium.com/cosmostation"
+        }
+    },
+    {
         "title": "Crescent",
         "description": "Swap, earn, and stake on a capital-efficient AMM/orderbook hybrid DEX.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/crescent.png",
@@ -28,12 +56,29 @@
         }
     },
     {
+        "title": "Cosmon",
+        "description": "Build a team of leaders, collect cards, fight to earn! The first NFT Play to Earn on Cosmos",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/cosmon.png",
+        "url": "https://cosmon.ki",
+        "chain": "kichain",
+        "badge": "PLAY-AND-EARN",
+        "links": {
+            "webSite": "https://cosmon.ki",
+            "twitter": "https://twitter.com/PlayCosmon",
+            "medium": "https://medium.com/@malek_97480"
+        }
+    },
+    {
         "title": "Kava",
         "description": "Swap, mint, lend and earn on Kava, a lightning-fast Layer-1 blockchain that combines Cosmos & Ethereum.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/kava.png",
         "url": "https://app.kava.io",
         "chain": "kava",
-        "os": ["ios", "android", "chrome"],
+        "os": [
+            "ios",
+            "android",
+            "chrome"
+        ],
         "badge": "Defi",
         "links": {
             "webSite": "https://kava.io",
@@ -98,6 +143,19 @@
         }
     },
     {
+        "title": "DAODAO",
+        "description": "Simple, capable, and free DAO tooling.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/daodao.png",
+        "url": "https://daodao.zone/home",
+        "chain": "juno",
+        "badge": "DAO",
+        "links": {
+            "webSite": "https://daodao.zone",
+            "github": "https://github.com/DA0-DA0",
+            "twitter": "https://twitter.com/da0_da0"
+        }
+    },
+    {
         "title": "Coinhall",
         "description": "Realtime Charts, DEX Aggregator & Analytics.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/coinhall.png",
@@ -108,6 +166,20 @@
             "webSite": "https://coinhall.org",
             "twitter": "https://t.me/coinhall_org",
             "medium": "https://medium.com/@Coinhall"
+        }
+    },
+    {
+        "title": "Liker.Land: Writing NFT",
+        "description": "Publish as you write. Collect as you read.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/likerland.png",
+        "url": "https://liker.land",
+        "chain": "likecoin",
+        "badge": "NFT",
+        "links": {
+            "webSite": "https://liker.land",
+            "github": "https://github.com/likecoin/liker-land",
+            "twitter": "https://twitter.com/likecoin",
+            "medium": "https://blog.like.co"
         }
     },
     {
@@ -125,7 +197,7 @@
         }
     },
     {
-        "title": "DropStation(GNO)",
+        "title": "DropStation",
         "description": "Airdrop aggregator for CØSMONAUTS.",
         "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/dropstation.png",
         "url": "https://dapps.cosmostation.io/airdrop",
@@ -136,6 +208,100 @@
             "github": "https://github.com/cosmostation",
             "twitter": "https://twitter.com/cosmostationvd",
             "medium": "https://medium.com/cosmostation"
+        }
+    },
+    {
+        "title": "DropStation",
+        "description": "Airdrop aggregator for CØSMONAUTS.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/dropstation.png",
+        "url": "https://dapps.cosmostation.io/airdrop",
+        "chain": "evmos",
+        "badge": "AGG",
+        "links": {
+            "webSite": "https://cosmostation.io",
+            "github": "https://github.com/cosmostation",
+            "twitter": "https://twitter.com/cosmostationvd",
+            "medium": "https://medium.com/cosmostation"
+        }
+    },
+    {
+        "title": "Hopers.io",
+        "description": "An avenue for the evolution of DeFi & NFTs on Juno. The fully-permissionless DEX living in the Cosmos.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/hopers.png",
+        "url": "https://hopers.io/",
+        "chain": "juno",
+        "badge": "DEX + NFT Marketplace",
+        "links": {
+            "webSite": "https://hopers.io/",
+            "github": "https://github.com/HopersNFT",
+            "twitter": "https://mobile.twitter.com/Hopers_io",
+            "medium": "https://hopegalaxy.medium.com/"
+        }
+    },
+    {
+        "title": "depub.space",
+        "description": "An Web3 decentralized Twitter on Likecoin.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/depubspace.png",
+        "url": "https://depub.space",
+        "chain": "likecoin",
+        "badge": "NFT",
+        "links": {
+            "webSite": "https://depub.space",
+            "github": "https://github.com/depub-team/depub.space",
+            "twitter": "https://twitter.com/depubspace"
+        }
+    },
+    {
+        "title": "OmniFlix Market",
+        "description": "OmniFlix Market is the destination for NFT creators, communities & curators to list & collect NFTs in Fixed Price Listings or Timed Auctions in various IBC tokens.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/omniflix.png",
+        "url": "https://omniflix.market",
+        "chain": "omniflix",
+        "badge": "NFT Market",
+        "links": {
+            "webSite": "https://omniflix.network",
+            "github": "https://github.com/OmniFlix",
+            "twitter": "https://twitter.com/OmniFlixNetwork"
+        }
+    },
+    {
+        "title": "Frontier OmniFlix Market",
+        "description": "Frontier is a Market UI on OmniFlix to bring you the latest features that might be tagged as features in testing and development.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/omniflix.png",
+        "url": "https://frontier.omniflix.market",
+        "chain": "omniflix",
+        "badge": "NFT Market",
+        "links": {
+            "webSite": "https://omniflix.network",
+            "github": "https://github.com/OmniFlix",
+            "twitter": "https://twitter.com/OmniFlixNetwork"
+        }
+    },
+    {
+        "title": "Umee",
+        "description": "Borrow and lend today.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/umeemarkets.png",
+        "url": "https://app.umee.cc",
+        "chain": "umee",
+        "badge": "Defi",
+        "links": {
+            "webSite": "https://umee.cc",
+            "github": "https://github.com/umee-network",
+            "twitter": "https://twitter.com/Umee_CrossChain"
+        }
+    },
+    {
+        "title": "Racoon.bet",
+        "description": "Gaming platform offering fully integrated on-chain games within the Cosmos Ecosystem.",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/racoon-bet.png",
+        "url": "https://chihuahua.racoon.bet/",
+        "chain": "chihuahua",
+        "badge": "Gaming",
+        "links": {
+            "webSite": "https://www.racoon.bet",
+            "github": "https://github.com/racoon-supply-rac",
+            "twitter": "https://twitter.com/RacoonSupply",
+            "medium": "https://medium.com/@racoon-supply"
         }
     }
 ]

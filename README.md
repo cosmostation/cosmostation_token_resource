@@ -2,7 +2,7 @@
 
 We decided to use this repo for validators' images and token assets for our products.
 
-- [Mintscan Explorer](https://mintscan.io) 
+- [Mintscan Explorer](https://mintscan.io)
 - [Web Wallet](https://wallet.cosmostation.io)
 - [Android Wallet](https://bit.ly/2BWex9D)
 - [iOS Wallet](https://apple.co/2IAM3Xm)
@@ -34,7 +34,7 @@ git push origin <branch_name>
 ## Image Requirements
 
 - file extension: `.png`. Note that uppercase `PNG` considered invalid
-- file name: should be your `validator operator address.png` 
+- file name: should be your `validator operator address.png`
 - file directory: should be located in whichever network inside [moniker](https://github.com/cosmostation/cosmostation_token_resource/tree/master/moniker) directory
 
 
@@ -57,3 +57,10 @@ git push origin <branch_name>
 - [Telegram - International](https://t.me/cosmostation)
 - [Kakao - Koreans](https://open.kakao.com/o/g6KKSe5)
 
+
+
+## To add asset data
+
+- [Assets](https://github.com/cosmostation/cosmostation_token_resource/tree/master/assets/v2)
+- [CW20](https://github.com/cosmostation/cosmostation_token_resource/tree/master/assets/cw20)
+- [ERC20](https://github.com/cosmostation/cosmostation_token_resource/tree/master/assets/erc20)

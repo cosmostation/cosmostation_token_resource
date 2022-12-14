@@ -42,7 +42,7 @@
     "channel": "channel-1",
     "port": "transfer",
     "counter_party": {
-        "channel": "channel-132",
+        "channel": "channel-8",
         "port": "transfer",
         "denom": "uion"
     },
@@ -61,7 +61,7 @@
     "channel": "channel-1",
     "port": "transfer",
     "counter_party": {
-        "channel": "channel-132",
+        "channel": "channel-8",
         "port": "transfer",
         "denom": "uosmo"
     },

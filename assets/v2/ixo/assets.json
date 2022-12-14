@@ -5,7 +5,7 @@
     "base_denom": "uixo",
     "base_type": "staking",
     "dp_denom": "IXO",
-    "origin_chain": "uixo",
+    "origin_chain": "ixo",
     "decimal": 6,
     "description": "Ixo Staking Coin",
     "image": "common/ixo.png",

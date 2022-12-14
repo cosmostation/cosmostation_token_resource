@@ -86,5 +86,24 @@
     },
     "image": "common/osmo.png",
     "coinGeckoId": "osmosis"
+  },
+  {
+    "denom": "ibc/80D5E86278CE910A7A9653CCA7DEB62C817E07AF9C0C657B43191C43DE60B107",
+    "type": "ibc",
+    "base_denom": "aevmos",
+    "base_type": "staking",
+    "dp_denom": "EVMOS",
+    "origin_chain": "evmos",
+    "decimal": 18,
+    "path": "evmos>cryptoorg",
+    "channel": "channel-57",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-31",
+        "port": "transfer",
+        "denom": "aevmos"
+    },
+    "image": "common/evmos.png",
+    "coinGeckoId": "evmos"
   }
 ]

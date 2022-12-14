@@ -36,15 +36,15 @@
     "base_denom": "uatom",
     "base_type": "staking",
     "dp_denom": "ATOM",
-    "origin_chain": "atom",
+    "origin_chain": "cosmos",
     "decimal": 6,
     "path": "cosmos>bitsong",
     "channel": "channel-1",
     "port": "transfer",
     "counter_party": {
-        "channel": "channel-xxxxx",
+        "channel": "channel-229",
         "port": "transfer",
-        "denom": "xxxxx"
+        "denom": "uatom"
     },
     "image": "common/atom.png",
     "coinGeckoId": "cosmos"
@@ -55,7 +55,7 @@
     "base_denom": "uosmo",
     "base_type": "staking",
     "dp_denom": "OSMO",
-    "origin_chain": "osmo",
+    "origin_chain": "osmosis",
     "decimal": 6,
     "path": "osmosis>bitsong",
     "channel": "channel-0",
@@ -74,7 +74,7 @@
     "base_denom": "uion",
     "base_type": "native",
     "dp_denom": "ION",
-    "origin_chain": "osmo",
+    "origin_chain": "osmosis",
     "decimal": 6,
     "path": "osmosis>bitsong",
     "channel": "channel-0",

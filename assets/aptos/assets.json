@@ -1,0 +1,46 @@
+[
+  {
+    "chainId": 1,
+    "coinType": "0x1::aptos_coin::AptosCoin",
+    "officialName": "Aptos Coin",
+    "officialSymbol": "APT",
+    "name": "Aptos Coin",
+    "symbol": "APT",
+    "decimals": 8,
+    "coinGeckoId": "aptos",
+    "image": "aptos/aptos.png"
+  },
+  {
+    "chainId": 1,
+    "coinType": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
+    "officialName": "USD Coin",
+    "officialSymbol": "USDC",
+    "name": "USD Coin (Wormhole)",
+    "symbol": "USDC",
+    "decimals": 6,
+    "coinGeckoId": "usd-coin",
+    "image": "ethereum/usdc.png"
+  },
+  {
+    "chainId": 1,
+    "coinType": "0xc91d826e29a3183eb3b6f6aa3a722089fdffb8e9642b94c5fcd4c48d035c0080::coin::T",
+    "officialName": "USD Coin",
+    "officialSymbol": "USDC",
+    "name": "USD Coin (Wormhole Solana)",
+    "symbol": "USDCso",
+    "decimals": 6,
+    "coinGeckoId": "usd-coin",
+    "image": "ethereum/usdc.png"
+  },
+  {
+    "chainId": 1,
+    "coinType": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+    "officialName": "USD Coin",
+    "officialSymbol": "USDC",
+    "name": "USD Coin (LayerZero)",
+    "symbol": "zUSDC",
+    "decimals": 6,
+    "coinGeckoId": "usd-coin",
+    "image": "ethereum/usdc.png"
+  }
+]

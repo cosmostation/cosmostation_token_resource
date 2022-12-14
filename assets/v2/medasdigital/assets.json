@@ -1,0 +1,33 @@
+[
+  {
+    "denom": "umedas",
+    "type": "staking",
+    "base_denom": "umedas",
+    "base_type": "staking",
+    "dp_denom": "MEDAS",
+    "origin_chain": "medasdigital",
+    "decimal": 6,
+    "description": "Medas Digital Staking Coin",
+    "image": "common/medas.png",
+    "coinGeckoId": "medasdigital"
+  },
+  {
+    "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>medasdigital",
+    "channel": "channel-0",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-519",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
+  } 
+]

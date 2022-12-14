@@ -1,0 +1,71 @@
+[
+  {
+    "denom": "uxki",
+    "type": "staking",
+    "base_denom": "uxki",
+    "base_type": "staking",
+    "dp_denom": "XKI",
+    "origin_chain": "ki-chain",
+    "decimal": 6,
+    "description": "Ki-chain Staking Coin",
+    "image": "common/xki.png",
+    "coinGeckoId": "ki"
+  },
+  {
+    "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
+    "type": "ibc",
+    "base_denom": "uion",
+    "base_type": "native",
+    "dp_denom": "ION",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>ki-chain",
+    "channel": "channel-0",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-77",
+        "port": "transfer",
+        "denom": "uion"
+    },
+    "image": "osmosis/ion.png",
+    "coinGeckoId": "ion"
+  },
+  {
+    "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>ki-chain",
+    "channel": "channel-0",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-77",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "path": "cosmos>ki-chain",
+    "channel": "channel-1",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-223",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
+  }
+]

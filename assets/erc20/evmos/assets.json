@@ -10,47 +10,11 @@
   },
   {
     "chainId": 9001,
-    "address": "0x5842C5532b61aCF3227679a8b1BD0242a41752f2",
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
-    "decimals": 18,
-    "logoURI": "ethereum/weth.png",
-    "coinGeckoId": "weth"
-  },
-  {
-    "chainId": 9001,
-    "address": "0x63743ACF2c7cfee65A5E356A4C4A005b586fC7AA",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
-    "decimals": 18,
-    "logoURI": "ethereum/dai.png",
-    "coinGeckoId": "dai"
-  },
-  {
-    "chainId": 9001,
-    "address": "0x51e44FfaD5C2B122C8b635671FCC8139dc636E82",
-    "name": "USD Coin",
-    "symbol": "USDC",
-    "decimals": 6,
-    "logoURI": "ethereum/usdc.png",
-    "coinGeckoId": "usd-coin"
-  },
-  {
-    "chainId": 9001,
-    "address": "0x7FF4a56B32ee13D7D4D405887E0eA37d61Ed919e",
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "decimals": 6,
-    "logoURI": "ethereum/usdt.png",
-    "coinGeckoId": "tether"
-  },
-  {
-    "chainId": 9001,
     "address": "0x75aeE82a16BD1fB98b11879af93AB7CE055f66Da",
     "name": "xDiffusion",
     "symbol": "xDIFF",
     "decimals": 18,
-    "logoURI": "ethereum/xdiff.png"
+    "logoURI": "evmos/xdiff.png"
   },
   {
     "chainId": 9001,
@@ -58,7 +22,61 @@
     "name": "Diffusion",
     "symbol": "DIFF",
     "decimals": 18,
-    "logoURI": "ethereum/diff.png",
+    "logoURI": "evmos/diff.png",
     "coinGeckoId": "diffusion"
+  },
+  {
+    "chainId": 9001,
+    "address": "0x47685B6AC7bB4de761A57828877A7B8254c8B145",
+    "name": "Evmos Domains",
+    "symbol": "EVD",
+    "decimals": 18,
+    "logoURI": "evmos/evd.png",
+    "coinGeckoId": "evmos-domains"
+  },
+  {
+    "chainId": 9001,
+    "address": "0x181C262b973B22C307C646a67f64B76410D19b6B",
+    "name": "EvmoSwap Token",
+    "symbol": "EMO",
+    "decimals": 18,
+    "logoURI": "evmos/emo.png",
+    "coinGeckoId": "evmoswap"
+  },
+  {
+    "chainId": 9001,
+    "address": "0xBbD37BF85f7474b5bDe689695674faB1888565Ad",
+    "name": "OAV",
+    "symbol": "OAV",
+    "decimals": 18,
+    "logoURI": "evmos/oav.png",
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": 9001,
+    "address": "0xe46910336479F254723710D57e7b683F3315b22B",
+    "name": "USD Coin (Celer)",
+    "symbol": "ceUSDC",
+    "decimals": 6,
+    "logoURI": "ethereum/usdc.png",
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": 9001,
+    "address": "0xb72A7567847abA28A2819B855D7fE679D4f59846",
+    "name": "Tether USD (Celer)",
+    "symbol": "ceUSDT",
+    "decimals": 6,
+    "logoURI": "ethereum/usdt.png",
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": 9001,
+    "address": "0x940dAAbA3F713abFabD79CdD991466fe698CBe54",
+    "name": "Dai Stablecoin (Celer)",
+    "symbol": "ceDAI",
+    "decimals": 18,
+    "logoURI": "ethereum/dai.png",
+    "coinGeckoId": ""
   }
 ]

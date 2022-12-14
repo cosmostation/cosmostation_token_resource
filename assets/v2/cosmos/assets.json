@@ -650,5 +650,43 @@
     },
     "image": "common/scrt.png",
     "coinGeckoId": "secret"
+  },
+  {
+    "denom": "ibc/19DD710119533524061885A6F190B18AF28D9537E2BAE37F32A62C1A25979287",
+    "type": "ibc",
+    "base_denom": "aevmos",
+    "base_type": "staking",
+    "dp_denom": "EVMOS",
+    "origin_chain": "evmos",
+    "decimal": 18,
+    "path": "evmos>cosmos",
+    "channel": "channel-292",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "aevmos"
+    },
+    "image": "common/evmos.png",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "denom": "ibc/DB9AAADFBE21E014373EF97141D451F453B9B9A2C8B65F5CF8E7CE57531B6850",
+    "type": "ibc",
+    "base_denom": "basecro",
+    "base_type": "staking",
+    "dp_denom": "CRO",
+    "origin_chain": "cryptoorg",
+    "decimal": 8,
+    "path": "cryptoorg>evmos>cosmos",
+    "channel": "channel-292",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-3",
+        "port": "transfer",
+        "denom": "ibc/1FA2E811AA853A2AE028D82D490B1E967312DB871C9A40B19684FACB1DDD7881"
+    },
+    "image": "common/cro.png",
+    "coinGeckoId": "crypto-com-chain"
   }
 ]

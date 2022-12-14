@@ -1,0 +1,316 @@
+[
+  {
+    "denom": "ukuji",
+    "type": "staking",
+    "base_denom": "ukuji",
+    "base_type": "staking",
+    "dp_denom": "KUJI",
+    "origin_chain": "kujira",
+    "decimal": 6,
+    "description": "Kujira Staking Coin",
+    "image": "common/kuji.png"
+  },
+  {
+    "denom": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+    "type": "native",
+    "base_denom": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+    "base_type": "native",
+    "dp_denom": "USK",
+    "origin_chain": "kujira",
+    "decimal": 6,
+    "description": "USK Stable Asset",
+    "image": "kujira/usk.png",
+    "coinGeckoId": "usk",
+    "price_denom": "uusk"
+  },
+  {
+    "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "type": "ibc",
+    "base_denom": "uatom",
+    "base_type": "staking",
+    "dp_denom": "ATOM",
+    "origin_chain": "cosmos",
+    "decimal": 6,
+    "path": "cosmos>kujira",
+    "channel": "channel-0",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-343",
+        "port": "transfer",
+        "denom": "uatom"
+    },
+    "image": "common/atom.png",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "denom": "ibc/BBC45F1B65B6D3C11C3C56A9428D38C3A8D03944473791C52DFB7CD3F8342CBC",
+    "type": "ibc",
+    "base_denom": "basecro",
+    "base_type": "staking",
+    "dp_denom": "CRO",
+    "origin_chain": "cryptoorg",
+    "decimal": 8,
+    "path": "cryptoorg>kujira",
+    "channel": "channel-6",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-56",
+        "port": "transfer",
+        "denom": "basecro"
+    },
+    "image": "common/cro.png",
+    "coinGeckoId": "crypto-com-chain"
+  },
+  {
+    "denom": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmo",
+    "decimal": 6,
+    "path": "osmosis>kujira",
+    "channel": "channel-3",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-259",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "denom": "ibc/EFF323CC632EC4F747C61BCE238A758EFDB7699C3226565F7C20DA06509D59A5",
+    "type": "ibc",
+    "base_denom": "ujuno",
+    "base_type": "staking",
+    "dp_denom": "JUNO",
+    "origin_chain": "juno",
+    "decimal": 6,
+    "path": "juno>kujira",
+    "channel": "channel-1",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-87",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "denom": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
+    "type": "ibc",
+    "base_denom": "ustars",
+    "base_type": "staking",
+    "dp_denom": "STARS",
+    "origin_chain": "stargaze",
+    "decimal": 6,
+    "path": "stargaze>kujira",
+    "channel": "channel-7",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-49",
+        "port": "transfer",
+        "denom": "ustars"
+    },
+    "image": "common/stars.png",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "denom": "ibc/2F1447818CF99498AE62D9FB4D5E0C9FD48C68FC118C34D2ECFFFED0AD082196",
+    "type": "ibc",
+    "base_denom": "ugraviton",
+    "base_type": "staking",
+    "dp_denom": "GRAV",
+    "origin_chain": "gravity-bridge",
+    "decimal": 6,
+    "path": "gravity-bridge>kujira",
+    "channel": "channel-11",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-83",
+        "port": "transfer",
+        "denom": "ugraviton"
+    },
+    "image": "common/grav.png",
+    "coinGeckoId": "graviton"
+  },
+  {
+    "denom": "ibc/3607EB5B5E64DD1C0E12E07F077FF470D5BC4706AFCBC98FE1BA960E5AE4CE07",
+    "type": "ibc",
+    "base_denom": "ucmdx",
+    "base_type": "staking",
+    "dp_denom": "CMDX",
+    "origin_chain": "comdex",
+    "decimal": 6,
+    "path": "comdex>kujira",
+    "channel": "channel-18",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-31",
+        "port": "transfer",
+        "denom": "ucmdx"
+    },
+    "image": "common/cmdx.png",
+    "coinGeckoId": "comdex"
+  },
+  {
+    "denom": "ibc/A358D7F19237777AF6D8AD0E0F53268F8B18AE8A53ED318095C14D6D7F3B2DB5",
+    "type": "ibc",
+    "base_denom": "uscrt",
+    "base_type": "staking",
+    "dp_denom": "SCRT",
+    "origin_chain": "secret",
+    "decimal": 6,
+    "path": "secret>kujira",
+    "channel": "channel-10",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-22",
+        "port": "transfer",
+        "denom": "uscrt"
+    },
+    "image": "common/scrt.png",
+    "coinGeckoId": "secret"
+  },
+  {
+    "denom": "ibc/F3AA7EF362EC5E791FE78A0F4CCC69FEE1F9A7485EB1A8CAB3F6601C00522F10",
+    "type": "ibc",
+    "base_denom": "aevmos",
+    "base_type": "staking",
+    "dp_denom": "EVMOS",
+    "origin_chain": "evmos",
+    "decimal": 18,
+    "path": "evmos>kujira",
+    "channel": "channel-23",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-18",
+        "port": "transfer",
+        "denom": "aevmos"
+    },
+    "image": "common/evmos.png",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "denom": "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
+    "type": "ibc",
+    "base_denom": "uaxl",
+    "base_type": "staking",
+    "dp_denom": "AXL",
+    "origin_chain": "axelar",
+    "decimal": 6,
+    "path": "axelar>kujira",
+    "channel": "channel-9",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-14",
+        "port": "transfer",
+        "denom": "uaxl"
+    },
+    "image": "common/axl.png",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "denom": "ibc/F2331645B9683116188EF36FC04A809C28BD36B54555E8705A37146D0182F045",
+    "type": "ibc",
+    "base_denom": "usdt",
+    "base_type": "erc20",
+    "dp_denom": "axlUSDT",
+    "origin_chain": "ethereum",
+    "decimal": 6,
+    "path": "ethereum>axelar>kujira",
+    "channel": "channel-9",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-14",
+        "port": "transfer",
+        "denom": "uusdt"
+    },
+    "image": "ethereum/usdt.png",
+    "coinGeckoId": "tether",
+    "contract": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+  },
+  {
+    "denom": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+    "type": "ibc",
+    "base_denom": "usdc",
+    "base_type": "erc20",
+    "dp_denom": "axlUSDC",
+    "origin_chain": "ethereum",
+    "decimal": 6,
+    "path": "ethereum>axelar>kujira",
+    "channel": "channel-9",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-14",
+        "port": "transfer",
+        "denom": "uusdc"
+    },
+    "image": "ethereum/usdc.png",
+    "coinGeckoId": "usd-coin",
+    "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+  },
+  {
+    "denom": "ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2",
+    "type": "ibc",
+    "base_denom": "wavax",
+    "base_type": "erc20",
+    "dp_denom": "axlWAVAX",
+    "origin_chain": "avalanche",
+    "decimal": 18,
+    "path": "avalanche>axelar>kujira",
+    "channel": "channel-9",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-14",
+        "port": "transfer",
+        "denom": "wavax-wei"
+    },
+    "image": "avalanche/wavax.png",
+    "coinGeckoId": "wrapped-avax",
+    "contract": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
+  },
+  {
+    "denom": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
+    "type": "ibc",
+    "base_denom": "weth",
+    "base_type": "erc20",
+    "dp_denom": "axlWETH",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>axelar>kujira",
+    "channel": "channel-9",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-14",
+        "port": "transfer",
+        "denom": "weth-wei"
+    },
+    "image": "ethereum/weth.png",
+    "coinGeckoId": "weth",
+    "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+  },
+  {
+    "denom": "ibc/3914BDEF46F429A26917E4D8D434620EC4817DC6B6E68FB327E190902F1E9242",
+    "type": "ibc",
+    "base_denom": "dai",
+    "base_type": "erc20",
+    "dp_denom": "axlDAI",
+    "origin_chain": "ethereum",
+    "decimal": 18,
+    "path": "ethereum>axelar>kujira",
+    "channel": "channel-9",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-14",
+        "port": "transfer",
+        "denom": "dai-wei"
+    },
+    "image": "ethereum/dai.png",
+    "coinGeckoId": "dai",
+    "contract": "0x6b175474e89094c44da98b954eedeac495271d0f"
+  }
+]

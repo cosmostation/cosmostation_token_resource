@@ -40,5 +40,114 @@
     },
     "image": "common/atom.png",
     "coinGeckoId": "cosmos"
+  },
+  {
+    "denom": "ibc/7EAE5BEF3A26B64AFBD89828AFDDB1DC7024A0276D22745201632C40E6E634D0",
+    "type": "ibc",
+    "base_denom": "ustars",
+    "base_type": "staking",
+    "dp_denom": "STARS",
+    "origin_chain": "stargaze",
+    "decimal": 6,
+    "path": "stargaze>stride",
+    "channel": "channel-19",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-106",
+        "port": "transfer",
+        "denom": "ustars"
+    },
+    "image": "common/stars.png",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "denom": "stustars",
+    "type": "native",
+    "base_denom": "stustars",
+    "base_type": "native",
+    "dp_denom": "stSTARS",
+    "origin_chain": "stride",
+    "decimal": 6,
+    "description": "Stride Staked Stars",
+    "image": "stride/ststars.png"
+  },
+  {
+    "denom": "ibc/DA356E369C3E5CF6A9F1DCD99CE8ED55FBD595E676A5CF033CE784C060492D5A",
+    "type": "ibc",
+    "base_denom": "ujuno",
+    "base_type": "staking",
+    "dp_denom": "JUNO",
+    "origin_chain": "juno",
+    "decimal": 6,
+    "path": "juno>stride",
+    "channel": "channel-24",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-139",
+        "port": "transfer",
+        "denom": "ujuno"
+    },
+    "image": "common/juno.png",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "denom": "stujuno",
+    "type": "native",
+    "base_denom": "stujuno",
+    "base_type": "native",
+    "dp_denom": "stJUNO",
+    "origin_chain": "stride",
+    "decimal": 6,
+    "description": "Stride Staked Juno",
+    "image": "stride/stjuno.png"
+  },
+  {
+    "denom": "stuosmo",
+    "type": "native",
+    "base_denom": "stuosmo",
+    "base_type": "native",
+    "dp_denom": "stOSMO",
+    "origin_chain": "stride",
+    "decimal": 6,
+    "description": "Stride Staked Osmo",
+    "image": "stride/stosmo.png"
+  },
+  {
+    "denom": "ibc/D24B4564BCD51D3D02D9987D92571EAC5915676A9BD6D9B0C1D0254CB8A5EA34",
+    "type": "ibc",
+    "base_denom": "uosmo",
+    "base_type": "staking",
+    "dp_denom": "OSMO",
+    "origin_chain": "osmosis",
+    "decimal": 6,
+    "path": "osmosis>stride",
+    "channel": "channel-5",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-326",
+        "port": "transfer",
+        "denom": "uosmo"
+    },
+    "image": "common/osmo.png",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "denom": "ibc/2475196A6E87EEA47C8878EDE62E99C0FAA14A81B83165E4121E776622EF59BE",
+    "type": "ibc",
+    "base_denom": "basecro",
+    "base_type": "staking",
+    "dp_denom": "CRO",
+    "origin_chain": "cryptoorg",
+    "decimal": 8,
+    "path": "cryptoorg>osmosis>stride",
+    "channel": "channel-5",
+    "port": "transfer",
+    "counter_party": {
+        "channel": "channel-326",
+        "port": "transfer",
+        "denom": "ibc/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1"
+    },
+    "image": "common/cro.png",
+    "coinGeckoId": "crypto-com-chain"
   }
 ]

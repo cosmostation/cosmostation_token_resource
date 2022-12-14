@@ -1,0 +1,14 @@
+[
+    {
+      "denom": "axpla",
+      "type": "staking",
+      "base_denom": "axpla",
+      "base_type": "staking",
+      "dp_denom": "XPLA",
+      "origin_chain": "xpla",
+      "decimal": 18,
+      "description": "Xpla Staking Coin",
+      "image": "common/xpla.png",
+      "coinGeckoId": "xpla"
+    }
+]
