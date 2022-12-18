@@ -1,3 +1,9 @@
+# Repo Migrated 
+This repo has been deprecated.
+
+* [New Repo](https://github.com/cosmostation/chainlist)
+
+
 ## Token Resources By Cosmostation
 
 We decided to use this repo for validators' images and token assets for our products.
